@@ -1,0 +1,216 @@
++++
+title = "MDAS、PEMDAS、BEDMAS、BODMAS、BIDMAS、GEMDASを正しく使用する方法"
+description = "演算の順序について説明しました。"  # For Schema.org; OpenGraph; Twitter Cards
+
+date = "2021-08-15T10:40:35+09:00"
+lastmod = "2021-08-15T10:40:35+09:00"
+
+#aliases = [""]
+slug = "How to correctly use MDAS, PEMDAS, BEDMAS, BODMAS, BIDMAS, GEMDAS"
+translationKey = "How to correctly use MDAS, PEMDAS, BEDMAS, BODMAS, BIDMAS, GEMDAS"
+relCanonical = "https://im.youronly.one/yuki/ja/how-to-correctly-use-mdas-pemdas-bedmas-bodmas-bidmas-gemdas-2021227/"                           # only needed when this is not the original post
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+
+channels = ["yookichronicles"]
+categories = ["literature"]                           # taxonomy
+keywords = ["MDAS", "PEMDAS", "BEDMAS", "BODMAS", "BIDMAS", "GEMDAS", "Order of Operations", "Operator Precedence", "YOOki Chronicles", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
+#series = [""]                               # subset of series taxonomy
+tags = ["mathematics"]                                  # taxonomy
+
+comments = true
+#weight = ""
+
+#featured = true                              # theme specific
+#math = true                                  # theme specific
+mathjax = true
+
+type = "article"                                                           # article, sitepage, review
+
+#draft = true
+
+#license = ""
+
+#videos = [""]                                # og:video
+#audio = [""]                               # og:audio
+images = ["https://img.youronly.one/p/Mathematics-chalkboard-pixabay_license.jpg"]    # og:images
+
+[[authors]]
+person = "yuki"
+#id = ""
+name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+url = "https://im.youronly.one/yuki/"
+avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
+#rel = "noopener external nofollow"
++++
+
+ソーシャルメディアやソーシャルネットワークに投稿された数学の質問を見たことがありますか？ MDAS、PEMDAS、BEDMAS、BODMAS、BIDMAS、またはGEMDASを使用したと主張しているにもかかわらず、人々が異なる回答をしているのを見たことがありますか？ この投稿では、これらが何であるか、そしてなぜ異なる答えがあるのかを説明します。
+
+<!--more-->
+
+> ***この翻訳はGoogle翻訳によって行われました。 何かが正しくないと思われる場合は、英語版を確認してください。***
+
+## 演算の優先順位
+数学では、特定の数式を評価する方法のガイドとして機能する一連のルールがあります。これは、***演算の順序***または***演算子の優先順位***と呼ばれ、これと同じセットです。 ルールは、科学、技術、およびコンピュータープログラマーによっても使用されます。 会社《A》が会社《B》とは異なる一連の規則に従っている場合、飛行機会社が両方と提携して最新の飛行機モデルを強化したとしたら、与えられた数式を評価するさまざまな方法があるとしたらどうなると思いますか？ これは、私たちの時代において、演算の順序または演算子の優先順位がいかに重要であるかです。
+
+### ニーモニック
+ニーモニックデバイス、またはメモリデバイスは、人間の記憶における情報の保持または検索（記憶）を支援する学習手法です。 ニーモニックは、効率的な保存と検索を可能にする方法で情報をエンコードするための特定のツールとして、精巧なエンコード、検索キュー、および画像を利用します。 ニーモニックは、元の情報をよりアクセスしやすく意味のあるものに関連付けるのに役立ちます。これにより、情報の保持が向上します。[^a]
+
+[^a]: Wikipedia: [Mnemonic](https://en.wikipedia.org/wiki/Mnemonic); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
+
+演算の順序の場合、教育者は生徒がルールを簡単に覚えられるようにニーモニックを発明しました。 これらの非常に基本的なものは、《乗算/除算と加算/減算》の略である** MDAS **です。 これは後で拡張され、さまざまな国で次のようなさまざまなニーモニックが使用されます。
+
+- **PEMDAS**: Parentheses, Exponents, Multiplication/Division, Addition/Subtraction
+- **BEDMAS**: Brackets, Exponents, Division/Multiplication, Addition/Subtraction
+- **BODMAS**: Brackets, Order, Division/Multiplication, Addition/Subtraction
+- **BIDMAS**: Brackets, Indices, Division/Multiplication, Addition/Subtraction
+- **GEMDAS**: Groups, Exponents, Multiplication/Division, Addition/Subtraction
+
+これらの異なるニーモニックは、異なるルールのセットを表していますか？ いいえ。これらはすべて、***操作の順序***のルールを表しています。 これは覚えておくことが非常に重要です。MDASおよびその他すべてのバリエーションは、単に***演算の順序***または***演算子の優先順位***のニーモニックです。 他の人に言わせないでください。
+
+### ルール
+MDAS、PEMDAS、BEDMAS、BODMAS、BIDMAS、およびGEMDASのルールは何ですか？ より具体的には、操作の順序のルールは何ですか？
+
+1. グループ化
+1. べき乗とN乗根
+1. 除算と乗算
+1. 足し算と引き算
+1. 同じ優先順位または重みの場合は、左から右に評価します
+
+つまり、数式では、指数とN乗根は、除算と乗算を処理する前、および加算と減算を処理する前に、最初に処理する必要があります。 また、グループ化（括弧、角かっこ、中かっこ）がある場合は、これらの式を最初に処理する必要があります。
+
+### 例1: $4^2 - 2^3 ÷ 2 - (7 - 2) 2 + 5$
+
+それを解決する方法は？ 手順は次のとおりです。
+
+1. グループ化された式$（7-2）$を解くと、$（5）$が得られます。
+
+  $4^2 - 2^3 ÷ 2 - (5) 2 + 5$
+
+1. 次に、指数を解きます：$ 4 ^ 2 $と$ 2 ^ 3 $は、それぞれ$ 16 $と$ 8 $を与えます。
+
+  $16 - 8 ÷ 2 - (5) 2 + 5$
+
+1. 次に、除算と乗算を処理します。$ 8÷2 $および$（5）2 $は$ 4 $および$ 10 $です。
+
+  $16 - 4 - 10 + 5$
+
+1. 足し算と引き算は同じ優先順位または重みであるため、左から右に$ 16-4 $で$ 12 $になります。
+
+  $12 - 10 + 5$
+
+1. その後、$ 12-10 $を評価します。これは$ 2 $です。
+
+  $2 + 5$
+
+1. 最後に、$ 2 + 5 $は、$ 7 $の正解を示します。
+
+  $= 7$
+
+上記の手順を組み合わせて、より見栄えのする方法にしましょう。
+$$
+\begin{aligned}
+4^2 - 2^3 ÷ 2 - (7 - 2) 2 + 5 &= \\
+4^2 - 2^3 ÷ 2 - (5) 2 + 5 &= \\
+16 - 8 ÷ 2 - (5) 2 + 5 &= \\
+16 - 4 - 10 + 5 &= \\
+12 - 10 + 5 &= \\
+2 + 5 &= 7 \\
+\end{aligned}
+$$
+
+
+**Q: 異議！ MDAS / PEMDAS / GEMDASを誤って使用しました。 減算する前に、最初に加算する必要があります。**
+
+: いいえ。説明したように、MDAS、PEMDAS、GEMDASは、***操作の順序***または***演算子の優先順位***のルールを覚えやすくするための単なるツールです。 規則によると、演算子の優先順位が同じである場合は、左から右に評価する必要があります。
+
+: $ 16-4-10 + 5 $を$ 16-4-15 $として解くと、$-3 $という誤った答えが返されます。
+
+: ルールでは、加算と減算の優先順位は同じであり、左から右に評価する必要があると規定されているため、式を次のように見てください。$（[16-4] -10）+ 5 $
+
+**Q: 異議！ $（7-2）2 + 5 $では、$（7-2）2 $の間に演算子がないため、最初に$ 2 + 5 $を解く必要があります。**
+
+: 正しくない。 $（7-2）2 $は、$（7-2）$の結果に$ 2 $を掛けることを意味します。 グループ化記号と数値の間に演算子がないことは、自動的に乗算を意味します。 $（n）n $は$（n）×n $と同じで、$ n（a + b）$は$ n×（a + b）$と同じです。
+
+**Q: 異議！ しかし、これは私たちが学校で教えられた方法です、あなたは私たちの教師/教授が間違っていたと言っていますか？**
+
+: あなたが100％の場合、それはあなたの教師や教授があなたに教えた方法でした、そしてそうです、彼らはあなたに間違った教えをしました。 しかし、多くの場合、教師や教授は生徒に正しく教えていました。教えられたことを忘れたのは生徒です。
+
+### 例2: $10 ÷ 2 + 5 × 2 - 5$
+あなたの答えが$ 5 $なら、あなたは正しいです。
+
+$$
+\begin{aligned}
+10 ÷ 2 + 5 × 2 - 5 &= \\
+5 + 10 - 5 &= \\
+15 - 5 &= 10 \\
+\end{aligned}
+$$
+
+### 例3: $10 ÷ 2 × 2 - 5 + 2$
+あなたの答えが$ 7 $なら、あなたはそれを正しく理解しました！
+
+$$
+\begin{aligned}
+10 ÷ 2 × 2 - 5 + 2 &= \\
+5 × 2 - 5 + 2 &= \\
+10 - 5 + 2 &=  \\
+5 + 2 &= 7 \\
+\end{aligned}
+$$
+
+### 例4: $10 × 2 ÷ 2 - 5 + 2$
+正解は$ 7 $です。
+
+$$
+\begin{aligned}
+10 × 2 ÷ 2 - 5 + 2 &= \\
+20 ÷ 2 - 5 + 2 &= \\
+10 - 5 + 2 &= \\
+5 + 2 &= 7 \\
+\end{aligned}
+$$
+
+### 例5: $(10 [4 - 2] [2 + 10] ÷ 2) ÷ 6 + 4$
+$$
+\begin{aligned}
+(10 [4 - 2] [2 + 10] ÷ 2) ÷ 6 + 4 &= \\
+(10 × 2 × 12 ÷ 2) ÷ 6 + 4 &= \\
+(20 × 12 ÷ 2) ÷ 6 + 4 &= \\
+(240 ÷ 2) ÷ 6 + 4 &= \\
+120 ÷ 6 + 4 &= \\
+20 + 4 &= 24 \\
+\end{aligned}
+$$
+
+## MDASは本当に役に立ちますか？
+MDAS、PEMDAS、BEDMAS、BODMAS、BIDMAS、およびGEMDASは、学生と大人に混乱をもたらすだけです。なぜなら、彼らは何を見るか、何を得るかに依存しているからです。 MDAS、PEMDAS、およびGEMDASでは、《MD》では《M》が《D》の前に最初に来るため、乗算は除算の前に最初に来る必要があると人々は考えています。 BEDMAS、BODMAS、BIDMASでは、《DM》では《D》が《M》の前に来るため、乗算の前に除算を最初に処理する必要があると誤って想定されています。
+
+ニーモニックを使用せずに操作の順序を教える必要があります。 ルールを覚えるのは難しいことではありません。 しかし、ニーモニックの使用を主張する場合、少なくとも私の見解では、適切な方法は、** M / D.A / S **または** D / M.A / S **のように記述することです。 別の書き方は** M | D.A | S **または** D | M.A | S **です。 ピリオドを使用したくない場合は、次のように書き込むこともできます：** [M / D] [A / S] **、** [D / M] [A / S] **、** [M | D] [A | S] **、または** [D | M] [A | S] **。
+
+## 最後の注意
+以前に提供した例は非常に単純で基本的なものでした。 MDAS、PEMDAS、BEDMAS、BODMAS、BIDMAS、およびGEMDASを正しく使用する方法、または単に***演算の順序***と混同している場合は、まだ数学を進歩させる時期ではありません。 数式でスラッシュ《/》を使用するなど、さまざまなあいまいさについては触れていません。 人生のすべてと同様に、次のレベルに進む前に、まず基本をマスターしてください。
+
+---
+
+{{< image
+  type="imagecoverattrib"
+
+  link="https://img.youronly.one/p/Mathematics-chalkboard-pixabay_license.jpg"
+  linkrel="noopener external nofollow"
+
+  title="Mathematics chalkboard"
+  caption=""
+
+  licensecode="pixabay"
+  licenseurl="https://pixabay.com/service/license/"
+  licensename="Pixabay License"
+
+  attribto="ArtsyBee"
+  attriburl="https://pixabay.com/users/artsybee-462611/"
+  attribrel="noopener external nofollow"
+>}}
+
+---
+
+注意：Google翻訳
