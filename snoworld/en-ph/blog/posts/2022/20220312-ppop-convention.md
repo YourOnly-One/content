@@ -50,7 +50,7 @@ Do you love attending conventions? Do you collect merchandise of products you li
 <!--more-->
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_gold" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener" attribto="" attriblink="" attribrel="noopener" %}}
-  Latest update: 2022-03-23 20:20:20 PHT
+  Latest update: 2022-04-03 16:14:33 PHT
 {{% /sembox %}}
 
 There is no longer any doubt that P-pop, or [***P**inoy **Pop**ular music*]({{< ref path="ppop-vs-opm.md#p-pop" >}} "Pinoy POPular music"), is having a major resurgence. Filipinos both locally and abroad are rallying behind P-pop acts in a way never before seen in P-pop's decades-long history—fandoms, merchandise, data fandom, and now conventions.
@@ -163,6 +163,18 @@ Here are the details for the convention tickets:
 Ticket for the convention is now available via Ticketnet Online: [2022 PPOPCON Convention Ticket Sales](https://ticketnet.com.ph/Events/detail/2022-PPOPCON "2022 PPOPCON Convention Ticket Sales").
 
 *₱1.00 = U$0.019 based on 2022-03-11 22:01 UTC exchange rate, and used only for International context.*
+{.notecounter}
+
+**NEW**: 1-day Convention Tickets
+
+- ₱500 (U$9.70)
+  - April 9, 2022 only
+- ₱250 (U$4.85)
+  - April 10, 2022 only
+
+Limited tickets only!
+
+*₱1.00 = U$0.019 based on 2022-04-02 08:53 UTC exchange rate, and used only for International context.*
 {.notecounter}
 
 ### Concert ticket price and benefits
