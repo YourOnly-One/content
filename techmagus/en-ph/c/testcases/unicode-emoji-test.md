@@ -3,7 +3,7 @@ title = "Unicode 14 and Emoji 14 Test Page"
 description = "A Unicode and Emoji test page. You can use this to test if your browser can display Unicode and Emoji characters."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2015-08-12T10:23:28+08:00"                                        # manually adjust to local timezone
-lastmod = "2015-08-12T10:23:28+08:00"                                        # manually adjust to local timezone
+#lastmod = "2015-08-12T10:23:28+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/p/unicode-emoji-test.html"]
 slug = "unicode-emoji-test"
@@ -313,13 +313,13 @@ Also see: [Paleo-Hebrew / Phoenician Unicode Keyboard Layout]({{< ref "paleo-heb
     <!-- END: v13.x -->
     <!-- BGN: v14.x -->
       <tr>
-        <td><span class="unicode_emoji_test">🫰</span></td>
+        <td><span class="unicode_emoji_test">🫰🏽</span></td>
         <td><span class="unicode_emoji_test">&#x1FAF0;&#x1F3FD;</span></td>
         <td>finger heart / money / snap: medium (brown) skin tone</td>
         <td>14.0</td>
       </tr>
       <tr>
-        <td><span class="unicode_emoji_test">🫶</span></td>
+        <td><span class="unicode_emoji_test">🫶🏾</span></td>
         <td><span class="unicode_emoji_test">&#x1FAF6;&#x1F3FE;</span></td>
         <td>heart hands: medium-dark (dark-brown) skin tone</td>
         <td>14.0</td>
@@ -337,7 +337,7 @@ Also see: [Paleo-Hebrew / Phoenician Unicode Keyboard Layout]({{< ref "paleo-heb
         <td>14.0</td>
       </tr>
       <tr>
-        <td><span class="unicode_emoji_test">🫵</span></td>
+        <td><span class="unicode_emoji_test">🫵🏽</span></td>
         <td><span class="unicode_emoji_test">&#x1FAF5;&#x1F3FD;</span></td>
         <td>index pointing at the viewer: medium (brown) skin tone</td>
         <td>14.0</td>
