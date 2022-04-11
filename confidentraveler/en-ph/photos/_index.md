@@ -13,5 +13,6 @@ title = "Photos"
 
 #metarobots = "noindex noarchive"
 
-private = "true"
+draft = true
+private = true
 +++

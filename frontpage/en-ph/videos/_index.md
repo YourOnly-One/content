@@ -12,6 +12,4 @@ title = "Videos"
 #translationKey = ""
 
 #metarobots = "noindex noarchive"
-
-private = "true"
 +++
