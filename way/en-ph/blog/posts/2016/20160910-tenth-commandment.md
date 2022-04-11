@@ -62,7 +62,7 @@ It is easy to think that the last but equally important 10<sup>th</sup> commandm
 
 What does it mean? Simply that, we spend our daily lives with the taughts of having the same things as our neighbor. Or for example, our neighbor bought the latest laptop and we also want the same or better even though there is no need to buy a new one. Worst, we steal whatever we want from our neighbor, which is also a transgression of the 8<sup>th</sup> commandment, <q>You shall not steal</q>.
 
-Tomorrow is the **Day of Atonement**. Thus, on this day, let us meditate on commandment and think of those moments when we hungered for the things our neighbor have, and when we craved for our neighbor's wife. Confess these sins to <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YAHUWAH) and ask for forgiveness.
+Tomorrow is the **Day of Atonement**. Thus, on this day, let us meditate on commandment and think of those moments when we hungered for the things our neighbor have, and when we craved for our neighbor's wife. Confess these sins to <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH) and ask for forgiveness.
 
 Shalom!
 

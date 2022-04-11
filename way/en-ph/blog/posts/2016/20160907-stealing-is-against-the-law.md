@@ -52,7 +52,7 @@ A very simple commanment, correct? But one that all of us, no doubt, have transg
 <sup>[15]</sup> "You shall not steal."
 {{% /quotebox %}}
 
-Not paying our taxes is stealing. Encoding films and putting it online is stealing (downloading these files is not stealing, it will be discussed another time). Not giving to <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YAHUWAH) what is His, all glory, honor, praise, and thanks, is stealing (and can be considered idolatry too, which is a transgression of the 2<sup>nd</sup> commandment).
+Not paying our taxes is stealing. Encoding films and putting it online is stealing (downloading these files is not stealing, it will be discussed another time). Not giving to <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH) what is His, all glory, honor, praise, and thanks, is stealing (and can be considered idolatry too, which is a transgression of the 2<sup>nd</sup> commandment).
 
 Last, but definitely not the least, worshipping on the wrong Sabbath day is stealing. Which is also a transgression of the 4<sup>th</sup> commandment. A commandment that is side-by-side with today's 8<sup>th</sup> commandment. **Sun**day is definitely and no doubt, the wrong Sabbath day.
 

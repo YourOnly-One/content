@@ -57,10 +57,10 @@ Many Christian theologians, preachers, priests, pastors, teachers, evangelists, 
 However, the Scripture is the sole authority in this matter. Believe it or not, the answer is right there in the Word! It's in Biblical Hebrew!
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Tehillim (Psalms) 105:1" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
-O give thanks unto <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (YAHUAH); call upon his name: make known his deeds among the people.
+O give thanks unto <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (YAHUAH); call upon his name: make known his deeds among the people.
 {{% /quotebox %}}
 
-Now the Psalmist makes sense, right? He said to "call upon His name", what is His name? "Give thanks unto <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (YAHUAH)"! His name is right there! His name is <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (YAHUAH)! It's not the "LORD" and definitely not lost in time!
+Now the Psalmist makes sense, right? He said to "call upon His name", what is His name? "Give thanks unto <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (YAHUAH)"! His name is right there! His name is <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (YAHUAH)! It's not the "LORD" and definitely not lost in time!
 
 ## He told us His name
 
@@ -77,10 +77,10 @@ When you introduce yourself to a new batch of employees, do you say, "I am the F
 Once again, what was originally written before the translators replaced His Name with the "LORD"?
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Yashayahu (Isaiah) 42:8" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
-I am <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (YAHUAH): that is my name: and my glory will I not give to another, neither my praise to graven images.
+I am <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (YAHUAH): that is my name: and my glory will I not give to another, neither my praise to graven images.
 {{% /quotebox %}}
 
-What is His Name according to our Abba, Most High, Almighty One, Creator? <q><strong>I AM <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (YAHUAH): THAT IS MY NAME</strong></q>.
+What is His Name according to our Abba, Most High, Almighty One, Creator? <q><strong>I AM <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (YAHUAH): THAT IS MY NAME</strong></q>.
 
 ### A warning
 
@@ -92,9 +92,9 @@ When you wrap a gift, do you write: "To the GIRL"? When you give an award, give 
 
 Generic. It can be anybody. It's directed to everyone. It could be anyone. No one has a clue. If you are declaring his deeds, no one will care. Which is what is exactly happening today!
 
-Our Abba Himself said He will not give His glory, honour, praise, thanks that is due Him to anybody, any name, titles. <q><strong>I AM <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (YAHUAH), THAT IS MY NAME</strong></q> use it! Mention His name when declaring His deeds! Call Him by His name! Speak His name! His Name is <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (YAHUAH) and ***there is no other Name***!
+Our Abba Himself said He will not give His glory, honour, praise, thanks that is due Him to anybody, any name, titles. <q><strong>I AM <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (YAHUAH), THAT IS MY NAME</strong></q> use it! Mention His name when declaring His deeds! Call Him by His name! Speak His name! His Name is <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (YAHUAH) and ***there is no other Name***!
 
-<bdo dir="rtl" lang="hbo-Hebr">𐤄𐤋𐤋𐤅𐤉𐤄</bdo> (HaleluYAH)!
+<bdi dir="rtl" lang="hbo-Hebr">𐤄𐤋𐤋𐤅𐤉𐤄</bdi> (HaleluYAH)!
 
 ---
 

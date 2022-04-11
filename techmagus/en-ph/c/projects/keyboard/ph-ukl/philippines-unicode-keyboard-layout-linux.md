@@ -47,7 +47,7 @@ type = "article"                                                           # art
 
 Today, 23<sup>rd</sup> of October 2010, Filipino Linux users around the world can now download and use the first release of the **Philippines Unicode Keyboard Layout**, officially launched during the Philippines Ubuntu 10.10 Maverick Meerkat Release Party.
 
-What is this all about? Simple: being able to type the characters that Filipinos use, especially the ₱eso sign and <span lang="fil-Tglg">ᜊᜌ᜔ᜊᜌᜒᜈ᜔</span> (Baybayin) glyphs that has been available for use since Unicode 3.2 (March 2002). Other characters are: Ññ, ©, ®, ™, ¢, ¥, ¶, Pahilís (acute diacritic), Paiwà (grave diacritic), Pakupyâ (circumflex diacritic), Ng̃ (the shortened form of nan͠g), and many more.
+What is this all about? Simple: being able to type the characters that Filipinos use, especially the ₱eso sign and <bdi lang="fil-Tglg">ᜊᜌ᜔ᜊᜌᜒᜈ᜔</bdi> (Baybayin) glyphs that has been available for use since Unicode 3.2 (March 2002). Other characters are: Ññ, ©, ®, ™, ¢, ¥, ¶, Pahilís (acute diacritic), Paiwà (grave diacritic), Pakupyâ (circumflex diacritic), Ng̃ (the shortened form of nan͠g), and many more.
 
 How about Windows users? <del>You will have to wait more or less 2 weeks, it will be usable for Windows 7, Vista, and XP; both 64-bit and 32-bit installations.</del> It is now available for [download]({{< ref "philippines-unicode-keyboard-layout-windows.md" >}} "Philippines Unicode Keyboard Layout for Windows").
 
@@ -294,7 +294,7 @@ You're done! Sort of. You need to activate it to actually use it, follow the nex
     attribrel="noopener"
   >}}
 
-Let's not forget to add the first Baybayin <span lang="fil-Tglg">ᜊᜌ᜔ᜊᜌᜒᜈ᜔</span>) keyboard layout, it is QWERTY-based. Simply repeat the process above but place it as second in your Layouts list. Then if you want to switch between Philippines Latin and Philippines Baybayin scripts, simply press **Shift+CAPS_Lock**. It is the default shortcut in Ubuntu 10.10 Maverick Meerkat.
+Let's not forget to add the first Baybayin <bdi lang="fil-Tglg">ᜊᜌ᜔ᜊᜌᜒᜈ᜔</bdi>) keyboard layout, it is QWERTY-based. Simply repeat the process above but place it as second in your Layouts list. Then if you want to switch between Philippines Latin and Philippines Baybayin scripts, simply press **Shift+CAPS_Lock**. It is the default shortcut in Ubuntu 10.10 Maverick Meerkat.
 
 The font included in the zip file is a Unicode-only and Website-embed compatible version of [Nordenx](https://nordenx.com)'s Baybayin brush font.
 

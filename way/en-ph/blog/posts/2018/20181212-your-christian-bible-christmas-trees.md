@@ -53,7 +53,7 @@ For they also built them high places, and images, and Asherah poles, on every hi
 {{% /quotebox %}}
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Yirmeyahu (Jeremiah) 10:2-4" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
-<sup>2</sup> Thus says <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (YAHUAH), "Do not learn the way of the nations, and do not be dismayed at the signs of the heavens; for the nations are dismayed at them.
+<sup>2</sup> Thus says <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (YAHUAH), "Do not learn the way of the nations, and do not be dismayed at the signs of the heavens; for the nations are dismayed at them.
 
 <sup>3</sup> For the customs of the peoples are vanity; for one cuts a tree out of the forest, the work of the hands of the workman with a cutting tool.
 
@@ -61,17 +61,17 @@ For they also built them high places, and images, and Asherah poles, on every hi
 {{% /quotebox %}}
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Debarim (Deuteronomy) 12:2-4" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
-<sup>2</sup> Ye shall uttery destroy <bdo dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdo> (eth)-all the places, wherein the nations which ye shall possess served <bdo dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdo> (eth)-their elohiym, upon the high mountains, and upon the hills, and under every green tree.
+<sup>2</sup> Ye shall uttery destroy <bdi dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdi> (eth)-all the places, wherein the nations which ye shall possess served <bdi dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdi> (eth)-their elohiym, upon the high mountains, and upon the hills, and under every green tree.
 
-<sup>3</sup> And ye shall overthrow <bdo dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdo> (eth)-their altars, and break <bdo dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdo> (eth)-their pillars, and burn their Asherah poles with fire; and ye shall hew down graven images of their elohiym, and destroy <bdo dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdo> (eth)-names of them out of that place.
+<sup>3</sup> And ye shall overthrow <bdi dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdi> (eth)-their altars, and break <bdi dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdi> (eth)-their pillars, and burn their Asherah poles with fire; and ye shall hew down graven images of their elohiym, and destroy <bdi dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdi> (eth)-names of them out of that place.
 
-<sup>4</sup> Ye shall not do so unto <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (YAHUAH) Elohaykem.
+<sup>4</sup> Ye shall not do so unto <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (YAHUAH) Elohaykem.
 {{% /quotebox %}}
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Shemot (Exodus) 34:13-14" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
-<sup>13</sup> But ye shall destroy <bdo dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdo> (eth)-their altars, break <bdo dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdo> (eth)-their images, and cut down <bdo dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdo> (eth)-their Asherah poles:
+<sup>13</sup> But ye shall destroy <bdi dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdi> (eth)-their altars, break <bdi dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdi> (eth)-their images, and cut down <bdi dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdi> (eth)-their Asherah poles:
 
-<sup>14 For you shall worship no other el: for <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (YAHUAH), whose name is Jealous, is a jealous El.</sup>
+<sup>14 For you shall worship no other el: for <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (YAHUAH), whose name is Jealous, is a jealous El.</sup>
 {{% /quotebox %}}
 
 {{< image
@@ -100,13 +100,13 @@ For they also built them high places, and images, and Asherah poles, on every hi
 >}}
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Debarim (Deuteronomy) 16:21-22" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
-<sup>21</sup> You shall not plant an asherah pole of any trees near unto the altar of <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (YAHUAH) Elohayka, which you shall make.
+<sup>21</sup> You shall not plant an asherah pole of any trees near unto the altar of <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (YAHUAH) Elohayka, which you shall make.
 
-<sup>22</sup> Neither shall you set up any image; which <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (YAHUAH) Elohayka hates.
+<sup>22</sup> Neither shall you set up any image; which <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (YAHUAH) Elohayka hates.
 {{% /quotebox %}}
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="2 Malakim (2 Kings) 23:7" srclink="" srcrel="noopener external nofollow" attribto="" attriblink="[Cepher]" attribrel="noopener external nofollow" %}}
-And he broke down <bdo dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdo> (eth)-the houses of the sodomiym, that were by the house of <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (YAHUAH), where the women wove hangings for Asherah.
+And he broke down <bdi dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdi> (eth)-the houses of the sodomiym, that were by the house of <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (YAHUAH), where the women wove hangings for Asherah.
 {{% /quotebox %}}
 
 ## A deeper look
@@ -182,9 +182,9 @@ And he broke down <bdo dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdo> (eth)-the houses
   <li>Santa Claus Hat (original): Dagon worship; the "fish hat", the "Dagon hat"</li>
 </ul>
 
-I used to believe and practice these things until the Most High, our Abba in heaven, <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (YAHUAH) opened my eyes and set me free. We, who crossed-over and left these things behind, hope that this will be the beginning of a beautiful journey to freedom for you.
+I used to believe and practice these things until the Most High, our Abba in heaven, <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (YAHUAH) opened my eyes and set me free. We, who crossed-over and left these things behind, hope that this will be the beginning of a beautiful journey to freedom for you.
 
-<bdo dir="rtl" lang="hbo-Hebr">𐤄𐤋𐤋𐤅𐤉𐤄</bdo> (HaleluYAH). Baruch <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (YAHUAH)
+<bdi dir="rtl" lang="hbo-Hebr">𐤄𐤋𐤋𐤅𐤉𐤄</bdi> (HaleluYAH). Baruch <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (YAHUAH)
 
 ---
 

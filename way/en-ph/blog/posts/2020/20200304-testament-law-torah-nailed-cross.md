@@ -54,7 +54,7 @@ Christian preachers always teach that the Old Testament Law, or Torah, was naile
 Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross.
 {{% /quotebox %}}
 
-The word "ordinances" was the Greek word <bdo dir="ltr" lang="grc">δόγμα</bdo> [G1378] which when transliterated is "<span lang="grc-Latn" dir="ltr">dogma</span>".
+The word "ordinances" was the Greek word <bdi dir="ltr" lang="grc">δόγμα</bdi> [G1378] which when transliterated is "<bdi lang="grc-Latn" dir="ltr">dogma</bdi>".
 
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_lime" attribalign="txt_right" srctitle="Strong's Concordance" srclink="" srcrel="noopener external nofollow" attribto="" attriblink="" attribrel="noopener external nofollow" %}}
 a law (civil, ceremonial or ecclesiastical): - decree, ordinance
@@ -74,13 +74,13 @@ a law (civil, ceremonial or ecclesiastical): - decree, ordinance
 </ul>
 {{% /quotebox %}}
 
-Since Colossians was written by an apostle, the way <bdo dir="ltr" lang="grc">δόγμα</bdo> (<span lang="grc-Latn" dir="ltr">dogma</span>) [G1378] was used was definitely *not* the third definition <q>of certain decrees of the apostles relative to right living</q>. It can only mean the first and/or second definition. Majority understood it as the second and equated it to the Torah but was it about the Torah?
+Since Colossians was written by an apostle, the way <bdi dir="ltr" lang="grc">δόγμα</bdi> (<bdi lang="grc-Latn" dir="ltr">dogma</bdi>) [G1378] was used was definitely *not* the third definition <q>of certain decrees of the apostles relative to right living</q>. It can only mean the first and/or second definition. Majority understood it as the second and equated it to the Torah but was it about the Torah?
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Romans 3:31" srclink="" srcrel="noopener external nofollow" attribto="International Standard Version" attriblink="" attribrel="noopener external nofollow" %}}
 Do we, then, abolish the Law by this faith? Of course not! Instead, we uphold the Law.
 {{% /quotebox %}}
 
-The "law" here was the Greek word <bdo dir="ltr" lang="grc">νόμος</bdo> [G3551] with a transliteration of "<span lang="grc-Latn" dir="ltr">nomos</span>".
+The "law" here was the Greek word <bdi dir="ltr" lang="grc">νόμος</bdi> [G3551] with a transliteration of "<bdi lang="grc-Latn" dir="ltr">nomos</bdi>".
 
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_lime" attribalign="txt_right" srctitle="Strong's Concordance" srclink="" srcrel="noopener external nofollow" attribto="" attriblink="" attribrel="noopener external nofollow" %}}
 law (through the idea of prescriptive usage), generally (regulation), specifically (of Moses [including the volume]; also of the Gospel): - law.
@@ -106,8 +106,8 @@ anything established, anything received by usage, a custom, a law, a command
 
 Noticed the difference? The Greek words used were different with different meanings.
 <ul class="custom_liststyle checkmark list-red">
-  <li><bdo dir="ltr" lang="grc">δόγμα</bdo> (<span lang="grc-Latn" dir="ltr">dogma</span>) [G1378]: refers to ordinances, to dogmas, decrees, of rules and requirements</li>
-  <li><bdo dir="ltr" lang="grc">νόμος</bdo> (<span lang="grc-Latn" dir="ltr">nomos</span>) [G3551]: is the Law, the "Mosaic law", the "Pentateuch" (in Greek) or "Torah" (in Hebrew), and is also referred to the entire TaNaKh or as commonly called in Roman-influenced translations "Old Testament"</li>
+  <li><bdi dir="ltr" lang="grc">δόγμα</bdi> (<bdi lang="grc-Latn" dir="ltr">dogma</bdi>) [G1378]: refers to ordinances, to dogmas, decrees, of rules and requirements</li>
+  <li><bdi dir="ltr" lang="grc">νόμος</bdi> (<bdi lang="grc-Latn" dir="ltr">nomos</bdi>) [G3551]: is the Law, the "Mosaic law", the "Pentateuch" (in Greek) or "Torah" (in Hebrew), and is also referred to the entire TaNaKh or as commonly called in Roman-influenced translations "Old Testament"</li>
 </ul>
 
 <cite>Colossians 2:14</cite> was not referring to the "Mosaic law" or more appropriately called the "Torah", the prophets, nor the whole of the TaNaKh or "Old Testament". How can it be? Remember <cite>Romans 3:31</cite>? <q>Do we, then, abolish the Law by this faith? Of course not! Instead, we uphold the Law.</q>
@@ -118,9 +118,9 @@ If Paul's conviction was not enough then let's see what our Messiah said.
 Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.
 {{% /quotebox %}}
 
-Can you guess which Greek word was used for the "law"? If you guessed <bdo dir="ltr" lang="grc">νόμος</bdo> (<span lang="grc-Latn" dir="ltr">nomos</span>) [G3551] then you are correct. The exact same word which means the Torah, the TaNaKh, the "Old Testament".
+Can you guess which Greek word was used for the "law"? If you guessed <bdi dir="ltr" lang="grc">νόμος</bdi> (<bdi lang="grc-Latn" dir="ltr">nomos</bdi>) [G3551] then you are correct. The exact same word which means the Torah, the TaNaKh, the "Old Testament".
 
-If our Messiah <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (<span lang="hbo-Latn" dir="ltr">Yahushua</span>) said so, the WORD Himself, through Him our reality was Created, then there should be zero doubt the Torah, the Prophets, the TaNaKh, the "Old Testament" was never nullified, was never nailed on the cross, was never "done away with", contrary to what tradition passed down to us.
+If our Messiah <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (<bdi lang="hbo-Latn" dir="ltr">Yahushua</bdi>) said so, the WORD Himself, through Him our reality was Created, then there should be zero doubt the Torah, the Prophets, the TaNaKh, the "Old Testament" was never nullified, was never nailed on the cross, was never "done away with", contrary to what tradition passed down to us.
 
 In other words, Paul was not talking about the Torah in <cite>Colossians 2:14</cite>! What was he talking about then? Let's go back to the second definition Thayer gave <q>the rules and requirements of the law of Moses; carrying a suggestion of severity and of threatened judgment</q>.
 
@@ -136,13 +136,13 @@ There is another verse usually used to support the dogma that "the Torah has bee
 The Messiah hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree.
 {{% /quotebox %}}
 
-The word "law" here used the same Greek word <bdo dir="ltr" lang="grc">νόμος</bdo> (<span lang="grc-Latn" dir="ltr">nomos</span>) [G3551] which we established earlier as referring to the Torah, the TaNaKh, the "Old Testament". Let's also bring in the other definition we passed earlier <q>the Christian religion: the law demanding faith, the moral instruction given by Christ, especially the precept concerning love</q>.
+The word "law" here used the same Greek word <bdi dir="ltr" lang="grc">νόμος</bdi> (<bdi lang="grc-Latn" dir="ltr">nomos</bdi>) [G3551] which we established earlier as referring to the Torah, the TaNaKh, the "Old Testament". Let's also bring in the other definition we passed earlier <q>the Christian religion: the law demanding faith, the moral instruction given by Christ, especially the precept concerning love</q>.
 
-If <cite>Galatians 3:13</cite> was referring to the <bdo dir="ltr" lang="grc">νόμος</bdo> (<span lang="grc-Latn" dir="ltr">nomos</span>) [G3551] as a curse then it would mean the "Christian religion", "the law demanding faith", is a curse!
+If <cite>Galatians 3:13</cite> was referring to the <bdi dir="ltr" lang="grc">νόμος</bdi> (<bdi lang="grc-Latn" dir="ltr">nomos</bdi>) [G3551] as a curse then it would mean the "Christian religion", "the law demanding faith", is a curse!
 
-Clearly, the verse wasn't referring to simply the <bdo dir="ltr" lang="grc">νόμος</bdo> (<span lang="grc-Latn" dir="ltr">nomos</span>) [G3551]. If we read <cite>Galatians 3:13</cite> again, it says <q>from the curse <mark>of</mark></q>, <q>being made a curse for us</q>. Read it again and again. It is not <bdo dir="ltr" lang="grc">νόμος</bdo> (<span lang="grc-Latn" dir="ltr">nomos</span>) [G3551] which is a/the curse, it is the penalty of <strong><em>disobedience</em></strong> of (<span lang="grc-Latn" dir="ltr">nomos</span>) [G3551] that is <q>being made a curse for us</q>.
+Clearly, the verse wasn't referring to simply the <bdi dir="ltr" lang="grc">νόμος</bdi> (<bdi lang="grc-Latn" dir="ltr">nomos</bdi>) [G3551]. If we read <cite>Galatians 3:13</cite> again, it says <q>from the curse <mark>of</mark></q>, <q>being made a curse for us</q>. Read it again and again. It is not <bdi dir="ltr" lang="grc">νόμος</bdi> (<bdi lang="grc-Latn" dir="ltr">nomos</bdi>) [G3551] which is a/the curse, it is the penalty of <strong><em>disobedience</em></strong> of (<bdi lang="grc-Latn" dir="ltr">nomos</bdi>) [G3551] that is <q>being made a curse for us</q>.
 
-How did we know that? Let's keep reading the same verse <q>for it is written, Cursed is every one that hangeth on a tree</q>. This is a rule found in the Torah, recall the definition of <bdo dir="ltr" lang="grc">δόγμα</bdo> (<span lang="grc-Latn" dir="ltr">dogma</span>) [G1378]: <q>the rules and requirements of the law of Moses; carrying a suggestion of severity and of threatened judgment</q>.
+How did we know that? Let's keep reading the same verse <q>for it is written, Cursed is every one that hangeth on a tree</q>. This is a rule found in the Torah, recall the definition of <bdi dir="ltr" lang="grc">δόγμα</bdi> (<bdi lang="grc-Latn" dir="ltr">dogma</bdi>) [G1378]: <q>the rules and requirements of the law of Moses; carrying a suggestion of severity and of threatened judgment</q>.
 
 So what is this <q>rule and requirement</q> <q>carrying a suggestion of severity and of threatened judgment</q>?
 
@@ -151,7 +151,7 @@ And if a man have committed a sin worthy of death, and he be to be put to death,
 {{% /quotebox %}}
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Romans 6:23" srclink="" srcrel="noopener external nofollow" attribto="Restored Name King James Version" attriblink="" attribrel="noopener external nofollow" %}}
-For the wages of sin is death; but the gift of <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (<span lang="hbo-Latn" dir="ltr">YAHUAH</span>) is eternal life through <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (<span lang="hbo-Latn" dir="ltr">Yahushua</span>) the Messiah our Saviour.
+For the wages of sin is death; but the gift of <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (<bdi lang="hbo-Latn" dir="ltr">YAHUAH</bdi>) is eternal life through <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (<bdi lang="hbo-Latn" dir="ltr">Yahushua</bdi>) the Messiah our Saviour.
 {{% /quotebox %}}
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Romans 14:23" srclink="" srcrel="noopener external nofollow" attribto="International Standard Version" attriblink="" attribrel="noopener external nofollow" %}}
@@ -166,9 +166,9 @@ Whoever commits sin transgresses also the law, for sin is the transgression of t
 What shall we say then? Is the law sin? By no means. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet.
 {{% /quotebox %}}
 
-Once again, the "law" here is the Greek word <bdo dir="ltr" lang="grc">νόμος</bdo> (<span lang="grc-Latn" dir="ltr">nomos</span>) [G3551] (Torah).
+Once again, the "law" here is the Greek word <bdi dir="ltr" lang="grc">νόμος</bdi> (<bdi lang="grc-Latn" dir="ltr">nomos</bdi>) [G3551] (Torah).
 
-From these verses, it is crystal clear it is not the Torah which is <q>being made a curse for us</q> (<cite>Galatians 3:13</cite>) but the <q>the rules and requirements of the law of Moses; carrying a suggestion of severity and of threatened judgment</q> (the penalty of disobedience) (<cite>Colossians 2:14</cite>). The Torah itself is a blessing for through it we knew we have sinned (<cite>Romans 7:7</cite>) and thus learned we needed salvation through <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (<span lang="hbo-Latn" dir="ltr">Yahushua</span>) (<cite>Romans 6:23</cite>).
+From these verses, it is crystal clear it is not the Torah which is <q>being made a curse for us</q> (<cite>Galatians 3:13</cite>) but the <q>the rules and requirements of the law of Moses; carrying a suggestion of severity and of threatened judgment</q> (the penalty of disobedience) (<cite>Colossians 2:14</cite>). The Torah itself is a blessing for through it we knew we have sinned (<cite>Romans 7:7</cite>) and thus learned we needed salvation through <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (<bdi lang="hbo-Latn" dir="ltr">Yahushua</bdi>) (<cite>Romans 6:23</cite>).
 
 In short, we must obey the Torah. It still is valid to this very day. Remember, disobedience is sin.
 
@@ -176,13 +176,13 @@ In short, we must obey the Torah. It still is valid to this very day. Remember, 
 They did not keep God’s covenant, and refused to live by his Law.
 {{% /quotebox %}}
 
-The "law" here is the Hebrew word <bdo lang="heb" dir="rtl">תּורה</bdo> [H8451] transliterated as "<span lang="heb-Latn" dir="ltr">tôrâh</span>".
+The "law" here is the Hebrew word <bdi lang="heb" dir="rtl">תּורה</bdi> [H8451] transliterated as "<bdi lang="heb-Latn" dir="ltr">tôrâh</bdi>".
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="1 Samuel 15:23" srclink="" srcrel="noopener external nofollow" attribto="Restored Name King James Version" attriblink="" attribrel="noopener external nofollow" %}}
-For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry. Because thou hast rejected the word of <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (<span lang="hbo-Latn" dir="ltr">YAHUAH</span>), he hath also rejected thee from being king.
+For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry. Because thou hast rejected the word of <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (<bdi lang="hbo-Latn" dir="ltr">YAHUAH</bdi>), he hath also rejected thee from being king.
 {{% /quotebox %}}
 
-He already paid for our sins so we wouldn't hang on a tree (<cite>Galatians 3:13</cite>; <cite>Deuteronomy 21:22</cite>). Salvation comes from <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (<span lang="hbo-Latn" dir="ltr">Yahushua</span>), His Name means <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (<span lang="hbo-Latn" dir="ltr">YAHUAH</span>) saves. All we have to do now is to keep on living by faith for lack of thereof is sin (<cite>Romans 14:23</cite>); and to obey the Torah (instructions, law) of <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (<span lang="hbo-Latn" dir="ltr">YAHUAH</span>) (<cite>Psalms 78:10</cite>).
+He already paid for our sins so we wouldn't hang on a tree (<cite>Galatians 3:13</cite>; <cite>Deuteronomy 21:22</cite>). Salvation comes from <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (<bdi lang="hbo-Latn" dir="ltr">Yahushua</bdi>), His Name means <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (<bdi lang="hbo-Latn" dir="ltr">YAHUAH</bdi>) saves. All we have to do now is to keep on living by faith for lack of thereof is sin (<cite>Romans 14:23</cite>); and to obey the Torah (instructions, law) of <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (<bdi lang="hbo-Latn" dir="ltr">YAHUAH</bdi>) (<cite>Psalms 78:10</cite>).
 
 Shalom!
 

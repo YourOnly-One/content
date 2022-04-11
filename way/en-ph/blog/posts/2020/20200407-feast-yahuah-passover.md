@@ -44,15 +44,15 @@ avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 #rel = "noopener external nofollow"
 +++
 
-The Feast of <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (<span lang="hbo-Latn" dir="ltr">YAHUAH</span>)'s Passover or <bdo lang="hbo-Hebr" dir="rtl">𐤐𐤎𐤇</bdo> (Pesach) is the first in the annual seven appointed times we are to observe diligently. However, in the so called "New Testament" era, it is commonly taught that this is no longer important and meaningless. But is it?
+The Feast of <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (<bdi lang="hbo-Latn" dir="ltr">YAHUAH</bdi>)'s Passover or <bdi lang="hbo-Hebr" dir="rtl">𐤐𐤎𐤇</bdi> (Pesach) is the first in the annual seven appointed times we are to observe diligently. However, in the so called "New Testament" era, it is commonly taught that this is no longer important and meaningless. But is it?
 
 <!--more-->
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Exodus 12:14" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
-And this day shall be unto you for a memorial; and ye shall keep it a feast to <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (<span lang="hbo-Latn" dir="ltr">YAHUAH</span>) throughout your generations; ye shall keep it a feast by an ordinance for ever.
+And this day shall be unto you for a memorial; and ye shall keep it a feast to <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (<bdi lang="hbo-Latn" dir="ltr">YAHUAH</bdi>) throughout your generations; ye shall keep it a feast by an ordinance for ever.
 {{% /quotebox %}}
 
-In <cite>Exodus 12:14</cite> it was very clear that the Most Hight himself commanded us to keep the feast of <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (<span lang="hbo-Latn" dir="ltr">YAHUAH</span>)'s Passover forever as it is a memorial or a remembrance. He even made it clear that it is his Passover, completely obliterating the preaching that it is "Israel's feast" only.
+In <cite>Exodus 12:14</cite> it was very clear that the Most Hight himself commanded us to keep the feast of <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (<bdi lang="hbo-Latn" dir="ltr">YAHUAH</bdi>)'s Passover forever as it is a memorial or a remembrance. He even made it clear that it is his Passover, completely obliterating the preaching that it is "Israel's feast" only.
 
 This is in fact echoed in the Renewed Covenant ("New Testament" as it is commonly called) in <cite>Luke 22:19</cite>.
 
@@ -60,9 +60,9 @@ This is in fact echoed in the Renewed Covenant ("New Testament" as it is commonl
 And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me.
 {{% /quotebox %}}
 
-The <em>year old lambs</em> which were sacrificed in <cite>Exodus 12</cite> for the Exodus from Egypt was a shadow of the "exodus from sin" the <strong>only begotten son</strong>, the perfect lamb, did for us. The Feast of <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (<span lang="hbo-Latn" dir="ltr">YAHUAH</span>)'s Passover we have to observe annually to this very day (<cite>Exodus 12:14</cite>) as which <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (<span lang="hbo-Latn" dir="ltr">Yahushua</span>) Messiah repeated in <cite>Luke 22:19</cite>.
+The <em>year old lambs</em> which were sacrificed in <cite>Exodus 12</cite> for the Exodus from Egypt was a shadow of the "exodus from sin" the <strong>only begotten son</strong>, the perfect lamb, did for us. The Feast of <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (<bdi lang="hbo-Latn" dir="ltr">YAHUAH</bdi>)'s Passover we have to observe annually to this very day (<cite>Exodus 12:14</cite>) as which <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (<bdi lang="hbo-Latn" dir="ltr">Yahushua</bdi>) Messiah repeated in <cite>Luke 22:19</cite>.
 
-This makes <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (<span lang="hbo-Latn" dir="ltr">YAHUAH</span>) Passover a very powerful feast for us. But are we aware that every event or step during the "Exodus from Egypt" was repeated in <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (<span lang="hbo-Latn" dir="ltr">Yahushua</span>)'s mission of salvation for mankind?
+This makes <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (<bdi lang="hbo-Latn" dir="ltr">YAHUAH</bdi>) Passover a very powerful feast for us. But are we aware that every event or step during the "Exodus from Egypt" was repeated in <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (<bdi lang="hbo-Latn" dir="ltr">Yahushua</bdi>)'s mission of salvation for mankind?
 
 Here is a short presentation I made outlining the verses from Exodus and the Books in the Renewed Covenant, most especially in the Gospels (Matthew, Mark, Luke, John).
 

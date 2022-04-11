@@ -59,7 +59,7 @@ Bearing false witness against our neighbors is not only when the authorities ask
 
 We saw something and we did not like it. When we get back home or are with our friends, we share this incident we have witnessed and add colorful additions that paints this person in a bad light. This is a form of bearing false witness against our neighbors.
 
-Today, we meditate on the 9<sup>th</sup> commandment, let us think of those moments when we transgressed on this command to not bear false witness against our neighbor. Then let us confess it before <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YAHUWAH) and ask for forgiveness and self-control that we not repeat it again.
+Today, we meditate on the 9<sup>th</sup> commandment, let us think of those moments when we transgressed on this command to not bear false witness against our neighbor. Then let us confess it before <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH) and ask for forgiveness and self-control that we not repeat it again.
 
 Shalom my brethren!
 

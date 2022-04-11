@@ -49,7 +49,7 @@ The commandment for today we should meditate is the 5<sup>th</sup> commandment, 
 <!--more-->
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Shemot (Exodus) 20:12" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
-<sup>[12]</sup> "Honor your father and your mother, so that your days shall be prolonged in the land which <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YAHUWAH) your Aluahim gives you.
+<sup>[12]</sup> "Honor your father and your mother, so that your days shall be prolonged in the land which <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH) your Aluahim gives you.
 {{% /quotebox %}}
 
 ## What is "honor"?
@@ -62,13 +62,13 @@ Yet again, according to *Google Search*, to give honor is to (a) regard a person
 
 ## The 4<sup>th</sup> Commandment
 
-To honor your father and your mother then means we give them a high and great respect and to fulfill our obligation to them as is expected by man (society; culture) and <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YAHUWAH) our Aluahim.
+To honor your father and your mother then means we give them a high and great respect and to fulfill our obligation to them as is expected by man (society; culture) and <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH) our Aluahim.
 
-The question that many asks is what if what our fathers and mothers were doing and is asking of us is against the laws of the land and of <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YAHUWAH)? Then, politely refused, especially if it is against <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YAHUWAH). However, humiliating them to the public or fighting with them is, no doubt, goes against this very commandment.
+The question that many asks is what if what our fathers and mothers were doing and is asking of us is against the laws of the land and of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH)? Then, politely refused, especially if it is against <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH). However, humiliating them to the public or fighting with them is, no doubt, goes against this very commandment.
 
-An example is turning our parents over to the authorities. Yes, they may have violated the law of man, but the law of <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YAHUWAH) is greater. We are to honor our fathers and mothers. We are not to speak ill of them nor bear witness against them.
+An example is turning our parents over to the authorities. Yes, they may have violated the law of man, but the law of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH) is greater. We are to honor our fathers and mothers. We are not to speak ill of them nor bear witness against them.
 
-Yet another is disobeying them when their decision is sound and does not goes against the law of man and especially not the Law of <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YAHUWAH). Like it or not, they do know what is best for their children. They have been there and they have done the things that we, as children, have no idea of the consequences.
+Yet another is disobeying them when their decision is sound and does not goes against the law of man and especially not the Law of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH). Like it or not, they do know what is best for their children. They have been there and they have done the things that we, as children, have no idea of the consequences.
 
 ## Meditate
 

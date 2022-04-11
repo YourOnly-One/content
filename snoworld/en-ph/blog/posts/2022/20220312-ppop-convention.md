@@ -76,31 +76,31 @@ The first venue is at the New Frontier Theater located at Gen. Emilio Aguinaldo 
 - When: April 9, 2022 from 10:00 PHT to 20:00 PHT; and April 10, 2022 from 10:00 PHT to 21:00 PHT
 - What:
   - Performances, confirmed as of 2022-03-23 20:20:20 PHT:
-    - <span lang="en-PH">Calista</span>
-    - <span lang="en-PH">Daydream</span>
-    - <span lang="en-PH">Dione</span>
-    - <span lang="en-PH">G22</span> (<span lang="tl-Tglg">ᜄ᜔22</span>)
-    - <span lang="fil">Kaia</span> (<span lang="tl-Tglg">ᜃᜌ</span>)
-    - <span lang="en-PH">Ppop Generation</span>
-    - <span lang="en-PH">R Rules</span> (<span lang="tl-Tglg">ᜇ᜔</span> <span lang="en-PH">Rules</span>)
-    - <span lang="en-PH">Ver5us</span> — update: will no longer be able to join due to schedule conflict [^ver5us-ppopcon-conflict]
-    - <span lang="en-PH">Vxon</span>
-    - <span lang="en-PH">Yara</span> (<span lang="tl-Tglg">ᜌᜇ</span>) — update: will no longer be able to participate due to conflict in schedule [^yara-ppopcon-conflict]
+    - <bdi lang="en-PH">Calista</bdi>
+    - <bdi lang="en-PH">Daydream</bdi>
+    - <bdi lang="en-PH">Dione</bdi>
+    - <bdi lang="en-PH">G22</bdi> (<bdi lang="tl-Tglg">ᜄ᜔22</bdi>)
+    - <bdi lang="fil">Kaia</bdi> (<bdi lang="tl-Tglg">ᜃᜌ</bdi>)
+    - <bdi lang="en-PH">Ppop Generation</bdi>
+    - <bdi lang="en-PH">R Rules</bdi> (<bdi lang="tl-Tglg">ᜇ᜔</bdi> <bdi lang="en-PH">Rules</bdi>)
+    - <bdi lang="en-PH">Ver5us</bdi> — update: will no longer be able to join due to schedule conflict [^ver5us-ppopcon-conflict]
+    - <bdi lang="en-PH">Vxon</bdi>
+    - <bdi lang="en-PH">Yara</bdi> (<bdi lang="tl-Tglg">ᜌᜇ</bdi>) — update: will no longer be able to participate due to conflict in schedule [^yara-ppopcon-conflict]
   - Merchandise
   - Fan booths
-    - <span lang="fil">A'tin</span> (<span lang="tl-Tglg">ᜀ᜵ᜆᜒᜈ᜔</span>)
-    - <span lang="en-PH">Aces</span>
-    - <span lang="en-PH">Allies</span>
-    - <span lang="en-PH">Blooms</span>
-    - <span lang="en-PH">Bullets</span>
-    - <span lang="en-PH">Dreamers</span>
-    - <span lang="en-PH">For.One</span>
-    - <span lang="en-PH">Genatics</span>
-    - <span lang="en-PH">Kaia Stans</span> (<span lang="tl-Tglg">ᜃᜌ</span> <span lang="en-PH">Stans</span>)
-    - <span lang="fil">Magiliw</span> (<span lang="tl-Tglg">ᜋᜄᜒᜎᜒᜏ᜔</span>)
-    - <span lang="en-PH">MNLoves</span> (<span lang="tl-Tglg">ᜋ᜔ᜈ᜔</span><span lang="en-PH">Loves</span>)
-    - <span lang="en-PH">Pearls</span>
-    - <span lang="en-PH">Vixies</span>
+    - <bdi lang="fil">A'tin</bdi> (<bdi lang="tl-Tglg">ᜀ᜵ᜆᜒᜈ᜔</bdi>)
+    - <bdi lang="en-PH">Aces</bdi>
+    - <bdi lang="en-PH">Allies</bdi>
+    - <bdi lang="en-PH">Blooms</bdi>
+    - <bdi lang="en-PH">Bullets</bdi>
+    - <bdi lang="en-PH">Dreamers</bdi>
+    - <bdi lang="en-PH">For.One</bdi>
+    - <bdi lang="en-PH">Genatics</bdi>
+    - <bdi lang="en-PH">Kaia Stans</bdi> (<bdi lang="tl-Tglg">ᜃᜌ</bdi> <bdi lang="en-PH">Stans</bdi>)
+    - <bdi lang="fil">Magiliw</bdi> (<bdi lang="tl-Tglg">ᜋᜄᜒᜎᜒᜏ᜔</bdi>)
+    - <bdi lang="en-PH">MNLoves</bdi> (<bdi lang="tl-Tglg">ᜋ᜔ᜈ᜔</bdi><bdi lang="en-PH">Loves</bdi>)
+    - <bdi lang="en-PH">Pearls</bdi>
+    - <bdi lang="en-PH">Vixies</bdi>
   - Games
   - and more surprises
 
@@ -118,17 +118,17 @@ The second venue is Araneta Coliseum for the concert on the second day. It is lo
 
 - When: April 10, 2022 from 15:00 PHT to 19:00 PHT
 - What: Concerts
-  - <span lang="en-PH">1st.One</span>
-  - <span lang="en-PH">4th Impact</span>
-  - <span lang="fil">Alamat</span> / <span lang="tl-Tglg">ᜀᜎᜋᜆ᜔</span>
-  - <span lang="en-PH">BGYO</span> (<span lang="tl-Tglg">ᜊ᜔ᜄ᜔ᜌ᜔ᜂ</span>)
-  - <span lang="fil">Bini</span> (<span lang="tl-Tglg">ᜊᜒᜈᜒ</span>)
-  - <span lang="en-PH">MNL48</span> (<span lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</span>)
-  - <span lang="en-PH">Press Hit Play</span> (<span lang="en-PH">PHP</span> / <span lang="tl-Tglg">ᜉ᜔ᜑ᜔ᜉ᜔</span>)
-  - <span lang="en-PH">SB19</span> (<span lang="tl-Tglg">ᜐ᜔ᜊ᜔19</span>)
+  - <bdi lang="en-PH">1st.One</bdi>
+  - <bdi lang="en-PH">4th Impact</bdi>
+  - <bdi lang="fil">Alamat</bdi> / <bdi lang="tl-Tglg">ᜀᜎᜋᜆ᜔</bdi>
+  - <bdi lang="en-PH">BGYO</bdi> (<bdi lang="tl-Tglg">ᜊ᜔ᜄ᜔ᜌ᜔ᜂ</bdi>)
+  - <bdi lang="fil">Bini</bdi> (<bdi lang="tl-Tglg">ᜊᜒᜈᜒ</bdi>)
+  - <bdi lang="en-PH">MNL48</bdi> (<bdi lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</bdi>)
+  - <bdi lang="en-PH">Press Hit Play</bdi> (<bdi lang="en-PH">PHP</bdi> / <bdi lang="tl-Tglg">ᜉ᜔ᜑ᜔ᜉ᜔</bdi>)
+  - <bdi lang="en-PH">SB19</bdi> (<bdi lang="tl-Tglg">ᜐ᜔ᜊ᜔19</bdi>)
 - Bonus: Opening performances from
-  - <span lang="en-PH">Kaia</span> (<span lang="til-Tglg">ᜃᜌ</span>)
-  - <span lang="en-PH">Vxon</span>
+  - <bdi lang="en-PH">Kaia</bdi> (<bdi lang="til-Tglg">ᜃᜌ</bdi>)
+  - <bdi lang="en-PH">Vxon</bdi>
 - Extra: fan activities
 
 {{< video

@@ -54,20 +54,20 @@ On this tablet, the 6<sup>th</sup> commandment is also the first, and it happens
 <sup>[13]</sup> "You shall not murder."
 {{% /quotebox %}}
 
-*Murder.* A commandment not to murder. Does it pertain to animals? No. When Noah and his family offered their thanksgiving to <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YAHUWAH) after the flood, they were given permission to eat clean animals (not unclean animals). Hence it was written as "not to murder" and not "not to kill".
+*Murder.* A commandment not to murder. Does it pertain to animals? No. When Noah and his family offered their thanksgiving to <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH) after the flood, they were given permission to eat clean animals (not unclean animals). Hence it was written as "not to murder" and not "not to kill".
 
 *Murder* pertains to killing your fellow human beings.
 
 There are only two examples that killing a human being has been allowed in the Scripture.
 <ul class="custom_liststyle checkmark list-red">
-  <li>By order of <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YAHUWAH) because
+  <li>By order of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH) because
     <ul class="custom_liststyle omark-black list-red">
       <li>Of sin</li>
       <li>Of war</li>
       <li>Of paganism</li>
     </ul>
   </li>
-  <li>Of sin, as found and judged based on the set process and standard by <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YAHUWAH)
+  <li>Of sin, as found and judged based on the set process and standard by <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH)
     <ul class="custom_liststyle checkmark-heavy list-green">
       <li>There must be at least two (2) witnesses that can stand scrutiny, are blameless -- which we do not have today</li>
       <li>Must be tried outside of the city gates -- which most cities in the world do not have today</li>
@@ -76,7 +76,7 @@ There are only two examples that killing a human being has been allowed in the S
   </li>
 </ul>
 
-Personally, I have not found any verse allowing such during wars not ordered by <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YAHUWAH); or of self-defense. When the original Israel waged a war against their enemies, it was because of "sin". Either them being punished for they turned their backs on <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YAHUWAH), or they had and must remove any pagan influences around them lest they too fall once again to its lure.
+Personally, I have not found any verse allowing such during wars not ordered by <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH); or of self-defense. When the original Israel waged a war against their enemies, it was because of "sin". Either them being punished for they turned their backs on <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH), or they had and must remove any pagan influences around them lest they too fall once again to its lure.
 
 Protecting and saving a family member. A good example was when Abram (later Abraham) saved his nephew Lot when he was attacked and captured by foreign kings. Abram took with him 318 trained men from his own household and went after them. He was able to rescue Lot and his men, women, and servants, together with all their livestocks and other possessions.
 

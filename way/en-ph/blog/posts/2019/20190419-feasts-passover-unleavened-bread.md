@@ -44,12 +44,12 @@ avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 #rel = "noopener external nofollow"
 +++
 
-The first and second of seven Feasts of <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH) is Pesach or Passover and Matstsah or Unleavened Bread. The Feast of Pesach / Passover is tonight at sundown while the Feast of Matstsah / Unleavened Bread begins on the fifteenth day (sunrise is the beginning of a day) and ends on the twenty-first day at sundown (sunset ends a day).
+The first and second of seven Feasts of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH) is Pesach or Passover and Matstsah or Unleavened Bread. The Feast of Pesach / Passover is tonight at sundown while the Feast of Matstsah / Unleavened Bread begins on the fifteenth day (sunrise is the beginning of a day) and ends on the twenty-first day at sundown (sunset ends a day).
 
 <!--more-->
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Shemot (Exodus) 12:14-15; 18-20" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
-<sup>14</sup> And this day shall be unto you for a memorial; and ye shall keep it a feast to <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH) throughout your generations; ye shall keep it a feast by an ordinance forever.
+<sup>14</sup> And this day shall be unto you for a memorial; and ye shall keep it a feast to <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH) throughout your generations; ye shall keep it a feast by an ordinance forever.
 
 <sup>15</sup> Seven days shall ye eat Matstsah (Unleavened Bread); even the first day ye shall put away leaven out of your houses: for whosoever eats chamets (leavened bread) from the first day until the seventh day, that soul shall be cut off from Yisra'El.
 
@@ -61,26 +61,26 @@ The first and second of seven Feasts of <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄�
 {{% /quotebox %}}
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Vayiqra (Leviticus) 23:5-6" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
-<sup>5</sup> In the fourteenth day of the first month at evening is <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH)'s Pesach.
+<sup>5</sup> In the fourteenth day of the first month at evening is <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH)'s Pesach.
 
-<sup>6</sup> And on the fifteenth day of the same month is the Feast of Matstsah (Unleavened Bread) unto <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH): seven days ye must eat Matstsah (Unleavened Bread).
+<sup>6</sup> And on the fifteenth day of the same month is the Feast of Matstsah (Unleavened Bread) unto <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH): seven days ye must eat Matstsah (Unleavened Bread).
 {{% /quotebox %}}
 
-The **Feast of Pesach / Passover** is a foreshadow of our <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (Yahushua) Messiah's offer of salvation. Just as the blood of a lamb on the door of the Israelites signals that the house should be passed over by death, by accepting <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (Yahushua) Messiah as our Saviour the precious blood he shed washes away cover our sins and stops the second death from having power over us.
+The **Feast of Pesach / Passover** is a foreshadow of our <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua) Messiah's offer of salvation. Just as the blood of a lamb on the door of the Israelites signals that the house should be passed over by death, by accepting <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua) Messiah as our Saviour the precious blood he shed washes away cover our sins and stops the second death from having power over us.
 
-While the **Feast of Matstsah or Unleavened Bread** is a type of our new journey in life. Just as the Israelites only have to eat matstsah or unleavened bread when they fled Mitsriym (Egypt) and into the wilderness, likewise we were saved by <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH) through his one and only Son <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (Yahushua) from the power of Mitsriym (Egypt) which symbolises sin and our fallen nature. Our journey to the wilderness begins where we will be taught by <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (Yahushua) and continually test our faith to make us resilient and stronger, just as the Israelites were taught by <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH) in the wilderness, and their faith tested multiple times.
+While the **Feast of Matstsah or Unleavened Bread** is a type of our new journey in life. Just as the Israelites only have to eat matstsah or unleavened bread when they fled Mitsriym (Egypt) and into the wilderness, likewise we were saved by <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH) through his one and only Son <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua) from the power of Mitsriym (Egypt) which symbolises sin and our fallen nature. Our journey to the wilderness begins where we will be taught by <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua) and continually test our faith to make us resilient and stronger, just as the Israelites were taught by <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH) in the wilderness, and their faith tested multiple times.
 
-Together, both the Feast of Pesach / Passover and the Feast of Matstsah or Unleavened Bread points to our <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (Yahushua) Messiah's famous "Last Supper" or "Communion".
+Together, both the Feast of Pesach / Passover and the Feast of Matstsah or Unleavened Bread points to our <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua) Messiah's famous "Last Supper" or "Communion".
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Lukas (Luke) 22:19-20" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
-<sup>19</sup> And he took <bdo dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdo> (eth)-the bread, and gave thanks, and broke it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me.
+<sup>19</sup> And he took <bdi dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdi> (eth)-the bread, and gave thanks, and broke it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me.
 
 <sup>20</sup> Likewise also the cup after supper, saying, This cup is the Renewed Covenant in my blood, which is shed for you.
 {{% /quotebox %}}
 
-Tonight and for the next seven days, let us remember what our Abba (Father) <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH) did to the Israelites, who some of us are our ancestors by blood, and later when our Abba (Father) <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH) gave his one and only begotten Son <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (Yahushua) to become our Messiah (Saviour) should we accept him and confess He was sent here by the Most High to save you and me.
+Tonight and for the next seven days, let us remember what our Abba (Father) <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH) did to the Israelites, who some of us are our ancestors by blood, and later when our Abba (Father) <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH) gave his one and only begotten Son <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua) to become our Messiah (Saviour) should we accept him and confess He was sent here by the Most High to save you and me.
 
-Happy Pesach and Matstsah my brothers and sisters in <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄</bdo> (YAH).
+Happy Pesach and Matstsah my brothers and sisters in <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄</bdi> (YAH).
 
 ## San Ildefonso Catholic Reenactment
 

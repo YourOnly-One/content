@@ -61,15 +61,15 @@ Music idols are generally 12–25 year old entertainers marketed for their visua
 
 ### Idols are beautiful, pure, and multitalented
 
-1933 Japan: <span lang="ja-Latn">Matsuko Ashita</span> (<span lang="ja">あした まつこ</span> / <span lang="ja">明日 待子</span>) became the very first music idol in history. She was a theater actress with a captivating smile, unmatched beauty and immense cuteness, a good dancer and singer, a model, and a natural entertainer.
+1933 Japan: <bdi lang="ja-Latn">Matsuko Ashita</bdi> (<bdi lang="ja">あした まつこ</bdi> / <bdi lang="ja">明日 待子</bdi>) became the very first music idol in history. She was a theater actress with a captivating smile, unmatched beauty and immense cuteness, a good dancer and singer, a model, and a natural entertainer.
 
 Idols are an ideal person one wants to be and as such are expected to be perfect in many ways. They should be beautiful specimens, have an aura of innocence  and purity, be cute or cool, and demonstrate various talents. They are more than entertainers, they represent the dreams of every person.
 
 ### Idols undergo a trainee program
 
-1962 Japan: Johnny <span lang="ja-Latn">Kitagawa</span> (<span lang="ja">ジャニー喜多川</span>) developed the very first idol trainee system. Through it his company, Johnny & Associates (<span lang="ja">株式会社ジャニーズ事務所</span>), produced many of the first idol groups in the world.
+1962 Japan: Johnny <bdi lang="ja-Latn">Kitagawa</bdi> (<bdi lang="ja">ジャニー喜多川</bdi>) developed the very first idol trainee system. Through it his company, Johnny & Associates (<bdi lang="ja">株式会社ジャニーズ事務所</bdi>), produced many of the first idol groups in the world.
 
-1996 South Korea: SM Entertainment (<span lang="ko">SM 엔터테인먼트</span>) founder, Lee Soo Man (<span lang="ko">이수만</span>), brought the Japanese idol trainee system in Korea. Through Korea's cultural technology, an adaptation of the Japanese idol trainee system, the K-pop idol industry achieved global status in a short amount of time.
+1996 South Korea: SM Entertainment (<bdi lang="ko">SM 엔터테인먼트</bdi>) founder, Lee Soo Man (<bdi lang="ko">이수만</bdi>), brought the Japanese idol trainee system in Korea. Through Korea's cultural technology, an adaptation of the Japanese idol trainee system, the K-pop idol industry achieved global status in a short amount of time.
 
 An idol trainee program is an intensive training in singing while dancing an incredibly synchronized choreography. It sometimes include training in social skills, how to act and answer in interviews and variety shows, learning new languages, and specialized skills. It also serves as a chance for the idol to master their craft.
 
@@ -169,23 +169,23 @@ There are additional characteristics for groups to be considered an idol. These 
   - acting
 - Members usually have a solo or duo part in a song
 
-This format is seen in Japanese idol groups like Morning Musume (<span lang="ja">モーニング娘</span> / <span lang="ja-Latn">Mōningu Musume</span>) [^morning-musume-songs-i-wish] [^morning-musume-songs-the-peace] and Onyanko Club (<span lang="ja">おニャン子クラブ</span> / <span lang="ja-Latn">Onyanko Kurabu</span>) [^onyanko-club-songs-sailor-fuku-o-nugasanai-de]; in Korean idol groups like 2NE1 (<span lang="ko">투애니원</span>) [^2ne1-songs-fire] [^2ne1-songs-i-dont-care] and Girls' Generation (<span lang="ko">소녀시대</span> / <span lang="ko-Latn">So Nyeo Shi Dae</span> (<span lang="ko-Latn">SNSD</span>)) [^snsd-songs-gee] [^snsd-songs-genie]; and in Pinoy idol groups like Alamat (<span lang="tl-Tglg">ᜀᜎᜋᜆ᜔</span>) [^alamat-songs-kbye], Bini (<span lang="tl-Tglg">ᜊᜒᜈᜒ</span>) [^bini-songs-born-to-win], MNL48 (<span lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</span>) [^mnl48-songs-pag-ibig-fortune-cookie], and UGG (<span lang="tl-Tglg">ᜂᜄ᜔ᜄ᜔</span> / U Go Girls) [^ugg-songs-kalimot].
+This format is seen in Japanese idol groups like Morning Musume (<bdi lang="ja">モーニング娘</bdi> / <bdi lang="ja-Latn">Mōningu Musume</bdi>) [^morning-musume-songs-i-wish] [^morning-musume-songs-the-peace] and Onyanko Club (<bdi lang="ja">おニャン子クラブ</bdi> / <bdi lang="ja-Latn">Onyanko Kurabu</bdi>) [^onyanko-club-songs-sailor-fuku-o-nugasanai-de]; in Korean idol groups like 2NE1 (<bdi lang="ko">투애니원</bdi>) [^2ne1-songs-fire] [^2ne1-songs-i-dont-care] and Girls' Generation (<bdi lang="ko">소녀시대</bdi> / <bdi lang="ko-Latn">So Nyeo Shi Dae</bdi> (<bdi lang="ko-Latn">SNSD</bdi>)) [^snsd-songs-gee] [^snsd-songs-genie]; and in Pinoy idol groups like Alamat (<bdi lang="tl-Tglg">ᜀᜎᜋᜆ᜔</bdi>) [^alamat-songs-kbye], Bini (<bdi lang="tl-Tglg">ᜊᜒᜈᜒ</bdi>) [^bini-songs-born-to-win], MNL48 (<bdi lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</bdi>) [^mnl48-songs-pag-ibig-fortune-cookie], and UGG (<bdi lang="tl-Tglg">ᜂᜄ᜔ᜄ᜔</bdi> / U Go Girls) [^ugg-songs-kalimot].
 
 [^morning-musume-songs-i-wish]: [Morning Musume] YouTube: [I Wish](https://www.youtube.com/watch?v=GzSzUhUPNdI "Morning Musume: I Wish")
 [^morning-musume-songs-the-peace]: [Morning Musume] YouTube: [The Peace!](https://www.youtube.com/watch?v=Ivu76DXX2Es "Morning Musume: The Peace!")
-[^onyanko-club-songs-sailor-fuku-o-nugasanai-de]: [Onyanko Club] YouTube: [<span lang="ja-Latn">Sailor Fuku o Nugasanai de</span> (<span lang="ja">セーラー服を脱がさないで</span> / <span lang="ja-Latn">Sērā Fuku o Nugasanai de</span>)](https://www.youtube.com/watch?v=83uFs-o1yBA "Onyanko Club: Sailor Fuku o Nugasanai de (セーラー服を脱がさないで / Sērā Fuku o Nugasanai de)")
+[^onyanko-club-songs-sailor-fuku-o-nugasanai-de]: [Onyanko Club] YouTube: [<bdi lang="ja-Latn">Sailor Fuku o Nugasanai de</bdi> (<bdi lang="ja">セーラー服を脱がさないで</bdi> / <bdi lang="ja-Latn">Sērā Fuku o Nugasanai de</bdi>)](https://www.youtube.com/watch?v=83uFs-o1yBA "Onyanko Club: Sailor Fuku o Nugasanai de (セーラー服を脱がさないで / Sērā Fuku o Nugasanai de)")
 [^2ne1-songs-fire]: [2NE1] YouTube: [Fire](https://www.youtube.com/watch?v=5S1Z2sUFTGo "2NE1: Fire")
 [^2ne1-songs-i-dont-care]: [2NE1] YouTube: [I Don't Care](https://www.youtube.com/watch?v=FVIdyq_OlNc "2NE1: I Don't Care")
 [^snsd-songs-gee]: [Girls' Generation] YouTube: [Gee](https://www.youtube.com/watch?v=U7mPqycQ0tQ "Girls' Generation: Gee")
 [^snsd-songs-genie]: [Girls' Generation] YouTube: [Genie](https://www.youtube.com/watch?v=6SwiSpudKWI "Girls' Generation: Genie")
-[^alamat-songs-kbye]: [Alamat (<span lang="tl-Tglg">ᜀᜎᜋᜆ᜔</span>)] YouTube: [kbye](https://www.youtube.com/watch?v=I7vPP-yIhY0 "Alamat: kbye")
-[^bini-songs-born-to-win]: [Bini (<span lang="tl-Tglg">ᜊᜒᜈᜒ</span>)] YouTube: [Born To Win](https://www.youtube.com/watch?v=Lcel5TXVuRE "Bini: Born To Win")
-[^mnl48-songs-pag-ibig-fortune-cookie]: [MNL48 (<span lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</span>)] YouTube: [Pag-ibig Fortune Cookie](https://www.youtube.com/watch?v=52EeHPhSk5c "MNL48: Pag-ibig Fortune Cookie")
-[^ugg-songs-kalimot]: [UGG (<span lang="tl-Tglg">ᜂᜄ᜔ᜄ᜔</span> / U Go Girls)] YouTube: [Kalimot](https://www.youtube.com/watch?v=V87iMAmwRLY "UGG (U Go Girls): Kalimot")
+[^alamat-songs-kbye]: [Alamat (<bdi lang="tl-Tglg">ᜀᜎᜋᜆ᜔</bdi>)] YouTube: [kbye](https://www.youtube.com/watch?v=I7vPP-yIhY0 "Alamat: kbye")
+[^bini-songs-born-to-win]: [Bini (<bdi lang="tl-Tglg">ᜊᜒᜈᜒ</bdi>)] YouTube: [Born To Win](https://www.youtube.com/watch?v=Lcel5TXVuRE "Bini: Born To Win")
+[^mnl48-songs-pag-ibig-fortune-cookie]: [MNL48 (<bdi lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</bdi>)] YouTube: [Pag-ibig Fortune Cookie](https://www.youtube.com/watch?v=52EeHPhSk5c "MNL48: Pag-ibig Fortune Cookie")
+[^ugg-songs-kalimot]: [UGG (<bdi lang="tl-Tglg">ᜂᜄ᜔ᜄ᜔</bdi> / U Go Girls)] YouTube: [Kalimot](https://www.youtube.com/watch?v=V87iMAmwRLY "UGG (U Go Girls): Kalimot")
 
 ## What is the P-pop idol image and industry?
 
-The P-pop idol image is not new but as an industry it is. Think of <span lang="ja-Latn">Matsuko Ashita</span> (<span lang="ja">あした まつこ</span> / <span lang="ja">明日 待子</span>), she was only considered a J-pop idol decades after the trainee system was developed and the word idol was coined. In her time she was simply called an actress, a singer, and a star.
+The P-pop idol image is not new but as an industry it is. Think of <bdi lang="ja-Latn">Matsuko Ashita</bdi> (<bdi lang="ja">あした まつこ</bdi> / <bdi lang="ja">明日 待子</bdi>), she was only considered a J-pop idol decades after the trainee system was developed and the word idol was coined. In her time she was simply called an actress, a singer, and a star.
 
 The P-pop idol image and industry are no different. The Philippines already had a P-pop idol five years before the P-pop idol industry was established.
 
@@ -195,7 +195,7 @@ The trillion-peso questions are: when did the P-pop idol industry start, and who
 
 ### First solo female P-pop idol
 
-The earliest act—that passed the established criteria of an idol—was in 2004. She is widely known as projecting a wholesome image, cute, pure, friendly, an inspiration to many, and a very good role model for teenagers. She was dubbed as the <span lang="tl">Pambansang Krung-krung</span> (<span lang="tl-Tglg">ᜉᜋ᜔ᜊᜈ᜔ᜐᜅ᜔ ᜃᜓᜇᜓᜅ᜔ᜃᜓᜇᜓᜅ᜔</span> / Nation's Crazy Personality). Sandara described it as <q lang="en-PH">unique, cute, and crazy</q> [^abs-cbn-entertainment-sandara-park-krung-krung]. She is none other than Sandara Park (<span lang="ko">박산다라</span>).
+The earliest act—that passed the established criteria of an idol—was in 2004. She is widely known as projecting a wholesome image, cute, pure, friendly, an inspiration to many, and a very good role model for teenagers. She was dubbed as the <bdi lang="tl">Pambansang Krung-krung</bdi> (<bdi lang="tl-Tglg">ᜉᜋ᜔ᜊᜈ᜔ᜐᜅ᜔ ᜃᜓᜇᜓᜅ᜔ᜃᜓᜇᜓᜅ᜔</bdi> / Nation's Crazy Personality). Sandara described it as <q lang="en-PH">unique, cute, and crazy</q> [^abs-cbn-entertainment-sandara-park-krung-krung]. She is none other than Sandara Park (<bdi lang="ko">박산다라</bdi>).
 
 {{< video
   id="_IKAPJSAiSQ"
@@ -217,11 +217,11 @@ The earliest act—that passed the established criteria of an idol—was in 2004
   attribrel="noopener external"
 >}}
 
-Sandara Park (<span lang="ko">박산다라</span>) was the first runner-up in ABS-CBN's <cite lang="en-PH">Star Circle Quest</cite> in 2004. She made her singing debut that same year with the release of her eponymous album which sold more than 100,000 physical copies. It was certified platinum by the Philippines Association of the Record Industry. Her single <cite lang="en-PH">In or Out</cite> was a mega dance hit, played in major radio stations and heard in homes and parties. In an interview with Manila Bulletin, Sandara recalled how her fans sang her single with her during her promotional tour all over the Philippines. [^manila-bulletin-sandara-park-inspiring-return]
+Sandara Park (<bdi lang="ko">박산다라</bdi>) was the first runner-up in ABS-CBN's <cite><bdi lang="en-PH">Star Circle Quest</bdi></cite> in 2004. She made her singing debut that same year with the release of her eponymous album which sold more than 100,000 physical copies. It was certified platinum by the Philippines Association of the Record Industry. Her single <cite><bdi lang="en-PH">In or Out</bdi></cite> was a mega dance hit, played in major radio stations and heard in homes and parties. In an interview with Manila Bulletin, Sandara recalled how her fans sang her single with her during her promotional tour all over the Philippines. [^manila-bulletin-sandara-park-inspiring-return]
 
-While Sandara (<span lang="ko">산다라</span>) is pure Korean, her songs were composed by Filipinos. In <cite>[What is the difference between P-pop and OPM]({{< ref path="ppop-vs-opm.md" >}})</cite>, P-pop, or ***P**inoy **Pop**ular music*, was defined as <q>all music composed or performed by a Filipino</q>. It is <q>simply another term for the entirety of Pinoy music regardless if the music is mainstream, indie, underground, from Filipinos abroad, or was performed by a foreigner</q>.
+While Sandara (<bdi lang="ko">산다라</bdi>) is pure Korean, her songs were composed by Filipinos. In <cite>[What is the difference between P-pop and OPM]({{< ref path="ppop-vs-opm.md" >}})</cite>, P-pop, or ***P**inoy **Pop**ular music*, was defined as <q>all music composed or performed by a Filipino</q>. It is <q>simply another term for the entirety of Pinoy music regardless if the music is mainstream, indie, underground, from Filipinos abroad, or was performed by a foreigner</q>.
 
-Sandara (<span lang="ko">산다라</span>) is the first P-pop idol.
+Sandara (<bdi lang="ko">산다라</bdi>) is the first P-pop idol.
 
 [^manila-bulletin-sandara-park-inspiring-return]: Manila Bulletin: [Inspiring Return](https://web.archive.org/web/20180410135731/https://entertainment.mb.com.ph/2017/05/11/inspiring-return/ "Manila Bulletin: Inspiring Return")
 [^abs-cbn-entertainment-sandara-park-krung-krung]: ABS-CBN Entertainment YouTube: [Where did Krung-Krung start?](https://www.youtube.com/watch?v=xB5b1PSGnFQ "ABS-CBN Entertainment: Where did Krung-Krung start?")
@@ -249,9 +249,9 @@ Sandara (<span lang="ko">산다라</span>) is the first P-pop idol.
   attribrel="noopener external"
 >}}
 
-The title for the first P-pop idol girl group goes to Pop Girls, they debuted on December 13, 2009 with their song <cite lang="en-PH">Crazy Crazy</cite>. While Pop Girls was inspired by North American and English girl groups, they passed the criteria of an Asian idol girl group.
+The title for the first P-pop idol girl group goes to Pop Girls, they debuted on December 13, 2009 with their song <cite><bdi lang="en-PH">Crazy Crazy</bdi></cite>. While Pop Girls was inspired by North American and English girl groups, they passed the criteria of an Asian idol girl group.
 
-Pop Girls started with members Jaliah and Mariam Baustria (Filipino-Lebanese twins), Shy Carlos (Filipino-Swiss), Rose Van Ginkel (Filipino-Dutch), and Nadine Lustre. They released studio albums and digital singles; and members graduated and new members joined. They had promotional tours and appeared on shows, until all the members graduated on April 12, 2017 after the release of their farewell song <cite lang="tl">Prinsesa</cite> (<cite lang="tl-Tglg">ᜉᜒᜇᜒᜈ᜔ᜐᜒᜐ</cite>).
+Pop Girls started with members Jaliah and Mariam Baustria (Filipino-Lebanese twins), Shy Carlos (Filipino-Swiss), Rose Van Ginkel (Filipino-Dutch), and Nadine Lustre. They released studio albums and digital singles; and members graduated and new members joined. They had promotional tours and appeared on shows, until all the members graduated on April 12, 2017 after the release of their farewell song <cite><bdi lang="tl">Prinsesa</bdi></cite> (<cite><bdi lang="tl-Tglg">ᜉᜒᜇᜒᜈ᜔ᜐᜒᜐ</bdi></cite>).
 
 ### First P-pop idol boy group
 
@@ -276,13 +276,13 @@ Pop Girls started with members Jaliah and Mariam Baustria (Filipino-Lebanese twi
   attribrel="noopener external"
 >}}
 
-In March 17, 2010, the Philippines saw its first P-pop idol boy group in XLR8. XLR8 was an 8-member idol boy group with members Arkin del Rosario, Carlo Lazerna, identical twins Meljohn and Melmar Magno, AJ Muhlach, Kiko Ramos, Caleb Santos, and Hideaki Torio. They regularly performed in GMA 7's variety show, <cite lang="en-PH">Party Pilipinas</cite>. They had one studio album (certified gold), two singles and music videos, won the Most Promising Recording/Performing Group of 2011 from the GMMSF Box-Office Entertainment Awards, and three concerts under their belt, before they went their separate ways.
+In March 17, 2010, the Philippines saw its first P-pop idol boy group in XLR8. XLR8 was an 8-member idol boy group with members Arkin del Rosario, Carlo Lazerna, identical twins Meljohn and Melmar Magno, AJ Muhlach, Kiko Ramos, Caleb Santos, and Hideaki Torio. They regularly performed in GMA 7's variety show, <cite><bdi lang="en-PH">Party Pilipinas</bdi></cite>. They had one studio album (certified gold), two singles and music videos, won the Most Promising Recording/Performing Group of 2011 from the GMMSF Box-Office Entertainment Awards, and three concerts under their belt, before they went their separate ways.
 
 ### First P-pop idol co-ed group
 
 P-pop co-ed groups are not new in the Philippines, there were the immensely popular co-ed groups Smokey Mountain from 1989 to 1995—whose songs can still be heard to this day—and the young teens known as Sugarpop from 2006 to 2009. Though, the title of the first P-pop idol co-ed group goes to RPM.
 
-RPM (<span lang="tl-Tglg">ᜇ᜔ᜉ᜔ᜋ᜔</span>), or Real Pinoy Music, was a 7-member P-pop idol co-ed group that debuted on April 21, 2010. The group was made up of Pio Balbuena, Yanna Garcia, Anna Luna, Samantha Page, Chris Salcedo, Carl Trazo, and Vince Yap.
+RPM (<bdi lang="tl-Tglg">ᜇ᜔ᜉ᜔ᜋ᜔</bdi>), or Real Pinoy Music, was a 7-member P-pop idol co-ed group that debuted on April 21, 2010. The group was made up of Pio Balbuena, Yanna Garcia, Anna Luna, Samantha Page, Chris Salcedo, Carl Trazo, and Vince Yap.
 
 {{< video
   id="RLAp9uhQFOI"

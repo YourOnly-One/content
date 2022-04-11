@@ -115,8 +115,8 @@ I also added 3 Unicode code points for inline directional use. These are:
 
 Examples:
 
-- The title of the book is: <bdo dir="rtl" lang="hbo-Hebr">𐤌𐤍𐤉𐤀 𐤋 <bdo class="reset-1_25em" dir="ltr" lang="en">C++</bdo></bdo> ("An Introduction to C++")
-- My name in Hebrew is <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤅𐤇𐤍𐤍!</bdo> (Yahuhanan)
+- The title of the book is: <bdi dir="rtl" lang="hbo-Hebr">𐤌𐤍𐤉𐤀 𐤋 <bdi class="reset-1_25em" dir="ltr" lang="en">C++</bdi></bdi> ("An Introduction to C++")
+- My name in Hebrew is <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤅𐤇𐤍𐤍!</bdi> (Yahuhanan)
 
 Without these invisible markers, in the first example, the "C++" will become "++C"; in the second example, the exclamation point "!" will be on the right side not left. Also, you would have to cheat by first typing "C++" or the exclamation point "!" before typing Hebrew just to achieve the correct format (which is not advisable as far as semantics, relationships, and typing-flow are concerned). See [https://www.w3.org/International/articles/inline-bidi-markup/](https://www.w3.org/International/articles/inline-bidi-markup/).
 
@@ -197,13 +197,13 @@ Without these invisible markers, in the first example, the "C++" will become "++
 
 ## Attributions
 
-### To <bdo class="font-Hebr-ancient" dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (Yahuwah) and his son <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤏</bdo> (Yahushua)
+### To <bdi class="font-Hebr-ancient" dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (Yahuwah) and his son <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤏</bdi> (Yahushua)
 
-Thank you for the strength and support. You deserve all the glory, honour, praise, and worship, now and forevermore. AHMEIN! <bdo dir="rtl" lang="hbo-Hebr">𐤄𐤋𐤋𐤅𐤉𐤄</bdo> (HalleluYAH)
+Thank you for the strength and support. You deserve all the glory, honour, praise, and worship, now and forevermore. AHMEIN! <bdi dir="rtl" lang="hbo-Hebr">𐤄𐤋𐤋𐤅𐤉𐤄</bdi> (HalleluYAH)
 
 ### Neo-Paleo Layout
 
-This site, [Neo-Paleo Layout](https://loveandtruth.net/neopaleo.html), was shown to me by brother [Ted Walther](https://www.facebook.com/tederific), I am very grateful, blessings to you from <bdo class="font-Hebr-ancient" dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (Yahuwah) and his son <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤏</bdo> (Yahushua).
+This site, [Neo-Paleo Layout](https://loveandtruth.net/neopaleo.html), was shown to me by brother [Ted Walther](https://www.facebook.com/tederific), I am very grateful, blessings to you from <bdi class="font-Hebr-ancient" dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (Yahuwah) and his son <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤏</bdi> (Yahushua).
 
 ### To all the followers of Aluahim
 

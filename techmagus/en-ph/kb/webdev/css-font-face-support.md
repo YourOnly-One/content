@@ -180,22 +180,22 @@ If you see the Baybayin writing script below, then your browser supports one of 
 
 ### Example #1
 
-- Filipino-Baybayin: <span lang="fil-Tglg">ᜀᜅ᜔ ᜊᜓᜃᜓ ᜀᜌ᜔ ᜉᜍ ᜐ ᜆᜂ ᜇᜑᜒᜎ᜔ ᜏᜎ ᜈᜅ᜔ ᜉᜓᜏᜒᜇᜒᜅ᜔ ᜋᜁᜈᜓᜋ᜔ ᜈ ᜄᜆᜐ᜔᜶</span>
+- Filipino-Baybayin: <bdi lang="fil-Tglg">ᜀᜅ᜔ ᜊᜓᜃᜓ ᜀᜌ᜔ ᜉᜍ ᜐ ᜆᜂ ᜇᜑᜒᜎ᜔ ᜏᜎ ᜈᜅ᜔ ᜉᜓᜏᜒᜇᜒᜅ᜔ ᜋᜁᜈᜓᜋ᜔ ᜈ ᜄᜆᜐ᜔᜶</bdi>
 
-- Filipino-Latin: <span lang="fil">Ang buko ay para sa tao dahil wala nang puwedeng mainom na gatas.</span>
+- Filipino-Latin: <bdi lang="fil">Ang buko ay para sa tao dahil wala nang puwedeng mainom na gatas.</bdi>
 - English: The coconut is for people because there is not enough milk to drink.
 
 ### Example #2
 
-- Filipino-Baybayin: <span lang="fil-Tglg">ᜉᜓᜏᜒᜇᜒ ᜃᜅ᜔ ᜌᜓᜋᜋᜈ᜔ ᜇᜑᜒᜎ᜔ ᜐ ᜊᜄᜓᜅ᜔ ᜍᜓᜎᜒᜆ᜶</span>
+- Filipino-Baybayin: <bdi lang="fil-Tglg">ᜉᜓᜏᜒᜇᜒ ᜃᜅ᜔ ᜌᜓᜋᜋᜈ᜔ ᜇᜑᜒᜎ᜔ ᜐ ᜊᜄᜓᜅ᜔ ᜍᜓᜎᜒᜆ᜶</bdi>
 
-- Filipino-Latin: <span lang="fil">Puwede kang yumaman dahil sa bagong roleta.</span>
+- Filipino-Latin: <bdi lang="fil">Puwede kang yumaman dahil sa bagong roleta.</bdi>
 - English: You can be rich because of the new wheel.
 
 <!--
 What are these? These are called *pangrams*. A pangram is a sentence using every letter of the alphabet at least once. The most common pangram (in English) is: *The quick brown fox jumps over the lazy dog.* Which is written in:
-* Filipino-Baybayin: <span lang="fil-Tglg">ᜀᜅ᜔ ᜋᜊᜒᜎᜒᜐ᜔ ᜈ ᜃᜌᜓᜋᜅ᜔ᜑᜒᜅ᜔ ᜐᜓᜍᜓ ᜀᜌ᜔ ᜆᜒᜈᜎᜓᜈᜈ᜔ ᜀᜅ᜔ ᜆᜆᜋᜇ᜔ᜆᜋᜇ᜔ ᜈ ᜀᜐᜓ᜶</span>
-* Filipino-Latin: <span lang="fil">Ang mabilis na kayumangging soro ay tinalunan ang tatamad-tamad na aso.</span>
+* Filipino-Baybayin: <bdi lang="fil-Tglg">ᜀᜅ᜔ ᜋᜊᜒᜎᜒᜐ᜔ ᜈ ᜃᜌᜓᜋᜅ᜔ᜑᜒᜅ᜔ ᜐᜓᜍᜓ ᜀᜌ᜔ ᜆᜒᜈᜎᜓᜈᜈ᜔ ᜀᜅ᜔ ᜆᜆᜋᜇ᜔ᜆᜋᜇ᜔ ᜈ ᜀᜐᜓ᜶</bdi>
+* Filipino-Latin: <bdi lang="fil">Ang mabilis na kayumangging soro ay tinalunan ang tatamad-tamad na aso.</bdi>
 -->
 
 Enjoy!

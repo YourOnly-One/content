@@ -304,7 +304,7 @@ If you website is mainly about Iriga and you write in your own language, then yo
 If you want to write "Happy Father's Day" in Baybayin, this is how you do it:
 
 ```html
-  <span lang="fil-Tglg">ᜋᜎᜒᜄᜌᜅ᜔ ᜀᜍᜏ᜔ ᜈᜅ᜔ ᜋᜅ ᜀᜋ</span>
+  <bdi lang="fil-Tglg">ᜋᜎᜒᜄᜌᜅ᜔ ᜀᜍᜏ᜔ ᜈᜅ᜔ ᜋᜅ ᜀᜋ</bdi>
 ```
 
 Simple? Cool! Just remember that when writing language tags, keep it as simple and as short as possible. If you do not have a need to be very specific like say `lang="bik-bcl"` then don't be! Simply use `lang="bik"`. This is especially true for blogs. So if your blog is in Filipino language (!not Tagalog!) then you use:

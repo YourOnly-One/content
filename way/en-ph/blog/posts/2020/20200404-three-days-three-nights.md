@@ -63,10 +63,10 @@ In both, there is no <q>three days and three nights in the heart of the earth</q
 For us to be able to understand Mattithyahu (Matthew) 12:40 we first need to establish an agreement: the Bible is the final authority. Simply put, if it is written <q>three days and three nights in the heart of the earth</q> then it is what must have happened.
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 12:38" srclink="" srcrel="noopener external nofollow" attribto="International Standard Version" attriblink="" attribrel="noopener external nofollow" %}}
-Then some of the scribes and Pharisees told <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (<span lang="hbo-Latn" dir="ltr">Yahushua</span>), "Teacher, we want to see a sign from you."
+Then some of the scribes and Pharisees told <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (<bdi lang="hbo-Latn" dir="ltr">Yahushua</bdi>), "Teacher, we want to see a sign from you."
 {{% /quotebox %}}
 
-This is very important for us to understand because this is the key, the sign, that <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (<span lang="hbo-Latn" dir="ltr">Yahushua</span>) or "Jesus" was indeed the Messiah. He must be <q>three days and three nights in the heart of the earth</q>. Not one day and two nights; not one day and half a night; not three days and three and half nights. There is no room for any other than <q>three days and three nights</q>.
+This is very important for us to understand because this is the key, the sign, that <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (<bdi lang="hbo-Latn" dir="ltr">Yahushua</bdi>) or "Jesus" was indeed the Messiah. He must be <q>three days and three nights in the heart of the earth</q>. Not one day and two nights; not one day and half a night; not three days and three and half nights. There is no room for any other than <q>three days and three nights</q>.
 
 ## What does it mean <q>in the heart of the earth</q>?
 
@@ -85,7 +85,7 @@ Markus (Mark) 8:31-32 sealed it. Mattithyahu (Matthew) 12:40 can not be anything
 ## The Sign of Jonah
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Yonah (Jonah) 1:17" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
-Now <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (<span lang="hbo-Latn" dir="ltr">YAHUAH</span>) had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.
+Now <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (<bdi lang="hbo-Latn" dir="ltr">YAHUAH</bdi>) had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.
 {{% /quotebox %}}
 
 When Jonah was swallowed by a great fish, he did not party, he did not socialised, he did not start to draw on the belly walls of the fish out of boredom, no, he suffered. He was alive inside the belly of the fish but was suffering. Though it was not written, he was no doubt suffering from the smell, the digestive acid of the fish's stomach, he probably had wounds too, and his guilt and fear was eating him as well.
@@ -141,10 +141,10 @@ From these verses, and directly from the Messiah himself, the <q>heart of the ea
   <li>Nighttime of 13<sup>th</sup> is Night 1: Judas betrayed the Messiah at the Garden of Gethsemane.</li>
   <li>Daytime of 14<sup>th</sup> is Day 1: "Preparation *Day*". Trial, crucifixion, death at the 9<sup>th</sup> hour (15:00 or 3:00pm)</li>
   <li>Nighttime of 14<sup>th</sup> is Night 2: Passover.
-    Vayiqra (Leviticus) 23:5 - <q>In the fourteenth day of the first month at evening is <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (<span lang="hbo-Latn" dir="ltr">YAHUAH</span>)'s passover.</q>
+    Vayiqra (Leviticus) 23:5 - <q>In the fourteenth day of the first month at evening is <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (<bdi lang="hbo-Latn" dir="ltr">YAHUAH</bdi>)'s passover.</q>
   </li>
   <li>Daytime of 15<sup>th</sup> is Day 2: Sabbath Day and is also the first day of the Feast of Unleavened Bread.
-    Vayiqra (Leviticus) 23:6 - <q>And on the fifteenth day of the same month is the feast of unleavened bread unto <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (<span lang="hbo-Latn" dir="ltr">YAHUAH</span>): seven days ye must eat unleavened bread.</q>
+    Vayiqra (Leviticus) 23:6 - <q>And on the fifteenth day of the same month is the feast of unleavened bread unto <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (<bdi lang="hbo-Latn" dir="ltr">YAHUAH</bdi>): seven days ye must eat unleavened bread.</q>
   </li>
   <li>Nighttime of 15<sup>th</sup> is Night 3</li>
   <li>Daytime of 16<sup>th</sup> is Day 3: Resurrection Day</li>

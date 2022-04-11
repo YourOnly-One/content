@@ -52,16 +52,16 @@ In this post, we will analyse the popularly called "The Lord's Prayer".
 
 ## "The Lord's Prayer"
 
-Christianity has called this prayer as *The Lord's Prayer* but in truth, it is not. If we read the whole chapter, our Master and Messiah, <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (Yahushua) ([learn why "Yahushua"]({{< ref "/20160203-messiah-yahushua-yahusha.md" >}})), was teaching us by giving an example of a prayer. He was not praying; and it was not meant to be repeated endlessly.
+Christianity has called this prayer as *The Lord's Prayer* but in truth, it is not. If we read the whole chapter, our Master and Messiah, <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua) ([learn why "Yahushua"]({{< ref "/20160203-messiah-yahushua-yahusha.md" >}})), was teaching us by giving an example of a prayer. He was not praying; and it was not meant to be repeated endlessly.
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:7" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
 "And when you are praying, do not use meaningless repetition as the pagans do, for they suppose that they will be heard for their many words."
 {{% /quotebox %}}
 
-What was our Messiah <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (Yahushua)'s instruction on how we should pray? It is all in the <em>example</em> prayer he gave us. We do not need to repeat this <em>example</em> prayer, what we need is to understand the parts of a meaningful prayer and pray that way, as <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (Yahushua) instructed.
+What was our Messiah <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua)'s instruction on how we should pray? It is all in the <em>example</em> prayer he gave us. We do not need to repeat this <em>example</em> prayer, what we need is to understand the parts of a meaningful prayer and pray that way, as <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua) instructed.
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:9-13" srclink="" srcrel="noopener external nofollow" attribto="eth-Cepher" attriblink="" attribrel="noopener external nofollow" %}}
-<sup>9</sup> "After this manner therefore pray ye: 'Our Father who established yeshu'ah in the heavens, Exalted is your name. <sup>10</sup> Your Kingdom come. Your will be done in earth, as in the heavens. <sup>11</sup> Give us this day our daily **<bdo dir="rtl" lang="he">את</bdo>** ***eth***-bread. <sup>12</sup> And forgive us our transgressions, as we forgive those who transgress against us. <sup>13</sup> And lead us not into the evil inclination, but deliver us from the outer darkness: For yours is the Kingdom, and the power, and the glory, forever. Amein.'"
+<sup>9</sup> "After this manner therefore pray ye: 'Our Father who established yeshu'ah in the heavens, Exalted is your name. <sup>10</sup> Your Kingdom come. Your will be done in earth, as in the heavens. <sup>11</sup> Give us this day our daily **<bdi dir="rtl" lang="he">את</bdi>** ***eth***-bread. <sup>12</sup> And forgive us our transgressions, as we forgive those who transgress against us. <sup>13</sup> And lead us not into the evil inclination, but deliver us from the outer darkness: For yours is the Kingdom, and the power, and the glory, forever. Amein.'"
 {{% /quotebox %}}
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:9-13" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
@@ -70,7 +70,7 @@ What was our Messiah <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bd
 
 ## Parts of A Meaningful Prayer
 
-In the example prayer <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (Yahushua) gave, a lot of things were very clear. Let's analyse each and establish a common ground.
+In the example prayer <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua) gave, a lot of things were very clear. Let's analyse each and establish a common ground.
 
 ### Praise Our Father and His Name
 
@@ -82,7 +82,7 @@ We pray to the Father who is in the heavens. We are also to exalt or set-apart t
 
 Now how can we exalt the Father's Name if we do not know His Name? If we believe, according to Christianity, that the Father's Name was "lost [in translation]", then how can we exalt His Name? We can not. The Father's Name was never "lost", His Name was hidden from us by those who think that [1] it is their job to protect the set-apart Name of the Father; and/or [2] they do not want us to call on the name of the Father because He is the Most High and we are not worthy.
 
-To keep us within our subject today, the Father's Name is <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (modern Hebrew: <bdo dir="rtl" lang="he">יהוה</bdo>) pronounced in Hebrew as "yah-hu-ah" and is transliterated as "YAHUAH", "YaHuWaH", or "YHWH". (It will be discussed in-depth in another post.)
+To keep us within our subject today, the Father's Name is <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (modern Hebrew: <bdi dir="rtl" lang="he">יהוה</bdi>) pronounced in Hebrew as "yah-hu-ah" and is transliterated as "YAHUAH", "YaHuWaH", or "YHWH". (It will be discussed in-depth in another post.)
 
 ### Acknowledge and Submit to Our Father
 
@@ -105,16 +105,16 @@ Prayer is asking. Requesting politely. Humbly. Thus, when praying, the second th
 ### Ask for Bread (Sustenance)
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:11" srclink="" srcrel="noopener external nofollow" attribto="eth-Cepher" attriblink="" attribrel="noopener external nofollow" %}}
-<sup>11</sup> "'Give us this day our daily **<bdo dir="rtl" lang="he">את</bdo>** ***eth***-bread.'"
+<sup>11</sup> "'Give us this day our daily **<bdi dir="rtl" lang="he">את</bdi>** ***eth***-bread.'"
 {{% /quotebox %}}
 
 In most translations, verse 12 was simply translated as <q>Give us each day our daily bread</q> [Literal English Version]. The first impression is the literal bread or food. It could even be money because how can we buy food without it. We are asking for blessings, in other words.
 
-There is nothing wrong with this understanding of this verse. However, in the Hebrew language, there is a deeper meaning to this "bread" when it is read from its original written language. The eth-Cepher translation preserved this as shown: <q>**<bdo dir="rtl" lang="he">את</bdo>** ***eth***-bread.</q>
+There is nothing wrong with this understanding of this verse. However, in the Hebrew language, there is a deeper meaning to this "bread" when it is read from its original written language. The eth-Cepher translation preserved this as shown: <q>**<bdi dir="rtl" lang="he">את</bdi>** ***eth***-bread.</q>
 
 The Hebrew letters are the Aleph and Tau. The First and the Last. With the "eth" left intact in the translation, the bread was not just a literal bread or money or blessing but rather the everlasting bread, which is the Word of our Father who is in heaven.
 
-#### Who is the Word of our Father <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH)?
+#### Who is the Word of our Father <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH)?
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Yahuhanan (John) 1:1-5; 14" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>1</sup> In *the* beginning was the word, and the word was with Elohim, and the word was Elohim. <sup>2</sup> The same was in the beginning with Elohim. <sup>3</sup> All things came into being through Him. Without Him nothing has come into being, that has come to be. <sup>4</sup> In Him was life, and the life was the light of men. <sup>5</sup> The light shines in the darkness, and the darkness has not overcome it.
@@ -125,14 +125,14 @@ The Hebrew letters are the Aleph and Tau. The First and the Last. With the "eth"
 #### Who is the Bread of Life?
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Yahuhanan (John) 6:35" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
-<sup>35</sup> <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> said to them, "I am the bread of life. He who comes to Me will not be hungry, and he who believes in Me will never thirst."
+<sup>35</sup> <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> said to them, "I am the bread of life. He who comes to Me will not be hungry, and he who believes in Me will never thirst."
 {{% /quotebox %}}
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Yahuhanan (John) 6:51" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>51</sup> "I am the living bread which came down out of heaven. If anyone eats of this bread, he will live to the age. Yes, the bread which I will give for the life of the world is My flesh."
 {{% /quotebox %}}
 
-We ask our Father in heaven to give us our daily bread. It means, we ask <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH) to teach us daily, to give us His Word, that we may grow spiritually and have the power to trample on snakes and scorpions, and to overcome all the power of the enemy (Lukas (Luke) 10:19; Ephesious (Ephesians) 6:11).
+We ask our Father in heaven to give us our daily bread. It means, we ask <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH) to teach us daily, to give us His Word, that we may grow spiritually and have the power to trample on snakes and scorpions, and to overcome all the power of the enemy (Lukas (Luke) 10:19; Ephesious (Ephesians) 6:11).
 
 ### Confess our sins and forgive others
 

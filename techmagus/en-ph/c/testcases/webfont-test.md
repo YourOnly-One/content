@@ -45,9 +45,9 @@ type = "article"                                                           # art
   #rel = "noopener external nofollow"
 +++
 
-<span lang="fil-Tglg">ᜋᜊᜓᜑᜌ᜔</span>
+<bdi lang="fil-Tglg">ᜋᜊᜓᜑᜌ᜔</bdi>
 
-If you can see the Filipino greeting *<span lang="fil">Mabuhay</span>* above in **Baybayin** script, your browser have support for [webfonts]({{< ref "css-font-face-support.md" >}} "How-To Implement Cross-Browser @font-face Support"). You should see the actual fonts of the websites that use webfonts (a.k.a. CSS2 @font-face rule) - as the designer intended.
+If you can see the Filipino greeting *<bdi lang="fil">Mabuhay</bdi>* above in **Baybayin** script, your browser have support for [webfonts]({{< ref "css-font-face-support.md" >}} "How-To Implement Cross-Browser @font-face Support"). You should see the actual fonts of the websites that use webfonts (a.k.a. CSS2 @font-face rule) - as the designer intended.
 
 <!--more-->
 
@@ -74,7 +74,7 @@ For example, all my sites are licensed under a Creative Commons Attribution-Shar
 
 If you can not see anything, then your browser does not support the CSS2 @font-face rule. Time to upgrade your browser or switch to a better one.
 
-<span lang="fil-Tglg">ᜋᜍᜋᜒᜅ᜔ ᜐᜎᜋᜆ᜔ ᜐ ᜉᜄ᜔ᜊᜒᜐᜒᜆ᜶</span> (Thank you for visiting.)
+<bdi lang="fil-Tglg">ᜋᜍᜋᜒᜅ᜔ ᜐᜎᜋᜆ᜔ ᜐ ᜉᜄ᜔ᜊᜒᜐᜒᜆ᜶</bdi> (Thank you for visiting.)
 
 ---
 

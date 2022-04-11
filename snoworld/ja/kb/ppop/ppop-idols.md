@@ -69,7 +69,7 @@ P-POPアイドル業界がいつ始まったかを知るには、まずアイド
 
 1962年日本： ジャニー喜多川は最初のアイドル研修生システムを開発しました。 それを通して彼の会社、株式会社ジャニーズ事務所は、世界で最初のアイドルグループの多くを生み出しました。
 
-1996韓国：SMエンターテイメント（<span lang="ko">SM 엔터테인먼트</span>）の創設者、イ・スマン（<span lang="ko">이수만</span>）は、韓国に日本のアイドル研修生システムをもたらしました。 韓国の文化技術、日本のアイドル研修生制度の適応を通じて、K-POPアイドル業界は短期間で世界的な地位を獲得しました。
+1996韓国：SMエンターテイメント（<bdi lang="ko">SM 엔터테인먼트</bdi>）の創設者、イ・スマン（<bdi lang="ko">이수만</bdi>）は、韓国に日本のアイドル研修生システムをもたらしました。 韓国の文化技術、日本のアイドル研修生制度の適応を通じて、K-POPアイドル業界は短期間で世界的な地位を獲得しました。
 
 アイドル研修生プログラムは、信じられないほど同期した振り付けを踊りながら歌う集中的なトレーニングです。 社会的スキルのトレーニング、インタビューやバラエティ番組での行動と回答の方法、新しい言語の学習、専門的なスキルが含まれることもあります。 それはまた、アイドルが彼らの技術を習得する機会としても役立ちます。
 
@@ -169,19 +169,19 @@ P-POPアイドル業界がいつ始まったかを知るには、まずアイド
   - 演技
 - メンバーは通常、曲の中でソロまたはデュオのパートを持っています
 
-このフォーマットは、モーニング娘 [^morning-musume-songs-i-wish] [^morning-musume-songs-the-peace]。やおニャン子クラブ [^onyanko-club-songs-sailor-fuku-o-nugasanai-de] などの日本のアイドルグループで見られます。 トゥアニーワン（<span lang="ko">투애니원</span> / <span lang="en">2NE1</span>） [^2ne1-songs-fire] [^2ne1-songs-i-dont-care] や少女時代（<span lang="ko">소녀시대</span> / <span lang="en">Girls' Generation</span> / <span lang="ko-Latn">So Nyeo Shi Dae</span>（<span lang="ko-Latn">SNSD</span>）） [^snsd-songs-gee] [^snsd-songs-genie] のような韓国のアイドルグループで。 伝説（<span lang="tl">Alamat</span>（<span lang="tl-Tglg">ᜀᜎᜋᜆ᜔</span>）） [^alamat-songs-kbye]、ビニ（<span lang="tl">Bini</span>（<span lang="tl-Tglg">ᜊᜒᜈᜒ</span>）） [^bini-songs-born-to-win]、<span lang="en-PH">MNL48</span>（<span lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</span>） [^mnl48-songs-pag-ibig-fortune-cookie]、<span lang="en-PH">UGG</span>（<span lang="tl-Tglg">ᜂᜄ᜔ᜄ᜔</span> / U Go Girls） [^ugg-songs-kalimot] などのフィリピンのアイドルグループで。
+このフォーマットは、モーニング娘 [^morning-musume-songs-i-wish] [^morning-musume-songs-the-peace]。やおニャン子クラブ [^onyanko-club-songs-sailor-fuku-o-nugasanai-de] などの日本のアイドルグループで見られます。 トゥアニーワン（<bdi lang="ko">투애니원</bdi> / <bdi lang="en">2NE1</bdi>） [^2ne1-songs-fire] [^2ne1-songs-i-dont-care] や少女時代（<bdi lang="ko">소녀시대</bdi> / <bdi lang="en">Girls' Generation</bdi> / <bdi lang="ko-Latn">So Nyeo Shi Dae</bdi>（<bdi lang="ko-Latn">SNSD</bdi>）） [^snsd-songs-gee] [^snsd-songs-genie] のような韓国のアイドルグループで。 伝説（<bdi lang="tl">Alamat</bdi>（<bdi lang="tl-Tglg">ᜀᜎᜋᜆ᜔</bdi>）） [^alamat-songs-kbye]、ビニ（<bdi lang="tl">Bini</bdi>（<bdi lang="tl-Tglg">ᜊᜒᜈᜒ</bdi>）） [^bini-songs-born-to-win]、<bdi lang="en-PH">MNL48</bdi>（<bdi lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</bdi>） [^mnl48-songs-pag-ibig-fortune-cookie]、<bdi lang="en-PH">UGG</bdi>（<bdi lang="tl-Tglg">ᜂᜄ᜔ᜄ᜔</bdi> / U Go Girls） [^ugg-songs-kalimot] などのフィリピンのアイドルグループで。
 
 [^morning-musume-songs-i-wish]: [Morning Musume] YouTube: [I Wish](https://www.youtube.com/watch?v=GzSzUhUPNdI "Morning Musume: I Wish")
 [^morning-musume-songs-the-peace]: [Morning Musume] YouTube: [The Peace!](https://www.youtube.com/watch?v=Ivu76DXX2Es "Morning Musume: The Peace!")
-[^onyanko-club-songs-sailor-fuku-o-nugasanai-de]: [Onyanko Club] YouTube: [<span lang="ja-Latn">Sailor Fuku o Nugasanai de</span> (<span lang="ja">セーラー服を脱がさないで</span> / <span lang="ja-Latn">Sērā Fuku o Nugasanai de</span>)](https://www.youtube.com/watch?v=83uFs-o1yBA "Onyanko Club: Sailor Fuku o Nugasanai de (セーラー服を脱がさないで / Sērā Fuku o Nugasanai de)")
+[^onyanko-club-songs-sailor-fuku-o-nugasanai-de]: [Onyanko Club] YouTube: [<bdi lang="ja-Latn">Sailor Fuku o Nugasanai de</bdi> (<bdi lang="ja">セーラー服を脱がさないで</bdi> / <bdi lang="ja-Latn">Sērā Fuku o Nugasanai de</bdi>)](https://www.youtube.com/watch?v=83uFs-o1yBA "Onyanko Club: Sailor Fuku o Nugasanai de (セーラー服を脱がさないで / Sērā Fuku o Nugasanai de)")
 [^2ne1-songs-fire]: [2NE1] YouTube: [Fire](https://www.youtube.com/watch?v=5S1Z2sUFTGo "2NE1: Fire")
 [^2ne1-songs-i-dont-care]: [2NE1] YouTube: [I Don't Care](https://www.youtube.com/watch?v=FVIdyq_OlNc "2NE1: I Don't Care")
 [^snsd-songs-gee]: [Girls' Generation] YouTube: [Gee](https://www.youtube.com/watch?v=U7mPqycQ0tQ "Girls' Generation: Gee")
 [^snsd-songs-genie]: [Girls' Generation] YouTube: [Genie](https://www.youtube.com/watch?v=6SwiSpudKWI "Girls' Generation: Genie")
-[^alamat-songs-kbye]: [Alamat (<span lang="tl-Tglg">ᜀᜎᜋᜆ᜔</span>)] YouTube: [kbye](https://www.youtube.com/watch?v=I7vPP-yIhY0 "Alamat: kbye")
-[^bini-songs-born-to-win]: [Bini (<span lang="tl-Tglg">ᜊᜒᜈᜒ</span>)] YouTube: [Born To Win](https://www.youtube.com/watch?v=Lcel5TXVuRE "Bini: Born To Win")
-[^mnl48-songs-pag-ibig-fortune-cookie]: [MNL48 (<span lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</span>)] YouTube: [Pag-ibig Fortune Cookie](https://www.youtube.com/watch?v=52EeHPhSk5c "MNL48: Pag-ibig Fortune Cookie")
-[^ugg-songs-kalimot]: [UGG (<span lang="tl-Tglg">ᜂᜄ᜔ᜄ᜔</span> / U Go Girls)] YouTube: [Kalimot](https://www.youtube.com/watch?v=V87iMAmwRLY "UGG (U Go Girls): Kalimot")
+[^alamat-songs-kbye]: [Alamat (<bdi lang="tl-Tglg">ᜀᜎᜋᜆ᜔</bdi>)] YouTube: [kbye](https://www.youtube.com/watch?v=I7vPP-yIhY0 "Alamat: kbye")
+[^bini-songs-born-to-win]: [Bini (<bdi lang="tl-Tglg">ᜊᜒᜈᜒ</bdi>)] YouTube: [Born To Win](https://www.youtube.com/watch?v=Lcel5TXVuRE "Bini: Born To Win")
+[^mnl48-songs-pag-ibig-fortune-cookie]: [MNL48 (<bdi lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</bdi>)] YouTube: [Pag-ibig Fortune Cookie](https://www.youtube.com/watch?v=52EeHPhSk5c "MNL48: Pag-ibig Fortune Cookie")
+[^ugg-songs-kalimot]: [UGG (<bdi lang="tl-Tglg">ᜂᜄ᜔ᜄ᜔</bdi> / U Go Girls)] YouTube: [Kalimot](https://www.youtube.com/watch?v=V87iMAmwRLY "UGG (U Go Girls): Kalimot")
 
 ## P-POPアイドルのイメージと業界とは何ですか？
 
@@ -195,7 +195,7 @@ P-POPアイドルのイメージと業界も同じです。 フィリピンに�
 
 ### 初のソロ女性P-POPアイドル
 
-アイドルの確立された基準を通過した最初の行為は2004年でした。彼女は、健全なイメージ、キュート、ピュア、フレンドリー、多くの人へのインスピレーション、そして10代の若者にとって非常に優れたロールモデルを投影することで広く知られています。 彼女は <span lang="tl">Pambansang Krung-krung</span>（<span lang="tl-Tglg">ᜉᜋ᜔ᜊᜈ᜔ᜐᜅ᜔ ᜃᜓᜇᜓᜅ᜔ᜃᜓᜇᜓᜅ᜔</span> / <span lang="en-PH">Nation's Crazy Personality</span> / ネイションのクレイジーパーソナリティ）と呼ばれていました。 サンダラはそれを<q>ユニークでキュート、そしてクレイジー</q>と表現しています [^abs-cbn-entertainment-sandara-park-krung-krung]。 彼女は他ならぬサンダラパークです。
+アイドルの確立された基準を通過した最初の行為は2004年でした。彼女は、健全なイメージ、キュート、ピュア、フレンドリー、多くの人へのインスピレーション、そして10代の若者にとって非常に優れたロールモデルを投影することで広く知られています。 彼女は <bdi lang="tl">Pambansang Krung-krung</bdi>（<bdi lang="tl-Tglg">ᜉᜋ᜔ᜊᜈ᜔ᜐᜅ᜔ ᜃᜓᜇᜓᜅ᜔ᜃᜓᜇᜓᜅ᜔</bdi> / <bdi lang="en-PH">Nation's Crazy Personality</bdi> / ネイションのクレイジーパーソナリティ）と呼ばれていました。 サンダラはそれを<q>ユニークでキュート、そしてクレイジー</q>と表現しています [^abs-cbn-entertainment-sandara-park-krung-krung]。 彼女は他ならぬサンダラパークです。
 
 {{< video
   id="_IKAPJSAiSQ"
@@ -217,11 +217,11 @@ P-POPアイドルのイメージと業界も同じです。 フィリピンに�
   attribrel="noopener external"
 >}}
 
-パクサンダラ（<span lang="ko">박산다라</span>）は、2004年にABS-CBNの <cite lang="en-PH">Star Circle Quest</cite> (<cite lang="ja">スターサークルクエスト</cite>)で最初の次点者でした。彼女は同じ年に、10万枚以上の物理的なコピーを販売した彼女の名を冠したアルバムのリリースで彼女の歌のデビューを果たしました。 フィリピンレコード産業協会からプラチナ認定を受けています。 彼女のシングル<cite lang="en-PH">In or Out</cite>（インまたはアウト）はメガダンスヒットで、主要なラジオ局で演奏され、家庭やパーティーで聴かれました。 マニラブレティンとのインタビューで、サンダラはフィリピン中のプロモーションツアー中にファンが彼女と一緒にシングルを歌った方法を思い出しました。 [^manila-bulletin-sandara-park-inspiring-return]
+パクサンダラ（<bdi lang="ko">박산다라</bdi>）は、2004年にABS-CBNの <cite><bdi lang="en-PH">Star Circle Quest</bdi></cite> (<cite><bdi lang="ja">スターサークルクエスト</bdi></cite>)で最初の次点者でした。彼女は同じ年に、10万枚以上の物理的なコピーを販売した彼女の名を冠したアルバムのリリースで彼女の歌のデビューを果たしました。 フィリピンレコード産業協会からプラチナ認定を受けています。 彼女のシングル<cite><bdi lang="en-PH">In or Out</bdi></cite>（インまたはアウト）はメガダンスヒットで、主要なラジオ局で演奏され、家庭やパーティーで聴かれました。 マニラブレティンとのインタビューで、サンダラはフィリピン中のプロモーションツアー中にファンが彼女と一緒にシングルを歌った方法を思い出しました。 [^manila-bulletin-sandara-park-inspiring-return]
 
-サンダラ（<span lang="ko">산다라</span>）は純粋な韓国人ですが、彼女の歌はフィリピン人によって作曲されました。 <cite>[P-POPとOPMの違いは何ですか]({{< ref path="ppop-vs-opm.md" >}})</cite>では、P-POP、または <span lang="en-PH">***P**inoy **Pop**ular music*</span>（フィリピンのポピュラー音楽）は、<q>フィリピン人によって作曲または演奏されたすべての音楽</q>と定義されていました。 これは、<q>音楽が主流、インディー、アンダーグラウンド、海外のフィリピン人からのものであるか、外国人によって演奏されたものであるかに関係なく、ピノイ音楽全体の単なる別の用語です</q>。
+サンダラ（<bdi lang="ko">산다라</bdi>）は純粋な韓国人ですが、彼女の歌はフィリピン人によって作曲されました。 <cite>[P-POPとOPMの違いは何ですか]({{< ref path="ppop-vs-opm.md" >}})</cite>では、P-POP、または <bdi lang="en-PH">***P**inoy **Pop**ular music*</bdi>（フィリピンのポピュラー音楽）は、<q>フィリピン人によって作曲または演奏されたすべての音楽</q>と定義されていました。 これは、<q>音楽が主流、インディー、アンダーグラウンド、海外のフィリピン人からのものであるか、外国人によって演奏されたものであるかに関係なく、ピノイ音楽全体の単なる別の用語です</q>。
 
-サンダラ（<span lang="ko">산다라</span>）は最初のP-POPアイドルです。
+サンダラ（<bdi lang="ko">산다라</bdi>）は最初のP-POPアイドルです。
 
 [^manila-bulletin-sandara-park-inspiring-return]: Manila Bulletin: [Inspiring Return](https://web.archive.org/web/20180410135731/https://entertainment.mb.com.ph/2017/05/11/inspiring-return/ "Manila Bulletin: Inspiring Return")
 [^abs-cbn-entertainment-sandara-park-krung-krung]: ABS-CBN Entertainment YouTube: [Where did Krung-Krung start?](https://www.youtube.com/watch?v=xB5b1PSGnFQ "ABS-CBN Entertainment: Where did Krung-Krung start?")
@@ -249,9 +249,9 @@ P-POPアイドルのイメージと業界も同じです。 フィリピンに�
   attribrel="noopener external"
 >}}
 
-最初のP-POPアイドルガールグループのタイトルは <span class="en-PH">Pop Girls</span>（<span lang="ja">ポップガールズ</span>）になり、2009年12月13日に彼らの曲<cite lang="en-PH">Crazy Crazy</cite>（<cite lang="ja">クレイジークレイジー</cite>）でデビューしました。 <span class="en-PH">Pop Girls</span>（<span lang="ja">ポップガールズ</span>）は北米と英国のガールグループからインスピレーションを得たものでしたが、アジアンアイドルのガールグループの基準を満たしていました。
+最初のP-POPアイドルガールグループのタイトルは <bdi lang="en-PH">Pop Girls</bdi>（<bdi lang="ja">ポップガールズ</bdi>）になり、2009年12月13日に彼らの曲<cite><bdi lang="en-PH">Crazy Crazy</bdi></cite>（<cite><bdi lang="ja">クレイジークレイジー</bdi></cite>）でデビューしました。 <bdi lang="en-PH">Pop Girls</bdi>（<bdi lang="ja">ポップガールズ</bdi>）は北米と英国のガールグループからインスピレーションを得たものでしたが、アジアンアイドルのガールグループの基準を満たしていました。
 
-<span class="en-PH">Pop Girls</span>（<span lang="ja">ポップガールズ</span>）は、メンバーのJaliahとMariam Baustria（フィリピン人とレバノン人の双子）、Shy Carlos（フィリピン人とスイス人）、Rose Van Ginkel（フィリピン人とオランダ人）、NadineLustreから始まりました。 彼らはスタジオアルバムとデジタルシングルをリリースしました。 メンバーは卒業し、新しいメンバーが加わりました。 送別曲 <cite lang="tl">Prinsesa</cite>（<cite lang="tl-Tglg">ᜉᜒᜇᜒᜈ᜔ᜐᜒᜐ</cite> / <cite lang="ja">お姫様</cite>）がリリースされた後、2017年4月12日にメンバー全員が卒業するまで、彼らはプロモーションツアーを行い、ショーに出演しました。
+<bdi lang="en-PH">Pop Girls</bdi>（<bdi lang="ja">ポップガールズ</bdi>）は、メンバーのJaliahとMariam Baustria（フィリピン人とレバノン人の双子）、Shy Carlos（フィリピン人とスイス人）、Rose Van Ginkel（フィリピン人とオランダ人）、NadineLustreから始まりました。 彼らはスタジオアルバムとデジタルシングルをリリースしました。 メンバーは卒業し、新しいメンバーが加わりました。 送別曲 <cite><bdi lang="tl">Prinsesa</bdi></cite>（<cite><bdi lang="tl-Tglg">ᜉᜒᜇᜒᜈ᜔ᜐᜒᜐ</bdi></cite> / <cite><bdi lang="ja">お姫様</bdi></cite>）がリリースされた後、2017年4月12日にメンバー全員が卒業するまで、彼らはプロモーションツアーを行い、ショーに出演しました。
 
 ### 最初のP-POPアイドルボーイグループ
 
@@ -276,13 +276,13 @@ P-POPアイドルのイメージと業界も同じです。 フィリピンに�
   attribrel="noopener external"
 >}}
 
-2010年3月17日、フィリピンはXLR8で最初のP-POPアイドルボーイグループを見ました。 XLR8は、Arkin del Rosario、Carlo Lazerna、一卵性双生児のMeljohnとMelmar Magno、AJ Muhlach、Kiko Ramos、Caleb Santos、HideakiTorioの8人のアイドルボーイグループでした。 彼らはGMA7のバラエティ番組<cite lang="en-PH">Party Pilipinas</cite>（<cite lang="ja">パーティーピリピナス</cite>）に定期的に出演しました。 彼らは1枚のスタジオアルバム（認定ゴールド）、2枚のシングルとミュージックビデオを持ち、GMMSFボックスオフィスエンターテインメントアワードから2011年の最も有望なレコーディング/パフォーマンスグループを獲得し、別々の道を進む前に3回のコンサートを行いました。
+2010年3月17日、フィリピンはXLR8で最初のP-POPアイドルボーイグループを見ました。 XLR8は、Arkin del Rosario、Carlo Lazerna、一卵性双生児のMeljohnとMelmar Magno、AJ Muhlach、Kiko Ramos、Caleb Santos、HideakiTorioの8人のアイドルボーイグループでした。 彼らはGMA7のバラエティ番組<cite><bdi lang="en-PH">Party Pilipinas</bdi></cite>（<cite><bdi lang="ja">パーティーピリピナス</bdi></cite>）に定期的に出演しました。 彼らは1枚のスタジオアルバム（認定ゴールド）、2枚のシングルとミュージックビデオを持ち、GMMSFボックスオフィスエンターテインメントアワードから2011年の最も有望なレコーディング/パフォーマンスグループを獲得し、別々の道を進む前に3回のコンサートを行いました。
 
 ### 最初のP-POPアイドル共同グループ
 
-フィリピンではP-POPの共演グループは目新しいものではなく、1989年から1995年にかけて非常に人気のある共演グループ <span lang="en-PH">Smokey Mountain</span> がありました。 <span lang="en-PH">Sugarpop</span> 2006年から2009年まで。ただし、最初のP-popアイドル共演グループのタイトルは <span lang="en-PH">RPM</span> になります。
+フィリピンではP-POPの共演グループは目新しいものではなく、1989年から1995年にかけて非常に人気のある共演グループ <bdi lang="en-PH">Smokey Mountain</bdi> がありました。 <bdi lang="en-PH">Sugarpop</bdi> 2006年から2009年まで。ただし、最初のP-popアイドル共演グループのタイトルは <bdi lang="en-PH">RPM</bdi> になります。
 
-<span class="en-PH">RPM</span>（<span lang="tl-Tglg">ᜇ᜔ᜉ᜔ᜋ᜔</span>）または<span lang="en-PH">Real Pinoy Music</span>（リアルピノイミュージック）は、2010年4月21日にデビューした7人のメンバーからなるP-POPアイドル共同グループでした。グループは、Pio Balbuena、Yanna Garcia、Anna Luna、Samantha Page、クリスサルセド、カールトラゾ、ビンスヤップ。
+<bdi lang="en-PH">RPM</bdi>（<bdi lang="tl-Tglg">ᜇ᜔ᜉ᜔ᜋ᜔</bdi>）または<bdi lang="en-PH">Real Pinoy Music</bdi>（リアルピノイミュージック）は、2010年4月21日にデビューした7人のメンバーからなるP-POPアイドル共同グループでした。グループは、Pio Balbuena、Yanna Garcia、Anna Luna、Samantha Page、クリスサルセド、カールトラゾ、ビンスヤップ。
 
 {{< video
   id="RLAp9uhQFOI"
@@ -322,7 +322,7 @@ The notion of generation is widely used in the everyday world to make sense of d
 
 ジェーン・ピルシェアが言ったように、<q>私たちは、たとえば1960年代に育った人々を、《60年代》に属するものとして説明します</q>。 これは10暦年に固定されているため、適切な基準です。 このため、2010年から2019年にかけて第1世代のP-POPアイドルカバーがデビューします。
 
-<span class="en-PH">Pop Girls</span>（<span lang="ja">ポップガールズ</span>）は2010年の19日前にデビューし、2004年以来初めてのP-ポップアイドルであるため、マイナーな例外があります。 P-POPアイドルの第1世代はまだ2010年から2019年までですが、今年の変わり目の数日前にデビューしたにもかかわらず、<span class="en-PH">Pop Girls</span>（<span lang="ja">ポップガールズ</span>）が含まれています。
+<bdi lang="en-PH">Pop Girls</bdi>（<bdi lang="ja">ポップガールズ</bdi>）は2010年の19日前にデビューし、2004年以来初めてのP-ポップアイドルであるため、マイナーな例外があります。 P-POPアイドルの第1世代はまだ2010年から2019年までですが、今年の変わり目の数日前にデビューしたにもかかわらず、<bdi lang="en-PH">Pop Girls</bdi>（<bdi lang="ja">ポップガールズ</bdi>）が含まれています。
 
 第1世代の終了日の直後は、第2世代のP-POPアイドルの始まりです。 この現世代のP-POPアイドルは、2020年1月1日から2029年12月31日までデビューします。
 

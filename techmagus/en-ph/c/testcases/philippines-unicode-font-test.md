@@ -59,22 +59,22 @@ However, if you attempt to copy-and-paste these examples elsewhere, say in a soc
   It is advisable to open this page in the latest Firefox browser for desktop, Android (desktop mode), and iOS (desktop mode). Chromium/Chrome-based browsers may or may not work (sometimes there are bugs marked as "working-as-intended" or "won't fix"; other times it was left behind in the past).
 {{% /sembox %}}
 
-## <span class="font-Barabara-Unicode-paninap" lang="phi">Barabara Webfont Test</span>
+## <bdi class="font-Barabara-Unicode-paninap" lang="phi">Barabara Webfont Test</bdi>
 
-The <span class="font-Barabara-Unicode-paninap" lang="phi">Barabara</span> font is a typography based on jeepney signboards and sari-sari store boards in the Philippines.
+The <bdi class="font-Barabara-Unicode-paninap" lang="phi">Barabara</bdi> font is a typography based on jeepney signboards and sari-sari store boards in the Philippines.
 
-### <span class="font-Barabara-Unicode-paninap" lang="phi">More examples</span>
+### <bdi class="font-Barabara-Unicode-paninap" lang="phi">More examples</bdi>
 
-- <span class="font-Barabara-Unicode-paninap" lang="fil">Nanay's Sari-sari Store</span>
+- <bdi class="font-Barabara-Unicode-paninap" lang="fil">Nanay's Sari-sari Store</bdi>
 
-- <span class="font-Barabara-Unicode-paninap" lang="phi">Agila</span>
-- <span class="font-Barabara-Unicode-paninap" lang="phi">Baguio</span>
-- <span class="font-Barabara-Unicode-paninap" lang="phi">Iloilo</span>
-- <span class="font-Barabara-Unicode-paninap" lang="fil">Biyaheng Langit</span>
+- <bdi class="font-Barabara-Unicode-paninap" lang="phi">Agila</bdi>
+- <bdi class="font-Barabara-Unicode-paninap" lang="phi">Baguio</bdi>
+- <bdi class="font-Barabara-Unicode-paninap" lang="phi">Iloilo</bdi>
+- <bdi class="font-Barabara-Unicode-paninap" lang="fil">Biyaheng Langit</bdi>
 
 ---
 
-## <ruby><rbc><rb lang="tl-Tglg">ᜆ</rb></rbc><rp>(</rp><rt lang="tl">ta</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜄ</rb></rbc><rp>(</rp><rt lang="tl">ga</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜎᜓᜄ᜔</rb></rbc><rp>(</rp><rt lang="tl">log</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="tl-Tglg">ᜊᜌ᜔</rb></rbc><rp>(</rp><rt lang="tl">bay</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜊᜌᜒᜈ᜔</rb></rbc><rp>(</rp><rt lang="tl">bayin</rt><rp>)</rp></ruby> (<span lang="tl">Tagalog</span> Script)
+## <ruby><rbc><rb lang="tl-Tglg">ᜆ</rb></rbc><rp>(</rp><rt lang="tl">ta</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜄ</rb></rbc><rp>(</rp><rt lang="tl">ga</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜎᜓᜄ᜔</rb></rbc><rp>(</rp><rt lang="tl">log</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="tl-Tglg">ᜊᜌ᜔</rb></rbc><rp>(</rp><rt lang="tl">bay</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜊᜌᜒᜈ᜔</rb></rbc><rp>(</rp><rt lang="tl">bayin</rt><rp>)</rp></ruby> (<bdi lang="tl">Tagalog</bdi> Script)
 
 ### <ruby><rbc><rb lang="tl-Tglg">ᜉ</rb></rbc><rp>(</rp><rt lang="tl">pa</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜆᜒ</rb></rbc><rp>(</rp><rt lang="tl">ti</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜈᜒᜄ᜔</rb></rbc><rp>(</rp><rt lang="tl">nig</rt><rp>)</rp></ruby> (Vowel)
 
@@ -101,11 +101,11 @@ The <span class="font-Barabara-Unicode-paninap" lang="phi">Barabara</span> font 
 <ruby><rbc><rb lang="tl-Tglg">ᜏ</rb></rbc><rp>(</rp><rt lang="tl">Wa</rt><rp>)</rp></ruby>
 <ruby><rbc><rb lang="tl-Tglg">ᜌ</rb></rbc><rp>(</rp><rt lang="tl">Ya</rt><rp>)</rp></ruby>
 
-### <ruby><rbc><rb lang="tl-Tglg">ᜇ</rb></rbc><rp>(</rp><rt lang="tl">da</rt><rp>)</rp><rbc><rb lang="tl-Tglg">᜵</rb></rbc><rp>(</rp><rt lang="tl">,</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="tl-Tglg">ᜍ</rb></rbc><rp>(</rp><rt lang="tl">ra</rt><rp>)</rp><rbc><rb lang="tl-Tglg">᜵</rb></rbc><rp>(</rp><rt lang="tl">,</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="tl-Tglg">ᜃᜓᜇ᜔</rb></rbc><rp>(</rp><rt lang="tl">kud</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜎᜒᜆ᜔</rb></rbc><rp>(</rp><rt lang="tl">lit</rt><rp>)</rp><rbc><rb lang="tl-Tglg">᜵</rb></rbc><rp>(</rp><rt lang="tl">,</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="tl-Tglg">ᜊᜒ</rb></rbc><rp>(</rp><rt lang="tl">bi</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜇ</rb></rbc><rp>(</rp><rt lang="tl">da/ra</rt><rp>)</rp> <rbc><rb lang="tl-Tglg">ᜋ</rb></rbc><rp>(</rp><rt lang="tl">ma</rt><rp>)</rp><rbc><rb lang="tl-Tglg">᜵</rb></rbc><rp>(</rp><rt lang="tl">,</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="tl-Tglg">ᜀᜆ᜔</rb></rbc><rp>(</rp><rt lang="tl">at</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="tl-Tglg">ᜉ</rb></rbc><rp>(</rp><rt lang="tl">pa</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜋᜓᜇ᜔</rb></rbc><rp>(</rp><rt lang="tl">mud</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜉᜓᜇ᜔</rb></rbc><rp>(</rp><rt lang="tl">pod</rt><rp>)</rp></ruby> (<span lang="tl">Da</span>, <span lang="tl">Ra</span>, <span lang="tl">Kudlit</span>, <span lang="tl">Virama</span>, and <span lang="tl">Pamudpod</span>)
+### <ruby><rbc><rb lang="tl-Tglg">ᜇ</rb></rbc><rp>(</rp><rt lang="tl">da</rt><rp>)</rp><rbc><rb lang="tl-Tglg">᜵</rb></rbc><rp>(</rp><rt lang="tl">,</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="tl-Tglg">ᜍ</rb></rbc><rp>(</rp><rt lang="tl">ra</rt><rp>)</rp><rbc><rb lang="tl-Tglg">᜵</rb></rbc><rp>(</rp><rt lang="tl">,</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="tl-Tglg">ᜃᜓᜇ᜔</rb></rbc><rp>(</rp><rt lang="tl">kud</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜎᜒᜆ᜔</rb></rbc><rp>(</rp><rt lang="tl">lit</rt><rp>)</rp><rbc><rb lang="tl-Tglg">᜵</rb></rbc><rp>(</rp><rt lang="tl">,</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="tl-Tglg">ᜊᜒ</rb></rbc><rp>(</rp><rt lang="tl">bi</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜇ</rb></rbc><rp>(</rp><rt lang="tl">da/ra</rt><rp>)</rp> <rbc><rb lang="tl-Tglg">ᜋ</rb></rbc><rp>(</rp><rt lang="tl">ma</rt><rp>)</rp><rbc><rb lang="tl-Tglg">᜵</rb></rbc><rp>(</rp><rt lang="tl">,</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="tl-Tglg">ᜀᜆ᜔</rb></rbc><rp>(</rp><rt lang="tl">at</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="tl-Tglg">ᜉ</rb></rbc><rp>(</rp><rt lang="tl">pa</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜋᜓᜇ᜔</rb></rbc><rp>(</rp><rt lang="tl">mud</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜉᜓᜇ᜔</rb></rbc><rp>(</rp><rt lang="tl">pod</rt><rp>)</rp></ruby> (<bdi lang="tl">Da</bdi>, <bdi lang="tl">Ra</bdi>, <bdi lang="tl">Kudlit</bdi>, <bdi lang="tl">Virama</bdi>, and <bdi lang="tl">Pamudpod</bdi>)
 
-#### <ruby><rbc><rb lang="tl-Tglg">ᜆ</rb></rbc><rp>(</rp><rt lang="tl">ta</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜄ</rb></rbc><rp>(</rp><rt lang="tl">ga</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜎᜓᜄ᜔</rb></rbc><rp>(</rp><rt lang="tl">log</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="tl-Tglg">ᜇ</rb></rbc><rp>(</rp><rt lang="tl">da/ra</rt><rp>)</rp></rbc></ruby> (<span lang="tl">Tagalog Da/Ra</span>)
+#### <ruby><rbc><rb lang="tl-Tglg">ᜆ</rb></rbc><rp>(</rp><rt lang="tl">ta</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜄ</rb></rbc><rp>(</rp><rt lang="tl">ga</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜎᜓᜄ᜔</rb></rbc><rp>(</rp><rt lang="tl">log</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="tl-Tglg">ᜇ</rb></rbc><rp>(</rp><rt lang="tl">da/ra</rt><rp>)</rp></rbc></ruby> (<bdi lang="tl">Tagalog Da/Ra</bdi>)
 
-In <span lang="tl">Tagalog</span>, <span lang="tl">Da</span> and <span lang="tl">Ra</span> use the same Tagalog script which is <span lang="tl-Tglg">ᜇ</span>. This is how it looks like combined with the <span lang="tl">Tagalog</span> script diacritical marks.
+In <bdi lang="tl">Tagalog</bdi>, <bdi lang="tl">Da</bdi> and <bdi lang="tl">Ra</bdi> use the same Tagalog script which is <bdi lang="tl-Tglg">ᜇ</bdi>. This is how it looks like combined with the <bdi lang="tl">Tagalog</bdi> script diacritical marks.
 
 <ruby><rbc><rb lang="tl-Tglg">ᜇ</rb></rbc><rp>(</rp><rt lang="tl">da</rt><rp>)</rp></ruby>
 <ruby><rbc><rb lang="tl-Tglg">ᜇᜒ</rb></rbc><rp>(</rp><rt lang="tl">de/di</rt><rp>)</rp></ruby>
@@ -115,7 +115,7 @@ In <span lang="tl">Tagalog</span>, <span lang="tl">Da</span> and <span lang="tl"
 
 #### The Curious Case of <ruby><rbc><rb lang="tl-Tglg">ᜍ</rb></rbc><rp>(</rp><rt lang="tl">ra</rt><rp>)</rp></ruby>
 
-However, there are moves to introduce a separate <ruby><rbc><rb lang="tl-Tglg">ᜍ</rb></rbc><rp>(</rp><rt lang="tl">ra</rt><rp>)</rp></ruby> <span lang="tl">Tagalog</span> script. There is only one wall we have to conquer in this regard, in certain software and operating system, <ruby><rbc><rb lang="tl-Tglg">ᜍ</rb></rbc><rp>(</rp><rt lang="tl">ra</rt><rp>)</rp></ruby> is not rendering, or should we say, being blocked from rendering. Thus, you may not see it at all. Because of this, I personally recommend using <ruby><rbc><rb lang="tl-Tglg">ᜇ</rb></rbc><rp>(</rp><rt lang="tl">da</rt><rp>)</rp></ruby> (see above) to ensure proper rendering across all software and operating system.
+However, there are moves to introduce a separate <ruby><rbc><rb lang="tl-Tglg">ᜍ</rb></rbc><rp>(</rp><rt lang="tl">ra</rt><rp>)</rp></ruby> <bdi lang="tl">Tagalog</bdi> script. There is only one wall we have to conquer in this regard, in certain software and operating system, <ruby><rbc><rb lang="tl-Tglg">ᜍ</rb></rbc><rp>(</rp><rt lang="tl">ra</rt><rp>)</rp></ruby> is not rendering, or should we say, being blocked from rendering. Thus, you may not see it at all. Because of this, I personally recommend using <ruby><rbc><rb lang="tl-Tglg">ᜇ</rb></rbc><rp>(</rp><rt lang="tl">da</rt><rp>)</rp></ruby> (see above) to ensure proper rendering across all software and operating system.
 
 <ruby><rbc><rb lang="tl-Tglg">ᜍ</rb></rbc><rp>(</rp><rt lang="tl">ra</rt><rp>)</rp></ruby>
 <ruby><rbc><rb lang="tl-Tglg">ᜍᜒ</rb></rbc><rp>(</rp><rt lang="tl">re/ri</rt><rp>)</rp></ruby>
@@ -125,7 +125,7 @@ However, there are moves to introduce a separate <ruby><rbc><rb lang="tl-Tglg">�
 
 ---
 
-## <ruby><rbc><rb lang="hnn-Hano">ᜱ</rb></rbc><rp>(</rp><rt lang="hnn">ha</rt><rp>)</rp><rbc><rb lang="hnn-Hano">ᜨᜳ</rb></rbc><rp>(</rp><rt lang="hnn">nu</rt><rp>)</rp><rbc><rb lang="hnn-Hano">ᜨᜳ</rb></rbc><rp>(</rp><rt lang="hnn">no</rt><rp>)</rp><rbc><rb lang="hnn-Hano">ᜢ</rb></rbc><rp>(</rp><rt lang="hnn">o</rt><rp>)</rp></ruby> <ruby><rbc>&nbsp;<rb lang="hnn-Hano">ᜪᜬ᜴</rb></rbc><rp>(</rp><rt lang="hnn">bay</rt><rp>)</rp><rbc><rb lang="hnn-Hano">ᜪᜬᜲᜨ᜴</rb></rbc><rp>(</rp><rt lang="hnn">bayin</rt><rp>)</rp></ruby> (<span lang="hnn">Hanunóo</span> Script)
+## <ruby><rbc><rb lang="hnn-Hano">ᜱ</rb></rbc><rp>(</rp><rt lang="hnn">ha</rt><rp>)</rp><rbc><rb lang="hnn-Hano">ᜨᜳ</rb></rbc><rp>(</rp><rt lang="hnn">nu</rt><rp>)</rp><rbc><rb lang="hnn-Hano">ᜨᜳ</rb></rbc><rp>(</rp><rt lang="hnn">no</rt><rp>)</rp><rbc><rb lang="hnn-Hano">ᜢ</rb></rbc><rp>(</rp><rt lang="hnn">o</rt><rp>)</rp></ruby> <ruby><rbc>&nbsp;<rb lang="hnn-Hano">ᜪᜬ᜴</rb></rbc><rp>(</rp><rt lang="hnn">bay</rt><rp>)</rp><rbc><rb lang="hnn-Hano">ᜪᜬᜲᜨ᜴</rb></rbc><rp>(</rp><rt lang="hnn">bayin</rt><rp>)</rp></ruby> (<bdi lang="hnn">Hanunóo</bdi> Script)
 
 ### Vowels
 
@@ -153,7 +153,7 @@ However, there are moves to introduce a separate <ruby><rbc><rb lang="tl-Tglg">�
 <ruby><rbc><rb lang="hnn-Hano">ᜯ</rb></rbc><rp>(</rp><rt lang="hnn">Wa</rt><rp>)</rp></ruby>
 <ruby><rbc><rb lang="hnn-Hano">ᜬ</rb></rbc><rp>(</rp><rt lang="hnn">Ya</rt><rp>)</rp></ruby>
 
-### <ruby><rbc><rb lang="hnn-Hano">ᜧ</rb></rbc><rp>(</rp><rt lang="hnn">da</rt><rp>)</rp><rbc><rb lang="hnn-Hano">᜵</rb></rbc><rp>(</rp><rt lang="hnn">,</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="hnn-Hano">ᜭ</rb></rbc><rp>(</rp><rt lang="hnn">ra</rt><rp>)</rp><rbc><rb lang="hnn-Hano">᜵</rb></rbc><rp>(</rp><rt lang="hnn">,</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="hnn-Hano">ᜣᜳᜧ᜴</rb></rbc><rp>(</rp><rt lang="hnn">kud</rt><rp>)</rp><rbc><rb lang="hnn-Hano">ᜮᜲᜦ᜴</rb></rbc><rp>(</rp><rt lang="hnn">lit</rt><rp>)</rp><rbc><rb lang="hnn-Hano">᜵</rb></rbc><rp>(</rp><rt lang="hnn">,</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="hnn-Hano">ᜠᜦ᜴</rb></rbc><rp>(</rp><rt lang="hnn">at</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="hnn-Hano">ᜩ</rb></rbc><rp>(</rp><rt lang="hnn">pa</rt><rp>)</rp><rbc><rb lang="hnn-Hano">ᜫᜳᜧ᜴</rb></rbc><rp>(</rp><rt lang="hnn">mud</rt><rp>)</rp><rbc><rb lang="hnn-Hano">ᜩᜳᜧ᜴</rb></rbc><rp>(</rp><rt lang="hnn">pod</rt><rp>)</rp></ruby> (<span lang="hnn">Da</span>, <span lang="hnn">Ra</span>, <span lang="hnn">Kudlit</span>, and <span lang="hnn">Pamudpod</span>)
+### <ruby><rbc><rb lang="hnn-Hano">ᜧ</rb></rbc><rp>(</rp><rt lang="hnn">da</rt><rp>)</rp><rbc><rb lang="hnn-Hano">᜵</rb></rbc><rp>(</rp><rt lang="hnn">,</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="hnn-Hano">ᜭ</rb></rbc><rp>(</rp><rt lang="hnn">ra</rt><rp>)</rp><rbc><rb lang="hnn-Hano">᜵</rb></rbc><rp>(</rp><rt lang="hnn">,</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="hnn-Hano">ᜣᜳᜧ᜴</rb></rbc><rp>(</rp><rt lang="hnn">kud</rt><rp>)</rp><rbc><rb lang="hnn-Hano">ᜮᜲᜦ᜴</rb></rbc><rp>(</rp><rt lang="hnn">lit</rt><rp>)</rp><rbc><rb lang="hnn-Hano">᜵</rb></rbc><rp>(</rp><rt lang="hnn">,</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="hnn-Hano">ᜠᜦ᜴</rb></rbc><rp>(</rp><rt lang="hnn">at</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="hnn-Hano">ᜩ</rb></rbc><rp>(</rp><rt lang="hnn">pa</rt><rp>)</rp><rbc><rb lang="hnn-Hano">ᜫᜳᜧ᜴</rb></rbc><rp>(</rp><rt lang="hnn">mud</rt><rp>)</rp><rbc><rb lang="hnn-Hano">ᜩᜳᜧ᜴</rb></rbc><rp>(</rp><rt lang="hnn">pod</rt><rp>)</rp></ruby> (<bdi lang="hnn">Da</bdi>, <bdi lang="hnn">Ra</bdi>, <bdi lang="hnn">Kudlit</bdi>, and <bdi lang="hnn">Pamudpod</bdi>)
 
 <ruby><rbc><rb lang="hnn-Hano">ᜧ</rb></rbc><rp>(</rp><rt lang="hnn">da</rt><rp>)</rp></ruby>
 <ruby><rbc><rb lang="hnn-Hano">ᜧᜲ</rb></rbc><rp>(</rp><rt lang="hnn">de/di</rt><rp>)</rp></ruby>
@@ -167,7 +167,7 @@ However, there are moves to introduce a separate <ruby><rbc><rb lang="tl-Tglg">�
 
 ---
 
-## <ruby><rbc><rb lang="bku-Buhd">ᝊᝓ</rb></rbc><rp>(</rp><rt lang="bku">bu</rt><rp>)</rp><rbc><rb lang="bku-Buhd">ᝑᝒᝇ᜴</rb></rbc><rp>(</rp><rt lang="bku">hid</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="bku-Buhd">ᝊᝌ᜴</rb></rbc><rp>(</rp><rt lang="bku">bay</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="bku-Buhd">ᝊᝌᝒᝈ᜴</rb></rbc><rp>(</rp><rt lang="bku">bayin</rt><rp>)</rp></ruby> (<span lang="bku">Buhid</span> Script)
+## <ruby><rbc><rb lang="bku-Buhd">ᝊᝓ</rb></rbc><rp>(</rp><rt lang="bku">bu</rt><rp>)</rp><rbc><rb lang="bku-Buhd">ᝑᝒᝇ᜴</rb></rbc><rp>(</rp><rt lang="bku">hid</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="bku-Buhd">ᝊᝌ᜴</rb></rbc><rp>(</rp><rt lang="bku">bay</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="bku-Buhd">ᝊᝌᝒᝈ᜴</rb></rbc><rp>(</rp><rt lang="bku">bayin</rt><rp>)</rp></ruby> (<bdi lang="bku">Buhid</bdi> Script)
 
 ### Vowels
 
@@ -195,7 +195,7 @@ However, there are moves to introduce a separate <ruby><rbc><rb lang="tl-Tglg">�
 <ruby><rbc><rb lang="bku-Buhd">ᝏ</rb></rbc><rp>(</rp><rt lang="bku">Wa</rt><rp>)</rp></ruby>
 <ruby><rbc><rb lang="bku-Buhd">ᝌ</rb></rbc><rp>(</rp><rt lang="bku">Ya</rt><rp>)</rp></ruby>
 
-### <ruby><rbc><rb lang="bku-Buhd">ᝇ</rb></rbc><rp>(</rp><rt lang="bku">da</rt><rp>)</rp><rbc><rb lang="bku-Buhd">᜵</rb></rbc><rp>(</rp><rt lang="bku">,</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="bku-Buhd">ᝍ</rb></rbc><rp>(</rp><rt lang="bku">ra</rt><rp>)</rp><rbc><rb lang="bku-Buhd">᜵</rb></rbc><rp>(</rp><rt lang="bku">,</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="bku-Buhd">ᝃᝓᝇ᜴</rb></rbc><rp>(</rp><rt lang="bku">kud</rt><rp>)</rp><rbc><rb lang="bku-Buhd">ᝎᝒᝆ᜴</rb></rbc><rp>(</rp><rt lang="bku">lit</rt><rp>)</rp><rbc><rb lang="bku-Buhd">᜵</rb></rbc><rp>(</rp><rt lang="bku">,</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="bku-Buhd">ᝀᝆ᜴</rb></rbc><rp>(</rp><rt lang="bku">at</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="bku-Buhd">ᝉ</rb></rbc><rp>(</rp><rt lang="bku">pa</rt><rp>)</rp><rbc><rb lang="bku-Buhd">ᝋᝓᝇ᜴</rb></rbc><rp>(</rp><rt lang="bku">mud</rt><rp>)</rp><rbc><rb lang="bku-Buhd">ᝉᝓᝇ᜴</rb></rbc><rp>(</rp><rt lang="bku">pod</rt><rp>)</rp></ruby> (<span lang="bku">Da</span>, <span lang="bku">Ra</span>, <span lang="bku">Kudlit</span>, and <span lang="bku">Pamudpod</span>)
+### <ruby><rbc><rb lang="bku-Buhd">ᝇ</rb></rbc><rp>(</rp><rt lang="bku">da</rt><rp>)</rp><rbc><rb lang="bku-Buhd">᜵</rb></rbc><rp>(</rp><rt lang="bku">,</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="bku-Buhd">ᝍ</rb></rbc><rp>(</rp><rt lang="bku">ra</rt><rp>)</rp><rbc><rb lang="bku-Buhd">᜵</rb></rbc><rp>(</rp><rt lang="bku">,</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="bku-Buhd">ᝃᝓᝇ᜴</rb></rbc><rp>(</rp><rt lang="bku">kud</rt><rp>)</rp><rbc><rb lang="bku-Buhd">ᝎᝒᝆ᜴</rb></rbc><rp>(</rp><rt lang="bku">lit</rt><rp>)</rp><rbc><rb lang="bku-Buhd">᜵</rb></rbc><rp>(</rp><rt lang="bku">,</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="bku-Buhd">ᝀᝆ᜴</rb></rbc><rp>(</rp><rt lang="bku">at</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="bku-Buhd">ᝉ</rb></rbc><rp>(</rp><rt lang="bku">pa</rt><rp>)</rp><rbc><rb lang="bku-Buhd">ᝋᝓᝇ᜴</rb></rbc><rp>(</rp><rt lang="bku">mud</rt><rp>)</rp><rbc><rb lang="bku-Buhd">ᝉᝓᝇ᜴</rb></rbc><rp>(</rp><rt lang="bku">pod</rt><rp>)</rp></ruby> (<bdi lang="bku">Da</bdi>, <bdi lang="bku">Ra</bdi>, <bdi lang="bku">Kudlit</bdi>, and <bdi lang="bku">Pamudpod</bdi>)
 
 <ruby><rbc><rb lang="bku-Buhd">ᝇ</rb></rbc><rp>(</rp><rt lang="bku">da</rt><rp>)</rp></ruby>
 <ruby><rbc><rb lang="bku-Buhd">ᝇᝒ</rb></rbc><rp>(</rp><rt lang="bku">de/di</rt><rp>)</rp></ruby>
@@ -209,7 +209,7 @@ However, there are moves to introduce a separate <ruby><rbc><rb lang="tl-Tglg">�
 
 ---
 
-## <ruby><rbc><rb lang="tbw-Tagb">ᝦᝤ᜴</rb></rbc><rp>(</rp><rt lang="tbw">tag</rt><rp>)</rp><rbc><rb lang="tbw-Tagb">ᝪᝨ᜴</rb></rbc><rp>(</rp><rt lang="tbw">ban</rt><rp>)</rp><rbc><rb lang="tbw-Tagb">ᝯ</rb></rbc><rp>(</rp><rt lang="tbw">wa</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="tbw-Tagb">ᝪᝬ᜴</rb></rbc><rp>(</rp><rt lang="tbw">bay</rt><rp>)</rp><rbc><rb lang="tbw-Tagb">ᝪᝬᝲᝨ᜴</rb></rbc><rp>(</rp><rt lang="tbw">bayin</rt><rp>)</rp></ruby> (<span lang="tbw">Tagbanwa</span> Script)
+## <ruby><rbc><rb lang="tbw-Tagb">ᝦᝤ᜴</rb></rbc><rp>(</rp><rt lang="tbw">tag</rt><rp>)</rp><rbc><rb lang="tbw-Tagb">ᝪᝨ᜴</rb></rbc><rp>(</rp><rt lang="tbw">ban</rt><rp>)</rp><rbc><rb lang="tbw-Tagb">ᝯ</rb></rbc><rp>(</rp><rt lang="tbw">wa</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="tbw-Tagb">ᝪᝬ᜴</rb></rbc><rp>(</rp><rt lang="tbw">bay</rt><rp>)</rp><rbc><rb lang="tbw-Tagb">ᝪᝬᝲᝨ᜴</rb></rbc><rp>(</rp><rt lang="tbw">bayin</rt><rp>)</rp></ruby> (<bdi lang="tbw">Tagbanwa</bdi> Script)
 
 ### Vowels
 
@@ -235,7 +235,7 @@ However, there are moves to introduce a separate <ruby><rbc><rb lang="tl-Tglg">�
 <ruby><rbc><rb lang="tbw-Tagb">ᝯ</rb></rbc><rp>(</rp><rt lang="tbw">Wa</rt><rp>)</rp></ruby>
 <ruby><rbc><rb lang="tbw-Tagb">ᝬ</rb></rbc><rp>(</rp><rt lang="tbw">Ya</rt><rp>)</rp></ruby>
 
-### <ruby><rbc><rb lang="tbw-Tagb">ᝧ</rb></rbc><rp>(</rp><rt lang="tbw">da</rt><rp>)</rp><rbc><rb lang="tbw-Tagb">᜵</rb></rbc><rp>(</rp><rt lang="tbw">,</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="tbw-Tagb">ᝣᝳᝧ᜴</rb></rbc><rp>(</rp><rt lang="tbw">kud</rt><rp>)</rp><rbc><rb lang="tbw-Tagb">ᝮᝲᝦ᜴</rb></rbc><rp>(</rp><rt lang="tbw">lit</rt><rp>)</rp><rbc><rb lang="tbw-Tagb">᜵</rb></rbc><rp>(</rp><rt lang="tbw">,</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="tbw-Tagb">ᝠᝦ᜴</rb></rbc><rp>(</rp><rt lang="tbw">at</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="tbw-Tagb">ᝩ</rb></rbc><rp>(</rp><rt lang="tbw">pa</rt><rp>)</rp><rbc><rb lang="tbw-Tagb">ᝫᝳᝧ᜴</rb></rbc><rp>(</rp><rt lang="tbw">mud</rt><rp>)</rp><rbc><rb lang="tbw-Tagb">ᝩᝳᝧ᜴</rb></rbc><rp>(</rp><rt lang="tbw">pod</rt><rp>)</rp></ruby> (<span lang="tbw">Da</span>, <span lang="tbw">Kudlit</span>, and <span lang="tbw">Pamudpod</span>)
+### <ruby><rbc><rb lang="tbw-Tagb">ᝧ</rb></rbc><rp>(</rp><rt lang="tbw">da</rt><rp>)</rp><rbc><rb lang="tbw-Tagb">᜵</rb></rbc><rp>(</rp><rt lang="tbw">,</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="tbw-Tagb">ᝣᝳᝧ᜴</rb></rbc><rp>(</rp><rt lang="tbw">kud</rt><rp>)</rp><rbc><rb lang="tbw-Tagb">ᝮᝲᝦ᜴</rb></rbc><rp>(</rp><rt lang="tbw">lit</rt><rp>)</rp><rbc><rb lang="tbw-Tagb">᜵</rb></rbc><rp>(</rp><rt lang="tbw">,</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="tbw-Tagb">ᝠᝦ᜴</rb></rbc><rp>(</rp><rt lang="tbw">at</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="tbw-Tagb">ᝩ</rb></rbc><rp>(</rp><rt lang="tbw">pa</rt><rp>)</rp><rbc><rb lang="tbw-Tagb">ᝫᝳᝧ᜴</rb></rbc><rp>(</rp><rt lang="tbw">mud</rt><rp>)</rp><rbc><rb lang="tbw-Tagb">ᝩᝳᝧ᜴</rb></rbc><rp>(</rp><rt lang="tbw">pod</rt><rp>)</rp></ruby> (<bdi lang="tbw">Da</bdi>, <bdi lang="tbw">Kudlit</bdi>, and <bdi lang="tbw">Pamudpod</bdi>)
 
 <ruby><rbc><rb lang="tbw-Tagb">ᝧ</rb></rbc><rp>(</rp><rt lang="tbw">da</rt><rp>)</rp></ruby>
 <ruby><rbc><rb lang="tbw-Tagb">ᝧᝲ</rb></rbc><rp>(</rp><rt lang="tbw">de/di</rt><rp>)</rp></ruby>

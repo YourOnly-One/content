@@ -75,6 +75,8 @@ BODY
     - https://en.wikipedia.org/wiki/List_of_style_guides
 -->
 
+- Mottos are quoted in `<q></q>`
+
 ---
 
 <!-- markdownlint-disable -->

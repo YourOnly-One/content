@@ -46,11 +46,11 @@ avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 
 I did some study on the "Age of Accountability" and I can say that it depends person to person.
 
-Many in the Christendom claim that it is twelve (12) years old. But nowhere in the Scripture it was specifically mentioned. The claim was the story of <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (pronunciation: yah-hu-shua; transliteration: Yahushua; also read: [Why Yahushua?]({{< ref "/20160203-messiah-yahushua-yahusha.md" >}})) when He preached in a Synagogue when He was twelve (12). But that's about it.
+Many in the Christendom claim that it is twelve (12) years old. But nowhere in the Scripture it was specifically mentioned. The claim was the story of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (pronunciation: yah-hu-shua; transliteration: Yahushua; also read: [Why Yahushua?]({{< ref "/20160203-messiah-yahushua-yahusha.md" >}})) when He preached in a Synagogue when He was twelve (12). But that's about it.
 
 <!--more-->
 
-Every child reaches their age of accountability differently. The story of <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (pronunciation: yah-hu-shua; transliteration: Yahushua) only tells us that He already had the knowledge at that early age, He reached His earthly/human "age of accountability".
+Every child reaches their age of accountability differently. The story of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (pronunciation: yah-hu-shua; transliteration: Yahushua) only tells us that He already had the knowledge at that early age, He reached His earthly/human "age of accountability".
 
 How many of us today can remember they became a "man" at the age of 12? When can you truly say you knew what you were doing? That you understood completely, beyond doubt, what is right and what is wrong? That you can admit to yourself you are accountable for your actions (and words)? Or you first stopped to think about what you were about to do or say?
 
@@ -72,7 +72,7 @@ Same with the Holy Communion. We have been taught we can only take it when we're
 
 Age of Accountability is on a person-by-person basis. Setting it at twelve was a huge mistake. Because of that, we fail to understand many other things.
 
-People who dies without reaching their age of accountability then becomes clear, they are not under the same rule. So worry not for them because they are with the <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (pronounced as "yah-hu-ah"; transliterated as "YAHUAH", "YaHuWaH", or "YHWH"), waiting for you. Worry for yourself instead, you still have to run the race, and it's not going to be easy. The road to heaven is narrow and full of painful things. The road elsewhere is wide and blissful, easy and comfortable.
+People who dies without reaching their age of accountability then becomes clear, they are not under the same rule. So worry not for them because they are with the <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (pronounced as "yah-hu-ah"; transliterated as "YAHUAH", "YaHuWaH", or "YHWH"), waiting for you. Worry for yourself instead, you still have to run the race, and it's not going to be easy. The road to heaven is narrow and full of painful things. The road elsewhere is wide and blissful, easy and comfortable.
 
 ---
 

@@ -92,10 +92,10 @@ For example, manufacturers Samsung and MyPhone deleted the Noto Tagalog font in 
 
 The best way to test this is to open this article in your favourite mobile browser and check if you can see the following texts.
 
-- Baybayin-Buhid: <span lang="bku-Buhd">ᝀᝁᝂᝃᝄᝅᝆᝇᝈᝉᝊᝋᝌᝍᝎᝏᝐᝑ</span>
-- Baybayin-Hanunoó: <span lang="hnn-Hano">ᜠᜡᜢᜣᜤᜥᜦᜧᜨᜩᜪᜫᜬᜭᜮᜯᜰᜱ</span>
-- Baybayin-Tagalog: <span lang="tgl-Tglg">ᜃᜄᜅᜆᜇᜈᜉᜊᜋᜌᜎᜏᜀᜁᜂᜐᜑ</span>
-- Baybayin-Tagbanwa: <span lang="tbw-Tagb">ᝣᝤᝥᝦᝧᝨᝩᝪᝫᝬᝮᝯᝠᝡᝢᝰ</span>
+- Baybayin-Buhid: <bdi lang="bku-Buhd">ᝀᝁᝂᝃᝄᝅᝆᝇᝈᝉᝊᝋᝌᝍᝎᝏᝐᝑ</bdi>
+- Baybayin-Hanunoó: <bdi lang="hnn-Hano">ᜠᜡᜢᜣᜤᜥᜦᜧᜨᜩᜪᜫᜬᜭᜮᜯᜰᜱ</bdi>
+- Baybayin-Tagalog: <bdi lang="tgl-Tglg">ᜃᜄᜅᜆᜇᜈᜉᜊᜋᜌᜎᜏᜀᜁᜂᜐᜑ</bdi>
+- Baybayin-Tagbanwa: <bdi lang="tbw-Tagb">ᝣᝤᝥᝦᝧᝨᝩᝪᝫᝬᝮᝯᝠᝡᝢᝰ</bdi>
 
 If you can not see one of those, then your mobile phone is missing the appropriate Noto font support for that script. This in turn will automatically disable Gboard support for it. It means it is time to switch to an "Android One" model.
 

@@ -61,13 +61,13 @@ type = "article"                                                           # art
 
 ### 예쁘고 순수하고 다재다능한 아이돌
 
-1933년 일본: 내일 마츠코 (<span lang="ja">あした まつこ</span> / <span lang="ja">明日 待子</span> / <span lang="ja-Latn">Matsuko Ashita</span>)는 역사상 최초의 음악 아이돌이 되었습니다. 그녀는 매혹적인 미소, 타의 추종을 불허하는 아름다움과 엄청난 귀여움을 가진 연극 배우, 훌륭한 댄서와 가수, 모델 및 타고난 엔터테이너였습니다.
+1933년 일본: 내일 마츠코 (<bdi lang="ja">あした まつこ</bdi> / <bdi lang="ja">明日 待子</bdi> / <bdi lang="ja-Latn">Matsuko Ashita</bdi>)는 역사상 최초의 음악 아이돌이 되었습니다. 그녀는 매혹적인 미소, 타의 추종을 불허하는 아름다움과 엄청난 귀여움을 가진 연극 배우, 훌륭한 댄서와 가수, 모델 및 타고난 엔터테이너였습니다.
 
 아이돌은 누구나 원하는 이상형인 만큼 여러모로 완벽할 것으로 기대된다. 그들은 아름다운 표본이어야 하고, 순수함과 순수함의 아우라를 가지고 있고, 귀엽거나 쿨하고, 다양한 재능을 보여야 합니다. 그들은 연예인을 넘어 모든 사람의 꿈을 대표합니다.
 
 ### 아이돌 연습생 프로그램
 
-1962 일본: 쟈니 키타가와 (<span lang="ja">ジャニー喜多川</span> / <span lang="en">Johnny</span> <span lang="ja-Latn">Kitagawa</span>)가 최초의 아이돌 연습생 시스템을 개발했습니다. 이를 통해 그의 회사인 주식회사 쟈니스 사무소 (<span lang="ja">株式会社ジャニーズ事務所</span> / <span lang="en">Johnny & Associates</span>)는 세계 최초의 많은 아이돌 그룹을 생산했습니다.
+1962 일본: 쟈니 키타가와 (<bdi lang="ja">ジャニー喜多川</bdi> / <bdi lang="en">Johnny</bdi> <bdi lang="ja-Latn">Kitagawa</bdi>)가 최초의 아이돌 연습생 시스템을 개발했습니다. 이를 통해 그의 회사인 주식회사 쟈니스 사무소 (<bdi lang="ja">株式会社ジャニーズ事務所</bdi> / <bdi lang="en">Johnny & Associates</bdi>)는 세계 최초의 많은 아이돌 그룹을 생산했습니다.
 
 1996년 한국: SM 엔터테인먼트 설립자 이수만은 일본 아이돌 연습생 시스템을 한국에 도입했습니다. 일본 아이돌 연습생 제도를 도입한 한국의 문화 기술을 통해 K팝 아이돌 산업은 단기간에 글로벌 위상을 달성했다.
 
@@ -169,23 +169,23 @@ type = "article"                                                           # art
   - 연기
 - 멤버들은 보통 한 곡에 솔로나 듀오 파트를 가지고 있다.
 
-이 형식은 모닝구무스메 (<span lang="ja">モーニング娘</span> / <span lang="ja-Latn">Mōningu Musume</span> / <span lang="en">Morning</span> <span lang="ja-Latn">Musume</span>) [^morning-musume-songs-i-wish] [^morning-musume-songs-the-peace] 및 오냥코 클럽 (<span lang="ja">おニャン子クラブ</span> / <span lang="ja-Latn">Onyanko Kurabu</span>) [^onyanko-club-songs-sailor-fuku-o-nugasanai-de] 과 같은 일본 아이돌 그룹에서 볼 수 있습니다. 2NE1과 [^2ne1-songs-fire] [^2ne1-songs-i-dont-care] 소녀시대와 [^snsd-songs-gee] [^snsd-songs-genie] 같은 한국 아이돌 그룹에서; 전설 (<span lang="tl">Alamat</span> (<span lang="tl-Tglg">ᜀᜎᜋᜆ᜔</span>)) [^alamat-songs-kbye], 비니 (<span lang="tl">Bini</span> (<span lang="tl-Tglg">ᜊᜒᜈᜒ</span>)) [^bini-songs-born-to-win], MNL48 (<span lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</span>) [^mnl48-songs-pag-ibig-fortune-cookie] 및 UGG (<span lang="tl-Tglg">ᜂᜄ᜔ᜄ᜔</span> / U Go Girls) [^ugg-songs-kalimot] 와 같은 필리핀 아이돌 그룹에서.
+이 형식은 모닝구무스메 (<bdi lang="ja">モーニング娘</bdi> / <bdi lang="ja-Latn">Mōningu Musume</bdi> / <bdi lang="en">Morning</bdi> <bdi lang="ja-Latn">Musume</bdi>) [^morning-musume-songs-i-wish] [^morning-musume-songs-the-peace] 및 오냥코 클럽 (<bdi lang="ja">おニャン子クラブ</bdi> / <bdi lang="ja-Latn">Onyanko Kurabu</bdi>) [^onyanko-club-songs-sailor-fuku-o-nugasanai-de] 과 같은 일본 아이돌 그룹에서 볼 수 있습니다. 2NE1과 [^2ne1-songs-fire] [^2ne1-songs-i-dont-care] 소녀시대와 [^snsd-songs-gee] [^snsd-songs-genie] 같은 한국 아이돌 그룹에서; 전설 (<bdi lang="tl">Alamat</bdi> (<bdi lang="tl-Tglg">ᜀᜎᜋᜆ᜔</bdi>)) [^alamat-songs-kbye], 비니 (<bdi lang="tl">Bini</bdi> (<bdi lang="tl-Tglg">ᜊᜒᜈᜒ</bdi>)) [^bini-songs-born-to-win], MNL48 (<bdi lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</bdi>) [^mnl48-songs-pag-ibig-fortune-cookie] 및 UGG (<bdi lang="tl-Tglg">ᜂᜄ᜔ᜄ᜔</bdi> / U Go Girls) [^ugg-songs-kalimot] 와 같은 필리핀 아이돌 그룹에서.
 
 [^morning-musume-songs-i-wish]: [Morning Musume] YouTube: [I Wish](https://www.youtube.com/watch?v=GzSzUhUPNdI "Morning Musume: I Wish")
 [^morning-musume-songs-the-peace]: [Morning Musume] YouTube: [The Peace!](https://www.youtube.com/watch?v=Ivu76DXX2Es "Morning Musume: The Peace!")
-[^onyanko-club-songs-sailor-fuku-o-nugasanai-de]: [Onyanko Club] YouTube: [<span lang="ja-Latn">Sailor Fuku o Nugasanai de</span> (<span lang="ja">セーラー服を脱がさないで</span> / <span lang="ja-Latn">Sērā Fuku o Nugasanai de</span>)](https://www.youtube.com/watch?v=83uFs-o1yBA "Onyanko Club: Sailor Fuku o Nugasanai de (セーラー服を脱がさないで / Sērā Fuku o Nugasanai de)")
+[^onyanko-club-songs-sailor-fuku-o-nugasanai-de]: [Onyanko Club] YouTube: [<bdi lang="ja-Latn">Sailor Fuku o Nugasanai de</bdi> (<bdi lang="ja">セーラー服を脱がさないで</bdi> / <bdi lang="ja-Latn">Sērā Fuku o Nugasanai de</bdi>)](https://www.youtube.com/watch?v=83uFs-o1yBA "Onyanko Club: Sailor Fuku o Nugasanai de (セーラー服を脱がさないで / Sērā Fuku o Nugasanai de)")
 [^2ne1-songs-fire]: [2NE1] YouTube: [Fire](https://www.youtube.com/watch?v=5S1Z2sUFTGo "2NE1: Fire")
 [^2ne1-songs-i-dont-care]: [2NE1] YouTube: [I Don't Care](https://www.youtube.com/watch?v=FVIdyq_OlNc "2NE1: I Don't Care")
 [^snsd-songs-gee]: [Girls' Generation] YouTube: [Gee](https://www.youtube.com/watch?v=U7mPqycQ0tQ "Girls' Generation: Gee")
 [^snsd-songs-genie]: [Girls' Generation] YouTube: [Genie](https://www.youtube.com/watch?v=6SwiSpudKWI "Girls' Generation: Genie")
-[^alamat-songs-kbye]: [Alamat (<span lang="tl-Tglg">ᜀᜎᜋᜆ᜔</span>)] YouTube: [kbye](https://www.youtube.com/watch?v=I7vPP-yIhY0 "Alamat: kbye")
-[^bini-songs-born-to-win]: [Bini (<span lang="tl-Tglg">ᜊᜒᜈᜒ</span>)] YouTube: [Born To Win](https://www.youtube.com/watch?v=Lcel5TXVuRE "Bini: Born To Win")
-[^mnl48-songs-pag-ibig-fortune-cookie]: [MNL48 (<span lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</span>)] YouTube: [Pag-ibig Fortune Cookie](https://www.youtube.com/watch?v=52EeHPhSk5c "MNL48: Pag-ibig Fortune Cookie")
-[^ugg-songs-kalimot]: [UGG (<span lang="tl-Tglg">ᜂᜄ᜔ᜄ᜔</span> / U Go Girls)] YouTube: [Kalimot](https://www.youtube.com/watch?v=V87iMAmwRLY "UGG (U Go Girls): Kalimot")
+[^alamat-songs-kbye]: [Alamat (<bdi lang="tl-Tglg">ᜀᜎᜋᜆ᜔</bdi>)] YouTube: [kbye](https://www.youtube.com/watch?v=I7vPP-yIhY0 "Alamat: kbye")
+[^bini-songs-born-to-win]: [Bini (<bdi lang="tl-Tglg">ᜊᜒᜈᜒ</bdi>)] YouTube: [Born To Win](https://www.youtube.com/watch?v=Lcel5TXVuRE "Bini: Born To Win")
+[^mnl48-songs-pag-ibig-fortune-cookie]: [MNL48 (<bdi lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</bdi>)] YouTube: [Pag-ibig Fortune Cookie](https://www.youtube.com/watch?v=52EeHPhSk5c "MNL48: Pag-ibig Fortune Cookie")
+[^ugg-songs-kalimot]: [UGG (<bdi lang="tl-Tglg">ᜂᜄ᜔ᜄ᜔</bdi> / U Go Girls)] YouTube: [Kalimot](https://www.youtube.com/watch?v=V87iMAmwRLY "UGG (U Go Girls): Kalimot")
 
 ## 피이팝 아이돌 이미지와 업종은?
 
-피이팝 아이돌의 이미지는 새로운 것이 아니라 산업으로서는 새로운 것이다. 내일 마츠코 (<span lang="ja">あした まつこ</span> / <span lang="ja">明日 待子</span> / <span lang="ja-Latn">Matsuko Ashita</span>)를 생각해 보십시오. 그녀는 연습생 시스템이 개발되고 아이돌이라는 단어가 만들어진 지 수십 년 후에야 J-팝 아이돌로 간주되었습니다. 당시 그녀는 단순히 배우, 가수, 스타로 불렸습니다.
+피이팝 아이돌의 이미지는 새로운 것이 아니라 산업으로서는 새로운 것이다. 내일 마츠코 (<bdi lang="ja">あした まつこ</bdi> / <bdi lang="ja">明日 待子</bdi> / <bdi lang="ja-Latn">Matsuko Ashita</bdi>)를 생각해 보십시오. 그녀는 연습생 시스템이 개발되고 아이돌이라는 단어가 만들어진 지 수십 년 후에야 J-팝 아이돌로 간주되었습니다. 당시 그녀는 단순히 배우, 가수, 스타로 불렸습니다.
 
 피이팝 아이돌의 이미지와 업계도 다르지 않다. 필리핀에는 피이팝 아이돌 산업이 형성되기 5년 전에 이미 피이팝 아이돌이 있었다.
 
@@ -195,7 +195,7 @@ type = "article"                                                           # art
 
 ### 최초의 여성 솔로 여성 피이팝 아이돌
 
-2004년 아이돌 기준을 통과한 초창기 작품이다. 착하고 귀엽고 순수하고 다정하고 많은 이들에게 영감을 주는 10대들의 롤모델로 널리 알려져 있다. 그녀는 <span lang="tl">Pambansang Krung-krung</span> (<span lang="tl-Tglg">ᜉᜋ᜔ᜊᜈ᜔ᜐᜅ᜔ ᜃᜓᜇᜓᜅ᜔ᜃᜓᜇᜓᜅ᜔</span> / Nation's Crazy Personality / 국민미친성격)로 불렸다. 산다라는 <q>독특하고 귀엽고 미쳤다</q>고 설명합니다 [^abs-cbn-entertainment-sandara-park-krung-krung]. 다름 아닌 산다라박입니다.
+2004년 아이돌 기준을 통과한 초창기 작품이다. 착하고 귀엽고 순수하고 다정하고 많은 이들에게 영감을 주는 10대들의 롤모델로 널리 알려져 있다. 그녀는 <bdi lang="tl">Pambansang Krung-krung</bdi> (<bdi lang="tl-Tglg">ᜉᜋ᜔ᜊᜈ᜔ᜐᜅ᜔ ᜃᜓᜇᜓᜅ᜔ᜃᜓᜇᜓᜅ᜔</bdi> / Nation's Crazy Personality / 국민미친성격)로 불렸다. 산다라는 <q>독특하고 귀엽고 미쳤다</q>고 설명합니다 [^abs-cbn-entertainment-sandara-park-krung-krung]. 다름 아닌 산다라박입니다.
 
 {{< video
   id="_IKAPJSAiSQ"
@@ -217,7 +217,7 @@ type = "article"                                                           # art
   attribrel="noopener external"
 >}}
 
-박산다라은 2004년 <span lang="en-PH">ABS-CBN</span>의 <cite lang="en-PH">Star Circle Quest</cite>에서 첫 번째 준우승을 차지했습니다. 그녀는 같은 해 100,000장 이상 판매된 자신의 이름을 딴 앨범을 발매하며 가수 데뷔를 했습니다. 필리핀 음반산업협회로부터 플래티넘 인증을 받았습니다. 그녀의 싱글 <cite lang="en-PH">In or Out</cite>은 주요 라디오 방송국에서 연주되고 가정과 파티에서 들을 수 있는 메가 댄스 히트곡이었습니다. 마닐라 게시판과의 인터뷰에서 산다라는 필리핀 전역에서 프로모션 투어를 하는 동안 팬들이 그녀와 함께 싱글을 어떻게 불렀는지 회상했습니다. [^manila-bulletin-sandara-park-inspiring-return]
+박산다라은 2004년 <bdi lang="en-PH">ABS-CBN</bdi>의 <cite><bdi lang="en-PH">Star Circle Quest</bdi></cite>에서 첫 번째 준우승을 차지했습니다. 그녀는 같은 해 100,000장 이상 판매된 자신의 이름을 딴 앨범을 발매하며 가수 데뷔를 했습니다. 필리핀 음반산업협회로부터 플래티넘 인증을 받았습니다. 그녀의 싱글 <cite><bdi lang="en-PH">In or Out</bdi></cite>은 주요 라디오 방송국에서 연주되고 가정과 파티에서 들을 수 있는 메가 댄스 히트곡이었습니다. 마닐라 게시판과의 인터뷰에서 산다라는 필리핀 전역에서 프로모션 투어를 하는 동안 팬들이 그녀와 함께 싱글을 어떻게 불렀는지 회상했습니다. [^manila-bulletin-sandara-park-inspiring-return]
 
 산다라는 순수한 한국인이지만 그녀의 노래는 필리핀 사람들이 작곡했습니다. <cite>[피이팝과 OPM의 차이점은 무엇입니까]({{< ref path="ppop-vs-opm.md" >}})</cite>에서 피이팝 또는 ***P**inoy **Pop**ular music*은 <q>필리핀이 작곡하거나 연주하는 모든 음악</q>으로 정의되었습니다. 그것은 <q>음악이 주류, 인디, 언더그라운드, 해외 필리핀인, 또는 외국인에 의해 연주되었는지 여부에 관계없이 Pinoy 음악 전체에 대한 단순히 다른 용어</q>입니다.
 
@@ -249,9 +249,9 @@ type = "article"                                                           # art
   attribrel="noopener external"
 >}}
 
-첫 번째 피이팝 아이돌 걸그룹의 제목은 <span lang="en-PH">Pop Girls</span> (팝 걸스) 이며 2009년 12월 13일 <cite lang="en-PH">Crazy Crazy</cite> (<cite>미쳤어 미쳤어</cite>)로 데뷔했습니다. 팝걸스'는 북미와 영국 걸그룹에서 영감을 받았지만 아시아 아이돌 걸그룹의 기준을 통과했다.
+첫 번째 피이팝 아이돌 걸그룹의 제목은 <bdi lang="en-PH">Pop Girls</bdi> (팝 걸스) 이며 2009년 12월 13일 <cite><bdi lang="en-PH">Crazy Crazy</bdi></cite> (<cite>미쳤어 미쳤어</cite>)로 데뷔했습니다. 팝걸스'는 북미와 영국 걸그룹에서 영감을 받았지만 아시아 아이돌 걸그룹의 기준을 통과했다.
 
-<span lang="en-PH">Pop Girls</span> (팝 걸스)'는 멤버 Jaliah와 Mariam Baustria(필리핀-레바논 쌍둥이), Shy Carlos(필리핀-스위스), Rose Van Ginkel(필리핀-네덜란드), Nadine Lustre로 시작되었습니다. 그들은 스튜디오 앨범과 디지털 싱글을 발표했습니다. 그리고 회원이 졸업하고 새로운 회원이 합류했습니다. 이들은 2017년 4월 12일 작별곡 <cite lang="tl">Prinsesa</cite>(<cite lang="tl-Tglg">ᜉᜒᜇᜒᜈ᜔ᜐᜒᜐ</cite> / <cite>공주님</cite>)를 발표하고 멤버 전원이 졸업할 때까지 프로모션 투어를 하고 방송에 출연했다.
+<bdi lang="en-PH">Pop Girls</bdi> (팝 걸스)'는 멤버 Jaliah와 Mariam Baustria(필리핀-레바논 쌍둥이), Shy Carlos(필리핀-스위스), Rose Van Ginkel(필리핀-네덜란드), Nadine Lustre로 시작되었습니다. 그들은 스튜디오 앨범과 디지털 싱글을 발표했습니다. 그리고 회원이 졸업하고 새로운 회원이 합류했습니다. 이들은 2017년 4월 12일 작별곡 <cite><bdi lang="tl">Prinsesa</bdi></cite>(<cite><bdi lang="tl-Tglg">ᜉᜒᜇᜒᜈ᜔ᜐᜒᜐ</bdi></cite> / <cite>공주님</cite>)를 발표하고 멤버 전원이 졸업할 때까지 프로모션 투어를 하고 방송에 출연했다.
 
 ### 최초의 피이팝 아이돌 보이그룹
 
@@ -276,13 +276,13 @@ type = "article"                                                           # art
   attribrel="noopener external"
 >}}
 
-2010년 3월 17일 필리핀은 XLR8에서 최초의 피이팝 아이돌 보이그룹을 보았다. XLR8은 Arkin del Rosario, Carlo Lazerna, 일란성 쌍둥이 Meljohn과 Melmar Magno, AJ Muhlach, Kiko Ramos, Caleb Santos, Hideaki Torio로 이루어진 8인조 아이돌 보이그룹입니다. 그들은 GMA 7의 버라이어티 쇼 <cite lang="en-PH">Party Pilipinas</cite> (<cite>파티 필리핀</cite>) 에서 정기적으로 공연했습니다. 그들은 1개의 스튜디오 앨범(골드 인증), 2개의 싱글 및 뮤직 비디오를 가지고 있었고, GMMSF 박스 오피스 엔터테인먼트 어워드에서 2011년 가장 유망한 녹음/공연 그룹을 수상했으며, 그들의 벨트 아래 3번의 콘서트를 통해 각자의 길을 떠났습니다.
+2010년 3월 17일 필리핀은 XLR8에서 최초의 피이팝 아이돌 보이그룹을 보았다. XLR8은 Arkin del Rosario, Carlo Lazerna, 일란성 쌍둥이 Meljohn과 Melmar Magno, AJ Muhlach, Kiko Ramos, Caleb Santos, Hideaki Torio로 이루어진 8인조 아이돌 보이그룹입니다. 그들은 GMA 7의 버라이어티 쇼 <cite><bdi lang="en-PH">Party Pilipinas</bdi></cite> (<cite>파티 필리핀</cite>) 에서 정기적으로 공연했습니다. 그들은 1개의 스튜디오 앨범(골드 인증), 2개의 싱글 및 뮤직 비디오를 가지고 있었고, GMMSF 박스 오피스 엔터테인먼트 어워드에서 2011년 가장 유망한 녹음/공연 그룹을 수상했으며, 그들의 벨트 아래 3번의 콘서트를 통해 각자의 길을 떠났습니다.
 
 ### 최초의 피이팝 아이돌 혼성그룹
 
-피이팝 남녀공학 그룹은 필리핀에서 새로운 것이 아닙니다. 1989년부터 1995년까지 엄청나게 인기 있는 남녀공학 그룹 <span lang="en-PH">Smokey Mountain</span>(그의 노래는 오늘날까지 들을 수 있음)과 <span lang="en-PH">Sugarpop</span>으로 알려진 어린 십대들이 있었습니다. "2006년부터 2009년까지. 하지만 최초의 피이팝 아이돌 혼성그룹의 명칭은 RPM이다.
+피이팝 남녀공학 그룹은 필리핀에서 새로운 것이 아닙니다. 1989년부터 1995년까지 엄청나게 인기 있는 남녀공학 그룹 <bdi lang="en-PH">Smokey Mountain</bdi>(그의 노래는 오늘날까지 들을 수 있음)과 <bdi lang="en-PH">Sugarpop</bdi>으로 알려진 어린 십대들이 있었습니다. "2006년부터 2009년까지. 하지만 최초의 피이팝 아이돌 혼성그룹의 명칭은 RPM이다.
 
-<span lang="en-PH">RPM</span> (<span lang="tl-Tglg">ᜇ᜔ᜉ᜔ᜋ᜔</span>) 또는 <span lang="en-PH">Real Pinoy Music</span> (리얼 피노이 음악)은 2010년 4월 21일에 데뷔한 7인조 피이팝 아이돌 혼성 그룹입니다. 그룹은 Pio Balbuena, Yanna Garcia, Anna Luna, Samantha Page, 크리스 살세도, 칼 트라조, 빈스 얍.
+<bdi lang="en-PH">RPM</bdi> (<bdi lang="tl-Tglg">ᜇ᜔ᜉ᜔ᜋ᜔</bdi>) 또는 <bdi lang="en-PH">Real Pinoy Music</bdi> (리얼 피노이 음악)은 2010년 4월 21일에 데뷔한 7인조 피이팝 아이돌 혼성 그룹입니다. 그룹은 Pio Balbuena, Yanna Garcia, Anna Luna, Samantha Page, 크리스 살세도, 칼 트라조, 빈스 얍.
 
 {{< video
   id="RLAp9uhQFOI"
@@ -322,7 +322,7 @@ The notion of generation is widely used in the everyday world to make sense of d
 
 제인 필처(Jane Pilcher)가 말했듯이 <q>우리는 1960년대에 자란 사람들을 '60년대'에 속하는 것으로 묘사합니다.</q> 이것은 10년으로 고정되어 있기 때문에 좋은 기초입니다. 이 때문에 2010년부터 2019년까지 1세대 피이팝 아이돌 커버가 데뷔한다.
 
-<span lang="en-PH">Pop Girls</span> (팝 걸스)는 2010년 19일 데뷔했고, 2004년 이후 처음으로 피이팝 아이돌로 데뷔했기 때문에 약간의 예외는 있다. 2010년부터 2019년까지 1세대 피이팝 아이돌은 아직 1세대지만, 올해가 가기 며칠 전에 데뷔한 <span lang="en-PH">Pop Girls</span> (팝 걸스)도 포함된다.
+<bdi lang="en-PH">Pop Girls</bdi> (팝 걸스)는 2010년 19일 데뷔했고, 2004년 이후 처음으로 피이팝 아이돌로 데뷔했기 때문에 약간의 예외는 있다. 2010년부터 2019년까지 1세대 피이팝 아이돌은 아직 1세대지만, 올해가 가기 며칠 전에 데뷔한 <bdi lang="en-PH">Pop Girls</bdi> (팝 걸스)도 포함된다.
 
 1세대가 끝난 직후는 2세대 피이팝 아이돌의 시작이다. 현 세대의 피이팝 아이돌 커버는 2020년 1월 1일부터 2029년 12월 31일까지 데뷔합니다.
 

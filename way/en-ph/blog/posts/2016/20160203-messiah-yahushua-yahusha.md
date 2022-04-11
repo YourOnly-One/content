@@ -54,23 +54,23 @@ Before anything else, an important note. This study is on the advance level or f
 
 The Masoretic marks ("niqqud"/"vowel points") were developed to supposedly make it easy to determine the correct vowel pronunciation of Hebrew words. If we want to go back to the original, is it not only logical to write these "vowels" in full form when we remove it?
 
-Our example is our Messiah's name: <bdo dir="rtl" lang="he">יְהוֺשֻׁעַ</bdo> becomes <bdo dir="rtl" lang="he">יהושוע</bdo>. I submit that this is the proper way to remove the niqqud, we reverse the process of how they arrived into the niqqud form. (n.b. Our Messiah's name is the same as what we know in English as "Joshua".)
+Our example is our Messiah's name: <bdi dir="rtl" lang="he">יְהוֺשֻׁעַ</bdi> becomes <bdi dir="rtl" lang="he">יהושוע</bdi>. I submit that this is the proper way to remove the niqqud, we reverse the process of how they arrived into the niqqud form. (n.b. Our Messiah's name is the same as what we know in English as "Joshua".)
 
 ## From ancient to niqqud form
 
 <ol class="custom_liststyle circles-list">
-  <li>His name was originally written in "full spelling" in Paleo-Hebrew: <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo></li>
-  <li>Later, they figured they can drop one character/glyph *without* changing the pronunciation, this is called "defective spelling": <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤏</bdo></li>
+  <li>His name was originally written in "full spelling" in Paleo-Hebrew: <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi></li>
+  <li>Later, they figured they can drop one character/glyph *without* changing the pronunciation, this is called "defective spelling": <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤏</bdi></li>
   <li>Their writing script changed to what we know today as "square" or "blocky" Hebrew but there were no niqqud additions yet:
     <ul class="custom_liststyle omark-black">
-      <li class="list-green">Full spelling: <bdo dir="rtl" lang="he">יהושוע</bdo></li>
-      <li class="list-blue">Defective spelling: <bdo dir="rtl" lang="he">יהושע</bdo></li>
+      <li class="list-green">Full spelling: <bdi dir="rtl" lang="he">יהושוע</bdi></li>
+      <li class="list-blue">Defective spelling: <bdi dir="rtl" lang="he">יהושע</bdi></li>
     </ul>
   </li>
   <li>Then the Masoretes arrived and developed the niqqud system. The "controversial" vowel markers:
     <ul class="custom_liststyle omark-black">
-      <li class="list-blue">Full spelling: <bdo dir="rtl" lang="he">יְהוֺשׁוּעַ</bdo></li>
-      <li class="list-red">Defective spelling: <bdo dir="rtl" lang="he">יְהוֺשֻׁעַ</bdo></li>
+      <li class="list-blue">Full spelling: <bdi dir="rtl" lang="he">יְהוֺשׁוּעַ</bdi></li>
+      <li class="list-red">Defective spelling: <bdi dir="rtl" lang="he">יְהוֺשֻׁעַ</bdi></li>
     </ul>
   </li>
 </ol>
@@ -85,8 +85,8 @@ However, people's names stay as-is but without any niqqud. Example, if your name
 
 Using the name "Joshua" in Hebrew:
 <ul class="custom_liststyle checkmark-heavy list-green">
-  <li><bdo dir="rtl" lang="he">יְהוֺשׁוּעַ</bdo> is now <bdo dir="rtl" lang="he">יהושוע</bdo> (full spelling), same characters/glyphs but without the niqqud, and never as the defective spelling</li>
-  <li><bdo dir="rtl" lang="he">יְהוֺשֻׁעַ</bdo> is now <bdo dir="rtl" lang="he">יהושע</bdo> (defective spelling), same characters/glyphs but without the niqqud, and never as the full spelling;</li>
+  <li><bdi dir="rtl" lang="he">יְהוֺשׁוּעַ</bdi> is now <bdi dir="rtl" lang="he">יהושוע</bdi> (full spelling), same characters/glyphs but without the niqqud, and never as the defective spelling</li>
+  <li><bdi dir="rtl" lang="he">יְהוֺשֻׁעַ</bdi> is now <bdi dir="rtl" lang="he">יהושע</bdi> (defective spelling), same characters/glyphs but without the niqqud, and never as the full spelling;</li>
 </ul>
 
 For children, who are obviously not masters of the Hebrew language yet, they use niqqud or vowel markers to help them in pronouncing the words correctly. They advise the same for foreigners.
@@ -95,25 +95,25 @@ If you have mastered the Hebrew language and your knowledge is vast about the ru
 
 ## Let's break it down
 
-### Full spelling: <bdo class="font-Hebr-modern" dir="rtl" lang="he">יְהוֺשׁוּעַ</bdo> / <bdo class="font-Hebr-modern" dir="rtl" lang="he">יהושוע</bdo>
+### Full spelling: <bdi class="font-Hebr-modern" dir="rtl" lang="he">יְהוֺשׁוּעַ</bdi> / <bdi class="font-Hebr-modern" dir="rtl" lang="he">יהושוע</bdi>
 
 <ul class="custom_liststyle checkmark-heavy list-green">
-  <li><bdo dir="rtl" lang="he">יְ</bdo> - yah (yad with the sheva niqqud)</li>
-  <li><bdo dir="rtl" lang="he">ה</bdo> - h (hey)</li>
-  <li><bdo dir="rtl" lang="he">וֺ</bdo> - ō (waw/uau with holam [haser] niqqud; long "o" sound, which sounds like a long "u" basically)</li>
-  <li><bdo dir="rtl" lang="he">שׁ</bdo> - sh (shin-dot)</li>
-  <li><bdo dir="rtl" lang="he">וּ</bdo> - u (waw/uau with shuruk niqqud)</li>
-  <li><bdo dir="rtl" lang="he">עַ</bdo> - ah (ayin with a patach niqqud)</li>
+  <li><bdi dir="rtl" lang="he">יְ</bdi> - yah (yad with the sheva niqqud)</li>
+  <li><bdi dir="rtl" lang="he">ה</bdi> - h (hey)</li>
+  <li><bdi dir="rtl" lang="he">וֺ</bdi> - ō (waw/uau with holam [haser] niqqud; long "o" sound, which sounds like a long "u" basically)</li>
+  <li><bdi dir="rtl" lang="he">שׁ</bdi> - sh (shin-dot)</li>
+  <li><bdi dir="rtl" lang="he">וּ</bdi> - u (waw/uau with shuruk niqqud)</li>
+  <li><bdi dir="rtl" lang="he">עַ</bdi> - ah (ayin with a patach niqqud)</li>
 </ul>
 
-### Defective spelling: <bdo class="font-Hebr-modern" dir="rtl" lang="he">יְהוֺשֻׁעַ</bdo> / <bdo class="font-Hebr-modern" dir="rtl" lang="he">יהושע</bdo>
+### Defective spelling: <bdi class="font-Hebr-modern" dir="rtl" lang="he">יְהוֺשֻׁעַ</bdi> / <bdi class="font-Hebr-modern" dir="rtl" lang="he">יהושע</bdi>
 
 <ul class="custom_liststyle checkmark-heavy list-green">
-  <li><bdo dir="rtl" lang="he">יְ</bdo> - yah (yad with a sheva niqqud)</li>
-  <li><bdo dir="rtl" lang="he">ה</bdo> - h (hey)</li>
-  <li><bdo dir="rtl" lang="he">וֺ</bdo> - ō (waw/uau with a holam [haser] niqqud; long "o" sound, which sounds like a long "u" basically)</li>
-  <li><bdo dir="rtl" lang="he">שֻׁ</bdo> - shu (shin-dot with a kubutz niqqud)</li>
-  <li><bdo dir="rtl" lang="he">עַ</bdo> - ah (ayin with a patach niqqud)</li>
+  <li><bdi dir="rtl" lang="he">יְ</bdi> - yah (yad with a sheva niqqud)</li>
+  <li><bdi dir="rtl" lang="he">ה</bdi> - h (hey)</li>
+  <li><bdi dir="rtl" lang="he">וֺ</bdi> - ō (waw/uau with a holam [haser] niqqud; long "o" sound, which sounds like a long "u" basically)</li>
+  <li><bdi dir="rtl" lang="he">שֻׁ</bdi> - shu (shin-dot with a kubutz niqqud)</li>
+  <li><bdi dir="rtl" lang="he">עַ</bdi> - ah (ayin with a patach niqqud)</li>
 </ul>
 
 Both spellings (defective and full) are pronounced and understood as:
@@ -170,10 +170,10 @@ Always remember this, my brethren, there is no point arguing about which transli
 If you think that it is a disrespect to write His name's transliteration "wrong", then better use Hebrew as you can never go wrong. Here it is for your copy-and-paste convenience:
 
 <ul class="custom_liststyle checkmark-heavy list-green">
-  <li>Full spelling in Paleo-Hebrew: <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo></li>
-  <li>Defective spelling in Paleo-Hebrew: <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤏</bdo></li>
-  <li>Full spelling in Modern Hebrew: <bdo dir="rtl" lang="he">יהושוע</bdo></li>
-  <li>Defective spelling in Modern Hebrew: <bdo dir="rtl" lang="he">יהושע</bdo></li>
+  <li>Full spelling in Paleo-Hebrew: <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi></li>
+  <li>Defective spelling in Paleo-Hebrew: <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤏</bdi></li>
+  <li>Full spelling in Modern Hebrew: <bdi dir="rtl" lang="he">יהושוע</bdi></li>
+  <li>Defective spelling in Modern Hebrew: <bdi dir="rtl" lang="he">יהושע</bdi></li>
 </ul>
 
 <hr />
@@ -190,7 +190,7 @@ If you think that it is a disrespect to write His name's transliteration "wrong"
 
 I hope with the disclaimers above, there will be no attempts to spark debates. You are free to comment and share your thoughts below in a **constructive** and **civilized** manner.
 
-<bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (Yahuah) bless you, my brothers and sisters.
+<bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (Yahuah) bless you, my brothers and sisters.
 
 ---
 
