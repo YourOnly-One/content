@@ -3,7 +3,7 @@ title = "Three Days and Three Nights in the Heart of the Earth"
 description = "Was Yahushua / Jesus literally 3 Days and 3 Nights in the Heart of the Earth?"  # For Schema.org; OpenGraph; Twitter Cards
 
 date = "2020-04-04T21:59:01+08:00"                          # manually adjust to local timezone
-lastmod = "2020-04-04T21:59:01+08:00"                          # manually adjust to local timezone
+#lastmod = "2020-04-04T21:59:01+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2020/04/three-days-three-nights.html"]
 slug = "Three Days and Three Nights in the Heart of the Earth"
@@ -98,11 +98,13 @@ And said unto them, Thus it is written, and thus it behoved the Messiah to suffe
 
 Even Lukas (Luke) recorded the Messiah saying the exact same thing. The Messiah must <q>suffer, and to rise from the dead the third day</q>, it can not be any clearer than that. The Messiah's suffering is counted and him getting killed is but the last phase of the <q>heart of the earth</q> in Mattithyahu (Matthew) 12:40. Then on the third day he became the first to rise from the dead.
 
+<!--
 ## Inclusive counting versus Exclusive counting
 
-During the Biblical times, the Israelites were counting similarly as the rest of what we call today as "Asians" - inclusively. It means that counting starts at "one (1)" as opposed to "zero (0)" when counting exclusively as most people do today. For example, in Korea, when a child is born he or she is 1 year old but in other countries the child upon birth is 0 year old.
+During the Biblical times, the Israelites were counting similarly as the rest of what we call today as "Asians" - inclusively. It means that counting starts at "one (1)" as opposed to "zero (0)" when counting exclusively as most people do today. <del>For example, in Korea, when a child is born he or she is 1 year old but in other countries the child upon birth is 0 year old.</del>
 
-This is important in understanding the Bible, we need to view it from a Hebrew perspecitve at that time period as the texts were written from their perspective and culture. Thus when counting the <q>three days and three nights</q>, at the strike of dawn it is "Day 1" and at the strike of darkness it is "Night 1". <!-- (For more about this topic, read [Inclusive Versus Exclusive (Calendar) Counting](https://snoworld.one/inclusive-versus-exclusive-calendar-counting/).) -->
+This is important in understanding the Bible, we need to view it from a Hebrew perspecitve at that time period as the texts were written from their perspective and culture. Thus when counting the <q>three days and three nights</q>, at the strike of dawn it is "Day 1" and at the strike of darkness it is "Night 1". (For more about this topic, read [Inclusive Versus Exclusive (Calendar) Counting](https://snoworld.one/inclusive-versus-exclusive-calendar-counting/).)
+-->
 
 ## Putting it all together
 
@@ -137,18 +139,14 @@ From these verses, and directly from the Messiah himself, the <q>heart of the ea
   cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
 >}}
 
-<ul class="custom_liststyle checkmark-heavy list-red">
-  <li>Nighttime of 13<sup>th</sup> is Night 1: Judas betrayed the Messiah at the Garden of Gethsemane.</li>
-  <li>Daytime of 14<sup>th</sup> is Day 1: "Preparation *Day*". Trial, crucifixion, death at the 9<sup>th</sup> hour (15:00 or 3:00pm)</li>
-  <li>Nighttime of 14<sup>th</sup> is Night 2: Passover.
-    Vayiqra (Leviticus) 23:5 - <q>In the fourteenth day of the first month at evening is <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (<bdi lang="hbo-Latn" dir="ltr">YAHUAH</bdi>)'s passover.</q>
-  </li>
-  <li>Daytime of 15<sup>th</sup> is Day 2: Sabbath Day and is also the first day of the Feast of Unleavened Bread.
-    Vayiqra (Leviticus) 23:6 - <q>And on the fifteenth day of the same month is the feast of unleavened bread unto <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (<bdi lang="hbo-Latn" dir="ltr">YAHUAH</bdi>): seven days ye must eat unleavened bread.</q>
-  </li>
-  <li>Nighttime of 15<sup>th</sup> is Night 3</li>
-  <li>Daytime of 16<sup>th</sup> is Day 3: Resurrection Day</li>
-</ul>
+- Nighttime of 13<sup>th</sup> is Night 1: Judas betrayed the Messiah at the Garden of Gethsemane.
+- Daytime of 14<sup>th</sup> is Day 1: "Preparation *Day*". Trial, crucifixion, death at the 9<sup>th</sup> hour (15:00 or 3:00pm)
+- Nighttime of 14<sup>th</sup> is Night 2: Passover.
+  Vayiqra (Leviticus) 23:5 - <q>In the fourteenth day of the first month at evening is <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (<bdi lang="hbo-Latn" dir="ltr">YAHUAH</bdi>)'s passover.</q>
+- Daytime of 15<sup>th</sup> is Day 2: Sabbath Day and is also the first day of the Feast of Unleavened Bread.
+  Vayiqra (Leviticus) 23:6 - <q>And on the fifteenth day of the same month is the feast of unleavened bread unto <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (<bdi lang="hbo-Latn" dir="ltr">YAHUAH</bdi>): seven days ye must eat unleavened bread.</q>
+- Nighttime of 15<sup>th</sup> is Night 3
+- Daytime of 16<sup>th</sup> is Day 3: Resurrection Day
 
 That, my friend, is the simplest and shortest version. I hope you were able to follow and understood it.
 
