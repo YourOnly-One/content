@@ -14,7 +14,7 @@ relCanonical = "https://im.youronly.one/way/the-age-of-accountability-2013248/" 
 
 channels = ["waybelievers"]
 categories = ["opinion"]                           # taxonomy
-keywords = ["accountabiltiy", "age", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
+keywords = ["accountabiltiy", "age", "One Way Faith", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 #series = [""]                               # subset of series taxonomy
 #tags = [""]                                 # taxonomy
 

@@ -14,7 +14,7 @@ relCanonical = "https://im.youronly.one/way/the-old-testament-law-or-torah-was-n
 
 channels = ["waybelievers"]
 categories = ["discourse"]                           # taxonomy
-keywords = ["Torah", "Old Testament", "Law", "Nailed on the cross", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
+keywords = ["Torah", "Old Testament", "Law", "Nailed on the cross", "One Way Faith", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 series = ["torah"]                               # subset of series taxonomy
 #tags = [""]                                 # taxonomy
 

@@ -14,7 +14,7 @@ relCanonical = "https://im.youronly.one/way/should-christians-not-celebrate-chri
 
 channels = ["waybelievers"]
 categories = ["opinion"]														# taxonomy
-keywords = ["christians", "christmas", "traditions", "holiday", "Way of Believers", "YourOnlyOne", "YourOnly.One"]															# meta keywords
+keywords = ["christians", "christmas", "traditions", "holiday",  "One Way Faith", "Way of Believers", "YourOnlyOne", "YourOnly.One"]															# meta keywords
 #series = [""]																# subset of series taxonomy
 tags = ["traditions"]																	# taxonomy
 

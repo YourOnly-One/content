@@ -10,4 +10,4 @@ weight = "12"
 #metarobots = "noindex"
 +++
 
-[Way of Believers](https://im.youronly.one/way/ "Way of Believers")
+[One Way Faith](https://im.youronly.one/way/ "One Way Faith")

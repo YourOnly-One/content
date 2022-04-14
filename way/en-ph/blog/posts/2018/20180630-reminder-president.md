@@ -14,7 +14,7 @@ relCanonical = "https://im.youronly.one/way/a-reminder-from-the-president-201818
 
 channels = ["waybelievers"]
 categories = ["opinion"]                           # taxonomy
-keywords = ["Rodrigo Duterte", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
+keywords = ["Rodrigo Duterte", "One Way Faith", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 #series = [""]                               # subset of series taxonomy
 #tags = [""]                                 # taxonomy
 

@@ -14,7 +14,7 @@ relCanonical = "https://im.youronly.one/way/you-shall-not-murder-2016249/"      
 
 channels = ["waybelievers"]
 categories = ["discourse"]                           # taxonomy
-keywords = ["murder", "killing", "6th Commandment", "6th Law", "6th Instruction", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
+keywords = ["murder", "killing", "6th Commandment", "6th Law", "6th Instruction", "One Way Faith", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 #series = [""]                               # subset of series taxonomy
 #tags = [""]                                 # taxonomy
 

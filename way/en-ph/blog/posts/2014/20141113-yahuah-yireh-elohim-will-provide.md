@@ -14,7 +14,7 @@ relCanonical = "https://im.youronly.one/way/𐤉𐤄𐤅𐤄-yahuah-yireh-elohim
 
 channels = ["waybelievers"]
 categories = ["life"]                           # taxonomy
-keywords = ["musings", "life", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
+keywords = ["musings", "life", "One Way Faith", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 #series = [""]                               # subset of series taxonomy
 #tags = [""]                                 # taxonomy
 

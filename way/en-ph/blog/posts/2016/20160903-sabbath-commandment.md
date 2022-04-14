@@ -14,7 +14,7 @@ relCanonical = "https://im.youronly.one/way/todays-meditation-the-sabbath-comman
 
 channels = ["waybelievers"]
 categories = ["discourse"]                           # taxonomy
-keywords = ["Sabbath", "Sabbath Day", "7th Day", "Seventh Day", "Rest Day", "Day of Rest", "4th Commandment", "4th Law", "4th Instruction", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
+keywords = ["Sabbath", "Sabbath Day", "7th Day", "Seventh Day", "Rest Day", "Day of Rest", "4th Commandment", "4th Law", "4th Instruction", "One Way Faith", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 #series = [""]                               # subset of series taxonomy
 #tags = [""]                                 # taxonomy
 

@@ -14,7 +14,7 @@ relCanonical = "https://im.youronly.one/way/when-is-the-true-new-year-and-day-20
 
 channels = ["waybelievers"]
 categories = ["discourse"]                           # taxonomy
-keywords = ["new year", "traditions", "holiday", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
+keywords = ["new year", "traditions", "holiday", "One Way Faith", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 #series = [""]                               # subset of series taxonomy
 tags = ["traditions"]                                 # taxonomy
 

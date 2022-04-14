@@ -14,7 +14,7 @@ relCanonical = "https://im.youronly.one/way/three-days-and-three-nights-in-the-h
 
 channels = ["waybelievers"]
 categories = ["discourse"]                           # taxonomy
-keywords = ["heart of the earth", "three days and three nights", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
+keywords = ["heart of the earth", "three days and three nights", "One Way Faith", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 #series = [""]                               # subset of series taxonomy
 #tags = [""]                                 # taxonomy
 

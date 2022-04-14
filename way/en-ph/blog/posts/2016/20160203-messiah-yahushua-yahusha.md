@@ -14,7 +14,7 @@ relCanonical = "https://im.youronly.one/way/messiahs-name-yahushua-or-yahusha-20
 
 channels = ["waybelievers"]
 categories = ["literature"]                           # taxonomy
-keywords = ["Name", "True Name", "Real Name", "Actual Name", "Yahushua", "Yahusha", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
+keywords = ["Name", "True Name", "Real Name", "Actual Name", "Yahushua", "Yahusha", "One Way Faith", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 series = ["truename"]                               # subset of series taxonomy
 #tags = [""]                                 # taxonomy
 

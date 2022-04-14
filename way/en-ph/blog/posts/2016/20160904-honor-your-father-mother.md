@@ -14,7 +14,7 @@ relCanonical = "https://im.youronly.one/way/honor-your-father-and-your-mother-20
 
 channels = ["waybelievers"]
 categories = ["discourse"]                           # taxonomy
-keywords = ["honor", "father", "mother", "5th Commandment", "5th Law", "5th Instruction", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
+keywords = ["honor", "father", "mother", "5th Commandment", "5th Law", "5th Instruction", "One Way Faith", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 #series = [""]                               # subset of series taxonomy
 #tags = [""]                                 # taxonomy
 

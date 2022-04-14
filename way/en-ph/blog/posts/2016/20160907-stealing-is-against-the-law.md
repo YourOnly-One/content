@@ -14,7 +14,7 @@ relCanonical = "https://im.youronly.one/way/stealing-is-against-the-law-2016251/
 
 channels = ["waybelievers"]
 categories = ["discourse"]                           # taxonomy
-keywords = ["thievery", "thieving", "stealing", "commandment", "law", "instruction", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
+keywords = ["thievery", "thieving", "stealing", "commandment", "law", "instruction", "One Way Faith", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 #series = [""]                               # subset of series taxonomy
 #tags = [""]                                 # taxonomy
 

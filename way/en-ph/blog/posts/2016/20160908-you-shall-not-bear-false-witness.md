@@ -14,7 +14,7 @@ relCanonical = "https://im.youronly.one/way/the-9th-you-shall-not-bear-false-wit
 
 channels = ["waybelievers"]
 categories = ["discourse"]                           # taxonomy
-keywords = ["9th Commandment", "9th Law", "9th Instruction", "False Witness", "Witness", "Testimony", "False Testimony", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
+keywords = ["9th Commandment", "9th Law", "9th Instruction", "False Witness", "Witness", "Testimony", "False Testimony", "One Way Faith", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 #series = [""]                               # subset of series taxonomy
 #tags = [""]                                 # taxonomy
 

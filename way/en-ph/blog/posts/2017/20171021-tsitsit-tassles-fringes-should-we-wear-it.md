@@ -14,7 +14,7 @@ relCanonical = "https://im.youronly.one/way/tsitsit-tassles-fringes-should-we-we
 
 channels = ["waybelievers"]
 categories = ["discourse"]                           # taxonomy
-keywords = ["tsisit", "tassles", "fringes", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
+keywords = ["tsisit", "tassles", "fringes", "One Way Faith", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 #series = [""]                               # subset of series taxonomy
 #tags = [""]                                 # taxonomy
 

@@ -14,7 +14,7 @@ relCanonical = "https://im.youronly.one/way/feast-of-tabernacles-verses-2015274/
 
 channels = ["waybelievers"]
 categories = ["appointedtimes"]                           # taxonomy
-keywords = ["feast of tabernacles", "tabernacles", "Sukkot", "Succot", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
+keywords = ["feast of tabernacles", "tabernacles", "Sukkot", "Succot", "One Way Faith", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 #series = [""]                               # subset of series taxonomy
 tags = ["verses"]                                 # taxonomy
 

@@ -14,7 +14,7 @@ relCanonical = "https://im.youronly.one/way/joel-rosenbergs-lunch-with-president
 
 channels = ["waybelievers"]
 categories = ["opinion"]														# taxonomy
-keywords = ["Rosenberg", "Arroyo", "Macapagal", "Way of Believers", "YourOnlyOne", "YourOnly.One"]															# meta keywords
+keywords = ["Rosenberg", "Arroyo", "Macapagal", "One Way Faith", "Way of Believers", "YourOnlyOne", "YourOnly.One"]															# meta keywords
 #series = [""]																# subset of series taxonomy
 #tags = [""]																	# taxonomy
 

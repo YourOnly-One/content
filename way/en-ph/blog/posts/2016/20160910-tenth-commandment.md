@@ -14,7 +14,7 @@ relCanonical = "https://im.youronly.one/way/the-10th-commandment-2016254/"      
 
 channels = ["waybelievers"]
 categories = ["discourse"]                           # taxonomy
-keywords = ["10th Commandment", "10th Law", "10th Instruction", "covetous", "greed", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
+keywords = ["10th Commandment", "10th Law", "10th Instruction", "covetous", "greed", "One Way Faith", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 #series = [""]                               # subset of series taxonomy
 #tags = [""]                                 # taxonomy
 

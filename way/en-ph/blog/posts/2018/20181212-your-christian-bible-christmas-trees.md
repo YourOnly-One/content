@@ -14,7 +14,7 @@ relCanonical = "https://im.youronly.one/way/your-christian-bible-and-christmas-t
 
 channels = ["waybelievers"]
 categories = ["discourse"]                           # taxonomy
-keywords = ["traditions", "christmas", "christmas trees", "holiday", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
+keywords = ["traditions", "christmas", "christmas trees", "holiday", "One Way Faith", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 #series = [""]                               # subset of series taxonomy
 tags = ["traditions"]                                 # taxonomy
 
