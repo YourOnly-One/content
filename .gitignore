@@ -20,8 +20,6 @@ resources
 _vendor
 config/development
 config/staging
-go.mod
-go.sum
 
 # OS files
 .DS_Store
