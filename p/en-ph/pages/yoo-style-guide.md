@@ -77,6 +77,27 @@ BODY
 
 - Mottos are quoted in `<q></q>`
 
+Capitalized
+
+- channel name, TV network, brand/company names, author names, band names, singer names
+- use: <span class="brandname"><bdi lang=""></bdi></span>
+
+Italicized (in old print: underline)
+
+- movies, television, radio shows, books, periodicals, databases, websites
+- use: <cite class="worktitle_larger"><bdi lang=""></bdi></cite>
+
+- Chinese: 《…〈…〉…》
+- Japanese: 《…〈…〉…》
+
+Quotation marks
+
+- episode, articles, essays, chapters, poems, songs, speeches
+- use: <q class="worktitle_specific"><bdi lang=""></bdi></q>
+- Chinese: 「…『…』…」
+- Japanese: 「…『…』…」
+- South Korean (usually for vertical only): 「…『…』…」
+
 ---
 
 <!-- markdownlint-disable -->
