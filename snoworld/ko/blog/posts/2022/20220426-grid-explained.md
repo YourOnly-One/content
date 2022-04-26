@@ -994,9 +994,18 @@ Z축 또는 높이, 또는 위아래로 움직이는 것은 내가 "존재의 �
 {{< /footnotelist >}}
 {{< /accordion >}}
 
-## 알려지지 않은
+{{< accordion summary="2021년 새하가 보행신호를 블루라이트라고 한 이유는?" class="faq" >}}
+어른들이 아이에게 걷는 신호는 파란색이라고 말하는 한국의 문화 전통입니다.
 
-- 2021년 새하가 9살 자신과 대화한 후 그린라이트를 블루로 착각한 이유는? (에피소드 8)
+국립국어원 역시 <q>신호등의 초록불을 초록불이 아닌 파란불로 부르는 이유는 사람들이 파란불을 빨강에 대한 상대적인 색 개념으로 인식하기 때문인 것으로 보인다. 빛.</q> {{< footnote id="go-is-blue-nikl" num="1" >}} {{< footnote id="go-is-blue-jinny-jin-jin" num="2" >}}
+
+이 답변은 MyDramaList의 [@27Aprile](https://mydramalist.com/690687-zero#comment-9474571)에서 제공했습니다.
+
+{{< footnotelist >}}
+{{< footnotecite id="go-is-blue-nikl" >}}[National Institute of Korean Language](https://www.korean.go.kr/front_eng/main.do){{< /footnotecite >}}
+{{< footnotecite id="go-is-blue-jinny-jin-jin" >}}[Why Some Koreans Call Green Traffic Light as ‘Blue Light’?](https://jinnyjinjin.com/why-some-koreans-call-green-traffic-light-as-blue-light/){{< /footnotecite >}}
+{{< /footnotelist >}}
+{{< /accordion >}}
 
 ## 수업 종료
 

@@ -994,9 +994,18 @@ Z軸、または高さ、または上下に移動することは、私が<q>存�
 {{< /footnotelist >}}
 {{< /accordion >}}
 
-## わからない
+{{< accordion summary="2021年のセハが歩行信号が青い光だと言ったのはなぜですか？" class="faq" >}}
+これは韓国の文化的伝統であり、大人は子供に歩行信号が青いと言います。
 
-- 2021年のセハが9歳の自分と話した後、なぜ緑色のライトを青色と間違えたのですか？ （エピソード8）
+国立韓国語研究所も説明しました。<q>交通灯の緑色の光が緑色の光とは呼ばれていませんが、青色の光は、人々が青色の光を赤色に対する相対的な色の概念として認識しているためと思われます。 軽い。</q> {{< footnote id="go-is-blue-nikl" num="1" >}} {{< footnote id="go-is-blue-jinny-jin-jin" num="2" >}}
+
+この回答は、MyDramaListの[@ 27Aprile](https://mydramalist.com/690687-zero#comment-9474571)によって提供されました。
+
+{{< footnotelist >}}
+{{< footnotecite id="go-is-blue-nikl" >}}[National Institute of Korean Language](https://www.korean.go.kr/front_eng/main.do){{< /footnotecite >}}
+{{< footnotecite id="go-is-blue-jinny-jin-jin" >}}[Why Some Koreans Call Green Traffic Light as ‘Blue Light’?](https://jinnyjinjin.com/why-some-koreans-call-green-traffic-light-as-blue-light/){{< /footnotecite >}}
+{{< /footnotelist >}}
+{{< /accordion >}}
 
 ## クラスは解雇されました
 

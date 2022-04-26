@@ -992,9 +992,18 @@ For a human being to produce over 100 µT meant they were exposed to extremely p
 {{< /footnotelist >}}
 {{< /accordion >}}
 
-## Unknown
+{{< accordion summary="Why did 2021 Sae Ha said the walk signal is blue light?" class="faq" >}}
+It is a Korean cultural tradition wherein adults tell kids walk signal is blue.
 
-- Why did 2021 Sae Ha mistook a green light for a blue after he talked to his 9-year old self? (episode 8)
+The National Institute of Korea Language also explained, <q>The reason why the green light of the traffic lights is not called the green light but the blue light seems to be because the people perceive the blue light as a relative color concept to the red light.</q> {{< footnote id="go-is-blue-nikl" num="1" >}} {{< footnote id="go-is-blue-jinny-jin-jin" num="2" >}}
+
+This answer was provided by [@27Aprile](https://mydramalist.com/690687-zero#comment-9474571) on MyDramaList.
+
+{{< footnotelist >}}
+{{< footnotecite id="go-is-blue-nikl" >}}[National Institute of Korean Language](https://www.korean.go.kr/front_eng/main.do){{< /footnotecite >}}
+{{< footnotecite id="go-is-blue-jinny-jin-jin" >}}[Why Some Koreans Call Green Traffic Light as ‘Blue Light’?](https://jinnyjinjin.com/why-some-koreans-call-green-traffic-light-as-blue-light/){{< /footnotecite >}}
+{{< /footnotelist >}}
+{{< /accordion >}}
 
 ## Class dismissed
 
