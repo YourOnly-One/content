@@ -789,6 +789,20 @@ In addition, if they did destroy the 1997 Grid, the faction which destroyed it w
 {{< accordion summary="What do you mean by 'faction' and 'would not benefit'?" class="faq" >}}
 In episode 10, it was revealed that there is a group or faction watching over the events and the time travelers. The scene where a man and his assistant were talking is one such faction. (They seem to be in outer space.)
 
+It is not possible to determine if they are for or against the Grid. Regardless, the message of that scene was to reveal there are groups who are changing events, either for the benefit of the people or for the benefit of their own pockets. In other words, whoever destroyed the Grid in 2022, they need the 1997 Grid to exist. Consider the following:
+
+- In the 1997 No Grid Reality, the number one R&D and pharmaceutical company in the world was owned by Sae Ha's parents. Which in turn means South Korea is the leading nation on Earth. Whoever destroyed the Grid in 2022, it is to their benefit that the 1997 Grid exists where Sae Ha's family did not build an R&D empire.
+
+- In the MIW Reality, South Korea forced the other labs to keep their mouths shut about South Korea's claim that Sae Ha's father was the brain behind the Grid. They showed the other nations and labs the footage of two time travelers who killed a janitor, making them believe that South Korea have time travel capabilities.
+
+  World superpowers no doubt loathed South Korea because of it and triggered a race to develop time travel. In <cite><bdi lang="en-US">Star Trek</bdi></cite> terms, there is a temporal [cold] war.
+{{< /accordion >}}
+
+{{< accordion summary="Who were the two men guarding the body of the Ghost in a white room?" status="open" class="faq" >}}
+The man who appears to be a subordinate could be the Friendly Blue Time Traveler or the Foe Blue Time Traveler since the character was played by the same actor. It is also possible it is a different character altogether, the actor having played three roles.
+
+He made this report to who appears to be his superior, <q>The Grid is all gone. From all the times and layers.</q>
+
 <!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-faction-scene.webp"
@@ -807,13 +821,9 @@ In episode 10, it was revealed that there is a group or faction watching over th
 >}}
 <!-- markdownlint-enable -->
 
-It is not possible to determine if they are for or against the Grid. Regardless, the message of that scene was to reveal there are groups who are changing events, either for the benefit of the people or for the benefit of their own pockets. In other words, whoever destroyed the Grid in 2022, they need the 1997 Grid to exist. Consider the following:
+His superior replied in English, <q>You never know.</q> Which he followed up with, in Korean, <q>No one knows. Is there really an end?</q>
 
-- In the 1997 No Grid Reality, the number one R&D and pharmaceutical company in the world was owned by Sae Ha's parents. Which in turn means South Korea is the leading nation on Earth. Whoever destroyed the Grid in 2022, it is to their benefit that the 1997 Grid exists where Sae Ha's family did not build an R&D empire.
-
-- In the MIW Reality, South Korea forced the other labs to keep their mouths shut about South Korea's claim that Sae Ha's father was the brain behind the Grid. They showed the other nations and labs the footage of two time travelers who killed a janitor, making them believe that South Korea have time travel capabilities.
-
-  World superpowers no doubt loathed South Korea because of it and triggered a race to develop time travel. In <cite><bdi lang="en-US">Star Trek</bdi></cite> terms, there is a temporal [cold] war.
+Like his subordinate, this man is also an unknown. In the room with them is what appears to be the [dead] body of the Ghost.
 {{< /accordion >}}
 
 {{< accordion summary="If there is no Grid in the Ghost's time, should she not exist at all?" class="faq" >}}
@@ -824,6 +834,8 @@ As long as the 1997 Grid exists, and Sae Ha died at the hands of Ma Nok on 2021-
 It could very well be the reason why she decided to become a time traveler … to find a way to stop the destruction of the Grid in 2022 or to setup backups those who are against it are not aware of. However, before she can concentrate on her main objective, she had to make sure she exists because Sae Ha was trying to change two fixed points in time. All of them, including those who are against the existence of the Grid (from 2022 onwards), would not exist if Sae Ha will have his way.
 
 This is why the Ghost told Sae Ha, "Don't try to change anything", and "You're the one ruining everything. Stay out of this."
+
+This question was asked by [@LydiaDaniel](https://mydramalist.com/690687-zero#comment-9406129) on MyDramaList.
 {{< /accordion >}}
 
 {{< accordion summary="If in the 1997 No Grid Reality the Ghost was never born, how did the Grid exist?" class="faq" >}}
