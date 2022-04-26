@@ -406,7 +406,7 @@ Here is how it happened:
 {{< accordion summary="What is the relation of Sae Ha's death to the Ghost and the Grid?" class="faq" >}}
 His death, by the hands of Kim Ma Nok, is the catalyst for these important events:
 
-1. Former husband and wife, Jung Sae Byeok and Song Eo Jin, comforted each other and slept together. Nine months later (July 2022), Byeori was born, the mother of the Ghost.
+1. Former husband and wife, Jung Sae Byeok and Song Eo Jin, comforted each other and slept together. Nine months later, sometime in July 2022, Byeori was born.
 
 1. Director Choi Seon Wool's reputation increased and she got more authority. Her department, the Secretariat, received a major increase in funding and much needed personnel.
 
