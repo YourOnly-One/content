@@ -799,7 +799,7 @@ It is not possible to determine if they are for or against the Grid. Regardless,
 {{< /accordion >}}
 
 {{< accordion summary="Who were the two men guarding the body of the Ghost in a white room?" class="faq" >}}
-The man who appears to be a subordinate could be the Friendly Blue Time Traveler or the Foe Blue Time Traveler since the character was played by the same actor. It is also possible it is a different character altogether, the actor having played three roles.
+The man who appears to be the subordinate could be the Friendly Blue Time Traveler or the Foe Blue Time Traveler since it was played by the same actor. It is also possible it is a different character altogether, the actor probably played three characters.
 
 He made this report to who appears to be his superior, <q>The Grid is all gone. From all the times and layers.</q>
 
