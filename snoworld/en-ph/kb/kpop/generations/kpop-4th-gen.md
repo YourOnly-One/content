@@ -51,7 +51,7 @@ The ***4th Generation of K-Pop Music*** started in 2022 and will end on 2031. Al
 
 In February, ***VIVIZ*** and ***NMIXX*** strenghtened the girl power theme with their powerful debut songs.
 
-> For an explanation on how we defined each generation, see: [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations")
+> For an explanation on how we defined each generation, see: [**YourOnly.One**'s K-pop Generations]({{% ref "/kpop-generations.md" %}} "Korean Popular Music Generations")
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_yellow" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
 
@@ -66,7 +66,7 @@ In February, ***VIVIZ*** and ***NMIXX*** strenghtened the girl power theme with 
 #### GOT the beat
 
 - Hangul: 갓더비트
-- a subgroup of supergroup ***[Girls On Top]({{< ref "/kpop-4th-gen.md#girls-on-top" >}} "Girls On Top")***
+- a subgroup of supergroup ***[Girls On Top]({{% ref "/kpop-4th-gen.md#girls-on-top" %}} "Girls On Top")***
 - Debut: 2022-01-01
   - Song: Step Back
 
@@ -111,7 +111,7 @@ In February, ***VIVIZ*** and ***NMIXX*** strenghtened the girl power theme with 
 - Also known as: TPST
 - Fandom name: TBA (maybe STORM or W1ND)
 - Debut: 2022-01-05 (1st dance video)
-  - Song: Kick It by ***[NCT 127]({{< ref "/kpop-3rd-gen.md#nct-127" >}} "NCT 127")***
+  - Song: Kick It by ***[NCT 127]({{% ref "/kpop-3rd-gen.md#nct-127" %}} "NCT 127")***
 
 {{< video
   id="yhCb3nEqxrQ"
@@ -128,10 +128,10 @@ In February, ***VIVIZ*** and ***NMIXX*** strenghtened the girl power theme with 
 - Debut: 2022-03-02
   - Song: TBA
 - Sample covers:
-  - *HIT* [^tempest-cover-hit-seventeen] by ***[SEVENTEEN]({{< ref "/kpop-3rd-gen.md#seventeen" >}} "SEVENTEEN")***
+  - *HIT* [^tempest-cover-hit-seventeen] by ***[SEVENTEEN]({{% ref "/kpop-3rd-gen.md#seventeen" %}} "SEVENTEEN")***
 - Did you know?
   - ***TEMPEST*** (***템페스트***) from **Yuehua Entertainment** shares the same name as the *Tempest* (*템페스트*) from **Pledis Entertainment**.
-    - *Tempest* from **Pledis Entertainment** disbanded before their debut due to the popularity of their other half ***[NU'EST]({{< ref "/kpop-3rd-gen.md#nu-est" >}} "NU'EST")***. [^soompi-8-things-you-need-to-know-about-nuest] [^kprofiles-tempest-profile-and-facts]
+    - *Tempest* from **Pledis Entertainment** disbanded before their debut due to the popularity of their other half ***[NU'EST]({{% ref "/kpop-3rd-gen.md#nu-est" %}} "NU'EST")***. [^soompi-8-things-you-need-to-know-about-nuest] [^kprofiles-tempest-profile-and-facts]
   - **Yuehua Entertainment** trademarked the names *TEMPEST*, *TPST*, and *템페스트* on 2021-06-08. [^naver-news-tempest-tpst-trademarked]
 - YouTube: [TEMPEST](https://www.youtube.com/channel/UCCViKQ1A1tXhIVKAVEazcaA "TEMPEST")
 
@@ -161,7 +161,7 @@ In February, ***VIVIZ*** and ***NMIXX*** strenghtened the girl power theme with 
 >}}
 
 - Did you know?
-  - The members of *VIVIZ*—Eunha, SinB, and Umji—are former members of ***[GFRIEND]({{< ref "/kpop-3rd-gen.md#gfriend" >}} "GFRIEND")***.
+  - The members of *VIVIZ*—Eunha, SinB, and Umji—are former members of ***[GFRIEND]({{% ref "/kpop-3rd-gen.md#gfriend" %}} "GFRIEND")***.
 - Instagram: [viviz_official](https://www.instagram.com/viviz_official/ "viviz_official")
 - Twitter: [@VIVIZ](https://twitter.com/viviz_official "@VIVIZ")
 - YouTube: [VIVIZ](https://www.youtube.com/c/VIVIZofficial/ "VIVIZ")

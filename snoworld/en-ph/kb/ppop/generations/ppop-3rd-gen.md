@@ -51,7 +51,7 @@ This was also when the *Philippine idol industry* started with the debut of ***X
 
 <!--more-->
 
-> For an explanation on how we defined each generation, see: [**YourOnly.One**'s P-pop Generations]({{< ref "/ppop-generations.md" >}} "Pinoy Popular Music Generations")
+> For an explanation on how we defined each generation, see: [**YourOnly.One**'s P-pop Generations]({{% ref "/ppop-generations.md" %}} "Pinoy Popular Music Generations")
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_yellow" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
 
@@ -662,7 +662,7 @@ This was also when the *Philippine idol industry* started with the debut of ***X
 - Did you know?
   - 《Dahil Sa'yo》 was the first number one song in the new Billboard Philippines Top 20 chart (now defunct).
   - His debut song was the most viewed P-pop and OPM video on YouTube at that time. [^iñigo-pascual-wikipedia-youtube-views]
-  - ***[2NE1]({{< ref "/kpop-2nd-gen.md#2ne1" >}} "2NE1")***'s Sandara Park made a cover of 《Dahil Sa'yo》 together with ***[iKON]({{< ref "/kpop-3rd-gen.md#ikon" >}} "iKON")***'s Jay. [^iñigo-pascual-dara-tv-dahil-sa-iyo]
+  - ***[2NE1]({{% ref "/kpop-2nd-gen.md#2ne1" %}} "2NE1")***'s Sandara Park made a cover of 《Dahil Sa'yo》 together with ***[iKON]({{% ref "/kpop-3rd-gen.md#ikon" %}} "iKON")***'s Jay. [^iñigo-pascual-dara-tv-dahil-sa-iyo]
 - Authority control:
   - [Discogs](https://www.discogs.com/artist/6895621-I%C3%B1igo-Pascual)
   - [ISNI](https://isni.org/isni/0000000503481476)
@@ -1017,7 +1017,7 @@ This was also when the *Philippine idol industry* started with the debut of ***X
 #### BABY BLUE {#baby-blue-v2CcBsBhIRE3d2cJr}
 
 - Kana: ベイビーブルー
-- A subgroup of ***[MNL48]({{< ref "/ppop-3rd-gen.md#mnl48" >}} "MNL48")***.
+- A subgroup of ***[MNL48]({{% ref "/ppop-3rd-gen.md#mnl48" %}} "MNL48")***.
 - Fandom name: Baby Love
 - Debut: 2020-09-17
   - Song: 《Sweet Talking Sugar》
@@ -1039,7 +1039,7 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   - 《Stuck On You》 [^mnl48-baby-blue-songs-stuck-on-you]
   - 《HEAD UP》 [^mnl48-baby-blue-songs-head-up]
 - Did you know?
-  - ***BABY BLUE*** is ***[MNL48]({{< ref "/ppop-3rd-gen.md#mnl48" >}} "MNL48")***'s first subgroup.
+  - ***BABY BLUE*** is ***[MNL48]({{% ref "/ppop-3rd-gen.md#mnl48" %}} "MNL48")***'s first subgroup.
   - This trio group concentrates on hip hop and R&B.
   - The subgroup is actively promoted in Japan, with its own Japanese profile and official Japanese social media accounts.
 - Authority control:

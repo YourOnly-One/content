@@ -43,7 +43,7 @@ avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 #rel = "noopener external nofollow"
 +++
 
-Remember when I said in this [post]({{< ref "/20160221-true-definition-of-love.md" >}}) that waiting for *butterflies in your stomach* is not the way to know if you have found love? Love *may be* *butterflies in the stomach* after all. Partially. At least according to this research on how our body experiences emotion.
+Remember when I said in this [post]({{% ref "/20160221-true-definition-of-love.md" %}}) that waiting for *butterflies in your stomach* is not the way to know if you have found love? Love *may be* *butterflies in the stomach* after all. Partially. At least according to this research on how our body experiences emotion.
 
 <!--more-->
 

@@ -49,7 +49,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 
 <!--more-->
 
-> For an explanation on how we defined each generation, see: [**YourOnly.One**'s P-pop Generations]({{< ref "/ppop-generations.md" >}} "Pinoy Popular Music Generations")
+> For an explanation on how we defined each generation, see: [**YourOnly.One**'s P-pop Generations]({{% ref "/ppop-generations.md" %}} "Pinoy Popular Music Generations")
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_yellow" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
 

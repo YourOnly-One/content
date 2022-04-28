@@ -51,7 +51,7 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
 
 <!--more-->
 
-> For an explanation on how we defined each generation, see: [**YourOnly.One**'s P-pop Generations]({{< ref "/ppop-generations.md" >}} "Pinoy Popular Music Generations")
+> For an explanation on how we defined each generation, see: [**YourOnly.One**'s P-pop Generations]({{% ref "/ppop-generations.md" %}} "Pinoy Popular Music Generations")
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_yellow" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
 
@@ -66,7 +66,7 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
 - Also known as: 8
 - Fandom name: Lucky Charm (as ***Clover***)
 - Debut: 2020-03-05 (as ***Clover***)
-  - Song: 《Mamma Mia》 (《맘마미아》) (original by ***[KARA]({{< ref "/kpop-2nd-gen.md#kara" >}} "KARA")***)
+  - Song: 《Mamma Mia》 (《맘마미아》) (original by ***[KARA]({{% ref "/kpop-2nd-gen.md#kara" %}} "KARA")***)
 
 {{< video
   id="VBAqJOekusM"
@@ -85,7 +85,7 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
   - Song: tba
 
 - Sample songs:
-  - 《Kumakabog-kabog (Pounding Heart)》 [^clover-songs-kumakabog-kabog] (Tagalog remix of 《맘이맘이》 (《Mammy Mammy》); original by ***[Kimi (키미)]({{< ref "/kpop-3rd-gen.md#kimi" >}} "Kimi (키미)")***)
+  - 《Kumakabog-kabog (Pounding Heart)》 [^clover-songs-kumakabog-kabog] (Tagalog remix of 《맘이맘이》 (《Mammy Mammy》); original by ***[Kimi (키미)]({{% ref "/kpop-3rd-gen.md#kimi" %}} "Kimi (키미)")***)
 - Did you know?
   - As ***Clover*** they were the first all-Filipino group under a Korean entertainment company to debut in the Philippines.
 - Authority control:
@@ -106,7 +106,7 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
   - [Instagram](https://www.instagram.com/infinityeightofficial)
   - [Twitter](https://twitter.com/8EightOfficial)
 
-[^clover-songs-kumakabog-kabog]: [Clover] YouTube: 《[Kumakabog-kabog (Pounding Heart)](https://www.youtube.com/watch?v=_KFzox7Ng_k "Clover: Kumakabog-kabog (Pounding Heart)")》 (Tagalog remix of 《맘이맘이》 (《Mammy Mammy》); original by *[Kimi (키미)]({{< ref "/kpop-3rd-gen.md#kimi" >}} "Kimi (키미)")*)
+[^clover-songs-kumakabog-kabog]: [Clover] YouTube: 《[Kumakabog-kabog (Pounding Heart)](https://www.youtube.com/watch?v=_KFzox7Ng_k "Clover: Kumakabog-kabog (Pounding Heart)")》 (Tagalog remix of 《맘이맘이》 (《Mammy Mammy》); original by *[Kimi (키미)]({{% ref "/kpop-3rd-gen.md#kimi" %}} "Kimi (키미)")*)
 
 ### 1st.One {#1st-one-MNvUmzVR7AStxbtQp}
 
@@ -300,7 +300,7 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
 
 #### Z1ON 56 {#z1on-56-bxi9PQdgg0ETdTmIx}
 
-- A subgroup of ***[Z1ON]({{< ref "/ppop-4th-gen.md#z1on" >}} "Z1ON")***
+- A subgroup of ***[Z1ON]({{% ref "/ppop-4th-gen.md#z1on" %}} "Z1ON")***
 - Fandom name:
 - Debut: 2020-12-31
   - Song: 《Home》
@@ -322,7 +322,7 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
 
 #### Z1ON M {#z1on-m-DsNaMmYv7DCv5P9D4}
 
-- A subgroup of ***[Z1ON]({{< ref "/ppop-4th-gen.md#z1on" >}} "Z1ON")***
+- A subgroup of ***[Z1ON]({{% ref "/ppop-4th-gen.md#z1on" %}} "Z1ON")***
 - Fandom name:
 - Debut: 2021-05-26
   - Song: 《All Again》

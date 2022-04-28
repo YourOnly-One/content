@@ -50,7 +50,7 @@ type = "article"                                                           # art
 
 If like me you are using <a class="popper animate" href="https://disqus.com" target="_blank" rel="noopener" data-popper="DISQUS">DISQUS</a> for your blog or site comments system, then maybe you've encountered a problem with integrating it to your custom theme/template. In this simple tutorial, I will show you which code bits to edit to successfully integrate Disqus into your Google Blogger/BlogSpot XML-based template. (Basically it is the same with any theme/template regardless of your blog platform or CMS.)
 
-But if you have a Classic Template, then read my [HOW TO: Integrate DISQUS on Blogger/BlogSpot Classic Template]({{< ref "integrate-disqus-blogger-classic.md" >}} "HOW TO: Integrate DISQUS on Blogger/BlogSpot Classic Template") instead.
+But if you have a Classic Template, then read my [HOW TO: Integrate DISQUS on Blogger/BlogSpot Classic Template]({{% ref "integrate-disqus-blogger-classic.md" %}} "HOW TO: Integrate DISQUS on Blogger/BlogSpot Classic Template") instead.
 
 <!--more-->
 

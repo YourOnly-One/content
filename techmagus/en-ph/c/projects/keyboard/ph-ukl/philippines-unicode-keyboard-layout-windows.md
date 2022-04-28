@@ -45,7 +45,7 @@ type = "article"                                                           # art
   #rel = "noopener external nofollow"
 +++
 
-I finished the port of the [Philippines Unicode Keyboard Layout for Linux]({{< ref "philippines-unicode-keyboard-layout-linux.md" >}} "Philippines Unicode Keyboard Layout for Linux") to Windows much earlier than I hoped! Rejoice Microsoft® Windows users!
+I finished the port of the [Philippines Unicode Keyboard Layout for Linux]({{% ref "philippines-unicode-keyboard-layout-linux.md" %}} "Philippines Unicode Keyboard Layout for Linux") to Windows much earlier than I hoped! Rejoice Microsoft® Windows users!
 
 Get it now and start typing all the Filipino characters!
 
@@ -83,7 +83,7 @@ You're done!
 
 <del>The font included in the zip file is a Unicode-only and Website-embed compatible version of <a href="https://nordenx.com" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Nordenx</a>'s Baybayin brush font.</del> Update 2018-03-20: Removed the special font in the package as I do not have permission to redistribute the Unicode-only version. <a href="https://bitbucket.org/paninap/ph-ukl/wiki/Fonts" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Check our font wiki here instead.</a>
 
-See the [keyboard layout images here]({{< ref "philippines-unicode-keyboard-layout.md" >}} "Philippines Unicode Keyboard Layout").
+See the [keyboard layout images here]({{% ref "philippines-unicode-keyboard-layout.md" %}} "Philippines Unicode Keyboard Layout").
 
 <ul class="custom_liststyle checkmark list-green">
   <li>Official source repository: <a href="https://bitbucket.org/paninap/ph-ukl/" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">https://bitbucket.org/paninap/ph-ukl/</a></li>

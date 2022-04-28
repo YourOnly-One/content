@@ -59,7 +59,7 @@ P-pop, or ***P**inoy **Pop**ular music*, encompasses all music composed or perfo
 
 There is a big overlap between pop music as a *genre* and pop music as *popular music*. Just remember that *pop music* since the mid-1950s <q>has usually been identified as the music ***and*** the musical styles that are accessible to the broadest audience</q> [^liveaboutdotcom-popular-music] (emphasis mine).
 
-An in-depth look about P-pop was discussed in <cite>[What is the difference between P-pop and OPM?]({{< ref path="ppop-vs-opm.md" >}} "What is the difference between P-pop and OPM?")</cite>
+An in-depth look about P-pop was discussed in <cite>[What is the difference between P-pop and OPM?]({{% ref path="ppop-vs-opm.md" %}} "What is the difference between P-pop and OPM?")</cite>
 
 [^liveaboutdotcom-popular-music]: LiveAbout: [Pop Vs. Popular Music](https://www.liveabout.com/what-is-pop-music-3246980 "LiveAbout: Pop Vs. Popular Music")
 

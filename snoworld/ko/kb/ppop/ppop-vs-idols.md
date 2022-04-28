@@ -59,7 +59,7 @@ type = "article"                                                           # art
 
 *장르*로서의 대중음악과 *대중음악*으로서의 대중음악 사이에는 큰 겹침이 있다. 1950년대 중반 이후의 *팝 음악*은 <q>일반적으로 가장 광범위한 청중이 접근할 수 있는 음악 ***및*** 음악 스타일</q>로 식별되었습니다(강조) [^liveaboutdotcom-popular-music].
 
-피이팝에 대한 자세한 내용은 <cite>[피이팝과 OPM의 차이점은 무엇입니까?]({{< ref path="ppop-vs-opm.md" >}} "P팝과 OPM의 차이점은 무엇인가요?")</cite>
+피이팝에 대한 자세한 내용은 <cite>[피이팝과 OPM의 차이점은 무엇입니까?]({{% ref path="ppop-vs-opm.md" %}} "P팝과 OPM의 차이점은 무엇인가요?")</cite>
 
 [^liveaboutdotcom-popular-music]: LiveAbout: [Pop Vs. Popular Music](https://www.liveabout.com/what-is-pop-music-3246980 "LiveAbout: Pop Vs. Popular Music")
 

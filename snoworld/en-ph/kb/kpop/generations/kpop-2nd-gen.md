@@ -49,7 +49,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 
 <!--more-->
 
-> For an explanation on how we defined each generation, see: [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations")
+> For an explanation on how we defined each generation, see: [**YourOnly.One**'s K-pop Generations]({{% ref "/kpop-generations.md" %}} "Korean Popular Music Generations")
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_yellow" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
 
@@ -80,7 +80,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 - Sample songs:
   - 내가 정말 사랑하는 사람이 있죠 (Dear My Love) [^byul-songs-dear-my-love] OST for *When the Weather Is Fine*
 - Did you know?
-  - She married K-pop and variety show star, ***[Haha]({{< ref "/kpop-1st-gen.md#haha" >}} "Haha")***.
+  - She married K-pop and variety show star, ***[Haha]({{% ref "/kpop-1st-gen.md#haha" %}} "Haha")***.
 - Wikipedia: [Byul](https://en.wikipedia.org/wiki/Byul "Byul")
 
 [^byul-songs-dear-my-love]: [Byul] YouTube: [별 byul - 내가 정말 사랑하는 사람이 있죠 Dear My Love Official M/V](https://www.youtube.com/watch?v=LlCblnuBkjg "별 byul - 내가 정말 사랑하는 사람이 있죠 Dear My Love Official M/V")
@@ -273,9 +273,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
 
-- Debut: 2006 as a member of ***[Uptown]({{< ref "/kpop-1st-gen.md#uptown" >}} "Uptown")***
-- Debut: 2014-07-17 as a member of ***[Lucky J]({{< ref "/kpop-3rd-gen.md#lucky-j" >}} "Lucky J")***
-- Debut: 2020-10-10 as a member of supergroup ***[Refund Sisters]({{< ref "/kpop-3rd-gen.md#refund-sisters" >}} "Refund Sisters")***
+- Debut: 2006 as a member of ***[Uptown]({{% ref "/kpop-1st-gen.md#uptown" %}} "Uptown")***
+- Debut: 2014-07-17 as a member of ***[Lucky J]({{% ref "/kpop-3rd-gen.md#lucky-j" %}} "Lucky J")***
+- Debut: 2020-10-10 as a member of supergroup ***[Refund Sisters]({{% ref "/kpop-3rd-gen.md#refund-sisters" %}} "Refund Sisters")***
 - Wikipedia: [Jessi (musician)](https://en.wikipedia.org/wiki/Jessi_(musician) "Jessi (musician)")
 
 ### Super Junior
@@ -507,10 +507,10 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 >}}
 
 - Sample songs:
-  - 그대를 잊는다는 건 (Forgetting You) [^davichi-songs-forgetting-you] OST for *[Moon Lovers: Scarlet Heart Ryeo]({{< ref "/20210103-moon-lovers-scarlet-heart-ryeo-2016.md" >}} "")*
-  - 오늘도 그리워 그리워 (Today I Miss You Too) [^davichi-songs-today-i-miss-you-too] OST for *[While You Were Sleeping]({{< ref "/20201224-while-you-were-sleeping-2017.md" >}} "")*
+  - 그대를 잊는다는 건 (Forgetting You) [^davichi-songs-forgetting-you] OST for *[Moon Lovers: Scarlet Heart Ryeo]({{% ref "/20210103-moon-lovers-scarlet-heart-ryeo-2016.md" %}} "")*
+  - 오늘도 그리워 그리워 (Today I Miss You Too) [^davichi-songs-today-i-miss-you-too] OST for *[While You Were Sleeping]({{% ref "/20201224-while-you-were-sleeping-2017.md" %}} "")*
   - 꿈처럼 내린 (Falling In Love) [^davichi-songs-falling-in-love] OST for *The Beauty Inside*
-  - Please Don't Cry OST [^davichi-songs-please-dont-cry] for *[The King: Eternal Monarch]({{< ref "/20210124-the-king-eternal-monarch-2020.md" >}} "")*
+  - Please Don't Cry OST [^davichi-songs-please-dont-cry] for *[The King: Eternal Monarch]({{% ref "/20210124-the-king-eternal-monarch-2020.md" %}} "")*
 - Wikipedia: [Davichi](https://en.wikipedia.org/wiki/Davichi "Davichi")
 
 [^davichi-songs-forgetting-you]: [Davichi] YouTube: [달의 연인 - 보보경심 려 OST - Davichi 다비치 'Forgetting You' 그대를 잊는다는 건](https://www.youtube.com/watch?v=o7OkV7QCRgc "달의 연인 - 보보경심 려 OST - Davichi 다비치 'Forgetting You' 그대를 잊는다는 건")
@@ -568,7 +568,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 ### Taemin
 
 - Hangul: 태민
-- Debut: 2008-08-28 as a member of ***[SHINee]({{< ref "/kpop-2nd-gen.md#shinee" >}} "SHINee")***
+- Debut: 2008-08-28 as a member of ***[SHINee]({{% ref "/kpop-2nd-gen.md#shinee" %}} "SHINee")***
 - Debut: 2014-08-15 as a solo act
   - Song: Danger
 
@@ -584,7 +584,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
 >}}
 
-- Debut: 2019-08 as a member of supergroup ***[SuperM]({{< ref "/kpop-3rd-gen.md#superm" >}} "SuperM")***
+- Debut: 2019-08 as a member of supergroup ***[SuperM]({{% ref "/kpop-3rd-gen.md#superm" %}} "SuperM")***
 - Did you know?
   - He was dubbed the Idol's Idol.
 - Wikipedia: [Lee Tae-min](https://en.wikipedia.org/wiki/Lee_Tae-min "Lee Tae-min")
@@ -688,7 +688,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 - Hangul: 지코
 - Debut: 2009 as a member of ***Harmonics***
   - Song: The Letter
-- Debut: 2011-04-14 as a member of ***[Block B]({{< ref "/kpop-2nd-gen.md#block-b" >}} "Block B")***
+- Debut: 2011-04-14 as a member of ***[Block B]({{% ref "/kpop-2nd-gen.md#block-b" %}} "Block B")***
 - Debut: 2014 as a solo act
 - Wikipedia: [Zico (rapper)](https://en.wikipedia.org/wiki/Zico_(rapper) "Zico (rapper)")
 
@@ -1011,7 +1011,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 - Hangul: 효린
 - Also known as: 김효정 (Kim Hyo-jung)
 - Fandom name: BAE
-- Debut: 2010-06-03 as a member of ***[SISTAR]({{< ref "/kpop-2nd-gen.md#sistar" >}} "SISTAR")***
+- Debut: 2010-06-03 as a member of ***[SISTAR]({{% ref "/kpop-2nd-gen.md#sistar" %}} "SISTAR")***
 - Debut: 2013 August as first solo act
   - Song: 미치게 만들어 (Crazy of You) OST for *Master's Sun*
 
@@ -1127,7 +1127,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 - Did you know?
   - *Bad Girl, Good Girl* was the first debut song to reach number one in the **Gaon Digital Chart**.
   - They were the fastest girl group to take the number one spot in a music show (**KBS** *Music Bank*).
-  - *Bad Girl, Good Girl* was the number 1 song in *Inkigayo* for four straight weeks, breaking the record set by ***[Girls' Generation]({{< ref "/kpop-2nd-gen.md#girls-generation" >}} "Girls' Generation")***.
+  - *Bad Girl, Good Girl* was the number 1 song in *Inkigayo* for four straight weeks, breaking the record set by ***[Girls' Generation]({{% ref "/kpop-2nd-gen.md#girls-generation" %}} "Girls' Generation")***.
   - Originally marketed as the "Chinese Wonder Girls".
 - Wikipedia: [Miss A](https://en.wikipedia.org/wiki/Miss_A "Miss A")
 
@@ -1139,7 +1139,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 - Hangul: 수지
 - Also known as: 배수지 (Bae Su Ji)
 - Fandom name: Sueweeties; Suzyholic
-- Debut: 2010 March as a member of ***[miss A]({{< ref "/kpop-2nd-gen.md#miss-a" >}} "miss A")***
+- Debut: 2010 March as a member of ***[miss A]({{% ref "/kpop-2nd-gen.md#miss-a" %}} "miss A")***
 - Debut: 2017-01-16 as a solo act
   - Song: 행복한 척 (Pretend)
 
@@ -1158,11 +1158,11 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 - Sample songs:
   - Yes No Maybe [^suzy-songs-yes-no-maybe]
   - 다른 사람을 사랑하고 있어 (I'm in Love with Someone Else) [^suzy-songs-im-in-love-with-someone-else]
-  - 나를 잊지말아요 (Don't Forget Me) [^suzy-songs-dont-forget-me] OST for *[Gu Family Book]({{< ref "/20201231-gu-family-book-2013.md" >}} "Gu Family Book")*
+  - 나를 잊지말아요 (Don't Forget Me) [^suzy-songs-dont-forget-me] OST for *[Gu Family Book]({{% ref "/20201231-gu-family-book-2013.md" %}} "Gu Family Book")*
   - Ring My Bell [^suzy-songs-ring-my-bell] OST for *Uncontrollably Fond*
-  - I Love You Boy [^suzy-songs-i-love-you-boy] OST for *[While You Were Sleeping]({{< ref "/20201224-while-you-were-sleeping-2017.md" >}} "While You Were Sleeping")*
-  - 듣고 싶은 말 (Words I Want To Hear) [^suzy-songs-words-i-want-to-hear] OST for *[While You Were Sleeping]({{< ref "/20201224-while-you-were-sleeping-2017.md" >}} "While You Were Sleeping")*
-  - My Dear Love [^suzy-songs-my-dear-love] OST for *[Start-Up]({{< ref "/20201225-start-up-2020.md" >}} "Start-Up")*
+  - I Love You Boy [^suzy-songs-i-love-you-boy] OST for *[While You Were Sleeping]({{% ref "/20201224-while-you-were-sleeping-2017.md" %}} "While You Were Sleeping")*
+  - 듣고 싶은 말 (Words I Want To Hear) [^suzy-songs-words-i-want-to-hear] OST for *[While You Were Sleeping]({{% ref "/20201224-while-you-were-sleeping-2017.md" %}} "While You Were Sleeping")*
+  - My Dear Love [^suzy-songs-my-dear-love] OST for *[Start-Up]({{% ref "/20201225-start-up-2020.md" %}} "Start-Up")*
 - Did you know?
   - She is also known as The Nation's First Love.
 - Wikipedia: [Bae Suzy](https://en.wikipedia.org/wiki/Bae_Suzy "Bae Suzy")
@@ -1249,7 +1249,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 
 - Hangul: 벤
 - Also known as: 이은영 (Lee Eun Young)
-- Debut: 2010 as a member of ***[BéBé Mignon]({{< ref "/kpop-1st-gen.md#bébé-mignon" >}} "BéBé Mignon")***
+- Debut: 2010 as a member of ***[BéBé Mignon]({{% ref "/kpop-1st-gen.md#bébé-mignon" %}} "BéBé Mignon")***
 - Debut: 2012-10-10 as solo act
   - Song: 오늘은 가지마 (Don't Go Today)
 
@@ -1267,7 +1267,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 
 - Sample songs:
   - Starlight Heart [^ben-songs-starlight-heart] OST for *The Red Sleeve*
-  - Whenever Wherever Whatever [^ben-songs-whenever-wherever-whatever] OST for *[Alice]({{< ref "/20201211-alice-2020.md" >}} "Alice")*
+  - Whenever Wherever Whatever [^ben-songs-whenever-wherever-whatever] OST for *[Alice]({{% ref "/20201211-alice-2020.md" %}} "Alice")*
   - Like A Dream [^ben-songs-like-a-dream] OST for *Another Miss Oh*
   - STAY [^ben-songs-stay] OST for *Oh My Ghostess*
 - Wikipedia: [Ben (South Korean singer)](https://en.wikipedia.org/wiki/Ben_(South_Korean_singer) "Ben")

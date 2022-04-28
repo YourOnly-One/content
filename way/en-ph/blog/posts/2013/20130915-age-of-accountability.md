@@ -46,7 +46,7 @@ avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 
 I did some study on the "Age of Accountability" and I can say that it depends person to person.
 
-Many in the Christendom claim that it is twelve (12) years old. But nowhere in the Scripture it was specifically mentioned. The claim was the story of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (pronunciation: yah-hu-shua; transliteration: Yahushua; also read: [Why Yahushua?]({{< ref "/20160203-messiah-yahushua-yahusha.md" >}})) when He preached in a Synagogue when He was twelve (12). But that's about it.
+Many in the Christendom claim that it is twelve (12) years old. But nowhere in the Scripture it was specifically mentioned. The claim was the story of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (pronunciation: yah-hu-shua; transliteration: Yahushua; also read: [Why Yahushua?]({{% ref "/20160203-messiah-yahushua-yahusha.md" %}})) when He preached in a Synagogue when He was twelve (12). But that's about it.
 
 <!--more-->
 

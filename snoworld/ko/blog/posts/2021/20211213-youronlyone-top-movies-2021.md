@@ -685,7 +685,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 
 ### YourOnly.One 리뷰
 
-*Space Sweepers*에 대한 우리의 리뷰는 별도로 볼 수 있습니다: [Space Sweepers Review]({{< ref "/20210206-space-sweepers-2021.md" >}} "Space Sweepers Review").
+*Space Sweepers*에 대한 우리의 리뷰는 별도로 볼 수 있습니다: [Space Sweepers Review]({{% ref "/20210206-space-sweepers-2021.md" %}} "Space Sweepers Review").
 
 ## 특별 언급
 

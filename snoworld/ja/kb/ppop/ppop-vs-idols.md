@@ -59,7 +59,7 @@ type = "article"                                                           # art
 
 *ジャンル*としてのポップミュージックと*ポピュラー音楽*としてのポップミュージックの間には大きな重複があります。 1950年代半ば以降の*ポップミュージック*は、<q>通常、音楽***および***最も幅広い聴衆がアクセスできる音楽スタイル</q>として識別されてきたことを覚えておいてください [^liveaboutdotcom-popular-music] （私の強調）。
 
-<bdi lang="fil">P-POP</bdi>の詳細については、<cite>[P-POPとOPMの違いは何ですか？]({{< ref path="ppop-vs-opm.md" >}} "P-POPとOPMの違いは何ですか？")</cite>
+<bdi lang="fil">P-POP</bdi>の詳細については、<cite>[P-POPとOPMの違いは何ですか？]({{% ref path="ppop-vs-opm.md" %}} "P-POPとOPMの違いは何ですか？")</cite>
 
 [^liveaboutdotcom-popular-music]: LiveAbout: [Pop Vs. Popular Music](https://www.liveabout.com/what-is-pop-music-3246980 "LiveAbout: Pop Vs. Popular Music")
 

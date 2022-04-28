@@ -44,7 +44,7 @@ type = "article"                                                           # art
   #rel = "noopener external nofollow"
 +++
 
-Google, the largest search engine today (and the "Microsoft" of the cyberworld), is slowly deploying <abbr class="popper animate" data-popper="Internet Protocol version 6">IPv6</abbr> across their sites. But even if you are already [connected to IPv6]({{< ref "connect-ipv6.md" >}} "IPv6 Is Not Scary!! Connect to Next-Gen Internet Now"), you will still not get an IPv6 Google.
+Google, the largest search engine today (and the "Microsoft" of the cyberworld), is slowly deploying <abbr class="popper animate" data-popper="Internet Protocol version 6">IPv6</abbr> across their sites. But even if you are already [connected to IPv6]({{% ref "connect-ipv6.md" %}} "IPv6 Is Not Scary!! Connect to Next-Gen Internet Now"), you will still not get an IPv6 Google.
 
 Why? Their current IPv6 implementation is currently in its testing phase. All IPv6 access must come from a reliable network that they have to pre-approve, this is the <i>Google over IPv6</i> project.
 
