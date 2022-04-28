@@ -55,66 +55,61 @@ This is the list of webblogs, websites, and services I recommend for additional 
 
 ## baybayin
 
-- <a href="https://www.quora.com/Is-Baybayin-really-a-writing-system-in-the-entire-pre-hispanic-Philippines-Whats-the-basis-for-making-it-a-national-writing-system-if-pre-hispanic-kingdoms-weren-t-homogenous/answer/Christopher-Ray-Miller" rel="noopener external">Is Baybayin really a writing system in the entire pre-Hispanic Philippines?</a>
+- [Is Baybayin really a writing system in the entire pre-Hispanic Philippines?](https://www.quora.com/Is-Baybayin-really-a-writing-system-in-the-entire-pre-hispanic-Philippines-Whats-the-basis-for-making-it-a-national-writing-system-if-pre-hispanic-kingdoms-weren-t-homogenous/answer/Christopher-Ray-Miller)
 
 ## chat and messaging
 
 The following have end-to-end encrypted chat by default, while Matrix is e2ee by default only for private conversations, chatroom owners can turn-on e2ee manually.
 
-- <a href="https://keybase.io" rel="noopener external">Keybase</a> — ***highly recommended***; with online identity verification, cloud and git hosting, Stellar XLM wallet support, and more
-- <a href="https://matrix.org" rel="noopener external">Matrix</a> — chatrooms can bridge to various other platforms like IRC and Discord
-- <a href="https://getsession.org" rel="noopener external">Session</a> — send messages, not metadata
-- <a href="https://signal.org" rel="noopener external">Signal</a> — offers e2ee video calls; unfortunately, a phone number is required to use
-- <a href="https://threema.ch/en" rel="noopener external">Threema</a> — also offers e2ee video calls
+- [Keybase](https://keybase.io) — ***highly recommended***; with online identity verification, cloud and git hosting, Stellar XLM wallet support, and more
+- [Matrix](https://matrix.org) — chatrooms can bridge to various other platforms like IRC and Discord
+- [Session](https://getsession.org) — send messages, not metadata
+- [Signal](https://signal.org) — offers e2ee video calls; unfortunately, a phone number is required to use
+- [Threema](https://threema.ch/en) — also offers e2ee video calls
 
 ## cultural
 
-- <a href="https://www.bookcrossing.com" rel="noopener external">BookCrossing</a>
-
-- <a href="https://www.postcrossing.com" rel="noopener external">Postcrossing</a>
+- [BookCrossing](https://www.bookcrossing.com)
+- [Postcrossing](https://www.postcrossing.com)
 
 ## development and programming
 
-- <a href="https://www.ii.com" rel="noopener external">Infinite Ink</a>
-
-- <a href="https://www.marginalia.nu" rel="noopener external">Marginalia</a>
+- [Infinite Ink](https://www.ii.com)
+- [Marginalia](https://www.marginalia.nu)
 
 ## faith and religion
 
-- The God Culture: <a href="https://www.thegodculture.com" rel="noopener external">website</a> | <a href="https://www.youtube.com/channel/UCK_iDwUHcRA0h_TdUHP8zwg" rel="noopener external">YouTube</a>
-
-- When was "Jesus" born: [<a href="http://www.yhrim.com/Teaching_Documents/Yahushas_Earthly_Birth_Month_~_2-5996_-_may_2014.pdf" rel="noopener external">1</a>] [<a href="https://excellent-valley.org/Communion/Communion_Folder/2_05_Pentecost.htm" rel="noopener external">2</a>] [<a href="https://www.youtube.com/watch?v=Kw1eg9XlG6A" rel="noopener external">3</a>] [<a href="https://www.youtube.com/watch?v=Y-OCC1XVGe0" rel="noopener external">4</a>] [<a href="https://www.youtube.com/watch?v=vpYFD-7BuuM" rel="noopener external">5</a>]
+- The God Culture: [website](https://www.thegodculture.com) | [YouTube](https://www.youtube.com/channel/UCK_iDwUHcRA0h_TdUHP8zwg)
+- When was "Jesus" born: [[1](http://www.yhrim.com/Teaching_Documents/Yahushas_Earthly_Birth_Month_~_2-5996_-_may_2014.pdf)] [[2](https://excellent-valley.org/Communion/Communion_Folder/2_05_Pentecost.htm)] [[3](https://www.youtube.com/watch?v=Kw1eg9XlG6A)] [[4](https://www.youtube.com/watch?v=Y-OCC1XVGe0)] [[5](https://www.youtube.com/watch?v=vpYFD-7BuuM)]
 
 ## free culture
 
-- <a href="https://publicdomainreview.org" rel="noopener external">The Public Domain Review</a>
+- [The Public Domain Review](https://publicdomainreview.org)
 
 ## privacy and security
 
-- <a href="https://cryptomator.org" rel="noopener external">Cryptomator</a> — free cloud encryption; encrypt your data before uploading to the cloud
-
-- <a href="http://httpforever.com" rel="noopener external">HTTP Forever</a> — a better way to login to public WiFi hotspots or captive portals
-- <a href="https://keybase.io" rel="noopener external">Keybase</a> — ***highly recommended***; with e2ee chat, online identity verification, cloud and git hosting, Stellar XLM wallet support, and more
-- <a href="https://keyoxide.org" rel="noopener external">Keyoxide</a> — ***highly recommended***; online identity verification through OpenPGP / GPG keys
-- <a href="https://privacyinternational.org" rel="noopener external">Privacy International</a>
-- <a href="https://www.privacytools.io" rel="noopener external">PrivacyTools</a>
-- <a href="https://restoreprivacy.com" rel="noopener external">RestorePrivacy</a>
+- [Cryptomator](https://cryptomator.org) — free cloud encryption; encrypt your data before uploading to the cloud
+- [HTTP Forever](http://httpforever.com) — a better way to login to public WiFi hotspots or captive portals
+- [Keybase](https://keybase.io) — ***highly recommended***; with e2ee chat, online identity verification, cloud and git hosting, Stellar XLM wallet support, and more
+- [Keyoxide](https://keyoxide.org) — ***highly recommended***; online identity verification through OpenPGP / GPG keys
+- [Privacy International](https://privacyinternational.org)
+- [PrivacyTools](https://www.privacytools.io)
+- [RestorePrivacy](https://restoreprivacy.com)
+- [Ruin My Search History](https://proprivacy.com/tools/ruinmysearchhistory) — generated random search queries which will ruin your Google search history, preventing the search engine from building an accurate profile on your activities
 
 ## projects
 
-- <a href="https://semweb.youronly.one" rel="me noopener">Semantic Web for Hugo</a> — Schema.org and Google Rich Snippets support for Hugo
-
-- <a href="https://gcpdot.com" rel="noopener external">The Global Consciousness Project</a> — Meaningful Correlations in Random Data
+- [Semantic Web for Hugo](https://semweb.youronly.one) — Schema.org and Google Rich Snippets support for Hugo
+- [The Global Consciousness Project](https://gcpdot.com) — Meaningful Correlations in Random Data
 
 ## software
 
-- <a href="https://gohugo.io" rel="noopener external">Hugo</a> — the number 1 static site generator; based on Go Lang
-
-- <a href="https://jamstack.club/#ssg=hugo" rel="noopener external">Jamstack.club: Hugo Themes</a>
+- [Hugo](https://gohugo.io) — the number 1 static site generator; based on Go Lang
+- [Jamstack.club: Hugo Themes](https://jamstack.club/#ssg=hugo)
 
 ## tools
 
-- <a href="https://www.timeanddate.com/worldclock/fixedform.html" rel="noopener external">Event Time Announcer</a> — auto-convert all timezones
+- [Event Time Announcer](https://www.timeanddate.com/worldclock/fixedform.html) — auto-convert all timezones
 
 ---
 
@@ -122,9 +117,9 @@ The following have end-to-end encrypted chat by default, while Matrix is e2ee by
 
 Here are other bookmark lists inspired by *Marginalia*. If you created yours, leave your link in [Linklists Are Back](https://im.youronly.one/techmagus/linklists-are-back-2021353) and I will add you below.
 
-- <a href="https://memex.marginalia.nu/links/bookmarks.gmi" rel="noopener external">Marginalia Bookmarks</a>
-- <a href="https://datagubbe.se/links/" rel="noopener external">{ datagubbe } Links</a>
-- <a href="https://mineralexistence.com/bookmarks.html" rel="noopener external">{ mineral existence } Bookmarks</a>
-- <a href="https://wiki.xxiivv.com/site/bookmarks.html" rel="noopener external">XXIBB Bookmarks</a>
-- <a href="https://hd-dn.com/bookmarks/" rel="noopener external">HD-DN Bookmarks</a>
-- <a href="https://flamedfury.com/links/" rel="noopener external">fLaMEdFury Links</a>
+- [Marginalia Bookmarks](https://memex.marginalia.nu/links/bookmarks.gmi)
+- [{ datagubbe } Links](https://datagubbe.se/links/)
+- [{ mineral existence } Bookmarks](https://mineralexistence.com/bookmarks.html)
+- [XXIBB Bookmarks](https://wiki.xxiivv.com/site/bookmarks.html)
+- [HD-DN Bookmarks](https://hd-dn.com/bookmarks/)
+- [fLaMEdFury Links](https://flamedfury.com/links/)</a>
