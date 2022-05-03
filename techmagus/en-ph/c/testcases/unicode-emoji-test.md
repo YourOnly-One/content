@@ -12,6 +12,8 @@ relCanonical = "https://im.youronly.one/techmagus/testcases/unicode-emoji-test-2
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
+syndications = ["https://twitter.com/YourOnlyONEofcl/status/1511929501382369283"]
+
 channels = ["techmagus"]
 categories = ["unicode"]                                                   # taxonomy
 keywords = ["unicode", "emoji", "standards", "standardization", "standardisation", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords

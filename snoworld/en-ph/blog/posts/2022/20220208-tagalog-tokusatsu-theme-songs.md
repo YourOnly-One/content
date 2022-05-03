@@ -12,6 +12,8 @@ relCanonical = "https://im.youronly.one/snoworld/bioman-maskman-shaider-tagalog-
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
+syndications = ["https://twitter.com/YourOnlyONEofcl/status/1491327396892798976", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/595968941572340"]
+
 channels = ["snoworld"]
 categories = ["tv"]                                                   # taxonomy
 keywords = ["Choudenshi Bioman", "Hikari Sentai Maskman", "Space Sheriff Shaider", "tokusatsu", "特撮"]                                                     # meta keywords

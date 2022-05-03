@@ -12,6 +12,8 @@ relCanonical = "https://im.youronly.one/yuki/derivative-public-domain-fanfiction
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
+syndications = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/395530524949517"]
+
 channels = ["versesspace"]
 categories = ["literature"]														# taxonomy
 keywords = ["Writing", "Creative Writing", "Public Domain", "Fanfiction", "Verses.Space", "KWWP", "YourOnlyOne", "YourOnly.One"]															# meta keywords

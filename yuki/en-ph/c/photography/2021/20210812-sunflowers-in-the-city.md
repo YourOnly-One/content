@@ -12,6 +12,8 @@ relCanonical = "https://im.youronly.one/yuki/photography/sunflowers-in-the-city-
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
+syndications = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/479938233175412", "https://www.instagram.com/p/CSachaHhDP-/", "https://pixelfed.social/i/web/post/350851231654886923"]
+
 channels = ["confidentraveler"]
 categories = ["photography"]														# taxonomy
 keywords = ["photography", "sunflowers", "macro", "mobile photography", "Confident Traveler", "YourOnlyOne", "YourOnly.One"]															# meta keywords

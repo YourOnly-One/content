@@ -12,6 +12,8 @@ relCanonical = "https://im.youronly.one/yuki/photography/the-yellow-bells-of-pid
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
+syndications = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/480502206452348", "https://www.instagram.com/p/CSeOi6SBlGN/", "https://pixelfed.social/i/web/post/350853720862551588"]
+
 channels = ["confidentraveler"]
 categories = ["photography"]                            # taxonomy
 keywords = ["yellow bells", "Allamanda cathartica", "Confident Traveler", "YourOnlyOne", "YourOnly.One"]                             # meta keywords

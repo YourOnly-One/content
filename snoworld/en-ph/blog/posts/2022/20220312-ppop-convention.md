@@ -18,6 +18,8 @@ keywords = ["ppopcon", "ppop convention", "ppop con", "p-popcon", "p-pop con", "
 #series = [""]                                                       # subset of series taxonomy
 tags = ["ppop"]                                                         # taxonomy
 
+syndications = ["https://twitter.com/YourOnlyONEofcl/status/1502519369657884675", "https://twitter.com/YourOnlyONEofcl/status/1506612456436559877", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/615460092956558"]
+
 comments = true
 #weight = ""                                                        # post weight, if we want granular control of post order
 

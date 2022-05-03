@@ -12,6 +12,8 @@ relCanonical = "https://im.youronly.one/snoworld/ja/kb/ppop/ppop-idol-year-20228
 #disqus_url = ""
 #disqus_identifier = ""
 
+syndications = ["https://twitter.com/YourOnlyONEofcl/status/1505862030850347008", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/621410209028213", "https://www.instagram.com/p/CcCU1X8ruhm/"]
+
 channels = ["snoworld"]
 categories = ["literature"]
 keywords = ["idols", "ppop", "p-pop", "pop stars", "idol groups"]

@@ -12,6 +12,8 @@ relCanonical = "https://im.youronly.one/snoworld/ko/당신이-잠든-사이에-w
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
+syndications = ["https://www.instagram.com/p/CYJyU0qBOlI/"]
+
 channels = ["snoworld"]
 categories = ["tv"]                           # taxonomy
 keywords = ["당신이 잠든 사이에", "While You Were Sleeping", "K-Drama", "Snoworld", "YourOnlyOne", "YourOnly.One"]															# meta keywords

@@ -14,6 +14,8 @@ relCanonical = "https://im.youronly.one/snoworld/ja/달의-연인-보보경심-�
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
+syndications = ["https://www.instagram.com/p/CRB48h2DtGV/", "https://www.instagram.com/p/CRB9Ea2D1vz/", "https://www.instagram.com/p/CRIu8Vrjlup/", "https://www.instagram.com/p/CYQD5wQrXvu/"]
+
 channels = ["snoworld"]
 categories = ["tv"]                           # taxonomy
 keywords = ["Moon Lovers: Scarlet Heart Ryeo", "달의 연인 - 보보경심 려", "TV", "Snoworld", "YourOnlyOne", "YourOnly.One"]																										# meta keywords

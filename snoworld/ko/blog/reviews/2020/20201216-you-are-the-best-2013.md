@@ -12,6 +12,8 @@ relCanonical = "https://im.youronly.one/snoworld/ko/최고다-이순신-you-are-
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
+syndications = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/374806867021883"]
+
 channels = ["snoworld"]
 categories = ["tv"]                           # taxonomy
 keywords = ["최고다 이순신", "You Are The Best!", "K-Drama", "Snoworld", "YourOnlyOne", "YourOnly.One"]															# meta keywords

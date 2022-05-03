@@ -14,6 +14,8 @@ relCanonical = "https://im.youronly.one/snoworld/아가씨-the-handmaiden-2016-2
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
+syndications = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/361505921685311"]
+
 channels = ["snoworld"]
 categories = ["films"]																									# taxonomy
 keywords = ["The Handmaiden", "아가씨", "movie", "Snoworld", "YourOnlyOne", "YourOnly.One"]																										# meta keywords

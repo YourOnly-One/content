@@ -10,6 +10,8 @@ slug = "le-sserafim-the-name"
 translationKey = "le-sserafim-the-name-202288"
 relCanonical = "https://im.youronly.one/snoworld/ja/le-sserafim-the-name-202288/"
 
+syndicaations = ["https://twitter.com/YourOnlyONEofcl/status/1508821975426236423", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/626666011835966"]
+
 channels = ["snoworld"]
 categories = ["literature"]
 keywords = ["Le Sserafim", "The Seraphim", "르세라핌", "ル セラフィム", "Les Sérafim", "שרפים", "레세라핌"]

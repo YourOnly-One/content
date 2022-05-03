@@ -12,6 +12,8 @@ relCanonical = "https://im.youronly.one/snoworld/ko/그리드-grid-explained-202
 #disqus_url = ""                                                    # no use case in sites by Yelosan Publishing (YourOnly.One)
 #disqus_identifier = ""                                             # set if slug date of this content is different from main translation (en-PH)
 
+syndications = ["https://twitter.com/YourOnlyONEofcl/status/1518735410926551040", "https://mastodon.social/@youronlyone/108195392449071225", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/644169590085608", "https://vero.co/youronlyone/X-hLb4phHPg3pkXLckS8Dcw", "https://diasp.org/posts/5c11fdf0a720013a55c828a1592b385a"]
+
 channels = ["snoworld"]
 categories = ["tv"]
 keywords = ["그리드", "Grid", "Disney", "Disney Plus", "Disney+", "K-drama", "kdrama", "snoworld", "YourOnlyOne", "YourOnly.One"]

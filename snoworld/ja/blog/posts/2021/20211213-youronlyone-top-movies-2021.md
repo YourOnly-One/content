@@ -12,6 +12,8 @@ relCanonical = "https://im.youronly.one/snoworld/ja/youronlyone-top-movies-2021-
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
+syndications = ["https://twitter.com/YourOnlyONEofcl/status/1470766460813381637", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/561125738389994"]
+
 channels = ["snoworld"]
 categories = ["films"]                                                   # taxonomy
 keywords = ["films", "movies", "top10", "listicles"]                                                     # meta keywords
