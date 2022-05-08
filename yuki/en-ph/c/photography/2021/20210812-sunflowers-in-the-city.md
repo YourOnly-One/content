@@ -51,12 +51,6 @@ These were the photos I took while testing the camera that came with Nokia 3. Th
 
 These photos are now under a Creative Commons Attribution-ShareAlike 4.0 International license as of today, 2018-08-12.
 
-## Like in Instagram
-
-{{< instagram CSachaHhDP- hidecaption >}}
-
-Do not forget to follow me in Instagram!
-
 ## What is a Sunflower?
 
 Sunflower is the common name given to the *Helianthus* genus of flowers. It has more or less 70 species. The sunflowers in my photos are more likely from the *Helianthus annuus* species, the species that is commonly referred to by the name "sunflower" and "common sunflower" by everyone.

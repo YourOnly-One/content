@@ -51,12 +51,6 @@ Nokia 3와 함께 제공된 카메라를 테스트하면서 찍은 사진입니�
 
 이 사진은 현재 2018-08-12일 현재 Creative Commons Attribution-ShareAlike 4.0 International 라이선스 하에 있습니다.
 
-## 인스타그램에서처럼
-
-{{< instagram CSachaHhDP- hidecaption >}}
-
-Instagram에서 나를 팔로우하는 것을 잊지 마세요!
-
 ## 해바라기 란 무엇입니까?
 
 해바라기는 꽃의 *Helianthus* 속에 주어진 일반적인 이름입니다. 그것은 70 종 이상 또는 이하입니다. 내 사진의 해바라기는 모든 사람들이 일반적으로 "해바라기" 및 "일반 해바라기"라는 이름으로 부르는 종인 *Helianthus annuus* 종일 가능성이 더 큽니다.

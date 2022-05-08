@@ -51,12 +51,6 @@ avatar = "https://rsc.youronly.one/img/y/Confident_Traveler-logo-01-1500x.webp"
 
 これらの写真は、2018年8月12日現在、Creative Commons Attribution-ShareAlike 4.0Internationalライセンスの下にあります。
 
-## Instagramのように
-
-{{< instagram CSachaHhDP- hidecaption >}}
-
-Instagramで私をフォローすることを忘れないでください！
-
 ## ひまわりとは？
 
 ひまわりは、*Helianthus*属の花に付けられた一般名です。 それは多かれ少なかれ70種を持っています。 私の写真に写っているヒマワリは、*Helianthus annuus*種からのものである可能性が高く、この種は一般的に《ヒマワリ》や《一般的なヒマワリ》という名前で呼ばれています。

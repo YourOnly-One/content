@@ -53,12 +53,6 @@ Here are a few photos I took.
 
 As of today, 2021-08-13, all these photos are now under a Creative Commons Attribution-ShareAlike 4.0 International license. For attribution guideline and usage information, simply scroll down to the end of this post.
 
-## Like in Instagram
-
-{{< instagram CSeOi6SBlGN hidecaption >}}
-
-Be sure to follow me also in Instagram!
-
 ## What is a Yellow Bell flower?
 
 A Yellow Bell flower, or its Scientific classification *Allamanda cathartica*, is a species of the genus *Allamanda*. *A. cathartica* is a yellow flower like most species of the genus *Allamanda*. It is also known as "golden trumpet" and "yellow allamanda". The genus name *Allamanda* was given in honour of the Swiss botanist and physician Frédéric-Louis Allamand (1736-1809).[^a]

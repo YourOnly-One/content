@@ -53,12 +53,6 @@ avatar = "https://rsc.youronly.one/img/y/Confident_Traveler-logo-01-1500x.webp"
 
 今日、2021-08-13の時点で、これらの写真はすべてクリエイティブ・コモンズ表示-継承4.0国際ライセンスの下にあります。 アトリビューションのガイドラインと使用法の情報については、この投稿の最後までスクロールしてください。
 
-## Instagramのように
-
-{{< instagram CSeOi6SBlGN hidecaption >}}
-
-Instagramでもフォローしてね！
-
 ## イエローベルの花とは何ですか？
 
 イエローベルの花、またはその科学的分類*Allamanda cathartica*は、*Allamanda*属の種です。 *A。 cathartica*は、*Allamanda*属のほとんどの種と同様に黄色い花です。 《ゴールデントランペット》や《イエローアラマンダ》としても知られています。 属名*Allamanda*は、スイスの植物学者であり医師であるFrédéric-LouisAllamand（1736-1809）に敬意を表して付けられました。[^a]

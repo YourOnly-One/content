@@ -53,12 +53,6 @@ avatar = "https://rsc.youronly.one/img/y/Confident_Traveler-logo-01-1500x.webp"
 
 2021-08-13일 현재, 이 모든 사진은 이제 Creative Commons Attribution-ShareAlike 4.0 International 라이선스 하에 있습니다. 저작자 표시 지침 및 사용 정보를 보려면 이 게시물의 끝까지 아래로 스크롤하십시오.
 
-## 인스타그램에서처럼
-
-{{< instagram CSeOi6SBlGN hidecaption >}}
-
-인스타그램에서도 팔로우해주세요!
-
 ## 옐로우 벨 꽃은 무엇입니까?
 
 옐로우 벨 꽃 또는 과학적 분류 *Allamanda cathartica*는 *Allamanda* 속의 종입니다. *A. cathartica*는 *Allamanda* 속의 대부분의 종과 같은 노란색 꽃입니다. "황금 트럼펫" 및 "노란 알라만다"라고도 합니다. 속명 *Allamanda*는 스위스의 식물학자이자 의사인 Frédéric-Louis Allamand(1736-1809)를 기리기 위해 주어졌습니다.[^a]
