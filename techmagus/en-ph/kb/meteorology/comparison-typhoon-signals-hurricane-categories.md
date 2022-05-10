@@ -66,8 +66,8 @@ We're done! But if you want to continue reading and know additional information 
 
 ## Difference between Typhoon and Hurricane
 
-<figure class="quote_box qbs_generic qbm_doublequotationmark qbc_green">
-  <blockquote cite="https://www.docstoc.com/docs/10577240/Difference-Between-Typhoon-And-Hurricane">
+<figure class="quote_box qbs_generic qbc_green">
+  <blockquote class="qbm_doublequotationmark" cite="https://www.docstoc.com/docs/10577240/Difference-Between-Typhoon-And-Hurricane">
     Typhoon and hurricane are terms describing the same weather phenomenon. They are only different names used in different places. In the Atlantic and North-Eastern Pacific regions such as the United States, people call them hurricanes. In the North-West Pacific region such as Hong Kong, people call them typhoons.
     In the Indian Ocean region, people call them cyclones. In all regions, people classify them by their strengths. In Hong Kong, the strongest is Tropical Cyclone Warning Signal Number 10, meaning that hurricane force wind is expected or blowing with sustained wind speed reaching 118 km/h or above and gusts may exceed 220 km/h.
     In the United States, hurricanes are classified into five categories. But the weakest category one hurricane means wind speeds of 118 to 153 km/h, equivalent to Tropical Cyclone Warning Signal Number 10 in Hong Kong. Category five hurricanes have speeds over 249 km/h and can cause waves over 5.5 m tall.
@@ -79,8 +79,8 @@ We're done! But if you want to continue reading and know additional information 
 
 ## What's the difference between a hurricane and a typhoon or tropical cyclone?
 
-<figure class="quote_box qbs_generic qbm_doublequotationmark qbc_green">
-  <blockquote cite="https://www.ucar.edu/news/backgrounders/hurricanes.jsp">
+<figure class="quote_box qbs_generic qbc_green">
+  <blockquote class="qbm_doublequotationmark" cite="https://www.ucar.edu/news/backgrounders/hurricanes.jsp">
     When a tropical disturbance organizes to the point where its sustained winds top 34 knots (39 mph), it's known as a tropical cyclone. But various parts of the world use a variety of terms once a tropical cyclone packs winds of at least 65 knots (74 mph).
     Around North and Central America, they're called hurricanes. The god of evil for the Carib people was named Hurican, according to the authors of <i>Hurricane Strike!</i> That's the source, with a slight twist in spelling, of the name used in the Atlantic Ocean, Caribbean Sea, Gulf of Mexico, and North-East Pacific Ocean.
     In the North-West Pacific, the same powerful storms are called typhoons. In the South-Eastern Indian and South-West Pacific Oceans they're called severe tropical cyclones. In the North Indian Ocean, they're called severe cyclonic storms, while in the South-West Indian Ocean, they simply keep the name tropical cyclone.

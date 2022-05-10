@@ -2,7 +2,7 @@
 title = "Internal test"
 description = "Internal test only"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2022-03-17T14:45:30+08:00"                                        # manually adjust to local timezone
+date = "2022-05-10T14:45:30+08:00"                                        # manually adjust to local timezone
 #lastmod = "2022-04-07T17:53:01+08:00"                                     # manually adjust to local timezone
 
 #aliases = [""]
@@ -49,83 +49,55 @@ SUMMARY
 
 <!--more-->
 
-{{< reflangtitle path="test-internal.md" >}}
+<figure class="quote_box qbs_verse01 qbc_midnightblue">
+  <blockquote class="qbm_doublequotationmark">
+    <p><sup>16</sup>Every Scripture is breathed <i>out</i> by Elohim, profitable for teaching, for reproof, for correction, and for instruction in righteousness, <sup>17</sup>that the man of Elohim may be complete, thoroughly equipped for every good work.</p>
+  </blockquote>
 
-## Complicated setup
+  <figcaption class="attribution_name txt_right">
+    <p><cite>2 Timotheus (2 Timothy) 3:16-17</cite> [<abbr class="popper animate" data-popper="Literal English Version">LEV</abbr>]</p>
+  </figcaption>
+</figure>
 
-<!-- markdownlint-disable MD000 -->
-??: A***P**inoy **Pop**ular music*Z
-<!-- markdownlint-enable MD000 -->
+<aside class="quote_box qbs_verse01 qbc_midnightblue">
+  <blockquote class="qbm_doublequotationmark">
+    <p><sup>16</sup>Every Scripture is breathed <i>out</i> by Elohim, profitable for teaching, for reproof, for correction, and for instruction in righteousness, <sup>17</sup>that the man of Elohim may be complete, thoroughly equipped for every good work.</p>
+  </blockquote>
 
-<!-- markdownlint-disable MD000 -->
-GO: The quick brown _**P**inoy **Pop**ular music_ fox jumps over the lazy dog.
-<!-- markdownlint-enable MD000 -->
+  <footer class="attribution_name txt_right">
+    <p><cite>2 Timotheus (2 Timothy) 3:16-17</cite> [<abbr class="popper animate" data-popper="Literal English Version">LEV</abbr>]</p>
+  </footer>
+</aside>
 
-<!-- markdownlint-disable MD000 -->
-GO: 빠른 갈색 여우는 _**P**inoy **Pop**ular music_ 게으른 개를 뛰어 넘습니다.
-<!-- markdownlint-enable MD000 -->
+<figure class="figure_box qbs_verse01 qbc_midnightblue">
+  <div>
+    <p><sup>16</sup>Every Scripture is breathed <i>out</i> by Elohim, profitable for teaching, for reproof, for correction, and for instruction in righteousness, <sup>17</sup>that the man of Elohim may be complete, thoroughly equipped for every good work.</p>
+  </div>
 
-<!-- markdownlint-disable MD000 -->
-??: 는***P**inoy **Pop**ular music*게
-<!-- markdownlint-enable MD000 -->
+  <figcaption class="attribution_caption txt_center">
+    <p><small>2 Timotheus (2 Timothy) 3:16-17</cite> [<abbr class="popper animate" data-popper="Literal English Version">LEV</abbr>]</small></p>
+  </figcaption>
+</figure>
 
-<!-- markdownlint-disable MD000 -->
-GO: 速い茶色 _**P**inoy **Pop**ular music_ のキツネは怠惰な犬を飛び越えます。
-<!-- markdownlint-enable MD000 -->
+<div class="figure_box qbs_verse01 qbc_midnightblue">
+  <div>
+    <p><sup>16</sup>Every Scripture is breathed <i>out</i> by Elohim, profitable for teaching, for reproof, for correction, and for instruction in righteousness, <sup>17</sup>that the man of Elohim may be complete, thoroughly equipped for every good work.</p>
+  </div>
 
-<!-- markdownlint-disable MD000 -->
-??: 色***P**inoy **Pop**ular music*の
-<!-- markdownlint-enable MD000 -->
+  <footer class="attribution_caption txt_center">
+    <p><small>2 Timotheus (2 Timothy) 3:16-17</cite> [<abbr class="popper animate" data-popper="Literal English Version">LEV</abbr>]</small></p>
+  </footer>
+</div>
 
-## Simple setup
+<div class="header_attribution">
+  <footer class="attribution_caption">
+    <p><small>2 Timotheus (2 Timothy) 3:16-17</cite> [<abbr class="popper animate" data-popper="Literal English Version">LEV</abbr>]</small></p>
+  </footer>
+</div>
 
-<!-- markdownlint-disable MD000 -->
-GO: The quick brown*P-pop*fox jumps over the lazy dog.
-<!-- markdownlint-enable MD000 -->
-
-<!-- markdownlint-disable MD000 -->
-GO: The quick brown**P-pop**fox jumps over the lazy dog.
-<!-- markdownlint-enable MD000 -->
-
-<!-- markdownlint-disable MD000 -->
-??: The quick brow n_P-pop_ fox jumps over the lazy dog.
-<!-- markdownlint-enable MD000 -->
-
-<!-- markdownlint-disable MD000 -->
-??: The quick brown __P-pop__f ox jumps over the lazy dog.
-<!-- markdownlint-enable MD000 -->
-
-<!-- markdownlint-disable MD000 -->
-??: 빠른 갈색 여우는*P-pop*게으른 개를 뛰어 넘습니다.
-<!-- markdownlint-enable MD000 -->
-
-<!-- markdownlint-disable MD000 -->
-??: 빠른 갈색 여우는**P-pop**게으른 개를 뛰어 넘습니다.
-<!-- markdownlint-enable MD000 -->
-
-<!-- markdownlint-disable MD000 -->
-??: 빠른 갈색 여우는_P-pop_게으른 개를 뛰어 넘습니다.
-<!-- markdownlint-enable MD000 -->
-
-<!-- markdownlint-disable MD000 -->
-??: 빠른 갈색 여우는__P-pop__게으른 개를 뛰어 넘습니다.
-<!-- markdownlint-enable MD000 -->
-
-<!-- markdownlint-disable MD000 -->
-??: 速い茶色*P-pop*のキツネは怠惰な犬を飛び越えます。
-<!-- markdownlint-enable MD000 -->
-
-<!-- markdownlint-disable MD000 -->
-??: 速い茶色**P-pop**のキツネは怠惰な犬を飛び越えます。
-<!-- markdownlint-enable MD000 -->
-
-<!-- markdownlint-disable MD000 -->
-??: 速い茶色_P-pop_のキツネは怠惰な犬を飛び越えます。
-<!-- markdownlint-enable MD000 -->
-
-<!-- markdownlint-disable MD000 -->
-??: 速い茶色__P-pop__のキツネは怠惰な犬を飛び越えます。
-<!-- markdownlint-enable MD000 -->
+{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
+  content content content content content content content content content
+{{% /quotebox %}}
 
 ---
 
