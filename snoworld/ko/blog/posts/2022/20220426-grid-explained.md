@@ -53,7 +53,7 @@ type = "article"                                                             # a
 
 <q>그리드</q>는 부드러운 SF 쇼라는 것을 기억하십시오. 소프트 SF는 소프트 또는 사회 과학(심리학, 사회학)에 관한 것이므로 쇼의 하드 과학에 대한 설명에 대한 기대가 없어야 합니다. 이것이 이 기사가 나오는 곳입니다. 쇼의 팬으로서 우리는 이야기에서 건드리지 않은 것들을 설명할 것입니다.
 
-## 지침
+## 지침 {#guidelines}
 
 시작하기 전에 질문에 접근하는 방법과 답을 찾는 방법에 대해 같은 페이지에 있어야 합니다.
 
@@ -71,7 +71,7 @@ type = "article"                                                             # a
 
 1. **타임라인/우주는 하나뿐입니다.** <q>그리드</q>*다중 세계 해석* (MWI) 또는 더 일반적으로 *다중 타임라인* 및 *병렬 우주*로 알려진 것은 잊어버리십시오. <q>그리드</q>에는 하나의 타임라인과 하나의 우주만 있습니다.
 
-### 시간 역학
+### 시간 역학 {#temporal-mechanics}
 
 1. **시공간의 정적 이론.** <q>시간은 공간과 같아서 시간의 흐름 같은 건 없다</q> [^paper-time], <q>그리드</q>에서 설명한 대로 <q>시간은 흐르지 않는다</q>. 모든 시간에 모든 가능성이 동시에 존재합니다.
 
@@ -271,7 +271,7 @@ type = "article"                                                             # a
 
 ### 자주하는 질문: 하세하
 
-{{< accordion summary="새하가 죽었어요?" class="faq" >}}
+{{< accordion summary="새하가 죽었어요?" class="faq" id="did-sae-ha-die" >}}
 100% 하지 않았습니다. 그 이유는 다음과 같습니다.
 
 <!-- markdownlint-disable -->
@@ -407,7 +407,7 @@ type = "article"                                                             # a
 1. 그 후 두 시간 여행자는 떠났다. 마지막 숨을 거두기 직전인 새하를 구하기 위해.
 {{< /accordion >}}
 
-{{< accordion summary="세하의 죽음과 고스트 앤 그리드의 관계는?" class="faq" >}}
+{{< accordion summary="세하의 죽음과 고스트 앤 그리드의 관계는?" class="faq" id="what-is-the-relation-of-sae-has-death-to-the-ghost-and-the-grid" >}}
 김만녹의 손에 의한 그의 죽음은 다음과 같은 중요한 사건의 촉매제입니다.
 
 1. 전 부부인 정세벽과 송어진이 서로를 위로하며 동침했다. 그로부터 9개월 후인 2022년 7월 어느 날, 별리가 태어났다.
@@ -489,7 +489,7 @@ Sae Ha는 그리드를 존재에서 지우지 않고는 사건을 변경할 다�
 {{< accordion summary="그렇다면 고스트는 왜 그를 보호했을까요?" class="faq" >}}
 김만녹이 새하를 죽인 사람이 되어야 하기 때문이다.
 
-이것이 <q>[유령과 격자에 대한 새하의 죽음의 관계는 무엇인가?](#what-is-the-relation-of-sae-has-death-to-the-ghost-and-the-grid)</q>가 발생합니다.
+이것이 <q>[세하의 죽음과 고스트 앤 그리드의 관계는?](#what-is-the-relation-of-sae-has-death-to-the-ghost-and-the-grid)</q>가 발생합니다.
 {{< /accordion >}}
 
 ## 귀신
@@ -512,7 +512,7 @@ Sae Ha는 그리드를 존재에서 지우지 않고는 사건을 변경할 다�
 >}}
 <!-- markdownlint-enable -->
 
-### 한 눈에 보기: 고스트
+### 한 눈에 보기: 고스트 {#at-a-glance-the-ghost}
 
 - 1997-05-18: 전 세계 7개 연구소의 CCTV 영상
 
@@ -849,7 +849,7 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
 
 시간 역학 #4에서는 시간 여행자가 해당 시간에 들어갈 때마다 시간 기간이 교체된다고 명시했습니다. 이전 버전은 더 이상 존재하지 않으며 시간 여행자가 여행하는 것을 중지하더라도 원래 버전의 시간은 반환되지 않습니다. 다른 버전으로만 대체됩니다.
 
-이는 <q>[Temporal Mechanics #4: Time period replacement](#temporal-mechanics)</q>에 설명되어 있습니다.
+이는 <q>[시간 역학 #4: 기간 교체](#temporal-mechanics)</q>에 설명되어 있습니다.
 {{< /accordion >}}
 
 {{< accordion summary="별리의 아버지는 누구인가?" class="faq" >}}
