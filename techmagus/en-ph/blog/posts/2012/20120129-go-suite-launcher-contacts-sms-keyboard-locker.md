@@ -208,9 +208,6 @@ contentreferencetime=""
 
 [SOME_LINK](https://example.com)
 
-<!-- markdownlint-disable-next-line -->
-{{< reflangtitle path="" lang="" >}}
-
 ## Official trailer / 公式予告編 / 공식 예고편
 
 <!-- markdownlint-disable -->

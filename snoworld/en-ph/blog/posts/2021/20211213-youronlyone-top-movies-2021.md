@@ -687,7 +687,7 @@ Can you guess how many languages were spoken and nationalities represented in â€
 
 ### YourOnly.One Review
 
-Our review of *Space Sweepers* is available separately: [Space Sweepers Review]({{% ref "/20210206-space-sweepers-2021.md" %}} "Space Sweepers Review").
+Our review of *Space Sweepers* is available separately: [](20210206-space-sweepers-2021.md).
 
 ## Special mention
 

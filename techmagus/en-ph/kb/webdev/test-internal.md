@@ -49,55 +49,48 @@ SUMMARY
 
 <!--more-->
 
-<figure class="quote_box qbs_verse01 qbc_midnightblue">
-  <blockquote class="qbm_doublequotationmark">
-    <p><sup>16</sup>Every Scripture is breathed <i>out</i> by Elohim, profitable for teaching, for reproof, for correction, and for instruction in righteousness, <sup>17</sup>that the man of Elohim may be complete, thoroughly equipped for every good work.</p>
-  </blockquote>
+- [](20211219-linklists-are-back.md)
+- [](/20211219-linklists-are-back.md)
+- [](20211219-linklists-are-back)
+- [](/20211219-linklists-are-back)
+- [](20211219-linklists-are-back.md "Title")
+- [](/20211219-linklists-are-back.md "Title")
+- [](20211219-linklists-are-back "Title")
+- [](/20211219-linklists-are-back "Title")
+- [Text](20211219-linklists-are-back.md)
+- [Text](/20211219-linklists-are-back.md)
+- [Text](20211219-linklists-are-back)
+- [Text](/20211219-linklists-are-back)
+- [Text](20211219-linklists-are-back.md "Title")
+- [Text](/20211219-linklists-are-back.md "Title")
+- [Text](20211219-linklists-are-back "Title")
+- [Text](/20211219-linklists-are-back "Title")
 
-  <figcaption class="attribution_name txt_right">
-    <p><cite>2 Timotheus (2 Timothy) 3:16-17</cite> [<abbr class="popper animate" data-popper="Literal English Version">LEV</abbr>]</p>
-  </figcaption>
-</figure>
-
-<aside class="quote_box qbs_verse01 qbc_midnightblue">
-  <blockquote class="qbm_doublequotationmark">
-    <p><sup>16</sup>Every Scripture is breathed <i>out</i> by Elohim, profitable for teaching, for reproof, for correction, and for instruction in righteousness, <sup>17</sup>that the man of Elohim may be complete, thoroughly equipped for every good work.</p>
-  </blockquote>
-
-  <footer class="attribution_name txt_right">
-    <p><cite>2 Timotheus (2 Timothy) 3:16-17</cite> [<abbr class="popper animate" data-popper="Literal English Version">LEV</abbr>]</p>
-  </footer>
-</aside>
-
-<figure class="figure_box qbs_verse01 qbc_midnightblue">
-  <div>
-    <p><sup>16</sup>Every Scripture is breathed <i>out</i> by Elohim, profitable for teaching, for reproof, for correction, and for instruction in righteousness, <sup>17</sup>that the man of Elohim may be complete, thoroughly equipped for every good work.</p>
-  </div>
-
-  <figcaption class="attribution_caption txt_center">
-    <p><small>2 Timotheus (2 Timothy) 3:16-17</cite> [<abbr class="popper animate" data-popper="Literal English Version">LEV</abbr>]</small></p>
-  </figcaption>
-</figure>
-
-<div class="figure_box qbs_verse01 qbc_midnightblue">
-  <div>
-    <p><sup>16</sup>Every Scripture is breathed <i>out</i> by Elohim, profitable for teaching, for reproof, for correction, and for instruction in righteousness, <sup>17</sup>that the man of Elohim may be complete, thoroughly equipped for every good work.</p>
-  </div>
-
-  <footer class="attribution_caption txt_center">
-    <p><small>2 Timotheus (2 Timothy) 3:16-17</cite> [<abbr class="popper animate" data-popper="Literal English Version">LEV</abbr>]</small></p>
-  </footer>
-</div>
-
-<div class="header_attribution">
-  <footer class="attribution_caption">
-    <p><small>2 Timotheus (2 Timothy) 3:16-17</cite> [<abbr class="popper animate" data-popper="Literal English Version">LEV</abbr>]</small></p>
-  </footer>
-</div>
-
-{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
-  content content content content content content content content content
-{{% /quotebox %}}
+- [external](https://example.com)
+- [irc](irc://example.com)
+- [xmpp](xmpp://example.com)
+- [ftp](ftp://example.com)
+- [mail](mailto://example.com)
+- [magnet](magnet://example.com)
+- [telnet](telnet://example.com)
+- [ssh](ssh://example.com)
+- [sftp](sftp://example.com)
+- [git](git://example.com)
+- [svn](svn://example.com)
+- [tel](tel://example.com)
+- [pdf](https://example.com/file.pdf)
+- [txt](https://example.com/file.txt)
+- [epub](https://example.com/file.epub)
+- [mobi](https://example.com/file.mobi)
+- [zip](https://example.com/file.zip)
+- [7z](https://example.com/file.7z)
+- [7zip](https://example.com/file.7zip)
+- [rar](https://example.com/file.rar)
+- [tar](https://example.com/file.tar)
+- [gz](https://example.com/file.gz)
+- [tar.gz](https://example.com/file.tar.gz)
+- [gzip](https://example.com/file.gzip)
+- [tar.gzip](https://example.com/file.tar.gzip)
 
 ---
 

@@ -55,7 +55,7 @@ type = "article"                                                           # art
   最新の更新：2022年4月3日 午後17時14分33秒 JST
 {{% /sembox %}}
 
-<bdi lang="en-PH">P-POP</bdi>、または[<bdi lang="en-PH">***P**inoy **Pop**ular music*</bdi>]({{% ref path="ppop-vs-opm.md#p-pop" %}} "Pinoy POPular music")が大きな復活を遂げていることに疑いの余地はありません。 国内外のフィリピン人は、ファンダム、商品、データファンダム、そして今では慣習など、P-POPの数十年にわたる歴史ではかつて見られなかった方法で<bdi lang="en-PH">P-POP</bdi>の行為の背後に集結しています。
+<bdi lang="en-PH">P-POP</bdi>、または[<bdi lang="en-PH">***P**inoy **Pop**ular music*</bdi>](ppop-vs-opm.md#p-pop "Pinoy POPular music")が大きな復活を遂げていることに疑いの余地はありません。 国内外のフィリピン人は、ファンダム、商品、データファンダム、そして今では慣習など、P-POPの数十年にわたる歴史ではかつて見られなかった方法で<bdi lang="en-PH">P-POP</bdi>の行為の背後に集結しています。
 
 フィリピンは大会に異質ではなく、過去に国際大会を主催していました。 しかし、音楽ファンのための大会が開催されるのはこれが初めてです。 ほとんどの定期的なコンサートと同様に、それはすべて有名人に関するものですが、コンベンションでは、それはファンと彼らの夢に関するものです。
 

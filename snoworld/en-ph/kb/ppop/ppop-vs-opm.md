@@ -216,7 +216,7 @@ OPM is not about the language it was written in, not about the instruments used,
 
 Is this an attempt to redefine P-pop and OPM? Far from it. This is an attempt to shed light about these two misunderstood labels. This is important because of the growing Philippine idol industry which many Filipinos are confusing as the entirety of P-pop, and supposedly not a single one is OPM.
 
-In <cite>[All P-pop are idols, Not]({{% ref path="ppop-vs-idols.md" %}} "All P-pop are idols, Not")</cite>, the confusion between P-pop and idols is disentangled.
+In <cite>[All P-pop are idols, Not](ppop-vs-idols.md "All P-pop are idols, Not")</cite>, the confusion between P-pop and idols is disentangled.
 
 ---
 

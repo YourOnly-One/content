@@ -91,10 +91,10 @@ If you prefer this approach, there is no harm in it. Think of it as "when did th
 
 With me so far? Based on the above, here are the K-pop music acts per generation:
 
-- {{< reflangtitle path="kpop-1st-gen.md" >}}
-- {{< reflangtitle path="kpop-2nd-gen.md" >}}
-- {{< reflangtitle path="kpop-3rd-gen.md" >}}
-- {{< reflangtitle path="kpop-4th-gen.md" >}}
+- [](kpop-1st-gen.md)
+- [](kpop-2nd-gen.md)
+- [](kpop-3rd-gen.md)
+- [](kpop-4th-gen.md)
 
 ### (EXTRA) Border Years: 2001–2002
 

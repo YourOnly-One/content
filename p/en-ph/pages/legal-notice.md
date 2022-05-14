@@ -56,7 +56,7 @@ Materials and/or works by YourOnly.One can be freely re-used, re-shared, and/or 
 
 We believe that our chosen License for materials and/or works we own are sufficient for every possible use. If you are looking for a softcopy (via email) or hardcopy (printed) of receiving permission from us to re-use, re-share, and/or re-distribute our own works, simply copy the <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license noopener external">Creative Commons Attribution-ShareAlike 4.0 International License</a> or whichever License we declared for our own works.
 
-If there is a particular use case you have in mind, you can {{< reflangtitle path="contact-us.md" >}} by using your company email or own domain name (@-yourdomain.tld).
+If there is a particular use case you have in mind, you can [](contact-us.md) by using your company email or own domain name (@-yourdomain.tld).
 
 ## Comments
 

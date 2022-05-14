@@ -50,7 +50,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 
 <!--more-->
 
-> For an explanation on how we defined each generation, see: [**YourOnly.One**'s K-pop Generations]({{% ref "/kpop-generations.md" %}} "Korean Popular Music Generations")
+> For an explanation on how we defined each generation, see: [**YourOnly.One**'s K-pop Generations](kpop-generations.md "Korean Popular Music Generations")
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_yellow" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
 
@@ -140,7 +140,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 #### Strawberry Milk
 
 - Hangul: 딸기우유
-- a subgroup of ***[Crayon Pop]({{% ref "/kpop-3rd-gen.md#crayon-pop" %}} "Crayon Pop")***
+- a subgroup of ***[Crayon Pop](kpop-3rd-gen.md#crayon-pop "Crayon Pop")***
 - Debut: 2014-10-15 as Strawberry Milk
   - Song: OK
 
@@ -204,7 +204,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Sample songs:
   - 첫눈처럼 너에게 가겠다 (I Will Go to You Like the First Snow) [^ailee-songs-i-will-go-to-you-like-the-first-snow] OST for *Guardian: The Lonely and Great God*
   - Sweater (original English) [^ailee-songs-sweater-english]
-  - Blue Bird [^ailee-songs-blue-bird] OST for *[Start-Up]({{% ref "/20201225-start-up-2020.md" %}} "Start-Up")*
+  - Blue Bird [^ailee-songs-blue-bird] OST for *[Start-Up](20201225-start-up-2020.md)*
 - Wikipedia: [Ailee](https://en.wikipedia.org/wiki/Ailee "Ailee")
 
 [^ailee-songs-i-will-go-to-you-like-the-first-snow]: [Ailee] YouTube: [[도깨비 OST Part 9] 에일리 (Ailee) - 첫눈처럼 너에게 가겠다 (I will go to you like the first snow) (Official Audio)](https://www.youtube.com/watch?v=6rS7OUGXUik "[도깨비 OST Part 9] 에일리 (Ailee) - 첫눈처럼 너에게 가겠다 (I will go to you like the first snow) (Official Audio)")
@@ -232,7 +232,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 - Did you know?
-  - ***NU'EST*** was originally part of ***Pledis Boys***. It was split into two groups with the other named *Tempest* (*템페스트*)[^soompi-8-things-you-need-to-know-about-nuest] [^kprofiles-tempest-profile-and-facts] (not to be confused with **Yuehua Entertainment**'s ***[TEMPEST]({{% ref "/kpop-4th-gen.md#tempest" %}} "TEMPEST")***).
+  - ***NU'EST*** was originally part of ***Pledis Boys***. It was split into two groups with the other named *Tempest* (*템페스트*)[^soompi-8-things-you-need-to-know-about-nuest] [^kprofiles-tempest-profile-and-facts] (not to be confused with **Yuehua Entertainment**'s ***[TEMPEST](kpop-4th-gen.md#tempest "TEMPEST")***).
     - *Tempest* disbanded before their debut due to the popularity of *NU'EST* [^kprofiles-tempest-profile-and-facts].
   - As *Pledis Boys*, they were dubbed as After School Boys.
 - Wikipedia: [NU'EST](https://en.wikipedia.org/wiki/NU%27EST "NU'EST")
@@ -695,7 +695,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 
 #### NCT U
 
-- a subgroup of ***[NCT]({{% ref "/kpop-3rd-gen.md#nct" %}} "NCT")***
+- a subgroup of ***[NCT](kpop-3rd-gen.md#nct "NCT")***
 - Debut: 2016-04-09
   - Song: 일곱 번째 감각 (The 7th Sense); 위드아웃 유 (Without You)
 
@@ -724,7 +724,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 
 #### NCT 127
 
-- a subgroup of ***[NCT]({{% ref "/kpop-3rd-gen.md#nct" %}} "NCT")***
+- a subgroup of ***[NCT](kpop-3rd-gen.md#nct "NCT")***
 - Debut: 2016-07-07
   - Song: Fire Truck; Once Again
 
@@ -753,7 +753,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 
 #### NCT Dream
 
-- a subgroup of ***[NCT]({{% ref "/kpop-3rd-gen.md#nct" %}} "NCT")***
+- a subgroup of ***[NCT](kpop-3rd-gen.md#nct "NCT")***
 - Debut: 2016-08-24
   - Song: Chewing Gum
 
@@ -772,7 +772,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 #### WayV
 
 - Hanzi: 威神V (WayV)
-- a subgroup of ***[NCT]({{% ref "/kpop-3rd-gen.md#nct" %}} "NCT")***
+- a subgroup of ***[NCT](kpop-3rd-gen.md#nct "NCT")***
 - Fandom name: WayZenNi
 - Debut: 2019-01-17
   - Song: 梦想发射计划 (Dream Launch)
@@ -839,7 +839,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 ### CHUNG HA
 
 - Hangul: 청하
-- Debut: 2016-05-04 as a member of ***[I.O.I]({{% ref "/kpop-3rd-gen.md#i-o-i" %}} "I.O.I")***
+- Debut: 2016-05-04 as a member of ***[I.O.I](kpop-3rd-gen.md#i-o-i "I.O.I")***
 - Debut: 2017-06-17 as a solo act
   - Song: Why Don't You Know
 
@@ -884,8 +884,8 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 
 - Hangul: 김세정
 - Fandom name: Sesang
-- Debut: 2016-05-04 as a member of ***[I.O.I]({{% ref "/kpop-3rd-gen.md#i-o-i" %}} "I.O.I")***
-- Debut: 2016-06-28 as a member of ***[gu9udan]({{% ref "/kpop-3rd-gen.md#gu9udan" %}} "gu9udan")***
+- Debut: 2016-05-04 as a member of ***[I.O.I](kpop-3rd-gen.md#i-o-i "I.O.I")***
+- Debut: 2016-06-28 as a member of ***[gu9udan](kpop-3rd-gen.md#gu9udan "gu9udan")***
 - Debut: 2016-11-23 as a solo act
   - Song: Flower Way
 
@@ -1540,7 +1540,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 - Sample songs:
-  - Dreams Come True [^aespa-songs-dreams-come-true], a remake of ***[S.E.S.]({{% ref "/kpop-1st-gen.md#ses" %}} "S.E.S.")***'s cover of *Rakastuin mä looseriin* [^nylon-beat-songs-like-a-fool] by Finnish girl group ***Nylon Beat*** [^nylon-beat-wikipedia].
+  - Dreams Come True [^aespa-songs-dreams-come-true], a remake of ***[S.E.S.](kpop-1st-gen.md#ses "S.E.S.")***'s cover of *Rakastuin mä looseriin* [^nylon-beat-songs-like-a-fool] by Finnish girl group ***Nylon Beat*** [^nylon-beat-wikipedia].
 - Wikipedia: [Aespa](https://en.wikipedia.org/wiki/Aespa "Aespa")
 
 [^aespa-songs-dreams-come-true]: [æspa] YouTube: [(ENG sub) [쇼! 음악중심] 에스파 - 드림스 컴 트루 (aespa - Dreams Come True), MBC 220108 방송](https://www.youtube.com/watch?v=bNTKqRwh2XM "(ENG sub) [쇼! 음악중심] 에스파 - 드림스 컴 트루 (aespa - Dreams Come True), MBC 220108 방송")

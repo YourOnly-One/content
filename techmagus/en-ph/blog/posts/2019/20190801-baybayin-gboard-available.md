@@ -47,7 +47,7 @@ In **Android 7 Nougat**, the developers decided to switch to the much better Not
 
 <!--more-->
 
-(If you want to jump to the How-To visit [how to activate Baybayin in Gboard]({{% ref "/20190801-activate-use-baybayin-gboard.md" %}} "How to Activate Bayabyin in Gboard").)
+(If you want to jump to the How-To visit [how to activate Baybayin in Gboard](20190801-activate-use-baybayin-gboard.md "How to Activate Bayabyin in Gboard").)
 
 **Google** silenty released three new Baybayin layouts for their Gboard (Google Keyboard) app for Android (not yet available in iOS). The Baybayin community first requested support when Android 7 Nougat and Gboard were released a few years back. The wait was worth it, the new layouts were well thought and studied.
 
@@ -186,7 +186,7 @@ The continued Baybayin request by the Baybayin community finally showed results.
 
 Download the Gboard app from the [Google Play Store](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en) <del datetime="2019-08-01T07:52:50+0800">and Apple App Store</del> (not <del datetime="2021-09-27T05:00:00+0800">yet</del> available for iOS).
 
-Check our How-To guide on [how to activate Baybayin in Gboard]({{% ref "/20190801-activate-use-baybayin-gboard.md" %}} "How to Activate Baybayin in Gboard").
+Check our How-To guide on [how to activate Baybayin in Gboard](20190801-activate-use-baybayin-gboard.md "How to Activate Baybayin in Gboard").
 
 ---
 

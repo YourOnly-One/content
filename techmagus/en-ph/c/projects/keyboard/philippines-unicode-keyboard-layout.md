@@ -51,8 +51,8 @@ Welcome to the official page for the **Ubuntu Philippines LoCo Team** project **
 
 Our first release is for the Filipino Linux Community all over the world. The second release for all Windows users. To download and install PH-UKL for your OS, just follow one of the links below:
 
-- [GNU/Linux]({{% ref "philippines-unicode-keyboard-layout-linux.md" %}} "GNU/Linux") (released on: 2010-10-23)
-- [Microsoft® Windows]({{% ref "philippines-unicode-keyboard-layout-windows.md" %}} "Microsoft® Windows") (released on: 2010-10-25)
+- [GNU/Linux](philippines-unicode-keyboard-layout-linux.md "GNU/Linux") (released on: 2010-10-23)
+- [Microsoft® Windows](philippines-unicode-keyboard-layout-windows.md "Microsoft® Windows") (released on: 2010-10-25)
 - [Mac OS X](https://drive.google.com/drive/folders/1ShxHQJDbxwPMLxV4ZZbwlDtWQjBITYnX?usp=sharing) (see more [here](https://nordenx.blogspot.com/2012/05/baybayin-unicode-keyboard-layout-for.html))
 - [Windows 8 and 10](https://nordenx.blogspot.com/2013/10/baybayin-keyboard-layout-for-windows-8.html) (see more [here](https://nordenx.blogspot.com/2012/05/baybayin-unicode-keyboard-layout-for.html))
 

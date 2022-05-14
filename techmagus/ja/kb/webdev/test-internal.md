@@ -49,8 +49,6 @@ SUMMARY
 
 <!--more-->
 
-{{< reflangtitle path="test-internal.md" lang="en-ph" >}}
-
 ## Complicated setup
 
 <!-- markdownlint-disable MD000 -->

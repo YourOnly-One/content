@@ -44,7 +44,7 @@ type = "article"                                                           # art
   #rel = "noopener external nofollow"
 +++
 
-Once again congratulations on [creating a Keybase account]({{% ref "/20200608-create-keybase.md" %}} "Creating a Keybase account"). You have joined a growing number of people worldwide who have taken their privacy and security to the next level.
+Once again congratulations on [creating a Keybase account](20200608-create-keybase.md "Creating a Keybase account"). You have joined a growing number of people worldwide who have taken their privacy and security to the next level.
 
 Keybase offers a lot of features, there is end-to-end encrypted Chat, a free 250 GB File storage, a signed hosting, and the ability to easily sign any text, images, and the usual document files. However, there is one feature usually ignored and this feature was one of the hottest when Keybase first sent invites to testers. That is what I will guide you through today.
 
@@ -54,7 +54,7 @@ Keybase offers a lot of features, there is end-to-end encrypted Chat, a free 250
 
 A Keybase identity is a secure online representation of someone (a person) or some entity (an organisation). It lists all the verified online assets (social network accounts, domain names, microblog accounts) of the owner of the Keybase account.
 
-By design, it is near impossible to gain an unauthorised access to any Keybase account without an active "device" (see [our previous post]({{% ref "/20200608-create-keybase.md" %}} "Creating a Keybase account")). This generally give us the assurance that whoever is updating a particular Keybase account is the actual owner.
+By design, it is near impossible to gain an unauthorised access to any Keybase account without an active "device" (see [our previous post](20200608-create-keybase.md "Creating a Keybase account")). This generally give us the assurance that whoever is updating a particular Keybase account is the actual owner.
 
 However, a bad element can simply create their own Keybase account to impersonate someone. This was solved in two ways by Keybase. The first is by adding third-party identities; and the second is by being followed by other verified Keybase users.
 

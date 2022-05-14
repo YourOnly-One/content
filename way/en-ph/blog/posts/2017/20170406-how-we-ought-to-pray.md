@@ -52,7 +52,7 @@ In this post, we will analyse the popularly called "The Lord's Prayer".
 
 ## "The Lord's Prayer"
 
-Christianity has called this prayer as *The Lord's Prayer* but in truth, it is not. If we read the whole chapter, our Master and Messiah, <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua) ([learn why "Yahushua"]({{% ref "/20160203-messiah-yahushua-yahusha.md" %}})), was teaching us by giving an example of a prayer. He was not praying; and it was not meant to be repeated endlessly.
+Christianity has called this prayer as *The Lord's Prayer* but in truth, it is not. If we read the whole chapter, our Master and Messiah, <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua) ([learn why "Yahushua"](20160203-messiah-yahushua-yahusha.md)), was teaching us by giving an example of a prayer. He was not praying; and it was not meant to be repeated endlessly.
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:7" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
 "And when you are praying, do not use meaningless repetition as the pagans do, for they suppose that they will be heard for their many words."

@@ -43,7 +43,7 @@ avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 #rel = "noopener external nofollow"
 +++
 
-내가이 [게시물]({{% ref "/20160221-true-definition-of-love.md" %}})에서 *뱃속에있는 나비*를 기다리는 것이 사랑을 찾았습니까? 사랑은 결국 *위에있는 나비* 일 수 있습니다. 부분적으로. 적어도 우리 몸이 감정을 어떻게 경험하는지에 대한이 연구에 따르면.
+내가이 [게시물](20160221-true-definition-of-love.md)에서 *뱃속에있는 나비*를 기다리는 것이 사랑을 찾았습니까? 사랑은 결국 *위에있는 나비* 일 수 있습니다. 부분적으로. 적어도 우리 몸이 감정을 어떻게 경험하는지에 대한이 연구에 따르면.
 
 <!--more-->
 

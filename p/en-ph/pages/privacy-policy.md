@@ -46,7 +46,7 @@ images = [""]                                                       # used by og
 
 At **[YourOnly.One](https://youronly.one "YourOnly.One")**™ we consider the privacy of our visitors to be extremely important. This Privacy Policy document governs the manner in which we collect, use, maintain, and disclose information collected from users (each, a "User") of the YourOnly.One website ("Site").
 
-If you require any more information or have any questions about our Privacy Policy, please feel free to {{< reflangtitle path="contact-us.md" >}}.
+If you require any more information or have any questions about our Privacy Policy, please feel free to [](contact-us.md).
 
 ## Personal identification information
 
@@ -145,13 +145,13 @@ According to CalOPPA, we agree to the following:
 - Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
 - Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
 - Users will be notified of any privacy policy changes on our Privacy Policy Page.
-- Users are able to change their personal information, simply {{< reflangtitle path="contact-us.md" >}}.
+- Users are able to change their personal information, simply [](contact-us.md).
 
 ## Children Online Privacy Protection Act (COPPA)
 
 We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.
 
-YourOnly.One does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that YourOnly.One has in its database the personally-identifiable information of a child under the age of 13, please {{< reflangtitle path="contact-us.md" >}} immediately and we will use our best efforts to promptly remove such information from our records.
+YourOnly.One does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that YourOnly.One has in its database the personally-identifiable information of a child under the age of 13, please [](contact-us.md) immediately and we will use our best efforts to promptly remove such information from our records.
 
 ## CAN-SPAM Act
 

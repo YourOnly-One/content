@@ -62,7 +62,7 @@ Imagine then my uneasiness whenever the future, the reality, the materialism, an
   Then do not be anxious for tomorrow. For the morrow will be anxious of itself. Sufficient to each day is its own trouble.
 {{% /quotebox %}}
 
-On the surface, we can quickly understood what <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (pronunciation: yah-hu-shua; transliteration: Yahushua; also read: [Why Yahushua?]({{% ref "/20160203-messiah-yahushua-yahusha.md" %}})) meant when he said it. But there's more to it than "having faith" that he will provide for us. The deeper meaning, *not* hidden, is that, <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua) is fully aware what thinking of our future can do to us.
+On the surface, we can quickly understood what <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (pronunciation: yah-hu-shua; transliteration: Yahushua; also read: [Why Yahushua?](20160203-messiah-yahushua-yahusha.md)) meant when he said it. But there's more to it than "having faith" that he will provide for us. The deeper meaning, *not* hidden, is that, <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua) is fully aware what thinking of our future can do to us.
 
 Worry. Quick aging (look at yourself in mirror). Burden. Facing the sad reality of our society. Being down. Materialism. And ultimately it all leads to depression.
 

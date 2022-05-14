@@ -56,7 +56,7 @@ This is also the day when we begin to count down to the Feast of Passover or Pes
 
 For now, let's greet each other a "Happy New Year" and let it be a sign of hope. Of a new dawn. Of a new hope. New beginnings. When winter ends and healing begins.
 
-If you would like to know more about the true New Year, read: [When is the True New Year and Day]({{% ref "/20180101-when-true-new-year-day.md" %}}).
+If you would like to know more about the true New Year, read: [When is the True New Year and Day](20180101-when-true-new-year-day.md).
 
 ---
 

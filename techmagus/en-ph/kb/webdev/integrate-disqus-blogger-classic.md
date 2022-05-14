@@ -48,7 +48,7 @@ type = "article"                                                           # art
   This only applies to "first-generation classic themes" or "traditional templates".
 {{% /sembox %}}
 
-Maybe you have read my [HOW TO: Add DISQUS Manually on Blogger/BlogSpot]({{% ref "add-disqus-blogger.md" %}} "HOW TO: Add DISQUS Manually on Blogger/BlogSpot") but found it is for XML-based templates. Fret not, in this how-to, we are going to integrate DISQUS on your Blogger/BlogSpot Classic/Custom Template!
+Maybe you have read my [HOW TO: Add DISQUS Manually on Blogger/BlogSpot](add-disqus-blogger.md "HOW TO: Add DISQUS Manually on Blogger/BlogSpot") but found it is for XML-based templates. Fret not, in this how-to, we are going to integrate DISQUS on your Blogger/BlogSpot Classic/Custom Template!
 
 <!--more-->
 

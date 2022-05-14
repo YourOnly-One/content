@@ -46,7 +46,7 @@ type = "article"                                                           # art
 
 Last night, I searched if there were fonts updated to include the Philippine Peso currency sign which has been added in Unicode since version 3.2 release. The Unicode position of the Peso sign is at point 20B1 if you want to check it out for yourself.
 
-I was planning on creating a Peso font if I can not find one, this was after the availability of the Peso sign was discussed during the {{< reflangtitle path="20090425-ubuntu-philippines-release-party.md" >}}. My search turned-out positive, there's not just one but countless of fonts with the Peso sign already included.
+I was planning on creating a Peso font if I can not find one, this was after the availability of the Peso sign was discussed during the [](20090425-ubuntu-philippines-release-party.md). My search turned-out positive, there's not just one but countless of fonts with the Peso sign already included.
 
 <!--more-->
 
@@ -95,7 +95,7 @@ Start typing those Peso signs, the correct way!
 
 ---
 
-**Update 2010-11-14**: You can now type the ₱eso sign directly from your keyboard simply by pressing RightAlt+P or AltGr+P.&nbsp; But before you can do that, you need to add the [Philippines Unicode Keyboard Layout]({{% ref "philippines-unicode-keyboard-layout.md" %}} "Philippines Unicode Keyboard Layout") which is now available in both [GNU/Linux]({{% ref "philippines-unicode-keyboard-layout-linux.md" %}} "GNU/Linux") and [Windows]({{% ref "philippines-unicode-keyboard-layout-linux.md" %}} "Windows®")®.
+**Update 2010-11-14**: You can now type the ₱eso sign directly from your keyboard simply by pressing RightAlt+P or AltGr+P.&nbsp; But before you can do that, you need to add the [Philippines Unicode Keyboard Layout](philippines-unicode-keyboard-layout.md "Philippines Unicode Keyboard Layout") which is now available in both [GNU/Linux](philippines-unicode-keyboard-layout-linux.md "GNU/Linux") and [Windows](philippines-unicode-keyboard-layout-linux.md "Windows®")®.
 
 ---
 

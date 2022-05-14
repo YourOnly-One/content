@@ -91,10 +91,10 @@ The notion of generation is widely used in the everyday world to make sense of d
 
 지금까지 나와? 위의 내용을 바탕으로 세대별 K-pop 음악 행위는 다음과 같다.
 
-- 영어: {{< reflangtitle path="kpop-1st-gen.md" >}}
-- 영어: {{< reflangtitle path="kpop-2nd-gen.md" >}}
-- 영어: {{< reflangtitle path="kpop-3rd-gen.md" >}}
-- 영어: {{< reflangtitle path="kpop-4th-gen.md" >}}
+- 영어: [](kpop-1st-gen.md)
+- 영어: [](kpop-2nd-gen.md)
+- 영어: [](kpop-3rd-gen.md)
+- 영어: [](kpop-4th-gen.md)
 
 ### (추가) 국경 연도: 2001–2002
 

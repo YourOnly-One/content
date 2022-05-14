@@ -254,7 +254,7 @@ Submit a proposal to the Unicode Consortium to have these scripts added in a fut
 
 ## Baybayin for Websites
 
-You can learn how to properly display Baybayin scripts by reading [The LANG Attribute]({{% ref "lang-attribute.md" %}} "The LANG Attribute").
+You can learn how to properly display Baybayin scripts by reading [The LANG Attribute](lang-attribute.md "The LANG Attribute").
 
 ## Baybayin for Desktop
 

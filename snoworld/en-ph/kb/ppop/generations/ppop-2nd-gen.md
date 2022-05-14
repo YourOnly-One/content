@@ -49,7 +49,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 
 <!--more-->
 
-> For an explanation on how we defined each generation, see: [**YourOnly.One**'s P-pop Generations]({{% ref "/ppop-generations.md" %}} "Pinoy Popular Music Generations")
+> For an explanation on how we defined each generation, see: [**YourOnly.One**'s P-pop Generations](ppop-generations.md "Pinoy Popular Music Generations")
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_yellow" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
 

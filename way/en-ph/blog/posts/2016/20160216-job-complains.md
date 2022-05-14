@@ -114,7 +114,7 @@ It is so hard because even with my wall up, I can feel Job. His whole "I am righ
 
 Can any of us today stand in Job's shoes? I do not know. I probably will get crushed to dust. Imagine melting right there and then. I will want to bury myself alive just not to hear the words of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YaHuWaH). I will want not only to curse my birth but be totally eliminated from existence.
 
-I believe that only Job can survive such an encounter, no one else. For the rest of us, who are not even 0.001% as righteous as Job was, we are blessed enough that <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YaHuWaH) sent his Son <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (pronunciation: yah-hu-shua; transliteration: Yahushua; also read: {{< reflangtitle path="20160203-messiah-yahushua-yahusha.md" >}}) to die for us, buried, and resurrected from the dead, so that you and I can live.
+I believe that only Job can survive such an encounter, no one else. For the rest of us, who are not even 0.001% as righteous as Job was, we are blessed enough that <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YaHuWaH) sent his Son <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (pronunciation: yah-hu-shua; transliteration: Yahushua; also read: [](20160203-messiah-yahushua-yahusha.md)) to die for us, buried, and resurrected from the dead, so that you and I can live.
 
 If Job, the most righteous man on earth, was allowed to go through the lowest of lowest of lowest a man can ever be, how much more us? If you read Job's arguments, he argued why he should go through the worst a man can ever bear while people the likes of us did not.
 

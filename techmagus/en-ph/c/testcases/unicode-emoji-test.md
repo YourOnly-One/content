@@ -83,7 +83,7 @@ This is a Unicode and Emoji test page. You can use this to test if your browser 
 
 ## Tagalog Unicode
 
-Also see: [Philippines Unicode Keyboard Layout]({{% ref "philippines-unicode-keyboard-layout.md" %}} "Philippines Unicode Keyboard Layout")
+Also see: [Philippines Unicode Keyboard Layout](philippines-unicode-keyboard-layout.md "Philippines Unicode Keyboard Layout")
 <table style="width: 100%;">
   <thead>
     <tr>
@@ -108,7 +108,7 @@ Also see: [Philippines Unicode Keyboard Layout]({{% ref "philippines-unicode-key
 
 ## Paleo-Hebrew / Phoenician Unicode
 
-Also see: [Paleo-Hebrew / Phoenician Unicode Keyboard Layout]({{% ref "paleo-hebrew-phoenician-unicode-keyboard-layout.md" %}} "Paleo-Hebrew / Phoenician Unicode Keyboard Layout")
+Also see: [Paleo-Hebrew / Phoenician Unicode Keyboard Layout](paleo-hebrew-phoenician-unicode-keyboard-layout.md "Paleo-Hebrew / Phoenician Unicode Keyboard Layout")
 <table style="width: 100%;">
   <thead>
     <tr>

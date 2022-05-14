@@ -91,10 +91,10 @@ The notion of generation is widely used in the everyday world to make sense of d
 
 これまで私と一緒に？ 上記に基づいて、世代ごとのK-popミュージックアクトは次のとおりです。
 
-- 英語： {{< reflangtitle path="kpop-1st-gen.md" >}}
-- 英語： {{< reflangtitle path="kpop-2nd-gen.md" >}}
-- 英語： {{< reflangtitle path="kpop-3rd-gen.md" >}}
-- 英語： {{< reflangtitle path="kpop-4th-gen.md" >}}
+- 英語： [](kpop-1st-gen.md)
+- 英語： [](kpop-2nd-gen.md)
+- 英語： [](kpop-3rd-gen.md)
+- 英語： [](kpop-4th-gen.md)
 
 ### （追加）国境年：2001–2002
 

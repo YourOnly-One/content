@@ -55,7 +55,7 @@ Do you love attending conventions? Do you collect merchandise of products you li
   Latest update: 2022-04-03 16:14:33 PHT
 {{% /sembox %}}
 
-There is no longer any doubt that P-pop, or [***P**inoy **Pop**ular music*]({{% ref path="ppop-vs-opm.md#p-pop" %}} "Pinoy POPular music"), is having a major resurgence. Filipinos both locally and abroad are rallying behind P-pop acts in a way never before seen in P-pop's decades-long history—fandoms, merchandise, data fandom, and now conventions.
+There is no longer any doubt that P-pop, or [***P**inoy **Pop**ular music*](ppop-vs-opm.md#p-pop), is having a major resurgence. Filipinos both locally and abroad are rallying behind P-pop acts in a way never before seen in P-pop's decades-long history—fandoms, merchandise, data fandom, and now conventions.
 
 The Philippines is not alien to conventions, the country hosted international conventions in the past. However, this is the first time a convention is held for music fans. As with most regular concerts, it is all about the celebrities but in a convention, it is about the fans and their dreams.
 

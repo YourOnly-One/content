@@ -474,9 +474,9 @@ Keybase Teams which offers 100 GB of storage per team and if you choose to host 
 
 #### Get started with Keybase
 
-- {{< reflangtitle path="20200608-create-keybase.md" >}}
+- [](20200608-create-keybase.md)
 
-- {{< reflangtitle path="20200609-verify-account-keybase.md" >}}
+- [](20200609-verify-account-keybase.md)
 
 ### Matrix
 

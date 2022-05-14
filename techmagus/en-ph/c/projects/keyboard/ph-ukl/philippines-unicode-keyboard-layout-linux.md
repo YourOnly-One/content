@@ -49,7 +49,7 @@ Today, 23<sup>rd</sup> of October 2010, Filipino Linux users around the world ca
 
 What is this all about? Simple: being able to type the characters that Filipinos use, especially the ₱eso sign and <bdi lang="fil-Tglg">ᜊᜌ᜔ᜊᜌᜒᜈ᜔</bdi> (Baybayin) glyphs that has been available for use since Unicode 3.2 (March 2002). Other characters are: Ññ, ©, ®, ™, ¢, ¥, ¶, Pahilís (acute diacritic), Paiwà (grave diacritic), Pakupyâ (circumflex diacritic), Ng̃ (the shortened form of nan͠g), and many more.
 
-How about Windows users? <del>You will have to wait more or less 2 weeks, it will be usable for Windows 7, Vista, and XP; both 64-bit and 32-bit installations.</del> It is now available for [download]({{% ref "philippines-unicode-keyboard-layout-windows.md" %}} "Philippines Unicode Keyboard Layout for Windows").
+How about Windows users? <del>You will have to wait more or less 2 weeks, it will be usable for Windows 7, Vista, and XP; both 64-bit and 32-bit installations.</del> It is now available for [download](philippines-unicode-keyboard-layout-windows.md "Philippines Unicode Keyboard Layout for Windows").
 
 Without further ado, here are the steps to get you started with using our very own Unicode Keyboard Layout.
 
@@ -298,7 +298,7 @@ Let's not forget to add the first Baybayin <bdi lang="fil-Tglg">ᜊᜌ᜔ᜊᜌ�
 
 The font included in the zip file is a Unicode-only and Website-embed compatible version of [Nordenx](https://nordenx.com)'s Baybayin brush font.
 
-See the [keyboard layout images here]({{% ref "philippines-unicode-keyboard-layout.md" %}} "Philippines Unicode Keyboard Layout").
+See the [keyboard layout images here](philippines-unicode-keyboard-layout.md "Philippines Unicode Keyboard Layout").
 
 Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitbucket.org/paninap/ph-ukl/). If you have suggestions or bugs to report, please do not hesitate to [file a ticket here](https://bitbucket.org/paninap/ph-ukl/issues).
 

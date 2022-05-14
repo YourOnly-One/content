@@ -47,7 +47,7 @@ type = "article"                                                           # art
 
 <bdi lang="fil-Tglg">ᜋᜊᜓᜑᜌ᜔</bdi>
 
-If you can see the Filipino greeting *<bdi lang="fil">Mabuhay</bdi>* above in **Baybayin** script, your browser have support for [webfonts]({{% ref "css-font-face-support.md" %}} "How-To Implement Cross-Browser @font-face Support"). You should see the actual fonts of the websites that use webfonts (a.k.a. CSS2 @font-face rule) - as the designer intended.
+If you can see the Filipino greeting *<bdi lang="fil">Mabuhay</bdi>* above in **Baybayin** script, your browser have support for [webfonts](css-font-face-support.md "How-To Implement Cross-Browser @font-face Support"). You should see the actual fonts of the websites that use webfonts (a.k.a. CSS2 @font-face rule) - as the designer intended.
 
 <!--more-->
 
@@ -78,7 +78,7 @@ If you can not see anything, then your browser does not support the CSS2 @font-f
 
 ---
 
-If you want to learn how you can implement cross-browser webfonts support on your website, read: [How-To Implement Cross-Browser @font-face Support]({{% ref "css-font-face-support.md" %}} "How-To Implement Cross-Browser @font-face Support").
+If you want to learn how you can implement cross-browser webfonts support on your website, read: [How-To Implement Cross-Browser @font-face Support](css-font-face-support.md "How-To Implement Cross-Browser @font-face Support").
 
 <del datetime="2021-10-11T18:20:00+08:00">For more about Baybayin script, read: Baybayin - The Forgotten Pre-Hispanic Writing of the Filipino.</del>
 
