@@ -62,7 +62,7 @@ Chromiumが現場に到着すると、ゆっくりと改宗者を獲得しまし
 
 これは私たちを…にもたらします
 
-## ブラウザ戦争IIIフロント：ブラウザエンジン
+## ブラウザ戦争IIIフロント：ブラウザエンジン {#browser-wars-iii-front-browser-engine}
 
 Browser Wars IIIのブラウザエンジン部分は最も重要であり、過去2回のBrowserWarsではほとんど無視されていました。 今日、記事はChromiumとBlinkを交換しています。 ただし、Chromiumはブラウザのフロントエンドであり、Blinkはブラウザエンジンです。
 

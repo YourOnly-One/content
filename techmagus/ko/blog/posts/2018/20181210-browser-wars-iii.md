@@ -62,7 +62,7 @@ Chromium이 현장에 도착했을 때 천천히 전환자를 얻었습니다. F
 
 이것은 우리를 …
 
-## Browser Wars III Front: 브라우저 엔진
+## Browser Wars III Front: 브라우저 엔진 {#browser-wars-iii-front-browser-engine}
 
 브라우저 전쟁 III의 브라우저 엔진 부분은 지난 두 번의 브라우저 전쟁에서 가장 중요하고 대부분 무시되었습니다. 오늘날 기사는 Chromium과 Blink를 교환하고 있습니다. 그러나 Chromium은 브라우저 프론트엔드이고 Blink는 브라우저 엔진입니다.
 
