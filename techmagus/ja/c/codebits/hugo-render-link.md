@@ -2,7 +2,7 @@
 title = "HugoでMarkdownリンクをカスタマイズする方法"
 description = "Hugo Markdownリンクに相互参照サポートとリンクアイコンを追加する方法"
 
-date = "2022-05-15T08:20:17+09:00"                                          # manually adjust to local timezone
+date = "2022-05-15T12:23:48+09:00"                                          # manually adjust to local timezone
 #lastmod = "2022-04-07T17:53:01+00:00"                                       # manually adjust to local timezone
 
 #aliases = [""]
@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/techmagus/ja/codebits/how-to-customize-m
 #disqus_url = ""                                                    # no use case in sites by Yelosan Publishing (YourOnly.One)
 #disqus_identifier = ""                                             # set if slug date of this content is different from main translation (en-PH)
 
-#syndications = [""]
+syndications = ["https://twitter.com/YourOnlyONEofcl/status/1525681470022508544", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/657387235430510", "https://diasp.org/posts/f23d3ae0b62f013a6afb28a1592b385a", "https://mastodon.social/web/@youronlyone/108303916946754498"]
 
 channels = ["techmagus"]
 categories = ["howto"]

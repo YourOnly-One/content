@@ -2,7 +2,7 @@
 title = "How To Customize Markdown Links in Hugo"
 description = "How to add cross reference support and link icons in Hugo Markdown links"
 
-date = "2022-05-15T07:20:17+08:00"                                          # manually adjust to local timezone
+date = "2022-05-15T11:23:48+08:00"                                          # manually adjust to local timezone
 #lastmod = "2022-04-07T17:53:01+00:00"                                       # manually adjust to local timezone
 
 #aliases = [""]
@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/techmagus/codebits/how-to-customize-mark
 #disqus_url = ""                                                    # no use case in sites by Yelosan Publishing (YourOnly.One)
 #disqus_identifier = ""                                             # set if slug date of this content is different from main translation (en-PH)
 
-#syndications = [""]
+syndications = ["https://twitter.com/YourOnlyONEofcl/status/1525681466302246912", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/657387235430510", "https://diasp.org/posts/f23d3ae0b62f013a6afb28a1592b385a", "https://mastodon.social/web/@youronlyone/108303915231124593"]
 
 channels = ["techmagus"]
 categories = ["howto"]
