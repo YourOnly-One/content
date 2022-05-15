@@ -84,7 +84,7 @@ draft = false
     {{- $fragment := $url.Fragment -}}
     {{- with $fragment -}}{{ $fragment = printf "#%s" $fragment }}{{- end -}}
     {{- $destination := printf "%s%s" (or $internal.RelPermalink .Destination) $fragment -}}
-    <a href="{{ $destination | safeURL }}"{{ with or .Title $internal.LinkTitle .Test }} title="{{ . }}"{{ end }}{{ if not $internal }} rel="noopener external"{{ end }}>{{ or .Text .Title $internal.LinkTitle | safeHTML }}</a>
+    <a href="{{ $destination | safeURL }}"{{ with or .Title $internal.LinkTitle .Text }} title="{{ . }}"{{ end }}{{ if not $internal }} rel="noopener external"{{ end }}>{{ or .Text .Title $internal.LinkTitle | safeHTML }}</a>
     ```
 
 그게 다야
