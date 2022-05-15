@@ -263,6 +263,8 @@ URI(Uniform Resource Identifier) 체계의 공식 목록은 IANA 공식 웹사�
   title="Hugo에서 Markdown 링크를 사용자 지정하는 방법"
 
   licensecode="ccbysa4"
+  licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
+  licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
   attriburl="https://im.youronly.one/"

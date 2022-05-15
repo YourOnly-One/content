@@ -263,6 +263,8 @@ I hope you find it useful!
   title="How To Customize Markdown Links in Hugo"
 
   licensecode="ccbysa4"
+  licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
+  licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
   attriburl="https://im.youronly.one/"

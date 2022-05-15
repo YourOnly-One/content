@@ -263,6 +263,8 @@ URI（Uniform Resource Identifier）スキームの公式リストは、IANAの�
   title="HugoでMarkdownリンクをカスタマイズする方法"
 
   licensecode="ccbysa4"
+  licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
+  licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
   attriburl="https://im.youronly.one/"
