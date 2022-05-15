@@ -75,25 +75,27 @@ BODY
     - https://en.wikipedia.org/wiki/List_of_style_guides
 -->
 
+{{% quote type="quote_name|quote_title|quote_work" lang="" %}}content{{% /quote %}}
+
 - Mottos are quoted in `<q></q>`
 
 Capitalized
 
-- channel name, TV network, brand/company names, author names, band names, singer names
-- use: <span class="brandname"><bdi lang=""></bdi></span>
+- channel names, TV network name, brand/company names, author names, band names, singer names
+- use: {{% quote type="quote_name" lang="" %}}content{{% /quote %}}
 
 Italicized (in old print: underline)
 
-- movies, television, radio shows, books, periodicals, databases, websites
-- use: <cite class="worktitle_larger"><bdi lang=""></bdi></cite>
+- movies, televisions, radio shows, books, periodicals, databases, websites
+- use: {{% quote type="quote_title" lang="" %}}content{{% /quote %}}
 
 - Chinese: 《…〈…〉…》
 - Japanese: 《…〈…〉…》
 
 Quotation marks
 
-- episode, articles, essays, chapters, poems, songs, speeches
-- use: <q class="worktitle_specific"><bdi lang=""></bdi></q>
+- episode, articles, essays, chapters, poems, songs, speeches, mottos
+- use: {{% quote type="quote_work" lang="" %}}content{{% /quote %}}
 - Chinese: 「…『…』…」
 - Japanese: 「…『…』…」
 - South Korean (usually for vertical only): 「…『…』…」
