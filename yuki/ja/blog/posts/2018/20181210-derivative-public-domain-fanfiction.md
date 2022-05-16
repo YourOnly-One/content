@@ -2,13 +2,13 @@
 title = "パブリックドメインの派生物は作品、ファンフィクションですか？"
 description = "パブリックドメインの著作物に基づく二次的著作物は、ファンフィクションではありません。"  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-04-07T18:53:01+09:00"
-lastmod = "2021-04-07T18:53:01+09:00"
+date = "2018-12-10T10:25:01+09:00"
+#lastmod = "2021-04-07T18:53:01+09:00"
 
-#aliases = [""]
-slug = "derivative public domain fanfiction"
-translationKey = "derivative public domain fanfiction"
-relCanonical = "https://im.youronly.one/yuki/ja/derivative-public-domain-fanfiction-202197/"                           # only needed when this is not the original post
+aliases = ["derivative-public-domain-fanfiction-202197"]
+slug = "derivative-public-domain-fan-fiction"
+translationKey = "derivative-public-domain-fan-fiction-2018344"
+relCanonical = "https://im.youronly.one/yuki/ja/derivative-public-domain-fanfiction-2018344/"                           # only needed when this is not the original post
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
