@@ -102,7 +102,6 @@ Quotation marks
 
 ---
 
-<!-- markdownlint-disable -->
 {{< image
   type="imagecoverattrib"
 
@@ -134,7 +133,6 @@ Quotation marks
   cc0countrycode=""
   cc0countryurl=""
 >}}
-<!-- markdownlint-enable -->
 
 ---
 

@@ -83,7 +83,6 @@ HYBE와 쏘스뮤직은 2022년 3월 25일 <q lang="en-PH">IM Fearless</q>라는
 
 01. 한글 단어 세라핌, 일본어 단어 <q><bdi lang="ja">セラフィム</bdi></q>(<bdi lang="ja-Latn">serafimu</bdi>), 프랑스어 단어 <q><bdi lang="fr">sérafim</bdi></q>, 라틴어 단어 <q><bdi lang="lat">seraphim</bdi></q>은 모두 히브리어 단어 에서 파생되었습니다. <q><bdi lang="he">שרפים</bdi></q>(<bdi lang="he-Latn">serafim</bdi>), <q><bdi lang="he">שרף</bdi></q>(<bdi lang="he-Latn">saraf</bdi>)의 복수형입니다.
 
-<!-- markdownlint-disable -->
 {{< video
   id="fH4-8WO6aA4"
   linkrel="noopener external"
@@ -101,7 +100,6 @@ HYBE와 쏘스뮤직은 2022년 3월 25일 <q lang="en-PH">IM Fearless</q>라는
   attriburl="https://www.youtube.com/channel/UC3IZKseVpdzPSBaWxBxundA"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 ## 왜 르세라핌인가?
 
@@ -144,7 +142,6 @@ HYBE와 쏘스뮤직은 2022년 3월 25일 <q lang="en-PH">IM Fearless</q>라는
 
 ---
 
-<!-- markdownlint-disable -->
 {{< image
   type="imagecoverattrib"
 
@@ -165,7 +162,6 @@ HYBE와 쏘스뮤직은 2022년 3월 25일 <q lang="en-PH">IM Fearless</q>라는
   attriburl="https://www.youtube.com/channel/UC3IZKseVpdzPSBaWxBxundA"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 ---
 

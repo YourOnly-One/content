@@ -251,7 +251,6 @@ I hope you find it useful!
 
 ---
 
-<!-- markdownlint-disable -->
 {{< image
   type="imagecoverattrib"
 
@@ -270,4 +269,3 @@ I hope you find it useful!
   attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
-<!-- markdownlint-enable -->

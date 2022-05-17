@@ -251,7 +251,6 @@ URI(Uniform Resource Identifier) 체계의 공식 목록은 IANA 공식 웹사�
 
 ---
 
-<!-- markdownlint-disable -->
 {{< image
   type="imagecoverattrib"
 
@@ -270,7 +269,6 @@ URI(Uniform Resource Identifier) 체계의 공식 목록은 IANA 공식 웹사�
   attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
-<!-- markdownlint-enable -->
 
 ---
 

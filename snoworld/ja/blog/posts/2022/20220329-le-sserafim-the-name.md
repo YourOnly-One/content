@@ -81,7 +81,6 @@ HYBEとSourceMusicは、2022年3月25日に<q>IM Fearless</q>をモットーに�
 
 01. ハングゲオ語<q><bdi lang="ko">세라핌</bdi></q>（<bdi lang="ko-Latn">selafim</bdi>/<bdi lang="ko-Latn">serafim</bdi>）、日本語語<q>セラフィム</q>、フランス語語<q><bdi lang="fr">sérafim</bdi></q>、ラテン語<q><bdi lang="lat">seraphim</bdi></q>はすべてヘブライ語<q><bdi lang="he">שרפים</bdi></q>（<bdi lang="he-Latn">serafim</bdi>）に由来します。）、<q><bdi lang="he">שרף</bdi></q>（<bdi lang="he-Latn">saraf</bdi>）の複数形。
 
-<!-- markdownlint-disable -->
 {{< video
   id="fH4-8WO6aA4"
   linkrel="noopener external"
@@ -99,7 +98,6 @@ HYBEとSourceMusicは、2022年3月25日に<q>IM Fearless</q>をモットーに�
   attriburl="https://www.youtube.com/channel/UC3IZKseVpdzPSBaWxBxundA"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 ## なぜル セラフィム？
 
@@ -142,7 +140,6 @@ HYBEとSourceMusicは、2022年3月25日に<q>IM Fearless</q>をモットーに�
 
 ---
 
-<!-- markdownlint-disable -->
 {{< image
   type="imagecoverattrib"
 
@@ -163,7 +160,6 @@ HYBEとSourceMusicは、2022年3月25日に<q>IM Fearless</q>をモットーに�
   attriburl="https://www.youtube.com/channel/UC3IZKseVpdzPSBaWxBxundA"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 ---
 

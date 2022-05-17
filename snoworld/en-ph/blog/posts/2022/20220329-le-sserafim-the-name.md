@@ -83,7 +83,6 @@ Here are the reasons why:
 
 01. The Hangugeo word <q><bdi lang="ko">세라핌</bdi></q> (<bdi lang="ko-Latn">selafim</bdi>/<bdi lang="ko-Latn">serafim</bdi>), the Nihongo word <q><bdi lang="ja">セラフィム</bdi></q> (<bdi lang="ja-Latn">serafimu</bdi>), the French word <q><bdi lang="fr">sérafim</bdi></q>, and the Latin word <q><bdi lang="lat">seraphim</bdi></q>, all originated from the Hebrew word <q><bdi lang="he">שרפים</bdi></q> (<bdi lang="he-Latn">serafim</bdi>), the plural form of <q><bdi lang="he">שרף</bdi></q> (<bdi lang="he-Latn">saraf</bdi>).
 
-<!-- markdownlint-disable -->
 {{< video
   id="fH4-8WO6aA4"
   linkrel="noopener external"
@@ -101,7 +100,6 @@ Here are the reasons why:
   attriburl="https://www.youtube.com/channel/UC3IZKseVpdzPSBaWxBxundA"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 ## Why Le Sserafim?
 
@@ -144,7 +142,6 @@ The group's theme will revolve around their name <bdi lang="ko-Latn">Le Sserafim
 
 ---
 
-<!-- markdownlint-disable -->
 {{< image
   type="imagecoverattrib"
 
@@ -165,4 +162,3 @@ The group's theme will revolve around their name <bdi lang="ko-Latn">Le Sserafim
   attriburl="https://www.youtube.com/channel/UC3IZKseVpdzPSBaWxBxundA"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->

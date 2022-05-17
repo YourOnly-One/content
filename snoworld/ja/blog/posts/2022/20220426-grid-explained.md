@@ -201,7 +201,6 @@ type = "article"                                                             # a
 
     タイムトラベルデバイスは、腕にチップを埋め込んだ人だけが制御できます。 チップは、人の脳とデバイスの間の架け橋です。
 
-    <!-- markdownlint-disable -->
     {{< image
       src="https://img.youronly.one/g/grid-device-the-ghost-02.webp"
       link="https://img.youronly.one/g/grid-device-the-ghost-02.webp"
@@ -217,7 +216,6 @@ type = "article"                                                             # a
       attriburl="https://www.disneyplus.com"
       attribrel="noopener external"
     >}}
-    <!-- markdownlint-enable -->
 
     デバイスが鈍器として使用される場合、それは人を裏返しに電気切断します。 非常に強い出力は、ターゲットの燃焼を引き起こします。
 
@@ -274,7 +272,6 @@ type = "article"                                                             # a
 {{< accordion border="style01" summary="セハは死んだの？" class="faq" id="did-sae-ha-die" >}}
 100％はしませんでした。 理由は次のとおりです。
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-sae-ha-death.webp"
   link="https://img.youronly.one/g/grid-sae-ha-death.webp"
@@ -290,7 +287,6 @@ type = "article"                                                             # a
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 1. エピソード10でセハは<q>理由はわからないが、出身地を過ぎて移動することはできなかった</q>と語った。
 
@@ -300,7 +296,6 @@ type = "article"                                                             # a
 
 幽霊自身も別の手がかりです。
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-the-ghost-remembering-sae-ha.webp"
   link="https://img.youronly.one/g/grid-the-ghost-remembering-sae-ha.webp"
@@ -316,7 +311,6 @@ type = "article"                                                             # a
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 - 幽霊が犯罪現場に戻ったとき、彼女はあたかもそれが何もないかのように意図的に血のプールを踏んだ。
 - 彼女自身は彼らに何が起こっても気にしないことを認めましたが、彼らは彼女の遠い過去であるため、シリーズ全体の彼女の感情はそうではありません。
@@ -337,7 +331,6 @@ Sae Haが死んだと記録されている限り、起こるべき出来事が�
 {{< accordion border="style01" summary="フレンドリーなブルータイムトラベラーはどのようにしてセハを救ったのですか？" class="faq" >}}
 これがどのように起こったかです：
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-the-ghost-vs-foe-blue-01.webp"
   link="https://img.youronly.one/g/grid-the-ghost-vs-foe-blue-01.webp"
@@ -353,7 +346,6 @@ Sae Haが死んだと記録されている限り、起こるべき出来事が�
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 1. フレンドリーブルータイムトラベラーは、トラッカーを削除するためにマノックをぶつけました。 彼は彼を隠す必要があります。
 
@@ -430,7 +422,6 @@ Sae Haは、グリッドの存在を消去せずにイベントを変更する�
 {{< accordion border="style01" summary="倉庫サエハは誰ですか？" class="faq" >}}
 彼は、フレンドリーなブルータイムトラベラーが救ったセハです。 しかし、彼は自分自身を明らかにすることはできません。さもなければ、彼らは記録された歴史を変える危険を冒すことになります。
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-storehouse-sae-ha-2022.webp"
   link="https://img.youronly.one/g/grid-storehouse-sae-ha-2022.webp"
@@ -446,7 +437,6 @@ Sae Haは、グリッドの存在を消去せずにイベントを変更する�
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 <q>[セハは死んだの？](#did-sae-ha-die)</q>で説明したように、倉庫SaeHaがタイムトラベルデバイスを返却する前にSaeHaになることはできません。 倉庫セハは2022年にあり、2021セハが2022年に旅行することはできません。
 {{< /accordion >}}
@@ -494,7 +484,6 @@ Sae Haは、グリッドの存在を消去せずにイベントを変更する�
 
 ## 幽霊
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-the-ghost-vs-foe-blue-04.webp"
   link="https://img.youronly.one/g/grid-the-ghost-vs-foe-blue-04.webp"
@@ -510,7 +499,6 @@ Sae Haは、グリッドの存在を消去せずにイベントを変更する�
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 ### 一目で：ゴースト {#at-a-glance-the-ghost}
 
@@ -601,7 +589,6 @@ Sae Haは、グリッドの存在を消去せずにイベントを変更する�
     - 彼はセハを救った人でした。
     - 彼の時間装置はよりスリムで尖っています。
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-device-blue-time-traveler-friendly-01.webp"
   link="https://img.youronly.one/g/grid-device-blue-time-traveler-friendly-01.webp"
@@ -617,14 +604,12 @@ Sae Haは、グリッドの存在を消去せずにイベントを変更する�
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 1. フォーブルータイムトラベラー
 
     - 彼は幽霊を攻撃した人でした。
     - 彼の時間装置はより広く、丸みを帯びています
 
-<!-- markdownlint-disable -->
 {{< image
   height=""
   width=""
@@ -645,9 +630,7 @@ Sae Haは、グリッドの存在を消去せずにイベントを変更する�
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
-<!-- markdownlint-disable -->
 {{< image
   height=""
   width=""
@@ -668,9 +651,7 @@ Sae Haは、グリッドの存在を消去せずにイベントを変更する�
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
-<!-- markdownlint-disable -->
 {{< image
   height=""
   width=""
@@ -691,13 +672,11 @@ Sae Haは、グリッドの存在を消去せずにイベントを変更する�
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 たぶん、それらは双子またはクローンであるか、一方が他方の以前のバージョンです。 とにかく、この時点で重要なのは、フォーブルータイムトラベラーはフレンドリーブルータイムトラベラーと同じではないということです。
 
 フレンドリーブルータイムトラベラーが英語で言ったように、<q>それは私ではありません。あなたはそれを見ることができませんか？</q> 彼が自分の時間装置を見るために彼の目で指さしている間（彼はまた、彼とまったく同じように見える誰かが彼女と戦ったことを知っていました）。 これに気づいたとき、幽霊は彼に彼がしようとしていたことをさせました。
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-the-ghost-blue-time-traveler-sae-ha.webp"
   link="https://img.youronly.one/g/grid-the-ghost-blue-time-traveler-sae-ha.webp"
@@ -715,7 +694,7 @@ Sae Haは、グリッドの存在を消去せずにイベントを変更する�
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
+
 {{< /accordion >}}
 
 ## 管理局
@@ -767,7 +746,6 @@ Sae Haは、グリッドの存在を消去せずにイベントを変更する�
 {{< accordion border="style01" summary="結局、グリッドはまだ破壊されていました。" class="faq" >}}
 破壊されたグリッドは、1997年のグリッドではなく、2022年のものです。
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-irr-destroyed-2022.webp"
   link="https://img.youronly.one/g/grid-irr-destroyed-2022.webp"
@@ -783,7 +761,6 @@ Sae Haは、グリッドの存在を消去せずにイベントを変更する�
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 エピソード10では、IRRとABの建物が宇宙からの攻撃によって破壊されました。 ABは1997年にはまだ存在していませんでした。
 
@@ -807,7 +784,6 @@ Sae Haは、グリッドの存在を消去せずにイベントを変更する�
 
 彼は彼の上司のように見える人にこの報告をしました、<q>グリッドはすべてなくなっています。 すべての時代と層から。</q>
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-faction-scene.webp"
   link="https://img.youronly.one/g/grid-faction-scene.webp"
@@ -823,7 +799,6 @@ Sae Haは、グリッドの存在を消去せずにイベントを変更する�
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 彼の上司は英語で答えました、<q>あなたは決して知りません。</q>彼がフォローアップしたのは韓国語で<q>誰も知りません。 本当に終わりはありますか？</ q>
 
@@ -859,7 +834,6 @@ Temporal Mechanics＃4は、タイムトラベラーがその時間に入るた�
 {{< accordion border="style01" summary="ビョリは幽霊の母ですか？" class="faq" >}}
 多分そうでないかもしれません。 ゴーストが2091年に生まれたと言っていたので、それまでにビョリは69歳になるでしょう。
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-destroyed-2022-01.webp"
   link="https://img.youronly.one/g/grid-destroyed-2022-01.webp"
@@ -875,7 +849,6 @@ Temporal Mechanics＃4は、タイムトラベラーがその時間に入るた�
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 しかし、グリッドは2022年の後半に破壊されました。2022年から2091年の間に、地球は別の太陽風に見舞われました（1997年のゴーストによって確認されたように）。 赤ちゃんを産む伝統的な方法は、放射線とそのDNAの損傷のため、おそらくお勧めできません。
 
@@ -935,7 +908,6 @@ Z軸、または高さ、または上下に移動することは、私が<q>存�
 - フレンドリーなブルータイムトラベラー：セハが死ぬ前に230 µT。 SaeHaの死後237µT
 - Sae Ha：106 µT
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-microtesla-blue-time-traveler-friendly-230µT-01.webp"
   link="https://img.youronly.one/g/grid-microtesla-blue-time-traveler-friendly-230µT-01.webp"
@@ -951,9 +923,7 @@ Z軸、または高さ、または上下に移動することは、私が<q>存�
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-microtesla-blue-time-traveler-friendly-230µT-02.webp"
   link="https://img.youronly.one/g/grid-microtesla-blue-time-traveler-friendly-230µT-02.webp"
@@ -969,9 +939,7 @@ Z軸、または高さ、または上下に移動することは、私が<q>存�
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-microtesla-ghost-408µT-and-blue-237µT-01.webp"
   link="https://img.youronly.one/g/grid-microtesla-ghost-408µT-and-blue-237µT-01.webp"
@@ -987,7 +955,6 @@ Z軸、または高さ、または上下に移動することは、私が<q>存�
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 {{< footnotelist >}}
 {{< footnotecite id="microtesla-wiktionary" >}}[Wiktionary: microtesla](https://en.wiktionary.org/wiki/microtesla){{< /footnotecite >}}
@@ -1017,7 +984,6 @@ Z軸、または高さ、または上下に移動することは、私が<q>存�
 
 聞いてくれてありがとう（この場合は読んでくれて）。
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-vanishing-time-travelers.webp"
   link="https://img.youronly.one/g/grid-vanishing-time-travelers.webp"
@@ -1033,11 +999,9 @@ Z軸、または高さ、または上下に移動することは、私が<q>存�
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 ---
 
-<!-- markdownlint-disable -->
 {{< image
   type="imagecoverattrib"
 
@@ -1056,7 +1020,6 @@ Z軸、または高さ、または上下に移動することは、私が<q>存�
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 ---
 

@@ -199,7 +199,6 @@ Before we begin we need to be on the same page on how to approach the questions 
 
     The time travel device can only be controlled by a person with a chip implanted in their arm. The chip is the bridge between a person's brain and the device.
 
-    <!-- markdownlint-disable -->
     {{< image
       src="https://img.youronly.one/g/grid-device-the-ghost-02.webp"
       link="https://img.youronly.one/g/grid-device-the-ghost-02.webp"
@@ -215,7 +214,6 @@ Before we begin we need to be on the same page on how to approach the questions 
       attriburl="https://www.disneyplus.com"
       attribrel="noopener external"
     >}}
-    <!-- markdownlint-enable -->
 
     If the device is used as a blunt weapon, it will electrocute a person from inside out. A very strong output will result in combustion of the target.
 
@@ -272,7 +270,6 @@ Realities and versions are technically the same. *Reality* is used to refer to c
 {{< accordion border="style01" summary="Did Sae Ha die?" class="faq" >}}
 100% did not. Here are the reasons why:
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-sae-ha-death.webp"
   link="https://img.youronly.one/g/grid-sae-ha-death.webp"
@@ -288,7 +285,6 @@ Realities and versions are technically the same. *Reality* is used to refer to c
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 1. In episode 10 Sae Ha said, <q>I don't know why but I couldn't move past the point in time where I came from.</q>
 
@@ -298,7 +294,6 @@ If it is not possible to visit the future beyond a time traveler's origin time, 
 
 The Ghost, herself, is another clue.
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-the-ghost-remembering-sae-ha.webp"
   link="https://img.youronly.one/g/grid-the-ghost-remembering-sae-ha.webp"
@@ -314,7 +309,6 @@ The Ghost, herself, is another clue.
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 - When the Ghost returned to the crime scene she intentionally stepped on a pool of blood as if it was nothing.
 - While she herself admitted that she does not care what happens to them, because they are her distant past, her emotions throughout the series tells otherwise.
@@ -335,7 +329,6 @@ It did not occur to her that events that should happen will still happen as long
 {{< accordion border="style01" summary="How did the Friendly Blue Time Traveler saved Sae Ha?" class="faq" >}}
 Here is how it happened:
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-the-ghost-vs-foe-blue-01.webp"
   link="https://img.youronly.one/g/grid-the-ghost-vs-foe-blue-01.webp"
@@ -351,7 +344,6 @@ Here is how it happened:
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 1. The Friendly Blue Time Traveler bumped Ma Nok to remove the tracker. He needs him to hide.
 
@@ -428,7 +420,6 @@ Sae Ha made a choice to die because they found no other way to alter events with
 {{< accordion border="style01" summary="Who is the Storehouse Sae Ha?" class="faq" >}}
 He is the Sae Ha the Friendly Blue Time Traveler saved. However, he can not reveal himself, otherwise they would risk changing recorded history.
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-storehouse-sae-ha-2022.webp"
   link="https://img.youronly.one/g/grid-storehouse-sae-ha-2022.webp"
@@ -444,7 +435,6 @@ He is the Sae Ha the Friendly Blue Time Traveler saved. However, he can not reve
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 As explained in <q>[Did Sae Ha die?](#did-sae-ha-die)</q>, it is not possible for Storehouse Sae Ha to be Sae Ha before he returned the time travel device. The Storehouse Sae Ha is in 2022, it is not possible for 2021 Sae Ha to travel to 2022.
 {{< /accordion >}}
@@ -492,7 +482,6 @@ This is the only way for events, mentioned in <q>[What is the relation of Sae Ha
 
 ## The Ghost
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-the-ghost-vs-foe-blue-04.webp"
   link="https://img.youronly.one/g/grid-the-ghost-vs-foe-blue-04.webp"
@@ -508,7 +497,6 @@ This is the only way for events, mentioned in <q>[What is the relation of Sae Ha
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 ### At a glance: The Ghost
 
@@ -599,7 +587,6 @@ Good question! Unfortunately there is no way to know who is the Blue Time Travel
     - He was the one who saved Sae Ha.
     - His time device is slimmer and pointed.
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-device-blue-time-traveler-friendly-01.webp"
   link="https://img.youronly.one/g/grid-device-blue-time-traveler-friendly-01.webp"
@@ -615,14 +602,12 @@ Good question! Unfortunately there is no way to know who is the Blue Time Travel
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 1. Foe Blue Time Traveler
 
     - He was the one who attacked the Ghost.
     - His time device is wider and rounded
 
-<!-- markdownlint-disable -->
 {{< image
   height=""
   width=""
@@ -643,9 +628,7 @@ Good question! Unfortunately there is no way to know who is the Blue Time Travel
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
-<!-- markdownlint-disable -->
 {{< image
   height=""
   width=""
@@ -666,9 +649,7 @@ Good question! Unfortunately there is no way to know who is the Blue Time Travel
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
-<!-- markdownlint-disable -->
 {{< image
   height=""
   width=""
@@ -689,13 +670,11 @@ Good question! Unfortunately there is no way to know who is the Blue Time Travel
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 Maybe they are twins or clones or one is an earlier version of the other. Regardless, what matters at this point is the Foe Blue Time Traveler is not the same as the Friendly Blue Time Traveler.
 
 As the Friendly Blue Time Traveler said in English, <q>It's not me. Can't you see it?</q> while he was pointing with his eyes to look at his time device (he was also aware someone who looked exactly like him fought her). Upon realising this, the Ghost let him do what he was about to.
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-the-ghost-blue-time-traveler-sae-ha.webp"
   link="https://img.youronly.one/g/grid-the-ghost-blue-time-traveler-sae-ha.webp"
@@ -713,7 +692,7 @@ As the Friendly Blue Time Traveler said in English, <q>It's not me. Can't you se
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
+
 {{< /accordion >}}
 
 ## Administration Bureau
@@ -765,7 +744,6 @@ This question was asked by [@Eliza M](https://mydramalist.com/profile/7681823) o
 {{< accordion border="style01" summary="In the end, the Grid was still destroyed." class="faq" >}}
 The Grid that was destroyed is in 2022, not the 1997 Grid.
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-irr-destroyed-2022.webp"
   link="https://img.youronly.one/g/grid-irr-destroyed-2022.webp"
@@ -781,7 +759,6 @@ The Grid that was destroyed is in 2022, not the 1997 Grid.
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 In episode 10, the IRR and the AB buildings were destroyed by an attack from outer space. The AB did not exist yet in 1997.
 
@@ -805,7 +782,6 @@ The man who appears to be the subordinate could be the Friendly Blue Time Travel
 
 He made this report to who appears to be his superior, <q>The Grid is all gone. From all the times and layers.</q>
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-faction-scene.webp"
   link="https://img.youronly.one/g/grid-faction-scene.webp"
@@ -821,7 +797,6 @@ He made this report to who appears to be his superior, <q>The Grid is all gone. 
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 His superior replied in English, <q>You never know.</q> Which he followed up with, in Korean, <q>No one knows. Is there really an end?</q>
 
@@ -857,7 +832,6 @@ The clue in episode 10 points to Song Eo Jin.
 {{< accordion border="style01" summary="Is Byeori the mother of the Ghost?" class="faq" >}}
 Maybe, maybe not. Since the Ghost said she was born in 2091, Byeori would be 69 years old by then.
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-destroyed-2022-01.webp"
   link="https://img.youronly.one/g/grid-destroyed-2022-01.webp"
@@ -873,7 +847,6 @@ Maybe, maybe not. Since the Ghost said she was born in 2091, Byeori would be 69 
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 However, the Grid was destroyed sometime the latter half of 2022. Between 2022 and 2091, Earth was hit by another solar wind (as confirmed by the 1997 Ghost). The traditional way of having babies is probably not advisable due to the radiation, and the damage in their DNAs.
 
@@ -933,7 +906,6 @@ For a human being to produce over 100 µT meant they were exposed to extremely p
 - The Friendly Blue Time Traveler: 230 µT before Sae Ha's death; 237 µT after Sae Ha's death
 - Sae Ha: 106 µT
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-microtesla-blue-time-traveler-friendly-230µT-01.webp"
   link="https://img.youronly.one/g/grid-microtesla-blue-time-traveler-friendly-230µT-01.webp"
@@ -949,9 +921,7 @@ For a human being to produce over 100 µT meant they were exposed to extremely p
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-microtesla-blue-time-traveler-friendly-230µT-02.webp"
   link="https://img.youronly.one/g/grid-microtesla-blue-time-traveler-friendly-230µT-02.webp"
@@ -967,9 +937,7 @@ For a human being to produce over 100 µT meant they were exposed to extremely p
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-microtesla-ghost-408µT-and-blue-237µT-01.webp"
   link="https://img.youronly.one/g/grid-microtesla-ghost-408µT-and-blue-237µT-01.webp"
@@ -985,7 +953,6 @@ For a human being to produce over 100 µT meant they were exposed to extremely p
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 {{< footnotelist >}}
 {{< footnotecite id="microtesla-wiktionary" >}}[Wiktionary: microtesla](https://en.wiktionary.org/wiki/microtesla){{< /footnotecite >}}
@@ -1015,7 +982,6 @@ If you have additional questions or not-so-violent reactions, you can also leave
 
 Thank you for listening (or reading in this case).
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-vanishing-time-travelers.webp"
   link="https://img.youronly.one/g/grid-vanishing-time-travelers.webp"
@@ -1031,11 +997,9 @@ Thank you for listening (or reading in this case).
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 ---
 
-<!-- markdownlint-disable -->
 {{< image
   type="imagecoverattrib"
 
@@ -1054,4 +1018,3 @@ Thank you for listening (or reading in this case).
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->

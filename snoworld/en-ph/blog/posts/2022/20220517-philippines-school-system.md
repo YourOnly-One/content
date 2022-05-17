@@ -81,7 +81,6 @@ Senior (21–22)
 
 ---
 
-<!-- markdownlint-disable -->
 {{< image
   type="imagecoverattrib"
 
@@ -113,7 +112,6 @@ Senior (21–22)
   cc0countrycode=""
   cc0countryurl=""
 >}}
-<!-- markdownlint-enable -->
 
 ---
 

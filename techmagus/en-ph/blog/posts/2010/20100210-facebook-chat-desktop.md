@@ -137,12 +137,10 @@ SUMMARY
 
 > ***TAGLINE***
 
-<!-- markdownlint-disable-next-line -->
 {{% sembox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
 content
 {{% /sembox %}}
 
-<!-- markdownlint-disable-next-line -->
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
 content
 {{% /quotebox %}}
@@ -155,7 +153,6 @@ Test here.[^a]
 
 ## Image code
 
-<!-- markdownlint-disable -->
 {{< image
 height=""
 width=""
@@ -202,7 +199,6 @@ contentlocurl=""
 contentlocrel="noopener external"
 contentreferencetime=""
 >}}
-<!-- markdownlint-enable -->
 
 ## Other markdown codes
 
@@ -210,7 +206,6 @@ contentreferencetime=""
 
 ## Official trailer / 公式予告編 / 공식 예고편
 
-<!-- markdownlint-disable -->
 {{< video
 height=""
 width=""
@@ -261,11 +256,9 @@ contentlocurl=""
 contentlocrel="noopener external"
 contentreferencetime=""
 >}}
-<!-- markdownlint-enable -->
 
 ## OST
 
-<!-- markdownlint-disable-next-line -->
 {{< music src="https://open.spotify.com/embed/playlist/CHANGE_THIS" >}}
 
 ## Attribution, Usage, &amp; Leave your links
@@ -274,7 +267,6 @@ Simply follow the attribution shown underneath each photo, or whichever is accep
 
 ---
 
-<!-- markdownlint-disable -->
 {{< image
 type="imagecoverattrib"
 
@@ -306,7 +298,6 @@ cc0country=""
 cc0countrycode=""
 cc0countryurl=""
 >}}
-<!-- markdownlint-enable -->
 
 ---
 

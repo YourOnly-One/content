@@ -251,7 +251,6 @@ URI（Uniform Resource Identifier）スキームの公式リストは、IANAの�
 
 ---
 
-<!-- markdownlint-disable -->
 {{< image
   type="imagecoverattrib"
 
@@ -270,7 +269,6 @@ URI（Uniform Resource Identifier）スキームの公式リストは、IANAの�
   attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
-<!-- markdownlint-enable -->
 
 ---
 

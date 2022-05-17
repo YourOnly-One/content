@@ -201,7 +201,6 @@ type = "article"                                                             # a
 
     시간 여행 장치는 팔에 칩을 이식한 사람만 제어할 수 있습니다. 칩은 사람의 두뇌와 장치를 연결하는 다리입니다.
 
-    <!-- markdownlint-disable -->
     {{< image
       src="https://img.youronly.one/g/grid-device-the-ghost-02.webp"
       link="https://img.youronly.one/g/grid-device-the-ghost-02.webp"
@@ -217,7 +216,6 @@ type = "article"                                                             # a
       attriburl="https://www.disneyplus.com"
       attribrel="noopener external"
     >}}
-    <!-- markdownlint-enable -->
 
     장치를 둔기로 사용하면 사람을 안팎으로 감전시킵니다. 매우 강한 출력은 대상을 연소시킵니다.
 
@@ -274,7 +272,6 @@ type = "article"                                                             # a
 {{< accordion border="style01" summary="새하가 죽었어요?" class="faq" id="did-sae-ha-die" >}}
 100% 하지 않았습니다. 그 이유는 다음과 같습니다.
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-sae-ha-death.webp"
   link="https://img.youronly.one/g/grid-sae-ha-death.webp"
@@ -290,7 +287,6 @@ type = "article"                                                             # a
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 1. 10회에서 새하가 <q>왜 그런지는 모르겠지만 내가 온 시점을 지나칠 수 없었다.</q>
 
@@ -300,7 +296,6 @@ type = "article"                                                             # a
 
 고스트 자신이 또 다른 단서입니다.
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-the-ghost-remembering-sae-ha.webp"
   link="https://img.youronly.one/g/grid-the-ghost-remembering-sae-ha.webp"
@@ -316,7 +311,6 @@ type = "article"                                                             # a
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 - 고스트가 범죄 현장으로 돌아왔을 때 그녀는 아무 것도 아닌 것처럼 의도적으로 피 웅덩이를 밟았습니다.
 - 그녀 자신은 그들에게 무슨 일이 일어나는지 신경 쓰지 않는다는 것을 인정했지만, 그것들은 그녀의 먼 과거이기 때문에 시리즈 전반에 걸친 그녀의 감정은 그렇지 않다고 말합니다.
@@ -337,7 +331,6 @@ type = "article"                                                             # a
 {{< accordion border="style01" summary="친절한 푸른 시간 여행자는 어떻게 세하를 구했을까요?" class="faq" >}}
 어떻게 된 일인지는 다음과 같습니다.
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-the-ghost-vs-foe-blue-01.webp"
   link="https://img.youronly.one/g/grid-the-ghost-vs-foe-blue-01.webp"
@@ -353,7 +346,6 @@ type = "article"                                                             # a
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 1. 친절한 푸른 시간 여행자는 추적기를 제거하기 위해 Ma Nok과 부딪쳤습니다. 그는 그가 숨길 필요가 있습니다.
 
@@ -430,7 +422,6 @@ Sae Ha는 그리드를 존재에서 지우지 않고는 사건을 변경할 다�
 {{< accordion border="style01" summary="창고새하가 누구야?" class="faq" >}}
 그가 구한 친절한 푸른 시간 여행자 새하입니다. 그러나 그는 자신을 공개할 수 없습니다. 그렇지 않으면 기록된 역사를 변경할 위험이 있습니다.
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-storehouse-sae-ha-2022.webp"
   link="https://img.youronly.one/g/grid-storehouse-sae-ha-2022.webp"
@@ -446,7 +437,6 @@ Sae Ha는 그리드를 존재에서 지우지 않고는 사건을 변경할 다�
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 <q>[새하가 죽었나?](#did-sae-ha-die)</q>에서 설명한 것처럼 창고 새하가 시간 여행 장치를 반환하기 전에는 세하가 될 수 없습니다. 창고새하가 2022년인데, 2021년 새하가 2022년으로 여행을 갈 수 없습니다.
 {{< /accordion >}}
@@ -494,7 +484,6 @@ Sae Ha는 그리드를 존재에서 지우지 않고는 사건을 변경할 다�
 
 ## 귀신
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-the-ghost-vs-foe-blue-04.webp"
   link="https://img.youronly.one/g/grid-the-ghost-vs-foe-blue-04.webp"
@@ -510,7 +499,6 @@ Sae Ha는 그리드를 존재에서 지우지 않고는 사건을 변경할 다�
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 ### 한 눈에 보기: 고스트 {#at-a-glance-the-ghost}
 
@@ -601,7 +589,6 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
     - 그가 바로 세하를 구한 사람이었다.
     - 그의 시간 장치는 더 얇고 뾰족합니다.
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-device-blue-time-traveler-friendly-01.webp"
   link="https://img.youronly.one/g/grid-device-blue-time-traveler-friendly-01.webp"
@@ -617,14 +604,12 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 1. 적 블루 타임 트래블러
 
     - 그는 고스트를 공격한 사람이었습니다.
     - 그의 시간 장치는 더 넓고 둥글다
 
-<!-- markdownlint-disable -->
 {{< image
   height=""
   width=""
@@ -645,9 +630,7 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
-<!-- markdownlint-disable -->
 {{< image
   height=""
   width=""
@@ -668,9 +651,7 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
-<!-- markdownlint-disable -->
 {{< image
   height=""
   width=""
@@ -691,13 +672,11 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 쌍둥이나 클론이거나 하나가 다른 하나의 이전 버전일 수도 있습니다. 그럼에도 불구하고, 이 시점에서 중요한 것은 적청색 시간 여행자가 친절한 파란색 시간 여행자와 같지 않다는 것입니다.
 
 친절한 푸른 시간 여행자가 영어로 말했듯이 <q>나는 아닙니다. 안 보이세요?</q> 그가 시간 장치를 보기 위해 눈으로 가리키고 있는 동안(그는 자신과 똑같이 생긴 누군가가 그녀와 싸웠다는 것도 알고 있었습니다). 이것을 깨닫자 고스트는 그가 하려는 일을 하도록 내버려 두었습니다.
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-the-ghost-blue-time-traveler-sae-ha.webp"
   link="https://img.youronly.one/g/grid-the-ghost-blue-time-traveler-sae-ha.webp"
@@ -715,7 +694,7 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
+
 {{< /accordion >}}
 
 ## 행정국
@@ -767,7 +746,6 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
 {{< accordion border="style01" summary="결국 그리드는 여전히 파괴되었습니다." class="faq" >}}
 파괴된 그리드는 1997 그리드가 아니라 2022 그리드입니다.
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-irr-destroyed-2022.webp"
   link="https://img.youronly.one/g/grid-irr-destroyed-2022.webp"
@@ -783,7 +761,6 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 에피소드 10에서 IRR과 AB 건물은 우주의 공격으로 파괴되었습니다. AB는 1997년에 아직 존재하지 않았습니다.
 
@@ -807,7 +784,6 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
 
 그는 자신의 상관으로 보이는 사람에게 이 보고를 했습니다. <q>그리드가 모두 사라졌습니다. 모든 시대와 계층에서.</q>
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-faction-scene.webp"
   link="https://img.youronly.one/g/grid-faction-scene.webp"
@@ -823,7 +799,6 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 상관은 영어로 <q>당신은 모릅니다</q>라고 대답했습니다. 그는 한국어로 <q>아무도 모릅니다. 정말 끝이 있습니까?</q>
 
@@ -859,7 +834,6 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
 {{< accordion border="style01" summary="별리는 귀신의 어머니인가?" class="faq" >}}
 그럴 수도 있고 아닐 수도있다. 고스트가 2091년에 태어났다고 하니 별리는 그때 나이 69세였다.
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-destroyed-2022-01.webp"
   link="https://img.youronly.one/g/grid-destroyed-2022-01.webp"
@@ -875,7 +849,6 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 그러나 그리드는 2022년 후반기에 파괴되었습니다. 2022년과 2091년 사이에 지구는 또 다른 태양풍의 영향을 받았습니다(1997년 고스트에 의해 확인됨). 아기를 낳는 전통적인 방법은 방사선과 DNA 손상으로 인해 바람직하지 않을 수 있습니다.
 
@@ -935,7 +908,6 @@ Z축 또는 높이, 또는 위아래로 움직이는 것은 내가 "존재의 �
 - 친절한 푸른 시간 여행자: Sae Ha가 죽기 전 230 µT; 새하 사망 후 237 µT
 - 하세: 106 µT
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-microtesla-blue-time-traveler-friendly-230µT-01.webp"
   link="https://img.youronly.one/g/grid-microtesla-blue-time-traveler-friendly-230µT-01.webp"
@@ -951,9 +923,7 @@ Z축 또는 높이, 또는 위아래로 움직이는 것은 내가 "존재의 �
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-microtesla-blue-time-traveler-friendly-230µT-02.webp"
   link="https://img.youronly.one/g/grid-microtesla-blue-time-traveler-friendly-230µT-02.webp"
@@ -969,9 +939,7 @@ Z축 또는 높이, 또는 위아래로 움직이는 것은 내가 "존재의 �
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-microtesla-ghost-408µT-and-blue-237µT-01.webp"
   link="https://img.youronly.one/g/grid-microtesla-ghost-408µT-and-blue-237µT-01.webp"
@@ -987,7 +955,6 @@ Z축 또는 높이, 또는 위아래로 움직이는 것은 내가 "존재의 �
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 {{< footnotelist >}}
 {{< footnotecite id="microtesla-wiktionary" >}}[Wiktionary: microtesla](https://en.wiktionary.org/wiki/microtesla){{< /footnotecite >}}
@@ -1017,7 +984,6 @@ Z축 또는 높이, 또는 위아래로 움직이는 것은 내가 "존재의 �
 
 들어주셔서 감사합니다(이 경우 읽어주셔서 감사합니다).
 
-<!-- markdownlint-disable -->
 {{< image
   src="https://img.youronly.one/g/grid-vanishing-time-travelers.webp"
   link="https://img.youronly.one/g/grid-vanishing-time-travelers.webp"
@@ -1033,11 +999,9 @@ Z축 또는 높이, 또는 위아래로 움직이는 것은 내가 "존재의 �
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 ---
 
-<!-- markdownlint-disable -->
 {{< image
   type="imagecoverattrib"
 
@@ -1056,7 +1020,6 @@ Z축 또는 높이, 또는 위아래로 움직이는 것은 내가 "존재의 �
   attriburl="https://www.disneyplus.com"
   attribrel="noopener external"
 >}}
-<!-- markdownlint-enable -->
 
 ---
 
