@@ -117,12 +117,12 @@ type = "article"                                                             # a
 
     1997-05-18에서 Sae Ha가 스스로 깨달은 것보다 더 좋은 예는 없습니다.
 
-    {{< accordion summary="1997-05-18 첫 번째 버전" >}}
+    {{< accordion border="style01" summary="1997-05-18 첫 번째 버전" >}}
 
 - 이것은 그리드가 존재하지 않았고 시간 여행이 아직 개발되지 않은 원본 버전입니다.
     {{< /accordion >}}
 
-    {{< accordion summary="1997-05-18 두 번째 버전" >}}
+    {{< accordion border="style01" summary="1997-05-18 두 번째 버전" >}}
 - 시간 여행자가 이 시기에 들어와 그리드를 설치한 것은 이번이 처음이다. 그녀는 이 시점에서 아직 존재하지 않기 때문에 그것을 한 것은 고스트가 아닙니다.
 - 권수근 박사
   - 그의 신분증 때문에 살해당했습니다. 또는
@@ -133,21 +133,21 @@ type = "article"                                                             # a
 - 이러한 일련의 사건이 고스트의 탄생으로 이어졌습니다.
     {{< /accordion >}}
 
-    {{< accordion summary="1997-05-18 세 번째 버전 (에피소드 3 IRR CCTV)" >}}
+    {{< accordion border="style01" summary="1997-05-18 세 번째 버전 (에피소드 3 IRR CCTV)" >}}
 - 고스트가 그리드를 설치한 버전입니다.
 - 이 역시 이날 첫 CCTV 영상에 나온 버전이다.
 - 권 박사는 신분증(목 뒤에 있는 흉터) 때문에 사망했다.
 - 이장혁은 전파연구소(IRR)를 떠나기 전 귀신에게 살해당했다.
     {{< /accordion >}}
 
-    {{< accordion summary="1997-05-18 네 번째 버전" >}}
+    {{< accordion border="style01" summary="1997-05-18 네 번째 버전" >}}
 - 1997년 세하의 여행은 이번이 처음이다.
 - 권수근 박사는 신분증(기기로 목 뒤통)으로 사망했다.
 - 이장혁은 그의 시신을 보고 1연구소에 들어가 119에 신고한 뒤 귀신을 보고 그녀와 대면해 죽음을 맞았다.
 - 고스트가 시간 장치를 집어 들었을 때, 그녀는 다른 시간 여행자의 존재를 느꼈습니다. 그녀가 연기를 하기도 전에 새하는 시간을 리셋했다.
     {{< /accordion >}}
 
-    {{< accordion summary="1997-05-18 다섯 번째 버전" >}}
+    {{< accordion border="style01" summary="1997-05-18 다섯 번째 버전" >}}
 - 1997년의 사건을 바꾸려는 세하의 첫 시도다.
 - 세하가 권 박사의 신분증을 훔쳤다.
 - 유령이 나타났지만 권 박사는 그가 기대했던 곳에 있지 않았다.
@@ -161,7 +161,7 @@ type = "article"                                                             # a
 - 우리는 이것을 "Fifth Version Reality" 또는 "1997 No Grid Reality"라고 부를 것입니다.
     {{< /accordion >}}
 
-    {{< accordion summary="1997-05-18 여섯 번째 버전" >}}
+    {{< accordion border="style01" summary="1997-05-18 여섯 번째 버전" >}}
 - 그리드 없는 세상을 목격한 새하는 1997-05-18로 돌아왔다.
 - 권 박사(ID로)의 코트 연구실을 훔쳤다.
 - 권 박사는 여전히 연구실 1에 갔다.
@@ -171,7 +171,7 @@ type = "article"                                                             # a
 - 이장혁은 그들을 보고 달려갔다.
     {{< /accordion >}}
 
-    {{< accordion summary="1997-05-18 일곱 번째 버전" >}}
+    {{< accordion border="style01" summary="1997-05-18 일곱 번째 버전" >}}
 - 2021년 내내 유령을 쫓고 살인 사건과 사건을 바꾸는 방법에 대해 그녀와 대면한 후, Saeha는 다시 1997-05-18로 돌아갔습니다.
 - 세하는 사건이 전개되는 것을 지켜보았다.
 - 세하는 사건이 다르게 전개되는 것을 알아차렸다(CCTV 타임스탬프: 21:02:48).
@@ -271,7 +271,7 @@ type = "article"                                                             # a
 
 ### 자주하는 질문: 하세하
 
-{{< accordion summary="새하가 죽었어요?" class="faq" id="did-sae-ha-die" >}}
+{{< accordion border="style01" summary="새하가 죽었어요?" class="faq" id="did-sae-ha-die" >}}
 100% 하지 않았습니다. 그 이유는 다음과 같습니다.
 
 <!-- markdownlint-disable -->
@@ -328,13 +328,13 @@ type = "article"                                                             # a
 원래 내 해석은 Saeha가 장치를 반환하기 전에 유령과 함께 여행을 갔다가 2021-10-09에 사망했다는 것입니다.
 {{< /accordion >}}
 
-{{< accordion summary="고스트는 미래로 여행할 수 있는 길이 있다는 것을 왜 몰랐을까요?" class="faq" >}}
+{{< accordion border="style01" summary="고스트는 미래로 여행할 수 있는 길이 있다는 것을 왜 몰랐을까요?" class="faq" >}}
 그녀는 자신의 말을 빌리기 위해 고정 소수점을 변경하기 위해 <q>수십 번</q>을 시도했지만 다른 방법을 찾지 못했습니다. 그녀는 포기했다. 그녀가 아는 한, 새하는 2021-10년 언젠가 만녹의 손에 죽을 것입니다.
 
 세하가 죽은 것으로 기록되어 있는 한, 일어나야 할 일이 여전히 일어날 것이라는 생각은 그녀에게 일어나지 않았습니다. 프렌들리 블루 타임 트래블러는 이것을 알아내고 새로운 현실을 만들기 위해 행동으로 옮겼습니다.
 {{< /accordion >}}
 
-{{< accordion summary="친절한 푸른 시간 여행자는 어떻게 세하를 구했을까요?" class="faq" >}}
+{{< accordion border="style01" summary="친절한 푸른 시간 여행자는 어떻게 세하를 구했을까요?" class="faq" >}}
 어떻게 된 일인지는 다음과 같습니다.
 
 <!-- markdownlint-disable -->
@@ -407,7 +407,7 @@ type = "article"                                                             # a
 1. 그 후 두 시간 여행자는 떠났다. 마지막 숨을 거두기 직전인 새하를 구하기 위해.
 {{< /accordion >}}
 
-{{< accordion summary="세하의 죽음과 고스트 앤 그리드의 관계는?" class="faq" id="what-is-the-relation-of-sae-has-death-to-the-ghost-and-the-grid" >}}
+{{< accordion border="style01" summary="세하의 죽음과 고스트 앤 그리드의 관계는?" class="faq" id="what-is-the-relation-of-sae-has-death-to-the-ghost-and-the-grid" >}}
 김만녹의 손에 의한 그의 죽음은 다음과 같은 중요한 사건의 촉매제입니다.
 
 1. 전 부부인 정세벽과 송어진이 서로를 위로하며 동침했다. 그로부터 9개월 후인 2022년 7월 어느 날, 별리가 태어났다.
@@ -419,7 +419,7 @@ type = "article"                                                             # a
 이 질문은 MyDramaList에서 [@Gizmobear](https://mydramalist.com/690687-zero#comment-9407747) 님이 질문한 것입니다.
 {{< /accordion >}}
 
-{{< accordion summary="어쨌든 그리드가 파괴된 이후로 새하의 죽음은 무의미하지 않은가?" class="faq" >}}
+{{< accordion border="style01" summary="어쨌든 그리드가 파괴된 이후로 새하의 죽음은 무의미하지 않은가?" class="faq" >}}
 <q>다수의 필요가 소수의 필요를 능가하는</q> 경우입니다.
 
 Sae Ha는 그리드가 없는 세상이 무엇인지 보았습니다. 세계 인구의 3분의 2가 사망하고 더 많은 사람들이 태양풍 복사로 인한 다양한 퇴행성 질병으로 고통받고 있습니다. 얼굴과 성대에 돌이킬 수 없는 상처가 있는 정세벽도 발견했다. 이것이 그의 마음을 가장 아프게 한 것입니다.
@@ -427,7 +427,7 @@ Sae Ha는 그리드가 없는 세상이 무엇인지 보았습니다. 세계 인
 Sae Ha는 그리드를 존재에서 지우지 않고는 사건을 변경할 다른 방법을 찾지 못했기 때문에 죽음을 선택했습니다. 그는 다른 시간 여행자가 자신을 구해줄 줄은 몰랐습니다.
 {{< /accordion >}}
 
-{{< accordion summary="창고새하가 누구야?" class="faq" >}}
+{{< accordion border="style01" summary="창고새하가 누구야?" class="faq" >}}
 그가 구한 친절한 푸른 시간 여행자 새하입니다. 그러나 그는 자신을 공개할 수 없습니다. 그렇지 않으면 기록된 역사를 변경할 위험이 있습니다.
 
 <!-- markdownlint-disable -->
@@ -464,7 +464,7 @@ Sae Ha는 그리드를 존재에서 지우지 않고는 사건을 변경할 다�
 
 ### 자주하는 질문: 만녹/시원
 
-{{< accordion summary="귀신이 김만녹의 아버지를 죽인 이유는?" class="faq" >}}
+{{< accordion border="style01" summary="귀신이 김만녹의 아버지를 죽인 이유는?" class="faq" >}}
 김만녹이 느슨한 대포가 되지 않을 것이기 때문이다. 만녹이 불안정해지기 위해서는 아버지의 잔혹한 살인을 목격해야 한다.
 
 그들은 2021-10-09에서 새하를 죽이게 될 미친 만녹이 필요합니다.
@@ -472,7 +472,7 @@ Sae Ha는 그리드를 존재에서 지우지 않고는 사건을 변경할 다�
 <q>목적이 수단을 정당화</q>하는 경우입니다.
 {{< /accordion >}}
 
-{{< accordion summary="김만녹이 귀신의 조상인가?" class="faq" >}}
+{{< accordion border="style01" summary="김만녹이 귀신의 조상인가?" class="faq" >}}
 나는 그것을 매우 의심한다.
 
 김만녹은 고스트와 DNA 일치율이 13%이고 둘 다 가장 희귀한 혈액형인 cis-AB를 가지고 있지만, 그가 고스트의 직계 조상이라는 증거는 충분하지 않다. 이것은 그가 고스트의 먼 친척임을 알려줍니다.
@@ -486,7 +486,7 @@ Sae Ha는 그리드를 존재에서 지우지 않고는 사건을 변경할 다�
 {{< /footnotelist >}}
 {{< /accordion >}}
 
-{{< accordion summary="그렇다면 고스트는 왜 그를 보호했을까요?" class="faq" >}}
+{{< accordion border="style01" summary="그렇다면 고스트는 왜 그를 보호했을까요?" class="faq" >}}
 김만녹이 새하를 죽인 사람이 되어야 하기 때문이다.
 
 이것이 <q>[세하의 죽음과 고스트 앤 그리드의 관계는?](#what-is-the-relation-of-sae-has-death-to-the-ghost-and-the-grid)</q>가 발생합니다.
@@ -532,7 +532,7 @@ Sae Ha는 그리드를 존재에서 지우지 않고는 사건을 변경할 다�
 
 ### 자주 묻는 질문: 고스트
 
-{{< accordion summary="김만녹이 귀신의 직계 조상이 아니면 누구인가?" class="faq" >}}
+{{< accordion border="style01" summary="김만녹이 귀신의 직계 조상이 아니면 누구인가?" class="faq" >}}
 내 의심은 귀신이 뇌물수수에서 구해낸 민주통합당 김한석 의원이다.
 
 2화에 나온 내용입니다.
@@ -551,11 +551,11 @@ Sae Ha는 그리드를 존재에서 지우지 않고는 사건을 변경할 다�
 {.note}
 {{< /accordion >}}
 
-{{< accordion summary="유령의 기원 연도는 무엇입니까?" class="faq" >}}
+{{< accordion border="style01" summary="유령의 기원 연도는 무엇입니까?" class="faq" >}}
 이것은 밝혀지지 않았습니다. 그러나 고스트가 여배우와 같은 나이라면 그녀는 2131에서 왔습니다.
 {{< /accordion >}}
 
-{{< accordion summary="고스트가 한 명 이상 있습니까?" class="faq" >}}
+{{< accordion border="style01" summary="고스트가 한 명 이상 있습니까?" class="faq" >}}
 고스트는 정세벽의 증손녀, 벽리의 손녀뿐이다.
 
 Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 만들었습니다. 바로 배우 이시영이 연기한 유령을 가리키는 말이다.
@@ -563,7 +563,7 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
 모든 시간 여행자가 *유령*이라면 대답은 예이지만 *유령*은 아닙니다.
 {{< /accordion >}}
 
-{{< accordion summary="다른 타임라인이나 평행 우주에서 온 고스트가 있는 것은 아닐까?" class="faq" >}}
+{{< accordion border="style01" summary="다른 타임라인이나 평행 우주에서 온 고스트가 있는 것은 아닐까?" class="faq" >}}
 이것은 쇼가 시공간의 정적 이론을 기반으로 한다는 것을 입증하지 않은 경우에만 가능합니다.
 
 쇼는 <q>시간은 흐르지 않는다</q>라는 것을 확인했고 나중에 쇼가 특히 성장하는 블록 우주 이론에 기반을 두고 있다는 더 많은 단서를 제공했기 때문에 대체 타임라인과 평행 우주가 존재하는 것은 불가능합니다. 하나의 타임라인과 하나의 우주만 있을 수 있습니다.
@@ -571,7 +571,7 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
 <cite><bdi lang="en-GB">Highlander</bdi></cite>에서 빌리려면: <q><bdi lang="en-GB">There Can Be Only One!</bdi></q>
 {{< /accordion >}}
 
-{{< accordion summary="고스트는 왜 전 세계의 다양한 연구실에 나타났습니까?" class="faq" >}}
+{{< accordion border="style01" summary="고스트는 왜 전 세계의 다양한 연구실에 나타났습니까?" class="faq" >}}
 컴퓨팅 성능에 대한 가능성이 더 높습니다.
 
 그리드가 1997년에 설치된 이후로 그리드 코드와 그 컴파일을 처리할 컴퓨팅 파워가 여전히 충분하지 않았습니다. 1997년 이후에 그리드를 설치하면 지구가 이를 적절하게 배치할 기회를 얻지 못할 것입니다. 더 일찍 설치하면 훨씬 더 원시적인 시스템을 의미합니다.
@@ -582,7 +582,7 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
 {.note}
 {{< /accordion >}}
 
-{{< accordion summary="고스트의 DNA가 더 좋아지고 심지어 세하에게 감사를 표한 이유는 무엇입니까?" class="faq" >}}
+{{< accordion border="style01" summary="고스트의 DNA가 더 좋아지고 심지어 세하에게 감사를 표한 이유는 무엇입니까?" class="faq" >}}
 가장 가능성이 높은 것은 Sae Ha가 고스트에게 그녀의 DNA 문제에 대한 약을 주었을 것입니다(지식은 1997년 No Grid Reality에서 받음).
 
 이 질문은 MyDramaList에서 [@Zainaaa08](https://mydramalist.com/profile/Zainaaa08)님이 질문한 것입니다.
@@ -592,7 +592,7 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
 
 ### 자주 묻는 질문: 푸른 시간 여행자
 
-{{< accordion summary="푸른 시간 여행자는 누구인가?" class="faq" >}}
+{{< accordion border="style01" summary="푸른 시간 여행자는 누구인가?" class="faq" >}}
 좋은 질문! 불행히도 누가 푸른 시간 여행자인지 알 수 있는 방법이 없습니다. 하지만, 두 가지가 있습니다!
 
 1. 친절한 블루 타임 트래블러
@@ -730,7 +730,7 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
 
 ### 자주하는 질문: 행정국
 
-{{< accordion summary="행정국은 고스트에게 무엇을 원하는가?" class="faq" >}}
+{{< accordion border="style01" summary="행정국은 고스트에게 무엇을 원하는가?" class="faq" >}}
 관리국은 고스트가 사용하는 시간 여행 기술이 그들이 개발하고 있는 것보다 훨씬 앞서 있기 때문에 이를 훔치려 합니다.
 
 그들은 인류를 돕고 대한민국이 모든 사람보다 한 발 앞서 도약할 수 있다고 믿습니다.
@@ -752,7 +752,7 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
 
 ### 자주하는 질문
 
-{{< accordion summary="어진이는 어쩌다가 딸의 이름을 세벽에게 알려준 걸까?" class="faq" >}}
+{{< accordion border="style01" summary="어진이는 어쩌다가 딸의 이름을 세벽에게 알려준 걸까?" class="faq" >}}
 두 가지 가능한 답변.
 
 1. 미래의 세벽은 과거로 시간여행을 하고 2022년 어진에게 말을 걸어 2022년 세벽을 주웠다.
@@ -764,7 +764,7 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
 이 질문은 MyDramaList에서 [@Eliza M](https://mydramalist.com/profile/7681823)에 의해 질문되었습니다.
 {{< /accordion >}}
 
-{{< accordion summary="결국 그리드는 여전히 파괴되었습니다." class="faq" >}}
+{{< accordion border="style01" summary="결국 그리드는 여전히 파괴되었습니다." class="faq" >}}
 파괴된 그리드는 1997 그리드가 아니라 2022 그리드입니다.
 
 <!-- markdownlint-disable -->
@@ -790,7 +790,7 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
 또한, 그들이 1997 그리드를 파괴했다면, 그것을 파괴한 진영은 1997 No Grid Reality의 혜택을 받지 못할 것입니다.
 {{< /accordion >}}
 
-{{< accordion summary="'파벌'과 '이익이 안 된다'는 무슨 뜻인가요?" class="faq" >}}
+{{< accordion border="style01" summary="'파벌'과 '이익이 안 된다'는 무슨 뜻인가요?" class="faq" >}}
 10화에서는 사건과 시간 여행자를 감시하는 무리나 파벌이 있음이 밝혀졌다. 한 남자와 그의 조수가 이야기를 나누는 장면이 그런 파벌 중 하나다. (그들은 우주에 있는 것 같다.)
 
 그리드에 대한 찬성인지 반대인지 결정할 수 없습니다. 그럼에도 불구하고, 그 장면의 메시지는 사람들의 이익을 위해 또는 자신의 주머니를 위해 이벤트를 변경하는 그룹이 있음을 밝히는 것입니다. 즉, 누가 2022년에 그리드를 파괴했든 1997년 그리드가 존재해야 합니다. 다음을 고려하세요:
@@ -802,7 +802,7 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
   세계 초강대국들은 의심할 여지 없이 한국 때문에 한국을 혐오했고 시간 여행을 개발하기 위한 경쟁을 촉발했습니다. <cite><bdi lang="en-US">Star Trek</bdi></cite> 용어로, 일시적인 [냉전] 전쟁이 있습니다.
 {{< /accordion >}}
 
-{{< accordion summary="하얀 방에서 유령의 몸을 지키고 있던 두 사람은 누구였습니까?" class="faq" >}}
+{{< accordion border="style01" summary="하얀 방에서 유령의 몸을 지키고 있던 두 사람은 누구였습니까?" class="faq" >}}
 부하로 보이는 남자는 같은 배우가 연기한 '푸른 시간 여행자'나 '푸른 시간 여행자'일 수 있다. 완전히 다른 캐릭터일 수도 있고, 배우는 아마 3명의 캐릭터를 연기했을 것입니다.
 
 그는 자신의 상관으로 보이는 사람에게 이 보고를 했습니다. <q>그리드가 모두 사라졌습니다. 모든 시대와 계층에서.</q>
@@ -832,7 +832,7 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
 이 질문은 MyDramaList에서 [@LydiaDaniel](https://mydramalist.com/690687-zero#comment-9406129) 님이 질문한 것입니다.
 {{< /accordion >}}
 
-{{< accordion summary="고스트의 시대에 그리드가 없다면 그녀는 아예 존재하지 않아야 하는 것인가?" class="faq" >}}
+{{< accordion border="style01" summary="고스트의 시대에 그리드가 없다면 그녀는 아예 존재하지 않아야 하는 것인가?" class="faq" >}}
 옳은. 그러나 파괴된 그리드는 1997년 그리드가 아닌 2022년 말에 발생한 것이다.
 
 1997 그리드가 존재하고 2021-10년에 새하가 만녹의 손에 사망하는 한 고스트의 어머니와 자신이 태어날 것입니다. 2022년 그리드의 파괴와 같이 그 이후에 일어나는 일은 그녀의 존재에 아무런 영향을 미치지 않습니다.
@@ -842,7 +842,7 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
 그래서 고스트는 새하에게 "아무것도 바꾸려 하지마", "너는 모든 것을 망치고 있다.
 {{< /accordion >}}
 
-{{< accordion summary="1997년 노 그리드 리얼리티에서 고스트가 태어나지 않았다면 그리드는 어떻게 존재했을까요?" class="faq" >}}
+{{< accordion border="style01" summary="1997년 노 그리드 리얼리티에서 고스트가 태어나지 않았다면 그리드는 어떻게 존재했을까요?" class="faq" >}}
 그 사람이 누구든 간에 최초의 Grid Founder.
 
 그리드가 없더라도 먼 미래에 시간 여행 기술이 개발될 가능성은 항상 존재합니다. 그들은 특히 세계 인구의 3분의 2가 전멸되고 나머지는 퇴행성 질환으로 고통받고 있을 때 시간 여행의 비밀을 풀기 위해 열심일 것입니다.
@@ -852,11 +852,11 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
 이는 <q>[시간 역학 #4: 기간 교체](#temporal-mechanics)</q>에 설명되어 있습니다.
 {{< /accordion >}}
 
-{{< accordion summary="별리의 아버지는 누구인가?" class="faq" >}}
+{{< accordion border="style01" summary="별리의 아버지는 누구인가?" class="faq" >}}
 10화의 단서는 송어진을 가리킨다.
 {{< /accordion >}}
 
-{{< accordion summary="별리는 귀신의 어머니인가?" class="faq" >}}
+{{< accordion border="style01" summary="별리는 귀신의 어머니인가?" class="faq" >}}
 그럴 수도 있고 아닐 수도있다. 고스트가 2091년에 태어났다고 하니 별리는 그때 나이 69세였다.
 
 <!-- markdownlint-disable -->
@@ -884,7 +884,7 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
 그러고 보니 별리는 결국 고스트의 엄마일지도 모른다. 특히 고스트가 별리를 팔에 안고 다니는 장면 이후. (어머니를 돌보는 딸? 응, 시간여행! 그것도 사랑스럽고 달달하다.)
 {{< /accordion >}}
 
-{{< accordion summary="에피소드 10에서 '레이어'는 무엇을 의미했습니까?" class="faq" >}}
+{{< accordion border="style01" summary="에피소드 10에서 '레이어'는 무엇을 의미했습니까?" class="faq" >}}
 아주 좋은 질문입니다! 이것은 긴 설명이 필요합니다.
 
 블록 우주 및 성장하는 블록 우주 이론에서 현실이나 우주는 하나의 거대한 블록(또는 원하는 경우 정육면체)으로 간주됩니다.
@@ -922,7 +922,7 @@ Z축 또는 높이, 또는 위아래로 움직이는 것은 내가 "존재의 �
 {.note}
 {{< /accordion >}}
 
-{{< accordion summary="새하를 측정한 결과 106이 나왔는데 뭔데요?" class="faq" >}}
+{{< accordion border="style01" summary="새하를 측정한 결과 106이 나왔는데 뭔데요?" class="faq" >}}
 마이크로테슬라(μT)입니다. 마이크로테슬라는 10<sup>-6</sup> 테슬라와 동일한 자속 밀도의 SI 단위입니다. {{< footnote id="microtesla-wiktionary" num="1" >}}
 
 알겠습니다. 저도 무슨 뜻인지 모르겠습니다.
@@ -996,7 +996,7 @@ Z축 또는 높이, 또는 위아래로 움직이는 것은 내가 "존재의 �
 {{< /footnotelist >}}
 {{< /accordion >}}
 
-{{< accordion summary="2021년 새하가 보행신호를 블루라이트라고 한 이유는?" class="faq" >}}
+{{< accordion border="style01" summary="2021년 새하가 보행신호를 블루라이트라고 한 이유는?" class="faq" >}}
 어른들이 아이에게 걷는 신호는 파란색이라고 말하는 한국의 문화 전통입니다.
 
 국립국어원 역시 <q>신호등의 초록불을 초록불이 아닌 파란불로 부르는 이유는 사람들이 파란불을 빨강에 대한 상대적인 색 개념으로 인식하기 때문인 것으로 보인다. 빛.</q> {{< footnote id="go-is-blue-nikl" num="1" >}} {{< footnote id="go-is-blue-jinny-jin-jin" num="2" >}}
