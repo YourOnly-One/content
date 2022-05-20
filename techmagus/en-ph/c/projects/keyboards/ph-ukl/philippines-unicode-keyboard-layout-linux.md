@@ -5,10 +5,11 @@ description = "Filipino Linux users around the world can now download and use th
 date = "2010-10-23T19:40:10+08:00"                                        # manually adjust to local timezone
 lastmod = "2010-10-23T19:40:10+08:00"                                        # manually adjust to local timezone
 
-aliases = ["/p/philippines-unicode-keyboard-linux.html"]
-slug = "philippines-baybayin-unicode-linux"
-translationKey = "philippines-baybayin-unicode-linux-2010296"
-relCanonical = "https://im.youronly.one/techmagus/projects/keyboard/philippines-baybayin-unicode-linux-2010296/"                                                   # the actual URL of the post; also used for disqus ID and url
+aliases = ["/p/philippines-unicode-keyboard-linux.html", "/projects/keyboard/philippines-baybayin-unicode-linux-2010296"]
+url = "/projects/keyboards/philippines-keyboard-unicode-baybayin-linux-2010296"
+slug = "philippines-keyboard-unicode-baybayin-linux"
+translationKey = "philippines-keyboard-unicode-baybayin-linux-2010296"
+relCanonical = "https://im.youronly.one/techmagus/projects/keyboards/philippines-keyboard-unicode-baybayin-linux-2010296/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 

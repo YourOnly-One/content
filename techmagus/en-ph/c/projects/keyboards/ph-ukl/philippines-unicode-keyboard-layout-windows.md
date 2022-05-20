@@ -5,10 +5,11 @@ description = "Philippines Unicode Keyboard Layout for Microsoft® Windows™ us
 date = "2010-10-25T21:10:37+08:00"                                        # manually adjust to local timezone
 lastmod = "2018-03-20T17:53:01+08:00"                                     # manually adjust to local timezone
 
-aliases = ["/p/philippines-unicode-keyboard-windows.html"]
-slug = "philippines-baybayin-windows"
-translationKey = "philippines-baybayin-windows-2010298"
-relCanonical = "https://im.youronly.one/techmagus/projects/keyboard/philippines-baybayin-windows-2010298/"                                                   # the actual URL of the post; also used for disqus ID and url
+aliases = ["/p/philippines-unicode-keyboard-windows.html", "/projects/keyboard/philippines-baybayin-windows-2010298"]
+url = "/projects/keyboards/philippines-keyboard-unicode-baybayin-windows-2010298"
+slug = "philippines-keyboard-unicode-baybayin-windows"
+translationKey = "philippines-keyboard-unicode-baybayin-windows-2010298"
+relCanonical = "https://im.youronly.one/techmagus/projects/keyboards/philippines-keyboard-unicode-baybayin-windows-2010298/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
