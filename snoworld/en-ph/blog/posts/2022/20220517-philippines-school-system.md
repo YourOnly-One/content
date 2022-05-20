@@ -51,6 +51,20 @@ SUMMARY
 
 <!--more-->
 
+<!-- RESEARCH: https://en.wikipedia.org/wiki/List_of_Philippine_mythological_figures -->
+<!-- RESEARCH: https://en.wikipedia.org/wiki/Philippine_mythology -->
+
+Four Seasons of Education
+Four Stages of Education
+
+Spring - Grades  1,  2,  3
+Summer / Magrakad (noon; Tagbanwa) - Grades  4,  5,  6
+Autumn / Sisilim (dusk; Kapampangan) - Grades  7,  8,  9
+Winter / Liwayway (dawn; Tagalog) - Grades 10, 11, 12
+
+Hana (morning) - Tagalog
+Libtakan (Manobo) - sunrise, sunset, good weather
+
 Nursery (3–4)
 Prep (4–5)
 Kinder (5–6)
