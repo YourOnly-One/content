@@ -1,10 +1,52 @@
 +++
 title = "Code Bits"
-description = "These are different code snippets that might be useful for everyone, not just for us."
-translationKey = "section-codebits"
-#url = ""
+description = "Different code snippets that may be useful in your project."
+
+date = "2022-05-15T11:23:48+08:00"                           # manually adjust to local timezone
+#lastmod = "2022-04-07T17:53:01+08:00"                        # manually adjust to local timezone
+
 #aliases = [""]
-#relcanonical = ""
-#redirectto = ""
-#metarobots = "noindex"
+#url = ""                            # to override .Permalink
+#slug = ""
+translationKey = "section-codebits"
+#relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
+#disqus_url = ""                     # not used in sites by Yelosan Publishing
+#disquq_identifier = ""              # set if date of this content is different from main translation
+
+#redirecto = ""                      # Yelosan Publishing: used in _index.md
+#metarobots = "noindex"              # Yelosan Publishing: used in _index.md
+
+#syndications = [""]
+
+#channels = [""]
+#categories = [""]
+#keywords = [""]
+#series = [""]
+#tags = [""]
+
+comments = false
+#weight = ""
+
+#featured = true
+#math = true
+toc = true
+
+#audio = [""]                        # used for og:audio, etc.
+#images = ["https://img.youronly.one/{LETTER}/{FILENAME}.webp"]                       # used for og:images, etc.; first image is cover image
+#videos = ["https://www.youtube.com/watch?v="]                       # used for og:video, etc.
+
+#type = ""                           # article, sitepage, review
+
+#draft = true
+
+#license = ""                        # only set if the post license is not the same as the site license
+
+# For /yuki/ choose one and remove everything else
+[[authors]]
+  person = "yuki"
+  #id = ""
+  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  url = "https://im.youronly.one/techmagus/"
+  avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
+  #rel = "noopener external nofollow"
 +++

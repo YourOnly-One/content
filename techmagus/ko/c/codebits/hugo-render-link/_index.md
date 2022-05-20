@@ -1,0 +1,65 @@
++++
+title = "Hugo: Markdown 링크 사용자 지정"
+description = "Hugo Markdown 링크에 상호 참조 지원, 링크 아이콘 등을 추가하는 방법."
+
+date = "2022-05-15T12:23:48+09:00"                           # manually adjust to local timezone
+#lastmod = "2022-04-07T17:53:01+08:00"                        # manually adjust to local timezone
+
+aliases = ["/ko/codebits/how-to-customize-markdown-links-hugo-2022135"]
+#url = ""                            # to override .Permalink
+#slug = ""
+translationKey = "section-hugo-markdown-links"
+#relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
+#disqus_url = ""                     # not used in sites by Yelosan Publishing
+#disquq_identifier = ""              # set if date of this content is different from main translation
+
+#redirecto = ""                      # Yelosan Publishing: used in _index.md
+#metarobots = "noindex"              # Yelosan Publishing: used in _index.md
+
+syndications = ["https://twitter.com/YourOnlyONEofcl/status/1525681466302246912", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/657387235430510", "https://diasp.org/posts/f23d3ae0b62f013a6afb28a1592b385a", "https://mastodon.social/web/@youronlyone/108303915231124593"]
+
+#channels = [""]
+#categories = [""]
+#keywords = [""]
+#series = [""]
+#tags = [""]
+
+comments = false
+#weight = ""
+
+#featured = true
+#math = true
+toc = true
+
+#audio = [""]                        # used for og:audio, etc.
+images = ["https://img.youronly.one/h/hugo-markdown-link-render.webp"]                 # used for og:images, etc.; first image is cover image
+#videos = ["https://www.youtube.com/watch?v="]                       # used for og:video, etc.
+
+#type = ""                           # article, sitepage, review
+
+#draft = true
+
+#license = ""                        # only set if the post license is not the same as the site license
+
+# For /yuki/ choose one and remove everything else
+[[authors]]
+  person = "yuki"
+  #id = ""
+  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  url = "https://im.youronly.one/techmagus/"
+  avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
+  #rel = "noopener external nofollow"
++++
+
+{{% quote type="name" lang="en" %}}Hugo{{% /quote %}}에서 {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} 링크가 렌더링되는 방식을 사용자 정의하는 방법을 찾고 계십니까? 링크 아이콘을 추가하고 싶습니까? 또는 (이전 방법) `{{</* ref */>}}`를 사용하지 않고 내부 상호 참조에 대한 지원을 추가하는 것은 어떻습니까?
+
+{{% quote type="name" lang="en" %}}Hugo{{% /quote %}}에는 {{% quote type="work" lang="en" %}}allow custom templates to override markdown rendering functionality{{% /quote %}} (번역: 맞춤 템플릿이 마크다운 렌더링 기능을 재정의할 수 있도록)하는 [^hugo-markdown-render-hooks] {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} 렌더 후크라는 기능이 있습니다. 현재 일반적으로 요청되는 4개의 {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} 렌더링 영역을 지원합니다.
+
+- codeblock
+- heading
+- image
+- link
+
+다음은 {{% quote type="name" lang="en" %}}Hugo{{% /quote %}}의 {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} 링크를 렌더링하는 방법을 사용자 지정하는 다양한 방법입니다.
+
+[^hugo-markdown-render-hooks]: Hugo: [Markdown Render Hooks](https://gohugo.io/templates/render-hooks/ "Hugo: Markdown Render Hooks")
