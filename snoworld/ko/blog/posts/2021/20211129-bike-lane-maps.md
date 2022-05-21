@@ -2,7 +2,7 @@
 title = "업데이트된 자전거 도로 지도 및 위치"
 description = "커뮤니티 주도로 자주 업데이트되는 필리핀 자전거 지도"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2021-11-29T08:40:32+09:00"                                        # manually adjust to local timezone
+publishdate = "2021-11-29T08:40:32+09:00"                                        # manually adjust to local timezone
 lastmod = "2021-11-29T08:40:32+09:00"                                        # manually adjust to local timezone
 
 #aliases = [""]

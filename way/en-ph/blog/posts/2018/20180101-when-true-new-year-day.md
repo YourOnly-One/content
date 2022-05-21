@@ -2,7 +2,7 @@
 title = "When is the True New Year and Day"
 description = "New Year and new day. When does it really begin? Is it in the dead of winter? At 12:00 midnight? Sunset? Or maybe Spring at dawn? Let's find out!"  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2018-01-01T18:26:00+08:00"                          # manually adjust to local timezone
+publishdate = "2018-01-01T18:26:00+08:00"                          # manually adjust to local timezone
 lastmod = "2018-01-01T18:26:00+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2018/01/true-new-year-day.html"]

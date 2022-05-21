@@ -2,7 +2,7 @@
 title = "[画像]絶え間ない愛と男性について"
 description = "箴言 知恵の泉 20:6-7"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-03-16T02:22:39+09:00"
+publishdate = "2016-03-16T02:22:39+09:00"
 lastmod = "2016-03-16T02:22:39+09:00"
 
 #aliases = [""]

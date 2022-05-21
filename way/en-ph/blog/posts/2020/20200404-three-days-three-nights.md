@@ -2,8 +2,8 @@
 title = "Three Days and Three Nights in the Heart of the Earth"
 description = "Was Yahushua / Jesus literally 3 Days and 3 Nights in the Heart of the Earth?"  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2020-04-04T21:59:01+08:00"                          # manually adjust to local timezone
-#lastmod = "2020-04-04T21:59:01+08:00"                          # manually adjust to local timezone
+publishdate = "2020-04-04T21:59:01+08:00"                          # manually adjust to local timezone
+lastmod = "2022-05-03T13:07:19+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2020/04/three-days-three-nights.html"]
 slug = "Three Days and Three Nights in the Heart of the Earth"

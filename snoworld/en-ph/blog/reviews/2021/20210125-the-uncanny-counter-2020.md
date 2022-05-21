@@ -2,7 +2,7 @@
 title = "《The Uncanny Counter》 review"
 description = "A story about family, friendships, forgiveness, and second chances."	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-01-25T16:20:30+08:00"
+publishdate = "2021-01-25T16:20:30+08:00"
 lastmod = "2021-01-25T16:20:30+08:00"
 
 #aliases = [""]

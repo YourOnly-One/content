@@ -2,7 +2,7 @@
 title = "Joel Rosenberg's Lunch with President Arroyo"
 description = "Joel Rosenberg is currently here in the Philippines. Yesterday, he had lunch with President Gloria Macapagal-Arroyo, together with Filipino Pastor Peter."	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2010-01-19T21:30:49+08:00"									# manually adjust to local timezone
+publishdate = "2010-01-19T21:30:49+08:00"									# manually adjust to local timezone
 lastmod = "2010-01-19T21:30:49+08:00"                  # manually adjust to local timezone
 
 aliases = ["/2010/01/joel-rosenberg-lunch-president-arroyo.html"]

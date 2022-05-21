@@ -2,8 +2,8 @@
 title = "《今私たちの学校は》死んでいる"
 description = "Netflixの《今私たちの学校は》のシーズン2はありますか？ 《今私たちの学校は》で調べてください！"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2022-02-11T18:30:12+09:00"                                        # manually adjust to local timezone
-#lastmod = "2022-04-07T17:53:01+09:00"                                     # manually adjust to local timezone
+publishdate = "2022-02-11T18:30:12+09:00"                                        # manually adjust to local timezone
+lastmod = "2022-05-03T14:07:19+09:00"                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = "all-of-us-are-dead-explained"

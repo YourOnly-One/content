@@ -2,7 +2,7 @@
 title = "Job Complains"
 description = "Even as Christians/Messianics/Natsarim, we still complain to our Creator Father like Job did. But should we? In this short post, I am going to show you what happened when Job complained, how our Creator Father answered him, and if we are in a position to complain like Job did."  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-02-16T20:59:30+08:00"                          # manually adjust to local timezone
+publishdate = "2016-02-16T20:59:30+08:00"                          # manually adjust to local timezone
 lastmod = "2016-02-16T20:59:30+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2016/02/job-complains.html"]

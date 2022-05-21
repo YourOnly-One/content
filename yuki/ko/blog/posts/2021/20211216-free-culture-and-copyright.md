@@ -2,7 +2,7 @@
 title = "자유 문화는 저작권에 반하는가?"
 description = "자유 문화, 크리에이티브 커먼즈, 오픈 액세스는 저작권법에 위배됩니까?"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2021-12-16T10:21:27+09:00"                                        # manually adjust to local timezone
+publishdate = "2021-12-16T10:21:27+09:00"                                        # manually adjust to local timezone
 lastmod = "2021-12-16T10:21:27+09:00"                                        # manually adjust to local timezone
 
 #aliases = [""]

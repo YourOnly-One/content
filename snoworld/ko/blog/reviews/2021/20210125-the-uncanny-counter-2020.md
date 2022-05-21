@@ -2,7 +2,7 @@
 title = "《경이로운 소문》 비평"
 description = "가족, 우정, 용서 및 두 번째 기회에 대한 이야기."	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-01-25T17:20:30+09:00"
+publishdate = "2021-01-25T17:20:30+09:00"
 lastmod = "2021-01-25T17:20:30+09:00"
 
 #aliases = [""]

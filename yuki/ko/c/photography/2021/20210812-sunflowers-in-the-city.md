@@ -2,7 +2,7 @@
 title = "도시의 해바라기"
 description = "필리핀 마카티에서 해바라기에서 찍은 사진들"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-08-12T09:21:02+09:00"
+publishdate = "2021-08-12T09:21:02+09:00"
 lastmod = "2021-08-12T09:21:02+09:00"
 
 aliases = ["/ko/c/photography/sunflowers-in-the-city-2021224"]       # Permanent, old share links

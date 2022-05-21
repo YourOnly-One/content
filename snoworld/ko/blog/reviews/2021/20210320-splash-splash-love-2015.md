@@ -2,7 +2,7 @@
 title = "《퐁당퐁당 LOVE》 비평"
 description = "평생 잊지 못할 이야기" # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-03-20T12:10:37+09:00"
+publishdate = "2021-03-20T12:10:37+09:00"
 lastmod = "2021-03-20T12:10:37+09:00"
 
 #aliases = [""]

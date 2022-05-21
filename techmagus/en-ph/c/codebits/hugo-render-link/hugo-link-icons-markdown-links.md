@@ -2,8 +2,8 @@
 title = "How To Add Link Icons in Hugo Markdown Links"
 description = "How to add link icons for Markdown links in Hugo"
 
-date = "2022-05-20T19:24:27+08:00"                                          # manually adjust to local timezone
-#lastmod = "2022-05-19T04:33:00+00:00"                                       # manually adjust to local timezone
+publishdate = "2022-05-20T19:24:27+08:00"                                          # manually adjust to local timezone
+lastmod = "2022-05-20T19:24:27+08:00"                                       # manually adjust to local timezone
 
 #aliases = [""]
 slug = "how-to-add-link-icons-hugo-markdown-links"

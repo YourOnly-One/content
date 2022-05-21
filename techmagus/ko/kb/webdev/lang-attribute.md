@@ -2,7 +2,7 @@
 title = "LANG 속성"
 description = "LANG 속성은 웹사이트를 디자인할 때 강력한 코드 조각입니다. LANG 속성을 올바르게 사용하는 방법을 보여드리겠습니다."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2009-06-21T01:20:37+09:00"                                        # manually adjust to local timezone
+publishdate = "2009-06-21T01:20:37+09:00"                                        # manually adjust to local timezone
 lastmod = "2009-06-21T01:20:37+09:00"                                        # manually adjust to local timezone
 
 #aliases = [""]

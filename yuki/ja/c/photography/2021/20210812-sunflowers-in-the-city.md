@@ -2,7 +2,7 @@
 title = "市内のひまわり"
 description = "フィリピンのマカティでひまわりを撮った写真" # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-08-12T09:21:02+09:00"
+publishdate = "2021-08-12T09:21:02+09:00"
 lastmod = "2021-08-12T09:21:02+09:00"
 
 aliases = ["/ja/c/photography/sunflowers-in-the-city-2021224"]       # Permanent, old share links

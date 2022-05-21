@@ -2,7 +2,7 @@
 title = "How to Create a Keybase Account"
 description = "Creating a Keybase account is simple but there is one step most users are skipping …"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2020-06-08T08:53:42+08:00"                                        # manually adjust to local timezone
+publishdate = "2020-06-08T08:53:42+08:00"                                        # manually adjust to local timezone
 lastmod = "2020-06-08T08:53:42+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/2020/06/create-keybase-account.html"]

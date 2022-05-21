@@ -2,7 +2,7 @@
 title = "True Definition of Love"
 description = "What is love, exactly?"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-02-21T23:07:30+08:00"
+publishdate = "2016-02-21T23:07:30+08:00"
 lastmod = "2016-02-21T23:07:30+08:00"
 
 #aliases = [""]

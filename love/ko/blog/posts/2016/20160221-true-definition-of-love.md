@@ -2,7 +2,7 @@
 title = "사랑의 진정한 정의"
 description = "사랑이란 정확히 무엇입니까?" # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-02-22T00:07:30+09:00"
+publishdate = "2016-02-22T00:07:30+09:00"
 lastmod = "2016-02-22T00:07:30+09:00"
 
 aliases = ["/ko/true-definition-of-love-201652"]  # Permanent timezone

@@ -2,7 +2,7 @@
 title = "Sunflowers in the City"
 description = "Photos I took of the Sunflowers in Makati, Philippines"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-08-12T08:21:02+08:00"
+publishdate = "2021-08-12T08:21:02+08:00"
 lastmod = "2021-08-12T08:21:02+08:00"
 
 aliases = ["/c/photography/sunflowers-in-the-city-2021224"]       # Permanent, old share links

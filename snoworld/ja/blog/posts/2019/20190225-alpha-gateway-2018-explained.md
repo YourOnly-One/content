@@ -2,8 +2,8 @@
 title = "《アルファゲートウェイ》 パラレルワールドの説明"
 description = "《プレートゲートウェイ》のパラレルワールドで混乱していませんか？"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2019-02-25T17:06:21+09:00"
-#lastmod = "2019-02-25T17:06:21+09:00"
+publishdate = "2019-02-25T17:06:21+09:00"
+lastmod = "2022-05-14T17:32:55+09:00"
 
 #aliases = [""]
 slug = "Alpha Gateway (2018) Parallel Worlds Explained"

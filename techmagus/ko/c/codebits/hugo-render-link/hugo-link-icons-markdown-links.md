@@ -2,8 +2,8 @@
 title = "Hugo Markdown 링크에 링크 아이콘을 추가하는 방법"
 description = "Hugo에서 Markdown 링크에 대한 링크 아이콘을 추가하는 방법"
 
-date = "2022-05-20T20:24:27+09:00"                                          # manually adjust to local timezone
-#lastmod = "2022-05-19T04:33:00+00:00"                                       # manually adjust to local timezone
+publishdate = "2022-05-20T20:24:27+09:00"                                          # manually adjust to local timezone
+lastmod = "2022-05-20T20:24:27+09:00"                                       # manually adjust to local timezone
 
 #aliases = [""]
 slug = "how-to-add-link-icons-hugo-markdown-links"

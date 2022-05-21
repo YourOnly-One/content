@@ -2,7 +2,7 @@
 title = "(Updated) Activate and Use Baybayin in Gboard"
 description = "Step by step guide on how to activate and use Baybayin in Gboard for Android."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2019-08-01T07:26:20+08:00"                                        # manually adjust to local timezone
+publishdate = "2019-08-01T07:26:20+08:00"                                        # manually adjust to local timezone
 lastmod = "2019-08-01T07:26:20+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/2019/08/activate-baybayin-gboard.html"]

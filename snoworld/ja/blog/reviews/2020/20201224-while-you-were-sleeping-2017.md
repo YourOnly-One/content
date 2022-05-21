@@ -2,7 +2,7 @@
 title = "《あなたが寝ている間に》 批評"
 description = "2017年に公開された甘くて親しみやすいドラマ《あなたが寝ている掛け》のレビュー。"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2020-12-24T17:57:34+09:00"
+publishdate = "2020-12-24T17:57:34+09:00"
 lastmod = "2020-12-24T17:57:34+09:00"
 
 #aliases = [""]

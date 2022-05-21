@@ -2,8 +2,8 @@
 title = "퍼블릭 도메인의 파생물이 팬 픽션인가요?"
 description = "퍼블릭 도메인 저작물을 기반으로 한 파생 저작물은 팬픽이 아닙니다."	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2018-12-10T10:25:01+09:00"
-#lastmod = "2021-04-07T18:53:01+09:00"
+publishdate = "2018-12-10T10:25:01+09:00"
+lastmod = "2022-05-16T12:01:05+09:00"
 
 aliases = ["derivative-public-domain-fanfiction-202197"]
 slug = "derivative-public-domain-fan-fiction"

@@ -2,8 +2,8 @@
 title = "《All Of Us Are Dead》 Explained"
 description = "Will there be season 2 for Netflix's 《All Of Us Are Dead》? Find out in 《All Of Us Are Dead》 Explained!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2022-02-11T17:30:12+08:00"                                        # manually adjust to local timezone
-#lastmod = "2022-04-07T17:53:01+08:00"                                     # manually adjust to local timezone
+publishdate = "2022-02-11T17:30:12+08:00"                                        # manually adjust to local timezone
+lastmod = "2022-05-03T13:07:19+08:00"                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = "all-of-us-are-dead-explained"

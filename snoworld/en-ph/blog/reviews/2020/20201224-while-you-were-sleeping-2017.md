@@ -2,7 +2,7 @@
 title = "《While You Were Sleeping》 review"
 description = "A review of the sweet and relatable drama 《While You Were Sleeping》."	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2020-12-24T16:57:34+08:00"
+publishdate = "2020-12-24T16:57:34+08:00"
 lastmod = "2020-12-24T16:57:34+08:00"
 
 #aliases = [""]

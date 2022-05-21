@@ -2,7 +2,7 @@
 title = "Feast of Trumpets"
 description = "Today is 7th New Moon Day of the year 6003 Since Creation / Scriptural Calendar reckoning. It means today is also the Feast of Trumpets."  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-09-02T12:45:07+08:00"                          # manually adjust to local timezone
+publishdate = "2016-09-02T12:45:07+08:00"                          # manually adjust to local timezone
 lastmod = "2016-09-02T12:45:07+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2016/09/feast-trumpets-6003.html"]

@@ -2,8 +2,8 @@
 title = "4th Generation Modern P-pop (2020–2029)"
 description = "A list of Fourth Generation Pinoy Popular music acts with debut dates, fandom names, song samples, videos, and more!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2022-02-15T08:00:04+08:00"                                        # manually adjust to local timezone
-#lastmod = "2022-01-22T02:08:24+08:00"                                     # manually adjust to local timezone
+publishdate = "2022-02-15T08:00:04+08:00"                                        # manually adjust to local timezone
+lastmod = "2022-01-22T02:08:24+08:00"                                     # manually adjust to local timezone
 
 aliases = [""]
 slug = "ppop-4th-generation"

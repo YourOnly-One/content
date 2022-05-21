@@ -2,7 +2,7 @@
 title = "Bidirectional Test Case"
 description = "The bidirectional test case."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2015-07-29T09:09:57+08:00"                                        # manually adjust to local timezone
+publishdate = "2015-07-29T09:09:57+08:00"                                        # manually adjust to local timezone
 lastmod = "2017-02-25T17:53:01+08:00"                                     # manually adjust to local timezone
 
 aliases = ["/p/bidirectional-test-case.html"]

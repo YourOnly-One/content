@@ -2,8 +2,8 @@
 title = "P-POPとOPMの違いは何ですか？"
 description = "P-POPとOPMが同じではないことをご存知ですか？"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2022-02-27T19:35:00+09:00"                                        # manually adjust to local timezone
-#lastmod = "2022-04-07T17:53:01+09:00"                                     # manually adjust to local timezone
+publishdate = "2022-02-27T19:35:00+09:00"                                        # manually adjust to local timezone
+lastmod = "2022-05-14T17:32:55+09:00"                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = "difference-ppop-opm"

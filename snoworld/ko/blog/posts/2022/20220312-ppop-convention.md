@@ -2,8 +2,8 @@
 title = "(업데이트됨) 최초의 피이팝 컨벤션이 개최됩니다"
 description = "첫 번째 피이팝 컨벤션이 기대되나요?"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2022-03-12T14:08:45+09:00"                                        # manually adjust to local timezone
-#lastmod = "2022-04-07T17:53:01+09:00"                                     # manually adjust to local timezone
+publishdate = "2022-03-12T14:08:45+09:00"                                        # manually adjust to local timezone
+lastmod = "2022-05-14T17:32:55+09:00"                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = "ppop-convention"

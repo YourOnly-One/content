@@ -2,8 +2,8 @@
 title = "1st Generation Modern P-pop (1990–1999)"
 description = "A list of First Generation Pinoy Popular music acts with debut dates, fandom names, song samples, videos, and more!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2022-02-15T08:00:01+08:00"                                        # manually adjust to local timezone
-#lastmod = "2022-01-22T02:08:24+08:00"                                     # manually adjust to local timezone
+publishdate = "2022-02-15T08:00:01+08:00"                                        # manually adjust to local timezone
+lastmod = "2022-01-22T02:08:24+08:00"                                     # manually adjust to local timezone
 
 aliases = [""]
 slug = "ppop-1st-generation"

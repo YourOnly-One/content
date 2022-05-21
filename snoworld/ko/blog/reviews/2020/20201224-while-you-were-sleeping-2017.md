@@ -2,7 +2,7 @@
 title = "《당신이 잠든 사이에》 비평"
 description = "2017 년 공개 된 달콤하고 호감이가는 드라마 《당신이 잠든 사이에》리뷰."	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2020-12-24T17:57:34+09:00"
+publishdate = "2020-12-24T17:57:34+09:00"
 lastmod = "2020-12-24T17:57:34+09:00"
 
 #aliases = [""]

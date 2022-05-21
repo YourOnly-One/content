@@ -2,7 +2,7 @@
 title = "@font-face Browser Support Test Page"
 description = "Does your browser support CSS2 @font-face rule? You can test it here!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2010-01-22T15:37:00+08:00"                                        # manually adjust to local timezone
+publishdate = "2010-01-22T15:37:00+08:00"                                        # manually adjust to local timezone
 lastmod = "2010-01-22T15:37:00+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/p/font-face-test-page.html"]

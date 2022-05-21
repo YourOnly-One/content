@@ -2,8 +2,8 @@
 title = "1st Generation Modern K-pop (1992–2001)"
 description = "A list of First Generation Korean Popular music acts with debut dates, fandom names, song samples, videos, and more!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2022-01-12T08:00:01+08:00"                                        # manually adjust to local timezone
-#lastmod = "2022-01-22T02:08:24+08:00"                                     # manually adjust to local timezone
+publishdate = "2022-01-12T08:00:01+08:00"                                        # manually adjust to local timezone
+lastmod = "2022-05-14T16:32:55+08:00"                                     # manually adjust to local timezone
 
 aliases = ["kpop-1st-geneneration-202212"]
 slug = "kpop-1st-generation"

@@ -2,7 +2,7 @@
 title = "Philippines Unicode Keyboard Layout for Windows is Out!"
 description = "Philippines Unicode Keyboard Layout for Microsoft® Windows™ users is now available."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2010-10-25T21:10:37+08:00"                                        # manually adjust to local timezone
+publishdate = "2010-10-25T21:10:37+08:00"                                        # manually adjust to local timezone
 lastmod = "2018-03-20T17:53:01+08:00"                                     # manually adjust to local timezone
 
 aliases = ["/p/philippines-unicode-keyboard-windows.html", "/projects/keyboard/philippines-baybayin-windows-2010298"]

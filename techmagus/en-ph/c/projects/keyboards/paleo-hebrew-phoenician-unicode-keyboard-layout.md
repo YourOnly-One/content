@@ -2,7 +2,7 @@
 title = "Paleo-Hebrew / Phoenician Unicode Keyboard Layout"
 description = "The official page of the Paleo-Hebrew / Phoenician Unicode Keyboard Layout."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2015-07-19T21:48:00+08:00"                                        # manually adjust to local timezone
+publishdate = "2015-07-19T21:48:00+08:00"                                        # manually adjust to local timezone
 lastmod = "2016-09-11T10:04:05+08:00"                                     # manually adjust to local timezone
 
 aliases = ["/p/paleo-hebrew-phoenician-keyboard-layout.html", "/projects/keyboard/paleo-hebrew-phoenician-unicode-keyboard-2015200"]

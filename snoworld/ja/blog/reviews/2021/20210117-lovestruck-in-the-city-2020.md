@@ -2,7 +2,7 @@
 title = "《都会の男女の恋愛法》 批評"
 description = "楽しく、親しみやすく、レッスンがいっぱい"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-01-17T09:17:39+09:00"
+publishdate = "2021-01-17T09:17:39+09:00"
 lastmod = "2021-01-17T09:17:39+09:00"
 
 #aliases = [""]

@@ -2,7 +2,7 @@
 title = "Torrent Terminologies and Acronyms"
 description = "There are many abbreviations, acronyms, and terminologies being used in the Torrent world. Here are some and what it means."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2011-01-24T15:01:48+08:00"                                        # manually adjust to local timezone
+publishdate = "2011-01-24T15:01:48+08:00"                                        # manually adjust to local timezone
 lastmod = "2011-01-24T15:01:48+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/2011/01/torrent-terminologies-and-acronyms.html"]

@@ -2,8 +2,8 @@
 title = "Why we need to overhaul the Philippines education"
 description = "Changes needed in Philippine education"
 
-date = "2022-05-14T18:00:00+08:00"                                          # manually adjust to local timezone
-#lastmod = "2022-04-07T17:53:01+00:00"                                       # manually adjust to local timezone
+publishdate = "2022-05-14T18:00:00+08:00"                                          # manually adjust to local timezone
+lastmod = "2022-04-07T17:53:01+00:00"                                       # manually adjust to local timezone
 
 #aliases = [""]
 slug = ""

@@ -3,7 +3,7 @@ title = "더 킹: 영원의 군주 비평"
 description = "2020 년 최고의 한국 드라마 리뷰, 더 킹: 영원의 군주 The King: Eternal Monarch."													# IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
 summary = "2020 년 최고의 한국 드라마 리뷰, 더 킹: 영원의 군주 The King: Eternal Monarch."																											# for summary text in list displays
 
-date = "2021-01-25T00:17:10+09:00"
+publishdate = "2021-01-25T00:17:10+09:00"
 lastmod = "2021-01-25T00:17:10+09:00"
 
 aliases = ["더-킹-영원의-군주-the-king-eternal-monarch-2020-202124"] # Permanent timezone

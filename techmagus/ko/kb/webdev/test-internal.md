@@ -2,8 +2,8 @@
 title = "HANGUGEO: Internal test"
 description = "Internal test only"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2022-03-17T14:45:30+09:00"                                        # manually adjust to local timezone
-#lastmod = "2022-04-07T17:53:01+09:00"                                     # manually adjust to local timezone
+publishdate = "2022-03-17T14:45:30+09:00"                                        # manually adjust to local timezone
+lastmod = "2022-04-07T17:53:01+09:00"                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = ""

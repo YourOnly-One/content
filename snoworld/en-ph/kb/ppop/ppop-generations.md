@@ -2,8 +2,8 @@
 title = "P-pop Generations (DRAFT)"
 description = ""                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2022-03-15T17:22:21+08:00"                                        # manually adjust to local timezone
-#lastmod = "2022-04-07T17:53:01+08:00"                                     # manually adjust to local timezone
+publishdate = "2022-03-15T17:22:21+08:00"                                        # manually adjust to local timezone
+lastmod = "2022-04-07T17:53:01+08:00"                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = ""

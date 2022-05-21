@@ -2,8 +2,8 @@
 title = "（更新）《シーシュポス：The Myth》は論理的の説明しました"
 description = "《シーシュポス：The Myth》の結末に戸惑う？"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-04-10T22:12:21+09:00"
-#lastmod = "2021-04-10T22:12:21+09:00"
+publishdate = "2021-04-10T22:12:21+09:00"
+lastmod = "2022-05-03T14:07:19+09:00"                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = "시지프스 Sisyphus The Myth (2021) Explained Logically"

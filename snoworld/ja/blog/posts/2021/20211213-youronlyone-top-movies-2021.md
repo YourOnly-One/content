@@ -2,7 +2,7 @@
 title = "YourOnly.Oneトップ映画2021年"
 description = "YourOnly.Oneトップ10映画2021年"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2021-12-14T23:17:08+09:00"                                        # manually adjust to local timezone
+publishdate = "2021-12-14T23:17:08+09:00"                                        # manually adjust to local timezone
 lastmod = "2021-12-14T23:17:08+09:00"                                        # manually adjust to local timezone
 
 #aliases = [""]

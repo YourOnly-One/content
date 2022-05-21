@@ -2,7 +2,7 @@
 title = "[ビデオ]ロマンチック＆サプライズプロポーズレンディ＆マギー"
 description = "レンディからマギーへの非常にロマンチックで驚きのプロポーズ。"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-02-22T23:23:12+09:00"
+publishdate = "2016-02-22T23:23:12+09:00"
 lastmod = "2016-02-22T23:23:12+09:00"
 
 #aliases = [""]

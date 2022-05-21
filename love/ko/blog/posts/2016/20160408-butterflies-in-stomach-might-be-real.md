@@ -2,7 +2,7 @@
 title = "뱃속의 나비는 진짜 일 수 있습니다"
 description = "뱃속의 나비가 진짜입니까? 연구에 따른 것일 수 있습니다."	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-04-08T16:15:41+09:00"
+publishdate = "2016-04-08T16:15:41+09:00"
 lastmod = "2016-04-08T16:15:41+09:00"
 
 #aliases = [""]

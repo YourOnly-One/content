@@ -2,7 +2,7 @@
 title = "[How-To] IPv6 Is Not Scary!! Connect to Next-Gen Internet Now!"
 description = "IPv6 or Internet Protocol version 6 is the answer to our IPv4 problem. What problem? By 2011 or 2012 (according to estimates), there will be no more IPv4…"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2009-09-19T10:36:58+08:00"                                        # manually adjust to local timezone
+publishdate = "2009-09-19T10:36:58+08:00"                                        # manually adjust to local timezone
 lastmod = "2010-03-29T17:53:01+08:00"                                     # manually adjust to local timezone
 
 aliases = ["/2011/09/how-to-ipv6-is-not-scary-connect-now.html"]

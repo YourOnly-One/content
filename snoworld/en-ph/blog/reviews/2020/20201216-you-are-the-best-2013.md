@@ -2,7 +2,7 @@
 title = "《You Are The Best!》 review"
 description = "A review of 《최고다 이순신》"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2020-12-16T19:04:36+08:00"
+publishdate = "2020-12-16T19:04:36+08:00"
 lastmod = "2020-12-16T19:04:36+08:00"
 
 #aliases = [""]

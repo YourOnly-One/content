@@ -2,7 +2,7 @@
 title = "The 9th: You Shall Not Bear False Witness"
 description = "What is bearing false witness against our neighbor? Is it only applicable during times of court and interrogation witnessing, or it is applicable daily?"  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-09-08T12:14:42+08:00"                          # manually adjust to local timezone
+publishdate = "2016-09-08T12:14:42+08:00"                          # manually adjust to local timezone
 lastmod = "2016-09-08T12:14:42+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2016/09/the-9th-commandment.html"]

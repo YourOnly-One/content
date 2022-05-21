@@ -2,7 +2,7 @@
 title = "ヨーヨーは誇らしげにフィリピン人です"
 description = "《ヨーヨー》という言葉をご存知でしたか？モダンなデザインはフィリピン人によって発明されました。" # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-04-09T14:57:34+09:00"
+publishdate = "2021-04-09T14:57:34+09:00"
 lastmod = "2021-04-09T14:57:34+09:00"
 
 #aliases = [""]

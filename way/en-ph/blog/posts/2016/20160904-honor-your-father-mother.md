@@ -2,7 +2,7 @@
 title = "Honor Your Father and Your Mother"
 description = "The 5th Torah/Instruction commands us to honor our father and our mother. What is honor? How do we truly honor our parents?"  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-09-04T22:31:27+08:00"                          # manually adjust to local timezone
+publishdate = "2016-09-04T22:31:27+08:00"                          # manually adjust to local timezone
 lastmod = "2016-09-04T22:31:27+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2016/09/honor-father-mother.html"]

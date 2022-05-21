@@ -2,7 +2,7 @@
 title = "The LANG Attribute"
 description = "The LANG attribute is a powerful piece of code when designing websites. Let me show you how to correctly use the LANG attribute."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2009-06-21T00:20:37+08:00"                                        # manually adjust to local timezone
+publishdate = "2009-06-21T00:20:37+08:00"                                        # manually adjust to local timezone
 lastmod = "2009-06-21T00:20:37+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/2009/06/the-lang-attribute.html"]

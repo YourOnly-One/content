@@ -2,8 +2,8 @@
 title = "Most Coherent List of K-pop Generations"
 description = "An objective approach to Korean Popular Music Generations for bands, groups, and solo acts."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2022-01-18T07:00:00+08:00"                                        # manually adjust to local timezone
-#lastmod = "2022-01-18T07:00:00+08:00"                                        # manually adjust to local timezone
+publishdate = "2022-01-18T07:00:00+08:00"                                        # manually adjust to local timezone
+lastmod = "2022-05-14T16:32:55+08:00"                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = "kpop-generations"

@@ -2,8 +2,8 @@
 title = "《グリッド (그리드)》 の説明"
 description = "ディズニープラス 《グリッド (그리드)》 の説明"
 
-date = "2022-04-26T08:00:00+09:00"                                          # manually adjust to local timezone
-#lastmod = "2022-04-07T17:53:01+00:00"                                       # manually adjust to local timezone
+publishdate = "2022-04-26T08:00:00+09:00"                                          # manually adjust to local timezone
+lastmod = "2022-05-17T15:26:15+09:00"                                       # manually adjust to local timezone
 
 #aliases = [""]
 slug = "그리드-grid-explained"

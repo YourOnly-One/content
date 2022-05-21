@@ -2,8 +2,8 @@
 title = "（更新しました）最初のPPOPCONが起こっています"
 description = "最初のP-POPコンベンションに興奮していますか？"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2022-03-12T14:08:45+09:00"                                        # manually adjust to local timezone
-#lastmod = "2022-04-07T17:53:01+09:00"                                     # manually adjust to local timezone
+publishdate = "2022-03-12T14:08:45+09:00"                                        # manually adjust to local timezone
+lastmod = "2022-05-14T17:32:55+09:00"                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = "ppop-convention"

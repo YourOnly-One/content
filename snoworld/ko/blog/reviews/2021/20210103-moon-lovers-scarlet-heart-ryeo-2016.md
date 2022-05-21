@@ -3,7 +3,7 @@ title = "달의 연인 - 보보경심 려 비평"
 description = "2016 년 이후 가장 높은 평가를받은 한국 드라마 중 하나에 대한 리뷰, 달의 연인 - 보보경심 려 Moon Lovers: Scarlet Heart Ryeo."													# IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
 summary = "2016 년 이후 가장 높은 평가를받은 한국 드라마 중 하나에 대한 리뷰, 달의 연인 - 보보경심 려 Moon Lovers: Scarlet Heart Ryeo."																											# for summary text in list displays
 
-date = "2021-01-03T10:34:40+09:00"
+publishdate = "2021-01-03T10:34:40+09:00"
 lastmod = "2021-01-03T10:34:40+09:00"
 
 #aliases = [""]

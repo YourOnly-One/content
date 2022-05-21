@@ -2,7 +2,7 @@
 title = "Updated Bike Lane Maps and Where to Find Them"
 description = "Community-driven and frequently updated Bicycle Maps for the Philippines"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2021-11-29T07:40:32+08:00"                                        # manually adjust to local timezone
+publishdate = "2021-11-29T07:40:32+08:00"                                        # manually adjust to local timezone
 lastmod = "2021-11-29T07:40:32+08:00"                                        # manually adjust to local timezone
 
 #aliases = [""]

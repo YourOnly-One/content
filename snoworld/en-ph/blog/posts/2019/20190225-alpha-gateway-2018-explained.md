@@ -2,8 +2,8 @@
 title = "《Alpha Gateway》 Parallel Worlds Explained"
 description = "Confused on the parallel worlds of 《The Gateway》?"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2019-02-25T16:46:12+08:00"
-#lastmod = "2019-02-25T16:46:12+08:00"
+publishdate = "2019-02-25T16:46:12+08:00"
+lastmod = "2022-05-14T16:32:55+08:00"
 
 #aliases = [""]
 slug = "Alpha Gateway (2018) Parallel Worlds Explained"

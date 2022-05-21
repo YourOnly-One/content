@@ -2,7 +2,7 @@
 title = "[How-To] Integrate DISQUS on Blogger/BlogSpot Classic Template"
 description = "A short guide on how to integrate Disqus on Google Blogger / Blogspot websites. This tutorial is for those using the Classic Template."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2008-05-25T02:45:39+08:00"                                        # manually adjust to local timezone
+publishdate = "2008-05-25T02:45:39+08:00"                                        # manually adjust to local timezone
 lastmod = "2008-05-25T02:45:39+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/2008/05/how-to-integrate-disqus-on-blogger-blogs.html"]

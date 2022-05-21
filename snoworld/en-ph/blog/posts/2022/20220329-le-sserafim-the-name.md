@@ -2,8 +2,8 @@
 title = "What is in the name, Le Sserafim?"
 description = "The secret in the name Le Sserafim."
 
-date = "2022-03-29T22:34:32+08:00"                                          # manually adjust to local timezone
-#lastmod = "2022-04-07T17:53:01+00:00"                                       # manually adjust to local timezone
+publishdate = "2022-03-29T22:34:32+08:00"                                          # manually adjust to local timezone
+lastmod = "2022-05-17T14:26:15+08:00"                                       # manually adjust to local timezone
 
 #aliases = [""]
 slug = "le-sserafim-the-name"

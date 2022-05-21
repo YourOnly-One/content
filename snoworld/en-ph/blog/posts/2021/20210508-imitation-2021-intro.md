@@ -2,7 +2,7 @@
 title = "What K-Pop Idols Go Through According to 《Imitation》"
 description = "The road to becoming a K-Pop idol is not as easy as most assume."	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-05-08T13:54:00+08:00"
+publishdate = "2021-05-08T13:54:00+08:00"
 lastmod = "2021-05-08T13:54:00+08:00"
 
 #aliases = [""]

@@ -2,7 +2,7 @@
 title = "[동영상] 로맨틱 & 깜짝 결혼 제안 Rendy & Maggie"
 description = "Rendy to Maggie의 매우 낭만적이고 놀라운 결혼 제안."	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-02-22T23:23:12+09:00"
+publishdate = "2016-02-22T23:23:12+09:00"
 lastmod = "2016-02-22T23:23:12+09:00"
 
 #aliases = [""]

@@ -2,7 +2,7 @@
 title = "브라우저 전쟁 III: Blink 대 Gecko Quantum"
 description = "Browser Wars 3는 Chromium과 Firefox에 관한 것이 아닙니다. 세 번째 브라우저 전쟁은 Blink와 Gecko Quantum 간의 전쟁에 관한 것입니다."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2018-12-10T07:54:23+09:00"                                        # manually adjust to local timezone
+publishdate = "2018-12-10T07:54:23+09:00"                                        # manually adjust to local timezone
 lastmod = "2018-12-10T07:54:23+09:00"                                        # manually adjust to local timezone
 
 #aliases = [""]

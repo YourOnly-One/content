@@ -2,8 +2,8 @@
 title = "すべてのP-POPはアイドルであり、"
 description = "P-POPとidolsまたはP-idolという用語を解きほぐします。"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2022-03-10T12:24:30+09:00"                                        # manually adjust to local timezone
-#lastmod = "2022-04-07T14:25:55+09:00"                                     # manually adjust to local timezone
+publishdate = "2022-03-10T12:24:30+09:00"                                        # manually adjust to local timezone
+lastmod = "2022-05-14T17:32:55+09:00"                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = "ppop-versus-idols"

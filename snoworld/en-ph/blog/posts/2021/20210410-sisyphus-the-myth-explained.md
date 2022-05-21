@@ -2,8 +2,8 @@
 title = "(Updated) 《Sisyphus: The Myth》 Explained Logically"
 description = "Confused about the ending of 《Sisyphus: The Myth》?"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-04-10T21:12:21+08:00"
-#lastmod = "2021-04-10T21:12:21+08:00"
+publishdate = "2021-04-10T21:12:21+08:00"
+lastmod = "2022-05-03T13:07:19+08:00"                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = "시지프스 Sisyphus The Myth (2021) Explained Logically"

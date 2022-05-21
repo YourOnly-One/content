@@ -2,7 +2,7 @@
 title = "《Lovestruck in the City》 review"
 description = "Fun, Relatable, Full of Lessons"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-01-17T08:17:39+08:00"
+publishdate = "2021-01-17T08:17:39+08:00"
 lastmod = "2021-01-17T08:17:39+08:00"
 
 #aliases = [""]

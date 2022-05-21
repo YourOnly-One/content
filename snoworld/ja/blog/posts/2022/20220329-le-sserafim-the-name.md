@@ -2,8 +2,8 @@
 title = "ル セラフィムという名前には何が含まれていますか？"
 description = "ル セラフィムという名前の秘密。"
 
-date = "2022-03-29T23:34:32+09:00"                                          # manually adjust to local timezone
-#lastmod = "2022-04-07T17:53:01+00:00"                                       # manually adjust to local timezone
+publishdate = "2022-03-29T23:34:32+09:00"                                          # manually adjust to local timezone
+lastmod = "2022-05-17T15:26:15+09:00"                                       # manually adjust to local timezone
 
 #aliases = [""]
 slug = "le-sserafim-the-name"

@@ -2,7 +2,7 @@
 title = "ピディグの黄色い鐘"
 description = "イロコスノルテ州ピディグの美しいイエローベルの花。"  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-08-13T08:17:25+09:00"
+publishdate = "2021-08-13T08:17:25+09:00"
 lastmod = "2021-08-13T08:17:25+09:00"
 
 aliases = ["/ja/c/photography/the-yellow-bells-of-piddig-2021225"]       # Permanent, old share links

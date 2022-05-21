@@ -2,7 +2,7 @@
 title = "Should Christians Not Celebrate Christmas?"
 description = "This is a question many Christians ask every time Christmas arrives. There are two camps: those who say that we should and those who say we should not."	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2009-12-24T19:21:01+08:00"                 # manually adjust to local timezone
+publishdate = "2009-12-24T19:21:01+08:00"                 # manually adjust to local timezone
 lastmod = "2009-12-24T19:21:01+08:00"                 # manually adjust to local timezone
 
 aliases = ["2009/12/should-christians-not-celebrate-christmas.html"]
