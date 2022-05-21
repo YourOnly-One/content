@@ -14,9 +14,9 @@ relCanonical = "https://im.youronly.one/love/butterflies-in-stomach-might-be-rea
 
 #syndications = [""]
 
-channels = ["loverelationship"]
+channels = ["loverelationships"]
 categories = ["love"]														# taxonomy
-keywords = ["love", "relationship", "Love and Relationship", "YourOnlyOne", "YourOnly.One"]															# meta keywords
+keywords = ["love", "relationship", "Love and Relationships", "YourOnlyOne", "YourOnly.One"]															# meta keywords
 #series = [""]																# subset of series taxonomy
 tags = ["research"]																	# taxonomy
 

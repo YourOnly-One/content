@@ -12,9 +12,9 @@ relCanonical = "https://im.youronly.one/love/poems/song-of-songs-4-201663/"					
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["loverelationship"]
+channels = ["loverelationships"]
 categories = ["literature"]														# taxonomy
-keywords = ["verse", "bible verse", "poems", "poetry", "Love and Relationship", "YourOnlyOne", "YourOnly.One"]															# meta keywords
+keywords = ["verse", "bible verse", "poems", "poetry", "Love and Relationships", "YourOnlyOne", "YourOnly.One"]															# meta keywords
 #series = [""]																# subset of series taxonomy
 tags = ["poems"]																	# taxonomy
 

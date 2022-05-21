@@ -12,9 +12,9 @@ relCanonical = "https://im.youronly.one/love/romantic-surprise-marriage-proposal
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["loverelationship"]
+channels = ["loverelationships"]
 categories = ["love"]														# taxonomy
-keywords = ["love", "relationships", "proposals", "marriage", "Love and Relationship", "YourOnlyOne", "YourOnly.One"]															# meta keywords
+keywords = ["love", "relationships", "proposals", "marriage", "Love and Relationships", "YourOnlyOne", "YourOnly.One"]															# meta keywords
 #series = [""]																# subset of series taxonomy
 tags = ["videos", "marriageproposals"]																	# taxonomy
 
