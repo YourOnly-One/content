@@ -16,7 +16,7 @@ channels = ["techmagus"]
 categories = ["howto"]                                                   # taxonomy
 keywords = ["disqus", "how to", "comment system", "comments", "blogger", "blogspot", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
 #series = [""]                                                       # subset of series taxonomy
-tags = ["bloggercom"]                                                         # taxonomy
+tags = ["googleblogger"]                                                         # taxonomy
 
 comments = true
 #weight = ""                                                        # post weight, if we want granular control of post order
