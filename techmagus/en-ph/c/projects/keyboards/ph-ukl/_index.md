@@ -2,19 +2,21 @@
 title = "Philippines Unicode Keyboard Layout"
 description = "The official page of the Philippines Unicode Keyboard Layout for Linux and Windows."
 
-date = "2010-10-23T19:40:10+08:00"                                          # manually adjust to local timezone
-lastmod = "2018-03-20T17:53:01+08:00"                                       # manually adjust to local timezone
+#lastmod = "{{ .Date }}"                 # last update; manually adjust to local timezone
+#publishdate = "{{ .Date }}"             # first publication; manually adjust to local timezone
+#date = "{{ .Date }}"                    # first created; manually adjust to local timezone
+#expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
 
-aliases = ["/p/philippines-unicode-keyboard.html", "/projects/keyboard/philippines-baybayin-2010298"]
-#url = ""
+aliases = ["/p/philippines-unicode-keyboard.html", "/projects/keyboard/philippines-baybayin-2010298"]                                        # "/post"
+#url = ""                                              # "path/post"; override .Permalink
 #slug = ""
 translationKey = "section-ph-ukl"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
-#disqus_url = ""                                                    # no use case in sites by Yelosan Publishing (YourOnly.One)
-#disqus_identifier = ""                                             # set if slug date of this content is different from main translation (en-PH)
+#disqus_url = ""                                       # not used in sites by Yelosan Publishing
+#disquq_identifier = ""                                # set if date of this content is different from main translation
 
-#redirecto = ""
-#metarobots = "noindex"
+#redirectto = ""                                       # Yelosan Publishing: used in _index.md
+#metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
 #syndications = [""]
 
@@ -31,22 +33,25 @@ comments = false
 #math = true
 toc = true
 
-#audio = [""]                                                          # used for og:audio, etc.
+#audio = [""]
 images = ["https://2.bp.blogspot.com/-CPWwSnkvJ5o/TncoS0gmAkI/AAAAAAAAAVQ/t_XosFtEEl4/s1600/Philippines-Colemak%252520%252528Latin%252529.png", "https://1.bp.blogspot.com/_tG11xBRpOKo/TMUmw9zmCtI/AAAAAAAAAJE/qnhSrVJsjcE/s1600/Philippines-QWERTY%20(Baybayin).png", "https://3.bp.blogspot.com/_tG11xBRpOKo/TMV95mMEDwI/AAAAAAAAAJg/11Wq1l7qJR0/s1600/Philippines-QWERTY%20(Latin).png", "https://4.bp.blogspot.com/_tG11xBRpOKo/TMUmmdtDkYI/AAAAAAAAAIk/o9IQ2sYO4Rc/s1600/Philippines-Capewell-Dvorak%20(Baybayin).png", "https://2.bp.blogspot.com/-xChQTHhK6Iw/TncoSbPopxI/AAAAAAAAAVQ/dhuuLg7synY/s1600/Philippines-Capewell-Dvorak%252520%252528Latin%252529.png", "https://4.bp.blogspot.com/_tG11xBRpOKo/TMUmmvwm9TI/AAAAAAAAAIs/J_izftqK63A/s1600/Philippines-Capewell-QWERF%202006%20(Baybayin).png", "https://4.bp.blogspot.com/-tfoM8zo9sLE/TncoSZAlJeI/AAAAAAAAAVQ/2fxkt7XI4Ms/s1600/Philippines-Capewell-QWERF%2525202006%252520%252528Latin%252529.png", "https://1.bp.blogspot.com/_tG11xBRpOKo/TMUmsznBcHI/AAAAAAAAAI0/APWcSe3ke20/s1600/Philippines-Colemak%20(Baybayin).png"]                 # used for og:images, etc.; first image is cover image
-#videos = ["https://www.youtube.com/watch?v="]                         # used for og:video, etc.
+#videos = ["https://www.youtube.com/watch?v="]
+
+#type = ""                                             # article, sitepage, review
 
 #draft = true
 
-#license = ""                                                         # only set if the post license is not the same as the site license
+#license = ""                                          # only set if the post license is not the same as the site license
 
-# For /yuki/ choose one and remove everything else
+#### AUTHOR: TECHMAGUS ####
 [[authors]]
   person = "yuki"
   #id = ""
   name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  #name = "techmagus / ハイテク マギ / 테크 마구스"
   url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
-  #rel = "noopener external nofollow"
+  #rel = "noopener"
 +++
 
 Welcome to the official page for the **Ubuntu Philippines LoCo Team** project **Philippines Unicode Keyboard Layout**. Everything that has to do with the PH-UKL project will be posted here, from How-To's to downloading to installing and setting up your machine so you can start using the keyboard layout.

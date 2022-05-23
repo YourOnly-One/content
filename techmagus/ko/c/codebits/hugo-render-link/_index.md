@@ -2,19 +2,21 @@
 title = "Hugo: Markdown 링크 사용자 지정"
 description = "Hugo Markdown 링크에 상호 참조 지원, 링크 아이콘 등을 추가하는 방법."
 
-date = "2022-05-15T12:23:48+09:00"                           # manually adjust to local timezone
-#lastmod = "2022-04-07T17:53:01+08:00"                        # manually adjust to local timezone
+#lastmod = "{{ .Date }}"                 # last update; manually adjust to local timezone
+#publishdate = "{{ .Date }}"             # first publication; manually adjust to local timezone
+#date = "{{ .Date }}"                    # first created; manually adjust to local timezone
+#expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
 
-aliases = ["/ko/codebits/how-to-customize-markdown-links-hugo-2022135"]
-#url = ""                            # to override .Permalink
+aliases = ["/ko/codebits/how-to-customize-markdown-links-hugo-2022135"]                                        # "/post"
+#url = ""                                              # "path/post"; override .Permalink
 #slug = ""
 translationKey = "section-hugo-markdown-links"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
-#disqus_url = ""                     # not used in sites by Yelosan Publishing
-#disquq_identifier = ""              # set if date of this content is different from main translation
+#disqus_url = ""                                       # not used in sites by Yelosan Publishing
+#disquq_identifier = ""                                # set if date of this content is different from main translation
 
-#redirecto = ""                      # Yelosan Publishing: used in _index.md
-#metarobots = "noindex"              # Yelosan Publishing: used in _index.md
+#redirectto = ""                                       # Yelosan Publishing: used in _index.md
+#metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
 syndications = ["https://twitter.com/YourOnlyONEofcl/status/1525681466302246912", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/657387235430510", "https://diasp.org/posts/f23d3ae0b62f013a6afb28a1592b385a", "https://mastodon.social/web/@youronlyone/108303915231124593"]
 
@@ -31,24 +33,25 @@ comments = false
 #math = true
 toc = true
 
-#audio = [""]                        # used for og:audio, etc.
+#audio = [""]
 images = ["https://img.youronly.one/h/hugo-markdown-link-render.webp"]                 # used for og:images, etc.; first image is cover image
-#videos = ["https://www.youtube.com/watch?v="]                       # used for og:video, etc.
+#videos = ["https://www.youtube.com/watch?v="]
 
-#type = ""                           # article, sitepage, review
+#type = ""                                             # article, sitepage, review
 
 #draft = true
 
-#license = ""                        # only set if the post license is not the same as the site license
+#license = ""                                          # only set if the post license is not the same as the site license
 
-# For /yuki/ choose one and remove everything else
+#### AUTHOR: TECHMAGUS ####
 [[authors]]
   person = "yuki"
   #id = ""
   name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  #name = "techmagus / ハイテク マギ / 테크 마구스"
   url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
-  #rel = "noopener external nofollow"
+  #rel = "noopener"
 +++
 
 {{% quote type="name" lang="en" %}}Hugo{{% /quote %}}에서 {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} 링크가 렌더링되는 방식을 사용자 정의하는 방법을 찾고 계십니까? 링크 아이콘을 추가하고 싶습니까? 또는 (이전 방법) `{{</* ref */>}}`를 사용하지 않고 내부 상호 참조에 대한 지원을 추가하는 것은 어떻습니까?

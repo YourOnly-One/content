@@ -2,19 +2,21 @@
 title = "Hugo：Markdown リンクをカスタマイズする"
 description = "Hugo Markdownリンクに相互参照サポート、リンクアイコンなどを追加する方法。"
 
-date = "2022-05-15T12:23:48+09:00"                           # manually adjust to local timezone
-#lastmod = "2022-04-07T17:53:01+08:00"                        # manually adjust to local timezone
+#lastmod = "{{ .Date }}"                 # last update; manually adjust to local timezone
+#publishdate = "{{ .Date }}"             # first publication; manually adjust to local timezone
+#date = "{{ .Date }}"                    # first created; manually adjust to local timezone
+#expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
 
-aliases = ["/ja/codebits/how-to-customize-markdown-links-hugo-2022135"]
-#url = ""                            # to override .Permalink
+aliases = ["/ja/codebits/how-to-customize-markdown-links-hugo-2022135"]                                        # "/post"
+#url = ""                                              # "path/post"; override .Permalink
 #slug = ""
 translationKey = "section-hugo-markdown-links"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
-#disqus_url = ""                     # not used in sites by Yelosan Publishing
-#disquq_identifier = ""              # set if date of this content is different from main translation
+#disqus_url = ""                                       # not used in sites by Yelosan Publishing
+#disquq_identifier = ""                                # set if date of this content is different from main translation
 
-#redirecto = ""                      # Yelosan Publishing: used in _index.md
-#metarobots = "noindex"              # Yelosan Publishing: used in _index.md
+#redirectto = ""                                       # Yelosan Publishing: used in _index.md
+#metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
 syndications = ["https://twitter.com/YourOnlyONEofcl/status/1525681466302246912", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/657387235430510", "https://diasp.org/posts/f23d3ae0b62f013a6afb28a1592b385a", "https://mastodon.social/web/@youronlyone/108303915231124593"]
 
@@ -31,24 +33,25 @@ comments = false
 #math = true
 toc = true
 
-#audio = [""]                        # used for og:audio, etc.
+#audio = [""]
 images = ["https://img.youronly.one/h/hugo-markdown-link-render.webp"]                 # used for og:images, etc.; first image is cover image
-#videos = ["https://www.youtube.com/watch?v="]                       # used for og:video, etc.
+#videos = ["https://www.youtube.com/watch?v="]
 
-#type = ""                           # article, sitepage, review
+#type = ""                                             # article, sitepage, review
 
 #draft = true
 
-#license = ""                        # only set if the post license is not the same as the site license
+#license = ""                                          # only set if the post license is not the same as the site license
 
-# For /yuki/ choose one and remove everything else
+#### AUTHOR: TECHMAGUS ####
 [[authors]]
   person = "yuki"
   #id = ""
   name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  #name = "techmagus / ハイテク マギ / 테크 마구스"
   url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
-  #rel = "noopener external nofollow"
+  #rel = "noopener"
 +++
 
 {{% quote type="name" lang="en" %}}Hugo{{% /quote %}}での{{% quote type="name" lang="en" %}}Markdown{{% /quote %}}リンクのレンダリング方法をカスタマイズする方法をお探しですか？ リンクアイコンを追加したいですか？ または、（古い方法） `{{</* ref */>}}`を使用せずに内部相互参照のサポートを追加するのはどうですか？
