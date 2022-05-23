@@ -84,8 +84,6 @@ type = "article"                                                             # a
 
     - **時空は相対的です。** アルバート・アインシュタインが彼の*特殊相対性理論*で説明したように、時間（より正確には時空）は観察者または人に相対的です。
 
-[^paper-time]: [Emery, Nina, Ned Markosian, and Meghan Sullivan, "Time", The Stanford Encyclopedia of Philosophy (Winter 2020 Edition), Edward N. Zalta (ed.)](https://plato.stanford.edu/archives/win2020/entries/time/)
-
 1. **タイムトラベラーは、出発地と相対時間を超えて旅行することはできません。** これはルール＃1の結果です。 これは、後で遭遇する非常に重要なルールです。
 
     - **出発時刻を超えて旅行することはできません。** これは、<q>グリッド（<bdi lang="ko">그리드</bdi>）</q>の世界が成長するブロック宇宙理論に基づいているためです。 未来はまだ実現していません。
@@ -224,6 +222,8 @@ type = "article"                                                             # a
 1. **固定小数点。** 固定された時点は、イベントまたは瞬間が常に発生する比喩です。 不動点は変更できますが、誰もが計算できる以上の悲惨な結果をもたらします。
 
     例としては、クォン・スクウン博士（セハの父）、イ・チャンヒョク（用務員、キム・マノクの継父）、クォン/キム・セハの死があります。
+
+[^paper-time]: [Emery, Nina, Ned Markosian, and Meghan Sullivan, "Time", The Stanford Encyclopedia of Philosophy (Winter 2020 Edition), Edward N. Zalta (ed.)](https://plato.stanford.edu/archives/win2020/entries/time/)
 
 ### 現実
 

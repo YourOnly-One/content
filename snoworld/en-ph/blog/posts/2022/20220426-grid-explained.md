@@ -82,8 +82,6 @@ Before we begin we need to be on the same page on how to approach the questions 
 
     - **Spacetime is relative.** As explained by Albert Einstein in his *Special Theory of Relativity*, time (or more accurately, spacetime) is relative to the observer or the person.
 
-[^paper-time]: [Emery, Nina, Ned Markosian, and Meghan Sullivan, "Time", The Stanford Encyclopedia of Philosophy (Winter 2020 Edition), Edward N. Zalta (ed.)](https://plato.stanford.edu/archives/win2020/entries/time/)
-
 1. **Time travelers can not travel beyond their origin and relative times.** This is the result of rule #1. This is a very important rule which we will encounter later.
 
     - **Travel beyond one's origin time is not possible.** This is because the world of <q>Grid (<bdi lang="ko">그리드</bdi>)</q> is based on the Growing Block Universe Theory. The future is yet to come into existence.
@@ -222,6 +220,8 @@ Before we begin we need to be on the same page on how to approach the questions 
 1. **Fixed point in time.** A fixed point in time is a trope wherein an event, or a moment, will always happen. A fixed point can be changed but with dire consequences beyond anyone can ever calculate.
 
     Examples are the deaths of Doctor Kwon Suk Eun (father of Sae Ha), Lee Jang Hyeok (janitor; stepfather of Kim Ma Nok), and Kwon/Kim Sae Ha.
+
+[^paper-time]: [Emery, Nina, Ned Markosian, and Meghan Sullivan, "Time", The Stanford Encyclopedia of Philosophy (Winter 2020 Edition), Edward N. Zalta (ed.)](https://plato.stanford.edu/archives/win2020/entries/time/)
 
 ### Realities
 

@@ -84,8 +84,6 @@ type = "article"                                                             # a
 
     - **시공간은 상대적입니다.** 알버트 아인슈타인(알버트 아인슈타인)이 그의 *특수 상대성 이론*에서 설명했듯이, 시간(또는 더 정확하게는 시공간)은 관찰자 또는 사람에 상대적입니다.
 
-[^paper-time]: [Emery, Nina, Ned Markosian, and Meghan Sullivan, "Time", The Stanford Encyclopedia of Philosophy (Winter 2020 Edition), Edward N. Zalta (ed.)](https://plato.stanford.edu/archives/win2020/entries/time/)
-
 1. **시간 여행자는 출발지와 상대 시간을 넘어 여행할 수 없습니다.** 이것은 규칙 #1의 결과입니다. 이것은 우리가 나중에 보게 될 매우 중요한 규칙입니다.
 
     - **출발 시간을 초과한 여행은 불가능합니다.** 그 이유는 <q>그리드</q>의 세계가 성장하는 블록 우주 이론에 기반을 두고 있기 때문입니다. 미래는 아직 존재하지 않습니다.
@@ -224,6 +222,8 @@ type = "article"                                                             # a
 1. **고정 시점.** 고정된 시점은 사건 또는 순간이 항상 발생하는 비유입니다. 고정 소수점은 변경할 수 있지만 누구도 계산할 수 없는 끔찍한 결과를 초래합니다.
 
     권석은 박사(세하의 아버지), 이장혁(관리인, 김만녹의 계부), 권/김새하의 죽음이 그 예이다.
+
+[^paper-time]: [Emery, Nina, Ned Markosian, and Meghan Sullivan, "Time", The Stanford Encyclopedia of Philosophy (Winter 2020 Edition), Edward N. Zalta (ed.)](https://plato.stanford.edu/archives/win2020/entries/time/)
 
 ### 현실
 
