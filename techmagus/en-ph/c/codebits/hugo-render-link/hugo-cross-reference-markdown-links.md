@@ -3,7 +3,7 @@ title = "How To Add Cross Reference in Hugo Markdown Links"
 description = "How to add cross reference support for Markdown links in Hugo"
 
 publishdate = "2022-05-20T19:24:27+08:00"                                          # manually adjust to local timezone
-lastmod = "2022-05-20T19:24:27+08:00"                                       # manually adjust to local timezone
+lastmod = "2022-05-27T19:27:50+08:00"                                       # manually adjust to local timezone
 
 #aliases = [""]
 slug = "how-to-add-cross-reference-hugo-markdown-links"
@@ -65,73 +65,146 @@ Internal cross references in {{% quote type="name" lang="en" %}}Hugo{{% /quote %
   - {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} link text and title support
   - With URI fragment support
 
+## What's new
+
+These are what's new as of 2022-05-27.
+
+- `[text](./path/to/content/)`
+- `[text.ext](./path/to/file.ext)`
+- reorganized the [How To Use](#how-to-use) section
+
 ## Steps
 
 1. Create a file called `render-link.html` in this directory `/layouts/_default/_markup/`
 1. Add the code below:
 
     ```go-html-template
-    {{- $url := (urls.Parse .Destination) -}}
-    {{- $internal := site.GetPage .Destination -}}
+    {{- $baseurl := urls.Parse site.BaseURL -}}
+    {{- $url := urls.Parse .Destination -}}
+    {{- $getpage := site.GetPage .Destination -}}
+    {{- $internal := lt (len $url.Host) 1 -}} {{/* NOTE: internal links will always have an empty $url.Host */}}
+
     {{- $fragment := $url.Fragment -}}
     {{- with $fragment -}}{{ $fragment = printf "#%s" $fragment }}{{- end -}}
-    {{- $destination := printf "%s%s" (or $internal.RelPermalink .Destination) $fragment -}}
-    <a href="{{ $destination | safeURL }}"{{ with or .Title $internal.LinkTitle .Text }} title="{{ . }}"{{ end }}{{ if not $internal }} rel="noopener external"{{ end }}>{{ or .Text .Title $internal.LinkTitle | safeHTML }}</a>
+
+    {{- $destination := "" -}}
+    {{- if $internal -}}
+      {{- if (strings.HasPrefix $url.Path "./") -}}
+        {{/* NOTE: for links starting with ./ */}}
+        {{- $destination = printf "%s%s%s" $baseurl.Host $url $fragment | replaceRE "\\.(.*)" "$1" -}}
+      {{- else -}}
+        {{/* NOTE: for internal links */}}
+        {{- $destination = printf "%s%s" $getpage.RelPermalink $fragment -}}
+      {{- end -}}
+    {{- else -}}
+      {{- $destination = .Destination -}}
+    {{- end -}}
+
+    <a href="{{ $destination | safeURL }}"{{ with or .Title $getpage.LinkTitle .Text }} title="{{ . }}"{{ end }}{{ if not $internal }} rel="noopener external"{{ end }}>{{ or .Text .Title $getpage.LinkTitle | safeHTML }}</a>
     ```
 
 That's it.
 
 ## How to use
 
-The following {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} links
+### Traditional
 
-  ```markdown {linenos=false}
-  - [](20181210-browser-wars-iii.md#browser-wars-iii-front-browser-engine)
-  - [](/20181210-browser-wars-iii.md#browser-wars-iii-front-browser-engine)
-  - [](20181210-browser-wars-iii)
-  - [](/20181210-browser-wars-iii)
-  - [With text](20181210-browser-wars-iii)
-  - [](20181210-browser-wars-iii "With title")
-  - [With text, title, and fragment](20181210-browser-wars-iii.md#browser-wars-iii-front-browser-engine "With text, title, and fragment")
-  ```
+```markdown
+- [https://example.com/#fragment](https://example.com/#fragment "https://example.com/#fragment")
+- [direct](https://im.youronly.one/techmagus/browser-wars-3-blink-gecko-2018344/ "Title")
+- [direct with #fragment](https://im.youronly.one/techmagus/browser-wars-3-blink-gecko-2018344/#fragment "Title")
+- [#fragment only](#fragment)
+```
 
-Will render in `en-ph` as:
+- [https://example.com/#fragment](https://example.com/#fragment "https://example.com/#fragment")
+- [direct](https://im.youronly.one/techmagus/browser-wars-3-blink-gecko-2018344/ "Title")
+- [direct with #fragment](https://im.youronly.one/techmagus/browser-wars-3-blink-gecko-2018344/#fragment "Title")
+- [#fragment only](#fragment)
 
-- [](20181210-browser-wars-iii.md#browser-wars-iii-front-browser-engine)
-- [](/20181210-browser-wars-iii.md#browser-wars-iii-front-browser-engine)
+### New
+
+#### Special
+
+The `[text](./path/to/content/)` format is useful when you want to create a link to another part of your website, under the same (sub)-domain but not part of the current {{% quote type="name" lang="en" %}}Hugo{{% /quote %}} project. This format will not generate an external link icon if the [](hugo-link-icons-markdown-links.md) is also installed.
+
+The `[text.ext](./path/to/file.ext)` is useful for download links hosted under the same (sub)-domain, within or external relative to the current {{% quote type="name" lang="en" %}}Hugo{{% /quote %}} project.
+
+```markdown
+- [send a gift](./p/gift/)
+- [link-icons.7z](./techmagus/dls/link-icons.7z)
+```
+
+- [send a gift](./p/gift/)
+- [link-icons.7z](./techmagus/dls/link-icons.7z)
+
+#### Without a file extension
+
+```markdown
 - [](20181210-browser-wars-iii)
 - [](/20181210-browser-wars-iii)
-- [With text](20181210-browser-wars-iii)
-- [](20181210-browser-wars-iii "With title")
-- [With text, title, and fragment](20181210-browser-wars-iii.md#browser-wars-iii-front-browser-engine "With text, title, and fragment")
-
-### Caveats
-
-Currently have no support for the following formats:
-
-```markdown {linenos=false}
-- [](20181210-browser-wars-iii#browser-wars-iii-front-browser-engine)
-- [](/20181210-browser-wars-iii#browser-wars-iii-front-browser-engine)
-- [](ja/20181210-browser-wars-iii#browser-wars-iii-front-browser-engine)
-- [](/ko/20181210-browser-wars-iii#browser-wars-iii-front-browser-engine)
+- [](20181210-browser-wars-iii "Title")
+- [](/20181210-browser-wars-iii "Title")
+- [Text](20181210-browser-wars-iii)
+- [Text](/20181210-browser-wars-iii)
+- [Text](20181210-browser-wars-iii "Title")
+- [Text](/20181210-browser-wars-iii "Title")
 ```
 
-It renders without the link title, and with [link icons](hugo-link-icons-markdown-links.md), the link is incorrect.
+- [](20181210-browser-wars-iii)
+- [](/20181210-browser-wars-iii)
+- [](20181210-browser-wars-iii "Title")
+- [](/20181210-browser-wars-iii "Title")
+- [Text](20181210-browser-wars-iii)
+- [Text](/20181210-browser-wars-iii)
+- [Text](20181210-browser-wars-iii "Title")
+- [Text](/20181210-browser-wars-iii "Title")
 
-- [](20181210-browser-wars-iii#browser-wars-iii-front-browser-engine)
-- [](/20181210-browser-wars-iii#browser-wars-iii-front-browser-engine)
-- [](ja/20181210-browser-wars-iii#browser-wars-iii-front-browser-engine)
-- [](/ko/20181210-browser-wars-iii#browser-wars-iii-front-browser-engine)
+#### With file extension
 
-Use the generated permalink instead, like so (the prefix `/` is important):
-
-```markdown {linenos=false}
-- [Browser Wars III Front: Browser Engine](/browser-wars-3-blink-gecko-2018344#browser-wars-iii-front-browser-engine)
+```markdown
+- [](20181210-browser-wars-iii.md#fragment)
+- [](/20181210-browser-wars-iii.md#fragment)
+- [](20181210-browser-wars-iii.md#fragment "Title")
+- [](/20181210-browser-wars-iii.md#fragment "Title")
+- [Text#fragment](20181210-browser-wars-iii.md#fragment)
+- [Text#fragment](/20181210-browser-wars-iii.md#fragment)
+- [Text#fragment](20181210-browser-wars-iii.md#fragment "Title")
+- [Text#fragment](/20181210-browser-wars-iii.md#fragment "Title")
 ```
 
-Will render as:
+- [](20181210-browser-wars-iii.md#fragment)
+- [](/20181210-browser-wars-iii.md#fragment)
+- [](20181210-browser-wars-iii.md#fragment "Title")
+- [](/20181210-browser-wars-iii.md#fragment "Title")
+- [Text#fragment](20181210-browser-wars-iii.md#fragment)
+- [Text#fragment](/20181210-browser-wars-iii.md#fragment)
+- [Text#fragment](20181210-browser-wars-iii.md#fragment "Title")
+- [Text#fragment](/20181210-browser-wars-iii.md#fragment "Title")
 
-- [Browser Wars III Front: Browser Engine](/browser-wars-3-blink-gecko-2018344#browser-wars-iii-front-browser-engine)
+### Not supported
+
+Internal linking without a file extension and with a `#fragment` produces a wrong link.
+
+```markdown
+- [](20181210-browser-wars-iii#fragment)
+- [](/20181210-browser-wars-iii#fragment)
+- [](20181210-browser-wars-iii#fragment "Title")
+- [](/20181210-browser-wars-iii#fragment "Title")
+- [Text#fragment](20181210-browser-wars-iii#fragment)
+- [Text#fragment](/20181210-browser-wars-iii#fragment)
+- [Text#fragment](20181210-browser-wars-iii#fragment "Title")
+- [Text#fragment](/20181210-browser-wars-iii#fragment "Title")
+```
+
+Also take note of the following formats.
+
+```markdown
+- [link-icons.7z](/dls/link-icons.7z)
+- [link-icons.7z](../../dls/link-icons.7z)
+- [link-icons.7z](./dls/link-icons.7z)
+```
+
+Instead of the above, use `[text](./path/to/file.ext)` like so `[link-icons.7z](./techmagus/dls/link-icons.7z)` will render as: [link-icons.7z](./techmagus/dls/link-icons.7z)
 
 ## Improve it
 

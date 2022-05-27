@@ -3,7 +3,7 @@ title = "Hugo Markdownリンクにリンクアイコンを追加する方法"
 description = "HugoでMarkdownリンクのリンクアイコンを追加する方法"
 
 publishdate = "2022-05-20T20:24:27+09:00"                                          # manually adjust to local timezone
-lastmod = "2022-05-20T20:24:27+09:00"                                       # manually adjust to local timezone
+lastmod = "2022-05-27T20:28:28+08:00"                                       # manually adjust to local timezone
 
 #aliases = [""]
 slug = "how-to-add-link-icons-hugo-markdown-links"
@@ -64,6 +64,13 @@ type = "article"                                                             # a
   - 内部{{% quote type="name" lang="en" %}}Markdown{{% /quote %}}リンクのサポート付き
 - [](hugo-cross-reference-markdown-links.md)の機能
 
+## 新着情報
+
+これらは、2022年5月27日現在の新機能です。
+
+- 同じ（サブ）ドメインに外部アイコンがなくなりました。
+- オーディオ、ビデオ、フォント、ディスクイメージ、ドキュメント、プレゼンテーション、スプレッドシートなど、より多くの外部リンクのサポート！
+
 ## 手順
 
 リンクアイコンを追加するには、以下の手順に従います。
@@ -72,14 +79,23 @@ type = "article"                                                             # a
 1. このコードをコピーして貼り付けます。
 
     ```go-html-template
-    {{- $url := (urls.Parse .Destination) -}}
-    {{- $internal := site.GetPage .Destination -}}
+    {{- $baseurl := urls.Parse site.BaseURL -}}
+    {{- $url := urls.Parse .Destination -}}
+    {{- $getpage := site.GetPage .Destination -}}
+    {{- $internal := lt (len $url.Host) 1 -}} {{/* NOTE: internal links will always have an empty $url.Host */}}
 
     {{- $fragment := $url.Fragment -}}
     {{- with $fragment -}}{{ $fragment = printf "#%s" $fragment }}{{- end -}}
+
     {{- $destination := "" -}}
     {{- if $internal -}}
-      {{- $destination = printf "%s%s" (or $internal.RelPermalink .Destination) $fragment -}}
+      {{- if (strings.HasPrefix $url.Path "./") -}}
+        {{/* NOTE: for links starting with ./ */}}
+        {{- $destination = printf "%s%s%s" $baseurl.Host $url $fragment | replaceRE "\\.(.*)" "$1" -}}
+      {{- else -}}
+        {{/* NOTE: for internal links */}}
+        {{- $destination = printf "%s%s" $getpage.RelPermalink $fragment -}}
+      {{- end -}}
     {{- else -}}
       {{- $destination = .Destination -}}
     {{- end -}}
@@ -140,9 +156,9 @@ type = "article"                                                             # a
       {{- else if $diskimage -}}{{ $icon = "diskimage" }}
       {{- else if $imagediting -}}{{ $icon = "imagediting" }}
 
-      {{- else if not $internal -}}{{ $icon = "external" }}
+      {{- else if and (not $internal) (ne $url.Host $baseurl.Host) -}}{{ $icon = "external" }}
     {{- end -}}
-    <a href="{{ $destination | safeURL }}"{{ with or .Title $internal.LinkTitle .Text }} title="{{ . }}"{{ end }}{{ with $icon }} class="icon_{{ . }}"{{ end }}{{ if not $internal }} rel="noopener external"{{ end }}>{{ or .Text .Title $internal.Title | safeHTML }}</a>
+    <a href="{{ $destination | safeURL }}"{{ with or .Title $getpage.LinkTitle .Text }} title="{{ . }}"{{ end }}{{ with $icon }} class="icon_{{ . }}"{{ end }}{{ if not $internal }} rel="noopener external"{{ end }}>{{ or .Text .Title $getpage.LinkTitle | safeHTML }}</a>
     ```
 
 1. スタイルシートファイルに次を追加します。
@@ -189,7 +205,7 @@ type = "article"                                                             # a
     ********************/
     ```
 
-1. `.svg`アイコンをダウンロードします：[link-icons.7z](/dls/link-icons.7z)
+1. `.svg`アイコンをダウンロードします：[link-icons.7z](./techmagus/dls/link-icons.7z)
 
     - ソース（すべてパブリックドメイン）：
       - プレゼンテーション：[warszawianka](https://openclipart.org/artist/warszawianka)による[tango x office presentation](https://openclipart.org/detail/36505/tango-x-office-presentation)

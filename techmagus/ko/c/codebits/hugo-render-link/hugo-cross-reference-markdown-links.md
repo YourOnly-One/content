@@ -3,7 +3,7 @@ title = "Hugo Markdown 링크에 상호 참조를 추가하는 방법"
 description = "Hugo에서 Markdown 링크에 대한 상호 참조 지원을 추가하는 방법"
 
 publishdate = "2022-05-20T20:24:27+09:00"                                          # manually adjust to local timezone
-lastmod = "2022-05-20T20:24:27+09:00"                                       # manually adjust to local timezone
+lastmod = "2022-05-27T20:27:50+09:00"                                       # manually adjust to local timezone
 
 #aliases = [""]
 slug = "how-to-add-cross-reference-hugo-markdown-links"
@@ -47,7 +47,7 @@ type = "article"                                                             # a
   #rel = "noopener"
 +++
 
-{{% quote type="name" lang="en" %}}Hugo{{% /quote %}}의 덜 일반적으로 사용되는 기능 중 하나는 렌더 후크입니다. 이 게시물에서는 렌더 후크를 사용하여 {{% quote type="name" lang="en" %}}Markdown{{% /quote %}}의 기본 링크 생성 방식인 `[text](https://example.com#fragment "Title")`에 내부 상호 참조 지원을 추가할 것입니다.
+{{% quote type="name" lang="en" %}}Hugo{{% /quote %}}의 덜 일반적으로 사용되는 기능 중 하나는 렌더 후크입니다. 이 게시물에서는 렌더 후크를 사용하여 {{% quote type="name" lang="en" %}}Markdown{{% /quote %}}의 기본 링크 생성 방식인 `[텍스트](https://example.com#fragment "제목")`에 내부 상호 참조 지원을 추가할 것입니다.
 
 <!--more-->
 
@@ -65,73 +65,146 @@ type = "article"                                                             # a
   - {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} 링크 텍스트 및 제목 지원
   - URI 조각 지원
 
+## 새로운 소식
+
+2022년 5월 27일자로 변경된 사항입니다.
+
+- `[텍스트](./path/to/content/)`
+- `[text.ext](./path/to/file.ext)`
+- [사용하는 방법](#how-to-use) 섹션을 재구성했습니다.
+
 ## 단계
 
 1. 이 디렉토리 `/layouts/_default/_markup/`에 `render-link.html`이라는 파일을 만듭니다.
 1. 아래 코드를 추가하세요.
 
     ```go-html-template
-    {{- $url := (urls.Parse .Destination) -}}
-    {{- $internal := site.GetPage .Destination -}}
+    {{- $baseurl := urls.Parse site.BaseURL -}}
+    {{- $url := urls.Parse .Destination -}}
+    {{- $getpage := site.GetPage .Destination -}}
+    {{- $internal := lt (len $url.Host) 1 -}} {{/* NOTE: internal links will always have an empty $url.Host */}}
+
     {{- $fragment := $url.Fragment -}}
     {{- with $fragment -}}{{ $fragment = printf "#%s" $fragment }}{{- end -}}
-    {{- $destination := printf "%s%s" (or $internal.RelPermalink .Destination) $fragment -}}
-    <a href="{{ $destination | safeURL }}"{{ with or .Title $internal.LinkTitle .Text }} title="{{ . }}"{{ end }}{{ if not $internal }} rel="noopener external"{{ end }}>{{ or .Text .Title $internal.LinkTitle | safeHTML }}</a>
+
+    {{- $destination := "" -}}
+    {{- if $internal -}}
+      {{- if (strings.HasPrefix $url.Path "./") -}}
+        {{/* NOTE: for links starting with ./ */}}
+        {{- $destination = printf "%s%s%s" $baseurl.Host $url $fragment | replaceRE "\\.(.*)" "$1" -}}
+      {{- else -}}
+        {{/* NOTE: for internal links */}}
+        {{- $destination = printf "%s%s" $getpage.RelPermalink $fragment -}}
+      {{- end -}}
+    {{- else -}}
+      {{- $destination = .Destination -}}
+    {{- end -}}
+
+    <a href="{{ $destination | safeURL }}"{{ with or .Title $getpage.LinkTitle .Text }} title="{{ . }}"{{ end }}{{ if not $internal }} rel="noopener external"{{ end }}>{{ or .Text .Title $getpage.LinkTitle | safeHTML }}</a>
     ```
 
 그게 다야
 
-## 사용하는 방법
+## 사용하는 방법 {#how-to-use}
 
-다음 {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} 링크
+### 전통적인
 
-  ```markdown {linenos=false}
-  - [](20181210-browser-wars-iii.md#browser-wars-iii-front-browser-engine)
-  - [](/20181210-browser-wars-iii.md#browser-wars-iii-front-browser-engine)
-  - [](20181210-browser-wars-iii)
-  - [](/20181210-browser-wars-iii)
-  - [With text](20181210-browser-wars-iii)
-  - [](20181210-browser-wars-iii "With title")
-  - [With text, title, and fragment](20181210-browser-wars-iii.md#browser-wars-iii-front-browser-engine "With text, title, and fragment")
-  ```
+```markdown
+- [https://example.com/#fragment](https://example.com/#fragment "https://example.com/#fragment")
+- [직접](https://im.youronly.one/techmagus/browser-wars-3-blink-gecko-2018344/ "제목")
+- [#fragment로 직접](https://im.youronly.one/techmagus/browser-wars-3-blink-gecko-2018344/#fragment "제목")
+- [#조각만](#fragment)
+```
 
-`ko`에서 다음과 같이 렌더링됩니다.
+- [https://example.com/#fragment](https://example.com/#fragment "https://example.com/#fragment")
+- [직접](https://im.youronly.one/techmagus/browser-wars-3-blink-gecko-2018344/ "제목")
+- [#fragment로 직접](https://im.youronly.one/techmagus/browser-wars-3-blink-gecko-2018344/#fragment "제목")
+- [#조각만](#fragment)
 
-- [](20181210-browser-wars-iii.md#browser-wars-iii-front-browser-engine)
-- [](/20181210-browser-wars-iii.md#browser-wars-iii-front-browser-engine)
+### 새로운
+
+#### 특별한
+
+`[text](./path/to/content/)` 형식은 현재 {{% quote type="name" lang="en" %}}Hugo{{% /quote %}}의 일부가 아닌 동일한 (하위) 도메인 아래 웹사이트의 다른 부분에 대한 링크를 생성하려는 경우에 유용합니다. 프로젝트. 이 형식은 [](hugo-link-icons-markdown-links.md)도 설치된 경우 외부 링크 아이콘을 생성하지 않습니다.
+
+`[text.ext](./path/to/file.ext)`는 현재 {{% quote type="name" lang="en" %}}Hugo{{% /quote %}} 프로젝트 내부 또는 외부에서 동일한 (하위) 도메인에서 호스팅되는 다운로드 링크에 유용합니다.
+
+```markdown
+- [선물을 보내다](./p/gift/)
+- [link-icons.7z](./techmagus/dls/link-icons.7z)
+```
+
+- [선물을 보내다](./p/gift/)
+- [link-icons.7z](./techmagus/dls/link-icons.7z)
+
+#### 파일 확장자 없이
+
+```markdown
 - [](20181210-browser-wars-iii)
 - [](/20181210-browser-wars-iii)
-- [With text](20181210-browser-wars-iii)
-- [](20181210-browser-wars-iii "With title")
-- [With text, title, and fragment](20181210-browser-wars-iii.md#browser-wars-iii-front-browser-engine "With text, title, and fragment")
-
-### 주의 사항
-
-현재 다음 형식을 지원하지 않습니다.
-
-```markdown {linenos=false}
-- [](20181210-browser-wars-iii#browser-wars-iii-front-browser-engine)
-- [](/20181210-browser-wars-iii#browser-wars-iii-front-browser-engine)
-- [](ja/20181210-browser-wars-iii#browser-wars-iii-front-browser-engine)
-- [](/ko/20181210-browser-wars-iii#browser-wars-iii-front-browser-engine)
+- [](20181210-browser-wars-iii "제목")
+- [](/20181210-browser-wars-iii "제목")
+- [텍스트](20181210-browser-wars-iii)
+- [텍스트](/20181210-browser-wars-iii)
+- [텍스트](20181210-browser-wars-iii "제목")
+- [텍스트](/20181210-browser-wars-iii "제목")
 ```
 
-링크 제목 없이 렌더링되고 [링크 아이콘](hugo-link-icons-markdown-links.md)이 있는 경우 링크가 올바르지 않습니다.
+- [](20181210-browser-wars-iii)
+- [](/20181210-browser-wars-iii)
+- [](20181210-browser-wars-iii "제목")
+- [](/20181210-browser-wars-iii "제목")
+- [텍스트](20181210-browser-wars-iii)
+- [텍스트](/20181210-browser-wars-iii)
+- [텍스트](20181210-browser-wars-iii "제목")
+- [텍스트](/20181210-browser-wars-iii "제목")
 
-- [](20181210-browser-wars-iii#browser-wars-iii-front-browser-engine)
-- [](/20181210-browser-wars-iii#browser-wars-iii-front-browser-engine)
-- [](ja/20181210-browser-wars-iii#browser-wars-iii-front-browser-engine)
-- [](/ko/20181210-browser-wars-iii#browser-wars-iii-front-browser-engine)
+#### 파일 확장자로
 
-다음과 같이 생성된 영구 링크를 대신 사용하세요(접두사 `/`가 중요).
-
-```markdown {linenos=false}
-- [브라우저 전쟁 III: Blink 대 Gecko Quantum](/browser-wars-3-blink-gecko-2018344#browser-wars-iii-front-browser-engine)
+```markdown
+- [](20181210-browser-wars-iii.md#fragment)
+- [](/20181210-browser-wars-iii.md#fragment)
+- [](20181210-browser-wars-iii.md#fragment "제목")
+- [](/20181210-browser-wars-iii.md#fragment "제목")
+- [텍스트#조각](20181210-browser-wars-iii.md#fragment)
+- [텍스트#조각](/20181210-browser-wars-iii.md#fragment)
+- [텍스트#조각](20181210-browser-wars-iii.md#fragment "제목")
+- [텍스트#조각](/20181210-browser-wars-iii.md#fragment "제목")
 ```
 
-다음과 같이 렌더링됩니다.
+- [](20181210-browser-wars-iii.md#fragment)
+- [](/20181210-browser-wars-iii.md#fragment)
+- [](20181210-browser-wars-iii.md#fragment "제목")
+- [](/20181210-browser-wars-iii.md#fragment "제목")
+- [텍스트#조각](20181210-browser-wars-iii.md#fragment)
+- [텍스트#조각](/20181210-browser-wars-iii.md#fragment)
+- [텍스트#조각](20181210-browser-wars-iii.md#fragment "제목")
+- [텍스트#조각](/20181210-browser-wars-iii.md#fragment "제목")
 
-- [브라우저 전쟁 III: Blink 대 Gecko Quantum](/browser-wars-3-blink-gecko-2018344#browser-wars-iii-front-browser-engine)
+### 지원되지 않음
+
+파일 확장자가 없고 `#fragment`가 있는 내부 링크는 잘못된 링크를 생성합니다.
+
+```markdown
+- [](20181210-browser-wars-iii#fragment)
+- [](/20181210-browser-wars-iii#fragment)
+- [](20181210-browser-wars-iii#fragment "제목")
+- [](/20181210-browser-wars-iii#fragment "제목")
+- [텍스트#조각](20181210-browser-wars-iii#fragment)
+- [텍스트#조각](/20181210-browser-wars-iii#fragment)
+- [텍스트#조각](20181210-browser-wars-iii#fragment "제목")
+- [텍스트#조각](/20181210-browser-wars-iii#fragment "제목")
+```
+
+또한 다음 형식에 유의하십시오.
+
+```markdown
+- [link-icons.7z](/dls/link-icons.7z)
+- [link-icons.7z](../../dls/link-icons.7z)
+- [link-icons.7z](./dls/link-icons.7z)
+```
+
+위 대신 `[텍스트](./path/to/file.ext)`를 사용하면 `[link-icons.7z](./techmagus/dls/link-icons.7z)`가 다음과 같이 렌더링됩니다. [link-icons.7z](./techmagus/dls/link-icons.7z)
 
 ## 개선
 

@@ -3,7 +3,7 @@ title = "Hugo Markdownリンクに相互参照を追加する方法"
 description = "HugoでMarkdownリンクの相互参照サポートを追加する方法"
 
 publishdate = "2022-05-20T20:24:27+09:00"                                          # manually adjust to local timezone
-lastmod = "2022-05-20T20:24:27+09:00"                                       # manually adjust to local timezone
+lastmod = "2022-05-27T20:27:50+09:00"                                       # manually adjust to local timezone
 
 #aliases = [""]
 slug = "how-to-add-cross-reference-hugo-markdown-links"
@@ -47,7 +47,7 @@ type = "article"                                                             # a
   #rel = "noopener"
 +++
 
-{{% quote type="name" lang="en" %}}Hugo{{% /quote %}}であまり使用されない機能の1つは、レンダリングフックです。 この投稿では、レンダリングフックを使用して、リンクを作成する{{% quote type="name" lang="en" %}}Markdown{{% /quote %}}のデフォルトの方法である `[text](https://example.com#fragment "Title")`に内部相互参照サポートを追加します。
+{{% quote type="name" lang="en" %}}Hugo{{% /quote %}}であまり使用されない機能の1つは、レンダリングフックです。 この投稿では、レンダリングフックを使用して、リンクを作成する{{% quote type="name" lang="en" %}}Markdown{{% /quote %}}のデフォルトの方法である `[文章](https://example.com#fragment "題名")`に内部相互参照サポートを追加します。
 
 <!--more-->
 
@@ -65,73 +65,146 @@ type = "article"                                                             # a
   - {{% quote type="name" lang="en" %}}Markdown{{% /quote %}}リンクのテキストとタイトルのサポート
   - URIフラグメントのサポートあり
 
+## 新着情報
+
+これらは、2022年5月27日現在の新機能です。
+
+- `[文章](./path/to/content/)`
+- `[text.ext](./path/to/file.ext)`
+- [使い方](#how-to-use)セクションを再編成
+
 ## 手順
 
 1. このディレクトリに`render-link.html`というファイルを作成します`/layouts/_default/_markup/`
 1. 以下のコードを追加します。
 
     ```go-html-template
-    {{- $url := (urls.Parse .Destination) -}}
-    {{- $internal := site.GetPage .Destination -}}
+    {{- $baseurl := urls.Parse site.BaseURL -}}
+    {{- $url := urls.Parse .Destination -}}
+    {{- $getpage := site.GetPage .Destination -}}
+    {{- $internal := lt (len $url.Host) 1 -}} {{/* NOTE: internal links will always have an empty $url.Host */}}
+
     {{- $fragment := $url.Fragment -}}
     {{- with $fragment -}}{{ $fragment = printf "#%s" $fragment }}{{- end -}}
-    {{- $destination := printf "%s%s" (or $internal.RelPermalink .Destination) $fragment -}}
-    <a href="{{ $destination | safeURL }}"{{ with or .Title $internal.LinkTitle .Text }} title="{{ . }}"{{ end }}{{ if not $internal }} rel="noopener external"{{ end }}>{{ or .Text .Title $internal.LinkTitle | safeHTML }}</a>
+
+    {{- $destination := "" -}}
+    {{- if $internal -}}
+      {{- if (strings.HasPrefix $url.Path "./") -}}
+        {{/* NOTE: for links starting with ./ */}}
+        {{- $destination = printf "%s%s%s" $baseurl.Host $url $fragment | replaceRE "\\.(.*)" "$1" -}}
+      {{- else -}}
+        {{/* NOTE: for internal links */}}
+        {{- $destination = printf "%s%s" $getpage.RelPermalink $fragment -}}
+      {{- end -}}
+    {{- else -}}
+      {{- $destination = .Destination -}}
+    {{- end -}}
+
+    <a href="{{ $destination | safeURL }}"{{ with or .Title $getpage.LinkTitle .Text }} title="{{ . }}"{{ end }}{{ if not $internal }} rel="noopener external"{{ end }}>{{ or .Text .Title $getpage.LinkTitle | safeHTML }}</a>
     ```
 
 それでおしまい。
 
-## 使い方
+## 使い方 {#how-to-use}
 
-次の{{% quote type="name" lang="en" %}}Markdown{{% /quote %}}リンク
+### 伝統的
 
-  ```markdown {linenos=false}
-  - [](20181210-browser-wars-iii.md#browser-wars-iii-front-browser-engine)
-  - [](/20181210-browser-wars-iii.md#browser-wars-iii-front-browser-engine)
-  - [](20181210-browser-wars-iii)
-  - [](/20181210-browser-wars-iii)
-  - [With text](20181210-browser-wars-iii)
-  - [](20181210-browser-wars-iii "With title")
-  - [With text, title, and fragment](20181210-browser-wars-iii.md#browser-wars-iii-front-browser-engine "With text, title, and fragment")
-  ```
+```markdown
+- [https://example.com/#fragment](https://example.com/#fragment "https://example.com/#fragment")
+- [直接](https://im.youronly.one/techmagus/browser-wars-3-blink-gecko-2018344/ "題名")
+- [#fragmentで直接](https://im.youronly.one/techmagus/browser-wars-3-blink-gecko-2018344/#fragment "題名")
+- [＃フラグメントのみ](#fragment)
+```
 
-`ja`で次のようにレンダリングされます：
+- [https://example.com/#fragment](https://example.com/#fragment "https://example.com/#fragment")
+- [直接](https://im.youronly.one/techmagus/browser-wars-3-blink-gecko-2018344/ "題名")
+- [#fragmentで直接](https://im.youronly.one/techmagus/browser-wars-3-blink-gecko-2018344/#fragment "題名")
+- [＃フラグメントのみ](#fragment)
 
-- [](20181210-browser-wars-iii.md#browser-wars-iii-front-browser-engine)
-- [](/20181210-browser-wars-iii.md#browser-wars-iii-front-browser-engine)
+### 新しい
+
+#### 特別な
+
+`[text](./path/to/content/)`形式は、現在の{{% quote type="name" lang="en" %}}Hugo{{% /quote %}}の一部ではなく、同じ（サブ）ドメインの下で、Webサイトの別の部分へのリンクを作成する場合に役立ちます。 事業。 [](hugo-link-icons-markdown-links.md)もインストールされている場合、この形式では外部リンクアイコンは生成されません。
+
+`[text.ext](./path/to/file.ext)`は、現在の{{% quote type="name" lang="en" %}}Hugo{{% /quote %}}プロジェクトの内部または外部の同じ（サブ）ドメインでホストされているダウンロードリンクに役立ちます。
+
+```markdown
+- [贈り物を送る](./p/gift/)
+- [link-icons.7z](./techmagus/dls/link-icons.7z)
+```
+
+- [贈り物を送る](./p/gift/)
+- [link-icons.7z](./techmagus/dls/link-icons.7z)
+
+#### ファイル拡張子なし
+
+```markdown
 - [](20181210-browser-wars-iii)
 - [](/20181210-browser-wars-iii)
-- [With text](20181210-browser-wars-iii)
-- [](20181210-browser-wars-iii "With title")
-- [With text, title, and fragment](20181210-browser-wars-iii.md#browser-wars-iii-front-browser-engine "With text, title, and fragment")
-
-### 警告
-
-現在、次の形式はサポートされていません。
-
-```markdown {linenos=false}
-- [](20181210-browser-wars-iii#browser-wars-iii-front-browser-engine)
-- [](/20181210-browser-wars-iii#browser-wars-iii-front-browser-engine)
-- [](ja/20181210-browser-wars-iii#browser-wars-iii-front-browser-engine)
-- [](/ko/20181210-browser-wars-iii#browser-wars-iii-front-browser-engine)
+- [](20181210-browser-wars-iii "題名")
+- [](/20181210-browser-wars-iii "題名")
+- [文章](20181210-browser-wars-iii)
+- [文章](/20181210-browser-wars-iii)
+- [文章](20181210-browser-wars-iii "題名")
+- [文章](/20181210-browser-wars-iii "題名")
 ```
 
-リンクタイトルなしでレンダリングされ、[リンクアイコン](hugo-link-icons-markdown-links.md)を使用すると、リンクが正しくありません。
+- [](20181210-browser-wars-iii)
+- [](/20181210-browser-wars-iii)
+- [](20181210-browser-wars-iii "題名")
+- [](/20181210-browser-wars-iii "題名")
+- [文章](20181210-browser-wars-iii)
+- [文章](/20181210-browser-wars-iii)
+- [文章](20181210-browser-wars-iii "題名")
+- [文章](/20181210-browser-wars-iii "題名")
 
-- [](20181210-browser-wars-iii#browser-wars-iii-front-browser-engine)
-- [](/20181210-browser-wars-iii#browser-wars-iii-front-browser-engine)
-- [](ja/20181210-browser-wars-iii#browser-wars-iii-front-browser-engine)
-- [](/ko/20181210-browser-wars-iii#browser-wars-iii-front-browser-engine)
+#### ファイル拡張子付き
 
-代わりに、生成されたパーマリンクを次のように使用します（プレフィックス `/`が重要です）：
-
-```markdown {linenos=false}
-- [Browser Wars III：Blink vs Gecko Quantum](/browser-wars-3-blink-gecko-2018344#browser-wars-iii-front-browser-engine)
+```markdown
+- [](20181210-browser-wars-iii.md#fragment)
+- [](/20181210-browser-wars-iii.md#fragment)
+- [](20181210-browser-wars-iii.md#fragment "題名")
+- [](/20181210-browser-wars-iii.md#fragment "題名")
+- [Text＃fragment](20181210-browser-wars-iii.md#fragment)
+- [Text＃fragment](/20181210-browser-wars-iii.md#fragment)
+- [Text＃fragment](20181210-browser-wars-iii.md#fragment "題名")
+- [Text＃fragment](/20181210-browser-wars-iii.md#fragment "題名")
 ```
 
-次のようにレンダリングされます：
+- [](20181210-browser-wars-iii.md#fragment)
+- [](/20181210-browser-wars-iii.md#fragment)
+- [](20181210-browser-wars-iii.md#fragment "題名")
+- [](/20181210-browser-wars-iii.md#fragment "題名")
+- [Text＃fragment](20181210-browser-wars-iii.md#fragment)
+- [Text＃fragment](/20181210-browser-wars-iii.md#fragment)
+- [Text＃fragment](20181210-browser-wars-iii.md#fragment "題名")
+- [Text＃fragment](/20181210-browser-wars-iii.md#fragment "題名")
 
-- [Browser Wars III：Blink vs Gecko Quantum](/browser-wars-3-blink-gecko-2018344#browser-wars-iii-front-browser-engine)
+### サポートされていません
+
+ファイル拡張子がなく、 `＃fragment`を使用した内部リンクでは、間違ったリンクが生成されます。
+
+```markdown
+- [](20181210-browser-wars-iii#fragment)
+- [](/20181210-browser-wars-iii#fragment)
+- [](20181210-browser-wars-iii#fragment "題名")
+- [](/20181210-browser-wars-iii#fragment "題名")
+- [Text＃fragment](20181210-browser-wars-iii#fragment)
+- [Text＃fragment](/20181210-browser-wars-iii#fragment)
+- [Text＃fragment](20181210-browser-wars-iii#fragment "題名")
+- [Text＃fragment](/20181210-browser-wars-iii#fragment "題名")
+```
+
+次の形式にも注意してください。
+
+```markdown
+- [link-icons.7z](/dls/link-icons.7z)
+- [link-icons.7z](../../dls/link-icons.7z)
+- [link-icons.7z](./dls/link-icons.7z)
+```
+
+上記の代わりに、 `[文章](./path/to/file.ext)`を次のように使用します。`[link-icons.7z](./techmagus/dls/link-icons.7z)`は次のようにレンダリングされます。 [link-icons.7z](./techmagus/dls/link-icons.7z)
 
 ## それを改善
 

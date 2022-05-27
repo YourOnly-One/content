@@ -3,7 +3,7 @@ title = "Hugo Markdown 링크에 링크 아이콘을 추가하는 방법"
 description = "Hugo에서 Markdown 링크에 대한 링크 아이콘을 추가하는 방법"
 
 publishdate = "2022-05-20T20:24:27+09:00"                                          # manually adjust to local timezone
-lastmod = "2022-05-20T20:24:27+09:00"                                       # manually adjust to local timezone
+lastmod = "2022-05-27T20:28:28+08:00"                                       # manually adjust to local timezone
 
 #aliases = [""]
 slug = "how-to-add-link-icons-hugo-markdown-links"
@@ -64,6 +64,13 @@ type = "article"                                                             # a
   - 내부 {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} 링크 지원
 - [](hugo-cross-reference-markdown-links.md)의 기능
 
+## 새로운 소식
+
+2022년 5월 27일자로 변경된 사항입니다.
+
+- 동일한(하위) 도메인에는 더 이상 외부 아이콘이 없습니다.
+- 오디오, 비디오, 글꼴, 디스크 이미지, 문서, 프레젠테이션, 스프레드시트 등과 같은 더 많은 외부 링크 지원!
+
 ## 단계
 
 링크 아이콘을 추가하려면 다음 단계를 따르세요.
@@ -72,14 +79,23 @@ type = "article"                                                             # a
 1. 이 코드를 복사하여 붙여넣습니다.
 
     ```go-html-template
-    {{- $url := (urls.Parse .Destination) -}}
-    {{- $internal := site.GetPage .Destination -}}
+    {{- $baseurl := urls.Parse site.BaseURL -}}
+    {{- $url := urls.Parse .Destination -}}
+    {{- $getpage := site.GetPage .Destination -}}
+    {{- $internal := lt (len $url.Host) 1 -}} {{/* NOTE: internal links will always have an empty $url.Host */}}
 
     {{- $fragment := $url.Fragment -}}
     {{- with $fragment -}}{{ $fragment = printf "#%s" $fragment }}{{- end -}}
+
     {{- $destination := "" -}}
     {{- if $internal -}}
-      {{- $destination = printf "%s%s" (or $internal.RelPermalink .Destination) $fragment -}}
+      {{- if (strings.HasPrefix $url.Path "./") -}}
+        {{/* NOTE: for links starting with ./ */}}
+        {{- $destination = printf "%s%s%s" $baseurl.Host $url $fragment | replaceRE "\\.(.*)" "$1" -}}
+      {{- else -}}
+        {{/* NOTE: for internal links */}}
+        {{- $destination = printf "%s%s" $getpage.RelPermalink $fragment -}}
+      {{- end -}}
     {{- else -}}
       {{- $destination = .Destination -}}
     {{- end -}}
@@ -140,9 +156,9 @@ type = "article"                                                             # a
       {{- else if $diskimage -}}{{ $icon = "diskimage" }}
       {{- else if $imagediting -}}{{ $icon = "imagediting" }}
 
-      {{- else if not $internal -}}{{ $icon = "external" }}
+      {{- else if and (not $internal) (ne $url.Host $baseurl.Host) -}}{{ $icon = "external" }}
     {{- end -}}
-    <a href="{{ $destination | safeURL }}"{{ with or .Title $internal.LinkTitle .Text }} title="{{ . }}"{{ end }}{{ with $icon }} class="icon_{{ . }}"{{ end }}{{ if not $internal }} rel="noopener external"{{ end }}>{{ or .Text .Title $internal.Title | safeHTML }}</a>
+    <a href="{{ $destination | safeURL }}"{{ with or .Title $getpage.LinkTitle .Text }} title="{{ . }}"{{ end }}{{ with $icon }} class="icon_{{ . }}"{{ end }}{{ if not $internal }} rel="noopener external"{{ end }}>{{ or .Text .Title $getpage.LinkTitle | safeHTML }}</a>
     ```
 
 1. 스타일시트 파일에 다음을 추가합니다.
