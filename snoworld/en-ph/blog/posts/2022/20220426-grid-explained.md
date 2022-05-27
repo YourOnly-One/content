@@ -976,7 +976,7 @@ This answer was provided by [@27Aprile](https://mydramalist.com/690687-zero#comm
 
 ## Class dismissed
 
-Time travel cadets, as for your assignment be sure to share this article in your social media accounts and online groups. Or, support my efforts by [sending a gift](https://im.youronly.one/p/gift/).
+Time travel cadets, as for your assignment be sure to share this article in your social media accounts and online groups. Or, support my efforts by [sending a gift](./p/gift/).
 
 If you have additional questions or not-so-violent reactions, you can also leave a comment below.
 
