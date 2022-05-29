@@ -47,7 +47,7 @@ type = "article"                                                             # a
   #rel = "noopener"
 +++
 
-One of the less commonly used feature of {{% quote type="name" lang="en" %}}Hugo{{% /quote %}} is render hooks. In this post, we are going to use render hooks to add internal cross reference support to {{% quote type="name" lang="en" %}}Markdown{{% /quote %}}'s default way of creatings links: `[text](https://example.com#fragment "Title")`.
+One of the less commonly used feature of {{% quote type="name" lang="en" %}}Hugo{{% /quote %}} is render hooks. In this post, we are going to use render hooks to add internal cross reference support to {{% quote type="name" lang="en" %}}Markdown{{% /quote %}}'s default way of creating links: `[text](https://example.com#fragment "Title")`.
 
 <!--more-->
 
