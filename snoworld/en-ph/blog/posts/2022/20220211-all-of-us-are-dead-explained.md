@@ -29,7 +29,7 @@ toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://img.youronly.one/a/all-of-us-are-dead-s01-01.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-what-is-a-hambie.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-orangibberish.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-hyosan-high-bomb.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-rooftop.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-chung-san-gwi-nam.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-lee-byung-chan.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-prez-nam-ra.webp"]                                                       # used by og:images, etc.; first image is cover image
-videos = ["https://www.youtube.com/watch?v=G99V9Kl9JhQ"]                                                       # used by og:video, etc.
+videos = ["https://www.youtube.com/watch?v=G99V9Kl9JhQ", "https://www.youtube.com/watch?v=017_tQvH3_w"]                                                       # used by og:video, etc.
 
 type = "article"                                                           # article, sitepage, review
 
