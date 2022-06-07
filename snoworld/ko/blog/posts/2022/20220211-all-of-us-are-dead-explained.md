@@ -1,9 +1,9 @@
 +++
-title = "《지금 우리 학교는》 설명"
+title = "(업데이트됨) 《지금 우리 학교는》 설명"
 description = "Netflix의 《지금 우리 학교는》 시즌 2가 있습니까? 《지금 우리 학교는》 설명에서 알아보십시오!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = "2022-02-11T18:30:12+09:00"                                        # manually adjust to local timezone
-lastmod = "2022-05-03T14:07:19+09:00"                                     # manually adjust to local timezone
+lastmod = "2022-06-07T02:07:17+09:00"                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = "all-of-us-are-dead-explained"
@@ -50,6 +50,10 @@ type = "article"                                                           # art
 *지금 우리 학교는*는 **Netflix**의 세 번째 세계적인 블록버스터 K-드라마 TV 시리즈로 작년 *Squid Game*에 이어 모든 지역 차트에서 1위를 차지했습니다. *킹덤* 시리즈에 이어 두 번째로 성공적인 좀비 제작. 이것은 한국의 좀비 묵시록 장르에 대한 또 다른 해석이며 이 쇼는 *부산행*(by **Next Entertainment World**), *킹덤* 및 *#살아있다*와 함께 순위가 매겨집니다.
 
 <!--more-->
+
+{{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_gold" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener" attribto="" attriblink="" attribrel="noopener" %}}
+  최신 업데이트 2022년 3월 6일 오전 2시 7분: 시즌 2 공식 발표/티저
+{{% /sembox %}}
 
 전형적인 좀비 이야기에서 무작위로 낯선 사람들이 서로를 찾아 11년 동안 워킹 데드에서 살아남기 위해 노력합니다. 함께 제공되는 모든 성인 드라마. 모든 것을 잊어 버리십시오. 또 다른 전형적인 좀비 쇼가 필요하지 않습니다. **Netflix**의 *지금 우리 학교는*는 주동근의 동명 웹툰을 실사화한 작품이다. 효산고 3학년 친구들이 좀비 바이러스 발병에서 살아남을 방법을 찾기 위해 노력하는 이야기를 따라갑니다.
 
@@ -338,6 +342,28 @@ Nam Ra가 "그들이 돌아왔다"라고 말한 것을 눈치채셨나요? 그�
 >}}
 
 다음 시즌의 제목은 진짜로 이번에는 Nam Ra "class" 대통령과 함께 *Rise of Hambies* 또는 *Army of Hambies*가 될 수 있습니다. *The <del>Walking Dead</del> Running Hambies* 또는 *The Planet of the Hambies*일 수도 있습니다. 알겠습니다. 아마도 마지막 시즌은 시즌 6일 것입니다.
+
+### 시즌 2 공식 발표
+
+{{< video
+  platform="youtube"
+
+  id="017_tQvH3_w"
+  linkrel="noopener external"
+  isplaylist=false
+  isloop=false
+
+  title="All of us are dead | Season 2 Announcement | Netflix"
+  caption="Can we meet the survivors of Hyosan High again? All of us are dead is returning for Season 2"
+
+  datepublished="2022-06-07"
+
+  licensecode="allrightsreserved"
+
+  attribto="Netflix"
+  attriburl="https://www.youtube.com/c/Netflix"
+  attribrel="noopener external"
+>}}
 
 ---
 

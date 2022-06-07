@@ -1,9 +1,9 @@
 +++
-title = "《今私たちの学校は》死んでいる"
+title = "（更新しました） 《今私たちの学校は》死んでいる"
 description = "Netflixの《今私たちの学校は》のシーズン2はありますか？ 《今私たちの学校は》で調べてください！"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = "2022-02-11T18:30:12+09:00"                                        # manually adjust to local timezone
-lastmod = "2022-05-03T14:07:19+09:00"                                     # manually adjust to local timezone
+lastmod = "2022-06-07T02:07:17+09:00"                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = "all-of-us-are-dead-explained"
@@ -50,6 +50,10 @@ type = "article"                                                           # art
 *All Of Us Are Dead*は、昨年の*Squid Game*に続いて、**Netflix**の世界で3番目の大ヒットKドラマTVシリーズです。 そして、*Kingdom*シリーズに続く、2回目の大成功を収めたゾンビ制作。 これは韓国のゾンビの黙示録のジャンルへの別の見方であり、このショーは*Train to Busan*（**Next Entertainment World**による）、*Kingdom*、および*＃Alive*にランク付けされています。
 
 <!--more-->
+
+{{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_gold" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener" attribto="" attriblink="" attribrel="noopener" %}}
+  最新の更新2022年3月6日午前2時7分：シーズン2の公式発表/ティーザー
+{{% /sembox %}}
 
 典型的なゾンビの物語では、ランダムな見知らぬ人のグループがお互いを見つけて、ウォーキング・デッドを11年間生き残ろうとします…それに付随するすべての大人のドラマで。 すべてを忘れてください、私たちは別の典型的なゾンビショーを必要としません。 **Netflix** 's' *All Of Us Are Dead*（*지금 우리 학교는 설명* [文字通り：Our School Now]）は、Joo Dong Geun（주동근）による同名の韓国のウェブトゥーンの実写版です。 ）。 ゾンビウイルスの発生を乗り切る方法を模索している兵山高校3年生の話をたどります。
 
@@ -338,6 +342,28 @@ type = "article"                                                           # art
 >}}
 
 次のシーズンのタイトルは、*ハンビーの台頭*または*ハンビーの軍隊*で、今回は実際には《学級委員》のナム・ラがいる可能性があります。 また、*<del>Walking Dead</del> Running Hambies*または*The Planet of the Hambies*の場合もあります。おそらく、最後の1つはシーズン6です。
+
+### シーズン2が正式に発表されました
+
+{{< video
+  platform="youtube"
+
+  id="017_tQvH3_w"
+  linkrel="noopener external"
+  isplaylist=false
+  isloop=false
+
+  title="All of us are dead | Season 2 Announcement | Netflix"
+  caption="Can we meet the survivors of Hyosan High again? All of us are dead is returning for Season 2"
+
+  datepublished="2022-06-07"
+
+  licensecode="allrightsreserved"
+
+  attribto="Netflix"
+  attriburl="https://www.youtube.com/c/Netflix"
+  attribrel="noopener external"
+>}}
 
 ---
 

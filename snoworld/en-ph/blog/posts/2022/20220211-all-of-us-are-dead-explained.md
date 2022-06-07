@@ -1,9 +1,9 @@
 +++
-title = "《All Of Us Are Dead》 Explained"
+title = "(Updated) 《All Of Us Are Dead》 Explained"
 description = "Will there be season 2 for Netflix's 《All Of Us Are Dead》? Find out in 《All Of Us Are Dead》 Explained!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = "2022-02-11T17:30:12+08:00"                                        # manually adjust to local timezone
-lastmod = "2022-05-03T13:07:19+08:00"                                     # manually adjust to local timezone
+lastmod = "2022-06-07T01:07:17+08:00"                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = "all-of-us-are-dead-explained"
@@ -16,7 +16,7 @@ syndications = ["https://twitter.com/YourOnlyONEofcl/status/1492082707026698243"
 
 channels = ["snoworld"]
 categories = ["tv"]                                                   # taxonomy
-keywords = ["All Of Us Are Dead", "Netflix", "지금 우리 학교는", "ending explained", "potential season 2"]                                                     # meta keywords
+keywords = ["All Of Us Are Dead", "Netflix", "지금 우리 학교는", "ending explained", "season 2 announced"]                                                     # meta keywords
 #series = [""]                                                       # subset of series taxonomy
 tags = ["kdrama", "explained"]                                                         # taxonomy
 
@@ -50,6 +50,10 @@ type = "article"                                                           # art
 *All Of Us Are Dead* is the third worldwide blockbuster K-drama TV series from **Netflix** topping the charts in all regions, after last year's *Squid Game*; and their second highly successful zombie production, after the *Kingdom* series. This is another take into Korea's zombie apocalypse genre and this show ranks with *Train to Busan* (by **Next Entertainment World**), *Kingdom*, and *#Alive*.
 
 <!--more-->
+
+{{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_gold" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener" attribto="" attriblink="" attribrel="noopener" %}}
+  Latest update 2022-06-07 01:07:17 PHT: Season 2 official announcement/teaser
+{{% /sembox %}}
 
 In a typical zombie story, a group of random strangers finds each other and try to survive the walking dead for eleven years … with all the adult drama that comes with it. Forget it all, we do not need another typical zombie show. **Netflix**'s' *All Of Us Are Dead* (*지금 우리 학교는* [literally: Our School Now]) is a live-action adaptation of the Korean webtoon of the same name by Joo Dong Geun (주동근). It follows the story of 3rd year Hyosan High School classmates as they try to find a way to survive the zombie virus outbreak.
 
@@ -338,6 +342,28 @@ The ending of *All Of Us Are Dead*, and the other clues in the other episodes, p
 >}}
 
 The title of the next season could be *The Rise of Hambies* or *The Army of Hambies* with Nam Ra the "class" President, for real this time. It could also be *The <del>Walking Dead</del> Running Hambies* or *The Planet of the Hambies*, okay, maybe that last one is season 6.
+
+### Season 2 officially announced
+
+{{< video
+  platform="youtube"
+
+  id="017_tQvH3_w"
+  linkrel="noopener external"
+  isplaylist=false
+  isloop=false
+
+  title="All of us are dead | Season 2 Announcement | Netflix"
+  caption="Can we meet the survivors of Hyosan High again? All of us are dead is returning for Season 2"
+
+  datepublished="2022-06-07"
+
+  licensecode="allrightsreserved"
+
+  attribto="Netflix"
+  attriburl="https://www.youtube.com/c/Netflix"
+  attribrel="noopener external"
+>}}
 
 ---
 
