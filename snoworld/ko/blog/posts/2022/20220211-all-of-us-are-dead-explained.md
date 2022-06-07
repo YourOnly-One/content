@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/snoworld/ko/all-of-us-are-dead-explained
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-syndications = ["https://twitter.com/YourOnlyONEofcl/status/1492082707026698243", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/597228268113074", "https://mastodon.social/@youronlyone/107778893401311200", "https://diasp.org/posts/54b467706d53013ad78c28a1592b385a"]
+syndications = ["https://twitter.com/YourOnlyONEofcl/status/1492082707026698243", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/597228268113074", "https://mastodon.social/@youronlyone/107778893401311200", "https://diasp.org/posts/54b467706d53013ad78c28a1592b385a", "https://twitter.com/YourOnlyONEofcl/status/1533992285884534784", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/672821087220458", "https://mastodon.social/web/@youronlyone/108433756116029105", "https://diasp.org/posts/2a9c0f90c835013a842428a1592b385a"]
 
 channels = ["snoworld"]
 categories = ["tv"]                                                   # taxonomy
