@@ -2,8 +2,8 @@
 title = "Hugo Markdown 링크에 링크 아이콘을 추가하는 방법"
 description = "Hugo에서 Markdown 링크에 대한 링크 아이콘을 추가하는 방법"
 
-publishdate = "2022-05-20T20:24:27+09:00"                                          # manually adjust to local timezone
-lastmod = "2022-05-27T20:28:28+08:00"                                       # manually adjust to local timezone
+publishdate = "2022-05-20T20:24:30+09:00"                                          # manually adjust to local timezone
+lastmod = "2022-06-17T09:00:00+09:00"                                       # manually adjust to local timezone
 
 #aliases = [""]
 slug = "how-to-add-link-icons-hugo-markdown-links"
@@ -66,10 +66,14 @@ type = "article"                                                             # a
 
 ## 새로운 소식
 
-2022년 5월 27일자로 변경된 사항입니다.
+- 2022년 6월 17일:
+  - ftp 아이콘이 <span class="emoji">&#x2194;&#xFE0F;</span>로 변경되었습니다.
+  - `sftp://` 프로토콜이 ftp 범주로 이동됨
+  - 리팩토링: 적절한 경우 {{% quote type="name" lang="en" %}}Hugo{{% /quote %}}의 `findRE`로 전환
 
-- 동일한(하위) 도메인에는 더 이상 외부 아이콘이 없습니다.
-- 오디오, 비디오, 글꼴, 디스크 이미지, 문서, 프레젠테이션, 스프레드시트 등과 같은 더 많은 외부 링크 지원!
+- 2022년 5월 27일:
+  - 동일한(하위) 도메인에는 더 이상 외부 아이콘이 없습니다.
+  - 오디오, 비디오, 글꼴, 디스크 이미지, 문서, 프레젠테이션, 스프레드시트 등과 같은 더 많은 외부 링크 지원!
 
 ## 단계
 
@@ -101,34 +105,34 @@ type = "article"                                                             # a
     {{- end -}}
 
     {{/* PROTOCOLS */}}
-      {{- $chat := or (strings.HasPrefix .Destination "irc://") (strings.HasPrefix .Destination "ircs://") (strings.HasPrefix .Destination "irc6://") (strings.HasPrefix .Destination "xmpp://") (strings.HasPrefix .Destination "jabber://") (strings.HasPrefix .Destination "discord://") (strings.HasPrefix .Destination "skype://") -}}
-      {{- $ftp := or (strings.HasPrefix .Destination "ftp://") (strings.HasPrefix .Destination "aftp://") -}}
+      {{- $chat := findRE "^(?:discord|irc[s6]?|jabber|skype|xmpp)://" .Destination -}}
+      {{- $ftp := findRE "^(?:[as]?ftp)://" .Destination -}}
       {{- $magnet := strings.HasPrefix .Destination "magnet://" -}}
       {{- $mail := strings.HasPrefix .Destination "mailto:" -}}
-      {{- $remote := or (strings.HasPrefix .Destination "telnet://") (strings.HasPrefix .Destination "ssh://") (strings.HasPrefix .Destination "sftp://") (strings.HasPrefix .Destination "git://") (strings.HasPrefix .Destination "svn://") (strings.HasPrefix .Destination "bzr://") -}}
+      {{- $remote := findRE "^(?:bzr|git|s(?:sh|vn)|telnet)://" .Destination -}}
       {{- $tel := strings.HasPrefix .Destination "tel:" -}}
 
     {{/* READING */}}
-      {{- $books := or (strings.HasPrefix .Destination "doi://") (strings.HasSuffix .Destination ".epub") (strings.HasSuffix .Destination ".mobi") (strings.HasSuffix .Destination ".pdf") -}}
-      {{- $document := or (strings.HasSuffix .Destination ".odt") (strings.HasSuffix .Destination ".sdw") (strings.HasSuffix .Destination ".sxw") (strings.HasSuffix .Destination ".uof") (strings.HasSuffix .Destination ".uot") (strings.HasSuffix .Destination ".doc") (strings.HasSuffix .Destination ".docx") -}}
-      {{- $text := or (strings.HasSuffix .Destination ".txt") (strings.HasSuffix .Destination ".csv") -}}
-      {{- $presentation := or (strings.HasSuffix .Destination ".odp") (strings.HasSuffix .Destination ".fodp") (strings.HasSuffix .Destination ".sdd") (strings.HasSuffix .Destination ".sdp") (strings.HasSuffix .Destination ".sxi") (strings.HasSuffix .Destination ".uop") (strings.HasSuffix .Destination ".ppt") (strings.HasSuffix .Destination ".pptx") -}}
-      {{- $spreadsheet := or (strings.HasSuffix .Destination ".ods") (strings.HasSuffix .Destination ".fods") (strings.HasSuffix .Destination ".sdc") (strings.HasSuffix .Destination ".sxc") (strings.HasSuffix .Destination ".uos") (strings.HasSuffix .Destination ".xls") (strings.HasSuffix .Destination ".xlsx") -}}
+      {{- $books := or (strings.HasPrefix .Destination "doi://") (findRE "\\.(?:epub|mobi|pdf)$" .Destination) -}}
+      {{- $document := findRE "\\.(?:docx?|odt|s(?:dw|xw)|sxw|uo[ft])$" .Destination -}}
+      {{- $text := findRE "\\.(?:csv|txt)$" .Destination -}}
+      {{- $presentation := findRE "\\.(?:f?odp|pptx?|s(?:d[dp]|xi)|uop)$" .Destination -}}
+      {{- $spreadsheet := findRE "\\.(?:f?ods|s(?:d[cx]|xc)|uos|xlsx?)$" .Destination -}}
 
     {{/* MEDIA */}}
-      {{- $audio := or (strings.HasSuffix .Destination ".flac") (strings.HasSuffix .Destination ".aac") (strings.HasSuffix .Destination ".mka") (strings.HasSuffix .Destination ".ogg") (strings.HasSuffix .Destination ".oga") (strings.HasSuffix .Destination ".opus") (strings.HasSuffix .Destination ".mp3") (strings.HasSuffix .Destination ".mpa") (strings.HasSuffix .Destination ".mid") (strings.HasSuffix .Destination ".midi") (strings.HasSuffix .Destination ".wav") (strings.HasSuffix .Destination ".wave") (strings.HasSuffix .Destination ".wma") -}}
-      {{- $video := or (strings.HasSuffix .Destination ".av1") (strings.HasSuffix .Destination ".webm") (strings.HasSuffix .Destination ".xvid") (strings.HasSuffix .Destination ".mkv") (strings.HasSuffix .Destination ".mk3d") (strings.HasSuffix .Destination ".ogm") (strings.HasSuffix .Destination ".ogv") (strings.HasSuffix .Destination ".divx") (strings.HasSuffix .Destination ".avi") (strings.HasSuffix .Destination ".mp4") (strings.HasSuffix .Destination ".mpeg4") (strings.HasSuffix .Destination ".mpv") (strings.HasSuffix .Destination ".mpeg") (strings.HasSuffix .Destination ".mpg") -}}
-      {{- $subtitle := or (strings.HasSuffix .Destination ".vtt") (strings.HasSuffix .Destination ".ttml") (strings.HasSuffix .Destination ".dfxp") (strings.HasSuffix .Destination ".srt") (strings.HasSuffix .Destination ".sub") (strings.HasSuffix .Destination ".sbv") (strings.HasSuffix .Destination ".scc") (strings.HasSuffix .Destination ".mks") -}}
+      {{- $audio := findRE "\\.(?:(?:fl|a)ac|mka|og[ag]|opus|mp[3a]|midi?|wave?|wma)$" .Destination -}}
+      {{- $video := findRE "\\.(?:av[1i]|divx|mk(?:3d|v)|mp(?:(?:e?g)?4?|v)|og[mv]|xvid|webm)$" .Destination -}}
+      {{- $subtitle := findRE "\\.(?:dfxp|mks|s(?:bv|cc|rt|ub)|ttml|vtt)$" .Destination -}}
 
     {{/* EXECUTABLES */}}
-      {{- $executable := or (strings.HasSuffix .Destination ".deb") (strings.HasSuffix .Destination ".apk") (strings.HasSuffix .Destination ".exe") (strings.HasSuffix .Destination ".com") (strings.HasSuffix .Destination ".msi") -}}
-      {{- $scripts := or (strings.HasSuffix .Destination ".bat") (strings.HasSuffix .Destination ".sh") -}}
+      {{- $executable := findRE "\\.(?:apk|com|deb|exe|msi)$" .Destination -}}
+      {{- $scripts := findRE "\\.(?:bat|sh)$" .Destination -}}
 
     {{/* OTHERS */}}
-      {{- $fonts := or (strings.HasSuffix .Destination ".woff") (strings.HasSuffix .Destination ".woff2") (strings.HasSuffix .Destination ".otf") (strings.HasSuffix .Destination ".ttf") (strings.HasSuffix .Destination ".ttc") -}}
-      {{- $compressed := or (strings.HasSuffix .Destination ".7z") (strings.HasSuffix .Destination ".7zip") (strings.HasSuffix .Destination ".tar") (strings.HasSuffix .Destination ".gz") (strings.HasSuffix .Destination ".gzip") (strings.HasSuffix .Destination ".bz2") (strings.HasSuffix .Destination ".bzip2") (strings.HasSuffix .Destination ".zip") (strings.HasSuffix .Destination ".rar") -}}
-      {{- $diskimage := or (strings.HasSuffix .Destination ".img") (strings.HasSuffix .Destination ".iso") (strings.HasSuffix .Destination ".dmg")  (strings.HasSuffix .Destination ".mds") (strings.HasSuffix .Destination ".mdf") (strings.HasSuffix .Destination ".mdx") -}}
-      {{- $imagediting := or (strings.HasSuffix .Destination ".xcf") (strings.HasSuffix .Destination ".psd") -}}
+      {{- $fonts := findRE "\\.(?:otf|tt[fc]|woff2?)$" .Destination -}}
+      {{- $compressed := findRE "\\.(?:[7g]?z(?:ip)?|bz(?:ip)?2?|[rt]ar)$" .Destination -}}
+      {{- $diskimage := findRE "\\.(?:[di]mg|iso|md[sfx])$" .Destination -}}
+      {{- $imagediting := findRE "\\.(?:psd|xcf)$" .Destination -}}
 
     {{- $icon := "" -}}
     {{- if $chat -}}{{ $icon = "chat" }}
@@ -177,7 +181,7 @@ type = "article"                                                             # a
       .icon_external::after     { content: "\1F517";                                    /* 🔗 */ }
 
       .icon_chat::after         { content: "\1F4AC";                                    /* 💬 */ }
-      .icon_ftp::after          { content: "\23EC";                                     /* ⏬ */ }
+      .icon_ftp::after          { content: "\2194\FE0F";                                /* ↔️ */ }
       .icon_magnet::after       { content: "\1F9F2";                                    /* 🧲 */ }
       .icon_mail::after         { content: "\1F4E7";                                    /* 📧 */ }
       .icon_remote::after       { content: "\1F4BB";                                    /* 💻 */ }
@@ -231,13 +235,13 @@ type = "article"                                                             # a
   - 채팅
     - [irc://](irc://example.com "irc://") | [ircs://](ircs://example.com "ircs://") | [irc6://](irc6://example.com "irc6://") | [xmpp://](xmpp://example.com "xmpp://") | [jabber://](jabber://example.com "jabber://") | [discord://](discord://example.com "discord://") | [skype://](skype://example.com "skype://")
   - FTP
-    - [ftp://](ftp://example.com "ftp://") | [aftp://](aftp://example.com "aftp://")
+    - [sftp://](sftp://example.com "sftp://") | [ftp://](ftp://example.com "ftp://") | [aftp://](aftp://example.com "aftp://")
   - Magnet
     - [magnet://](magnet://example.com "magnet://")
   - Mail
     - [mailto:](mailto:noreply@example.com "mailto:")
   - 원격
-    - [telnet://](telnet://example.com "telnet://") | [ssh://](ssh://example.com "ssh://") | [sftp://](sftp://example.com "sftp://") | [git://](git://example.com "git://") | [svn://](svn://example.com "svn://") | [bzr://](bzr://example.com "bzr://")
+    - [telnet://](telnet://example.com "telnet://") | [ssh://](ssh://example.com "ssh://") | [git://](git://example.com "git://") | [svn://](svn://example.com "svn://") | [bzr://](bzr://example.com "bzr://")
   - Tel
     - [tel:](tel:123-456-7890 "tel:")
   - 서적
@@ -277,13 +281,13 @@ type = "article"                                                             # a
 - 채팅
   - [irc://](irc://example.com "irc://") | [ircs://](ircs://example.com "ircs://") | [irc6://](irc6://example.com "irc6://") | [xmpp://](xmpp://example.com "xmpp://") | [jabber://](jabber://example.com "jabber://") | [discord://](discord://example.com "discord://") | [skype://](skype://example.com "skype://")
 - FTP
-  - [ftp://](ftp://example.com "ftp://") | [aftp://](aftp://example.com "aftp://")
+  - [sftp://](sftp://example.com "sftp://") | [ftp://](ftp://example.com "ftp://") | [aftp://](aftp://example.com "aftp://")
 - Magnet
   - [magnet://](magnet://example.com "magnet://")
 - Mail
   - [mailto:](mailto:noreply@example.com "mailto:")
 - 원격
-  - [telnet://](telnet://example.com "telnet://") | [ssh://](ssh://example.com "ssh://") | [sftp://](sftp://example.com "sftp://") | [git://](git://example.com "git://") | [svn://](svn://example.com "svn://") | [bzr://](bzr://example.com "bzr://")
+  - [telnet://](telnet://example.com "telnet://") | [ssh://](ssh://example.com "ssh://") | [git://](git://example.com "git://") | [svn://](svn://example.com "svn://") | [bzr://](bzr://example.com "bzr://")
 - Tel
   - [tel:](tel:123-456-7890 "tel:")
 - 서적
