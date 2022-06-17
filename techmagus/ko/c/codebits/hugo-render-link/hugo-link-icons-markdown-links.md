@@ -8,7 +8,7 @@ lastmod = "2022-06-17T09:00:00+09:00"                                       # ma
 #aliases = [""]
 slug = "how-to-add-link-icons-hugo-markdown-links"
 translationKey = "how-to-add-link-icons-hugo-markdown-links-2022140"
-relCanonical = "https://im.youronly.one/techmagus/codebits/how-to-add-link-icons-hugo-markdown-links-2022140/"
+relCanonical = "https://im.youronly.one/techmagus/ko/codebits/how-to-add-link-icons-hugo-markdown-links-2022140/"
 #disqus_url = ""                                                    # no use case in sites by Yelosan Publishing (YourOnly.One)
 #disqus_identifier = ""                                             # set if slug date of this content is different from main translation (en-PH)
 

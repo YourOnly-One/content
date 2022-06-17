@@ -8,7 +8,7 @@ lastmod = "2022-05-27T20:27:50+09:00"                                       # ma
 #aliases = [""]
 slug = "how-to-add-cross-reference-hugo-markdown-links"
 translationKey = "how-to-add-cross-reference-hugo-markdown-links-2022140"
-relCanonical = "https://im.youronly.one/techmagus/codebits/how-to-add-cross-reference-hugo-markdown-links-2022140/"
+relCanonical = "https://im.youronly.one/techmagus/ja/codebits/how-to-add-cross-reference-hugo-markdown-links-2022140/"
 #disqus_url = ""                                                    # no use case in sites by Yelosan Publishing (YourOnly.One)
 #disqus_identifier = ""                                             # set if slug date of this content is different from main translation (en-PH)
 
