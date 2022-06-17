@@ -3,7 +3,7 @@ title = "Hugo Markdown 링크에 링크 아이콘을 추가하는 방법"
 description = "Hugo에서 Markdown 링크에 대한 링크 아이콘을 추가하는 방법"
 
 publishdate = "2022-05-20T20:24:30+09:00"                                          # manually adjust to local timezone
-lastmod = "2022-06-17T09:00:00+09:00"                                       # manually adjust to local timezone
+lastmod = "2022-06-17T15:07:01+09:00"                                       # manually adjust to local timezone
 
 aliases = ["/ko/codebits/how-to-add-link-icons-hugo-markdown-links-2022140"]
 slug = "how-to-add-link-icons-hugo-markdown-links"
@@ -70,6 +70,7 @@ type = "article"                                                             # a
   - ftp 아이콘이 <span class="emoji">&#x2194;&#xFE0F;</span>로 변경되었습니다.
   - `sftp://` 프로토콜이 ftp 범주로 이동됨
   - 리팩토링: 적절한 경우 {{% quote type="name" lang="en" %}}Hugo{{% /quote %}}의 `findRE`로 전환
+  - 수정: `[text](./path/to/content/)` 및 `[text.ext](./path/to/file.ext)` 구문
 
 - 2022년 5월 27일:
   - 동일한(하위) 도메인에는 더 이상 외부 아이콘이 없습니다.
@@ -95,7 +96,8 @@ type = "article"                                                             # a
     {{- if $internal -}}
       {{- if (strings.HasPrefix $url.Path "./") -}}
         {{/* NOTE: for links starting with ./ */}}
-        {{- $destination = printf "%s%s%s" $baseurl.Host $url $fragment | replaceRE "\\.(.*)" "$1" -}}
+        {{- $urltrimmed := strings.TrimPrefix "./" $url -}}
+        {{- $destination = printf "%s://%s/%s%s" $baseurl.Scheme $baseurl.Host $urltrimmed $fragment -}}
       {{- else -}}
         {{/* NOTE: for internal links */}}
         {{- $destination = printf "%s%s" $getpage.RelPermalink $fragment -}}
@@ -209,7 +211,7 @@ type = "article"                                                             # a
     ********************/
     ```
 
-1. `.svg` 아이콘 다운로드: [link-icons.7z](/dls/link-icons.7z)
+1. `.svg` 아이콘 다운로드: [link-icons.7z](./techmagus/dls/link-icons.7z)
 
     - 출처(모두 공개 도메인):
       - 프레젠테이션: [warszawianka](https://openclipart.org/artist/warszawianka)의 [tango x office presentation](https://openclipart.org/detail/36505/tango-x-office-presentation)

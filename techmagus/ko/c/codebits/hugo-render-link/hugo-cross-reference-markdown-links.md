@@ -3,7 +3,7 @@ title = "Hugo Markdown 링크에 상호 참조를 추가하는 방법"
 description = "Hugo에서 Markdown 링크에 대한 상호 참조 지원을 추가하는 방법"
 
 publishdate = "2022-05-20T20:24:27+09:00"                                          # manually adjust to local timezone
-lastmod = "2022-05-27T20:27:50+09:00"                                       # manually adjust to local timezone
+lastmod = "2022-06-17T15:07:00+09:00"                                       # manually adjust to local timezone
 
 aliases = ["/ko/codebits/how-to-add-cross-reference-hugo-markdown-links-2022140"]
 slug = "how-to-add-cross-reference-hugo-markdown-links"
@@ -67,11 +67,13 @@ type = "article"                                                             # a
 
 ## 새로운 소식
 
-2022년 5월 27일자로 변경된 사항입니다.
+- 2022년 6월 17일:
+  - 수정: `[text](./path/to/content/)` 및 `[text.ext](./path/to/file.ext)` 구문
 
-- `[텍스트](./path/to/content/)`
-- `[text.ext](./path/to/file.ext)`
-- [사용하는 방법](#how-to-use) 섹션을 재구성했습니다.
+- 2022년 5월 27일:
+  - `[텍스트](./path/to/content/)`
+  - `[text.ext](./path/to/file.ext)`
+  - [사용하는 방법](#how-to-use) 섹션을 재구성했습니다.
 
 ## 단계
 
@@ -91,7 +93,8 @@ type = "article"                                                             # a
     {{- if $internal -}}
       {{- if (strings.HasPrefix $url.Path "./") -}}
         {{/* NOTE: for links starting with ./ */}}
-        {{- $destination = printf "%s%s%s" $baseurl.Host $url $fragment | replaceRE "\\.(.*)" "$1" -}}
+        {{- $urltrimmed := strings.TrimPrefix "./" $url -}}
+        {{- $destination = printf "%s://%s/%s%s" $baseurl.Scheme $baseurl.Host $urltrimmed $fragment -}}
       {{- else -}}
         {{/* NOTE: for internal links */}}
         {{- $destination = printf "%s%s" $getpage.RelPermalink $fragment -}}
@@ -201,7 +204,6 @@ type = "article"                                                             # a
 ```markdown
 - [link-icons.7z](/dls/link-icons.7z)
 - [link-icons.7z](../../dls/link-icons.7z)
-- [link-icons.7z](./dls/link-icons.7z)
 ```
 
 위 대신 `[텍스트](./path/to/file.ext)`를 사용하면 `[link-icons.7z](./techmagus/dls/link-icons.7z)`가 다음과 같이 렌더링됩니다. [link-icons.7z](./techmagus/dls/link-icons.7z)

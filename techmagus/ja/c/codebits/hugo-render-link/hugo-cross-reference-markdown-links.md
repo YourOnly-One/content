@@ -3,7 +3,7 @@ title = "Hugo Markdownリンクに相互参照を追加する方法"
 description = "HugoでMarkdownリンクの相互参照サポートを追加する方法"
 
 publishdate = "2022-05-20T20:24:27+09:00"                                          # manually adjust to local timezone
-lastmod = "2022-05-27T20:27:50+09:00"                                       # manually adjust to local timezone
+lastmod = "2022-06-17T15:07:00+09:00"                                       # manually adjust to local timezone
 
 aliases = ["/ja/codebits/how-to-add-cross-reference-hugo-markdown-links-2022140"]
 slug = "how-to-add-cross-reference-hugo-markdown-links"
@@ -67,11 +67,13 @@ type = "article"                                                             # a
 
 ## 新着情報
 
-これらは、2022年5月27日現在の新機能です。
+- 2022年6月17日：
+  - 修正：`[text](./path/to/content/)`と`[text.ext](./path/to/file.ext)`の構文
 
-- `[文章](./path/to/content/)`
-- `[text.ext](./path/to/file.ext)`
-- [使い方](#how-to-use)セクションを再編成
+- 2022年5月27日：
+  - `[文章](./path/to/content/)`
+  - `[text.ext](./path/to/file.ext)`
+  - [使い方](#how-to-use)セクションを再編成
 
 ## 手順
 
@@ -91,7 +93,8 @@ type = "article"                                                             # a
     {{- if $internal -}}
       {{- if (strings.HasPrefix $url.Path "./") -}}
         {{/* NOTE: for links starting with ./ */}}
-        {{- $destination = printf "%s%s%s" $baseurl.Host $url $fragment | replaceRE "\\.(.*)" "$1" -}}
+        {{- $urltrimmed := strings.TrimPrefix "./" $url -}}
+        {{- $destination = printf "%s://%s/%s%s" $baseurl.Scheme $baseurl.Host $urltrimmed $fragment -}}
       {{- else -}}
         {{/* NOTE: for internal links */}}
         {{- $destination = printf "%s%s" $getpage.RelPermalink $fragment -}}
@@ -201,7 +204,6 @@ type = "article"                                                             # a
 ```markdown
 - [link-icons.7z](/dls/link-icons.7z)
 - [link-icons.7z](../../dls/link-icons.7z)
-- [link-icons.7z](./dls/link-icons.7z)
 ```
 
 上記の代わりに、 `[文章](./path/to/file.ext)`を次のように使用します。`[link-icons.7z](./techmagus/dls/link-icons.7z)`は次のようにレンダリングされます。 [link-icons.7z](./techmagus/dls/link-icons.7z)

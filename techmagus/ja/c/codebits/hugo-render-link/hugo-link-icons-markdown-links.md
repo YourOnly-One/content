@@ -3,7 +3,7 @@ title = "Hugo Markdownリンクにリンクアイコンを追加する方法"
 description = "HugoでMarkdownリンクのリンクアイコンを追加する方法"
 
 publishdate = "2022-05-20T20:24:30+09:00"                                          # manually adjust to local timezone
-lastmod = "2022-06-17T09:00:00+09:00"                                       # manually adjust to local timezone
+lastmod = "2022-06-17T15:07:01+09:00"                                       # manually adjust to local timezone
 
 aliases = ["/ja/codebits/how-to-add-link-icons-hugo-markdown-links-2022140"]
 slug = "how-to-add-link-icons-hugo-markdown-links"
@@ -70,6 +70,7 @@ type = "article"                                                             # a
   - ftpアイコンが<span class="emoji">&#x2194;&#xFE0F;</span>に変更されました
   - `sftp://`プロトコルがftpカテゴリに移動しました
   - リファクタリング：必要に応じて{{% quote type="name" lang="en" %}}Hugo{{% /quote %}}の`findRE`に切り替えました
+  - 修正：`[text](./path/to/content/)`と`[text.ext](./path/to/file.ext)`の構文
 
 - 2022年5月27日：
   - 同じ（サブ）ドメインに外部アイコンがなくなりました。
@@ -95,7 +96,8 @@ type = "article"                                                             # a
     {{- if $internal -}}
       {{- if (strings.HasPrefix $url.Path "./") -}}
         {{/* NOTE: for links starting with ./ */}}
-        {{- $destination = printf "%s%s%s" $baseurl.Host $url $fragment | replaceRE "\\.(.*)" "$1" -}}
+        {{- $urltrimmed := strings.TrimPrefix "./" $url -}}
+        {{- $destination = printf "%s://%s/%s%s" $baseurl.Scheme $baseurl.Host $urltrimmed $fragment -}}
       {{- else -}}
         {{/* NOTE: for internal links */}}
         {{- $destination = printf "%s%s" $getpage.RelPermalink $fragment -}}

@@ -3,7 +3,7 @@ title = "How To Add Link Icons in Hugo Markdown Links"
 description = "How to add link icons for Markdown links in Hugo"
 
 publishdate = "2022-05-20T19:24:30+08:00"                                          # manually adjust to local timezone
-lastmod = "2022-06-17T08:00:00+08:00"                                       # manually adjust to local timezone
+lastmod = "2022-06-17T14:07:01+08:00"                                       # manually adjust to local timezone
 
 aliases = ["/codebits/how-to-add-link-icons-hugo-markdown-links-2022140"]
 slug = "how-to-add-link-icons-hugo-markdown-links"
@@ -70,6 +70,7 @@ In this post, we will add link icons support in {{% quote type="name" lang="en" 
   - ftp icon changed to: <span class="emoji">&#x2194;&#xFE0F;</span>
   - `sftp://` protocol moved to ftp category
   - ref: switched to {{% quote type="name" lang="en" %}}Hugo{{% /quote %}}'s `findRE` where appropriate
+  - fix: `[text](./path/to/content/)` and `[text.ext](./path/to/file.ext)` formats
 
 - 2022-05-27:
   - Same (sub)-domain no longer have external icon.
@@ -95,7 +96,8 @@ To add link icons, follow the steps below:
     {{- if $internal -}}
       {{- if (strings.HasPrefix $url.Path "./") -}}
         {{/* NOTE: for links starting with ./ */}}
-        {{- $destination = printf "%s%s%s" $baseurl.Host $url $fragment | replaceRE "\\.(.*)" "$1" -}}
+        {{- $urltrimmed := strings.TrimPrefix "./" $url -}}
+        {{- $destination = printf "%s://%s/%s%s" $baseurl.Scheme $baseurl.Host $urltrimmed $fragment -}}
       {{- else -}}
         {{/* NOTE: for internal links */}}
         {{- $destination = printf "%s%s" $getpage.RelPermalink $fragment -}}

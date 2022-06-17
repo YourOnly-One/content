@@ -3,7 +3,7 @@ title = "How To Add Cross Reference in Hugo Markdown Links"
 description = "How to add cross reference support for Markdown links in Hugo"
 
 publishdate = "2022-05-20T19:24:27+08:00"                                          # manually adjust to local timezone
-lastmod = "2022-05-27T19:27:50+08:00"                                       # manually adjust to local timezone
+lastmod = "2022-06-17T14:07:00+08:00"                                       # manually adjust to local timezone
 
 aliases = ["/codebits/how-to-add-cross-reference-hugo-markdown-links-2022140"]
 slug = "how-to-add-cross-reference-hugo-markdown-links"
@@ -67,11 +67,13 @@ Internal cross references in {{% quote type="name" lang="en" %}}Hugo{{% /quote %
 
 ## What's new
 
-These are what's new as of 2022-05-27.
+- 2022-06-17:
+  - fix: `[text](./path/to/content/)` and `[text.ext](./path/to/file.ext)` formats
 
-- `[text](./path/to/content/)`
-- `[text.ext](./path/to/file.ext)`
-- reorganized the [How To Use](#how-to-use) section
+- 2022-05-27:
+  - `[text](./path/to/content/)`
+  - `[text.ext](./path/to/file.ext)`
+  - reorganized the [How To Use](#how-to-use) section
 
 ## Steps
 
@@ -91,7 +93,8 @@ These are what's new as of 2022-05-27.
     {{- if $internal -}}
       {{- if (strings.HasPrefix $url.Path "./") -}}
         {{/* NOTE: for links starting with ./ */}}
-        {{- $destination = printf "%s%s%s" $baseurl.Host $url $fragment | replaceRE "\\.(.*)" "$1" -}}
+        {{- $urltrimmed := strings.TrimPrefix "./" $url -}}
+        {{- $destination = printf "%s://%s/%s%s" $baseurl.Scheme $baseurl.Host $urltrimmed $fragment -}}
       {{- else -}}
         {{/* NOTE: for internal links */}}
         {{- $destination = printf "%s%s" $getpage.RelPermalink $fragment -}}
@@ -201,7 +204,6 @@ Also take note of the following formats.
 ```markdown
 - [link-icons.7z](/dls/link-icons.7z)
 - [link-icons.7z](../../dls/link-icons.7z)
-- [link-icons.7z](./dls/link-icons.7z)
 ```
 
 Instead of the above, use `[text](./path/to/file.ext)` like so `[link-icons.7z](./techmagus/dls/link-icons.7z)` will render as: [link-icons.7z](./techmagus/dls/link-icons.7z)
