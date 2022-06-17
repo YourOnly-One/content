@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/techmagus/codebits/how-to-add-link-icons
 #disqus_url = ""                                                    # no use case in sites by Yelosan Publishing (YourOnly.One)
 #disqus_identifier = ""                                             # set if slug date of this content is different from main translation (en-PH)
 
-#syndications = [""]
+syndications = ["https://mastodon.social/@youronlyone/108390777306425065", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02m3H8WrP1eW6MqiEPGBhbJGGzdcrXAzBEx2tsbNUA8mmebsyTgktKNhM9sKQDrjibl", "https://twitter.com/YourOnlyONEofcl/status/1531244042117341184"]
 
 channels = ["techmagus"]
 categories = ["howto"]
