@@ -5,10 +5,10 @@ description = "HugoでMarkdownリンクの相互参照サポートを追加す�
 publishdate = "2022-05-20T20:24:27+09:00"                                          # manually adjust to local timezone
 lastmod = "2022-05-27T20:27:50+09:00"                                       # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/ja/codebits/how-to-add-cross-reference-hugo-markdown-links-2022140"]
 slug = "how-to-add-cross-reference-hugo-markdown-links"
 translationKey = "how-to-add-cross-reference-hugo-markdown-links-2022140"
-relCanonical = "https://im.youronly.one/techmagus/ja/codebits/how-to-add-cross-reference-hugo-markdown-links-2022140/"
+relCanonical = "https://im.youronly.one/techmagus/ja/codebits/hugo-render-link/how-to-add-cross-reference-hugo-markdown-links-2022140/"
 #disqus_url = ""                                                    # no use case in sites by Yelosan Publishing (YourOnly.One)
 #disqus_identifier = ""                                             # set if slug date of this content is different from main translation (en-PH)
 

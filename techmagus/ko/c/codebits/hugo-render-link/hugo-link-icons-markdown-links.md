@@ -5,10 +5,10 @@ description = "Hugo에서 Markdown 링크에 대한 링크 아이콘을 추가�
 publishdate = "2022-05-20T20:24:30+09:00"                                          # manually adjust to local timezone
 lastmod = "2022-06-17T09:00:00+09:00"                                       # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/ko/codebits/how-to-add-link-icons-hugo-markdown-links-2022140"]
 slug = "how-to-add-link-icons-hugo-markdown-links"
 translationKey = "how-to-add-link-icons-hugo-markdown-links-2022140"
-relCanonical = "https://im.youronly.one/techmagus/ko/codebits/how-to-add-link-icons-hugo-markdown-links-2022140/"
+relCanonical = "https://im.youronly.one/techmagus/ko/codebits/hugo-render-link/how-to-add-link-icons-hugo-markdown-links-2022140/"
 #disqus_url = ""                                                    # no use case in sites by Yelosan Publishing (YourOnly.One)
 #disqus_identifier = ""                                             # set if slug date of this content is different from main translation (en-PH)
 
