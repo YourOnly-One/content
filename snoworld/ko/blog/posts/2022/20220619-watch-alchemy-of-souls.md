@@ -2,7 +2,7 @@
 title = "꼭 봐야 할 것: 환혼"
 description = "사랑, 정치, 흑마법에 대한 한국의 하이 판타지."
 
-lastmod = "2022-06-21T11:05:00+09:00"                 # last update; manually adjust to local timezone
+lastmod = "2022-06-21T12:53:00+09:00"                 # last update; manually adjust to local timezone
 publishdate = "2022-06-21T11:05:00+09:00"             # first publication; manually adjust to local timezone
 date = "2022-06-19T18:17:17+09:00"                    # first created; manually adjust to local timezone
 #expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
