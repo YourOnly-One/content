@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/watch-alchemy-of-souls-2022170/
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndications = [""]
+syndications = ["https://mastodon.social/@youronlyone/108513320860791083", "https://diasp.org/posts/51f6cc70d340013a902728a1592b385a", "https://twitter.com/YourOnlyONEofcl/status/1539086566785695745", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid013UiYiLjzckMiu8nsdo2XqUbontARgpn6sDSaRXSQQQVagSU3KBzHhHA1cwMvbx9l"]
 
 channels = ["snoworld"]
 categories = ["tv"]
