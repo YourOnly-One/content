@@ -2,17 +2,17 @@
 title = "Internal test"
 description = "Internal test only"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-publishdate = "2022-05-10T14:45:30+08:00"                                        # manually adjust to local timezone
-lastmod = "2022-04-07T17:53:01+08:00"                                     # manually adjust to local timezone
+publishdate = "2022-05-30T14:45:30+08:00"                                        # manually adjust to local timezone
+#lastmod = "2022-04-07T17:53:01+08:00"                                     # manually adjust to local timezone
 
 #aliases = [""]
-slug = ""
+#slug = ""
 translationKey = "{SLUG}-{DATE}"
-relCanonical = "https://im.youronly.one/{BLOG-NAME}/{POST-TITLE}-{DATE}/"                                                   # the actual URL of the post; also used for disqus ID and url
+#relCanonical = "https://im.youronly.one/{BLOG-NAME}/{POST-TITLE}-{DATE}/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = [""]
+channels = ["techmagus"]
 #categories = [""]                                                   # taxonomy
 #keywords = [""]                                                     # meta keywords
 #series = [""]                                                       # subset of series taxonomy
@@ -26,10 +26,10 @@ comments = true
 toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
-images = ["https://img.youronly.one/"]                                                       # used by og:images, etc.; first image is cover image
+#images = ["https://img.youronly.one/"]                                                       # used by og:images, etc.; first image is cover image
 #videos = ["https://www.youtube.com/watch?v="]                                                       # used by og:video, etc.
 
-type = ""                                                           # article, sitepage, review
+type = "article"                                                           # article, sitepage, review
 
 draft = true
 
@@ -49,48 +49,22 @@ SUMMARY
 
 <!--more-->
 
-- [](20211219-linklists-are-back.md)
-- [](/20211219-linklists-are-back.md)
-- [](20211219-linklists-are-back)
-- [](/20211219-linklists-are-back)
-- [](20211219-linklists-are-back.md "Title")
-- [](/20211219-linklists-are-back.md "Title")
-- [](20211219-linklists-are-back "Title")
-- [](/20211219-linklists-are-back "Title")
-- [Text](20211219-linklists-are-back.md)
-- [Text](/20211219-linklists-are-back.md)
-- [Text](20211219-linklists-are-back)
-- [Text](/20211219-linklists-are-back)
-- [Text](20211219-linklists-are-back.md "Title")
-- [Text](/20211219-linklists-are-back.md "Title")
-- [Text](20211219-linklists-are-back "Title")
-- [Text](/20211219-linklists-are-back "Title")
+{{< figure src="./image.png" caption="./" >}}
 
-- [external](https://example.com)
-- [irc](irc://example.com)
-- [xmpp](xmpp://example.com)
-- [ftp](ftp://example.com)
-- [mail](mailto://example.com)
-- [magnet](magnet://example.com)
-- [telnet](telnet://example.com)
-- [ssh](ssh://example.com)
-- [sftp](sftp://example.com)
-- [git](git://example.com)
-- [svn](svn://example.com)
-- [tel](tel://example.com)
-- [pdf](https://example.com/file.pdf)
-- [txt](https://example.com/file.txt)
-- [epub](https://example.com/file.epub)
-- [mobi](https://example.com/file.mobi)
-- [zip](https://example.com/file.zip)
-- [7z](https://example.com/file.7z)
-- [7zip](https://example.com/file.7zip)
-- [rar](https://example.com/file.rar)
-- [tar](https://example.com/file.tar)
-- [gz](https://example.com/file.gz)
-- [tar.gz](https://example.com/file.tar.gz)
-- [gzip](https://example.com/file.gzip)
-- [tar.gzip](https://example.com/file.tar.gzip)
+{{< figure src="image.png" caption="filename.ext" >}}
+
+{{< figure src="../image.png" caption="../" >}}
+
+![Image Test](https://gohugo.io/news/0.82.0-relnotes/featured.png)
+![Image Test](https://gohugo.io/news/0.82.0-relnotes/featured.png)
+{data-something="something"}
+
+![Image Test](https://gohugo.io/news/0.82.0-relnotes/featured.png){data-something="something"}
+
+- [Laurel & Hardy](/laurel-hardy/)
+- [Laurel &amp; Hardy](/laurel-hardy/)
+- [Laurel &#x26; Hardy](/laurel-hardy/)
+- [Laurel &#38; Hardy](/laurel-hardy/)
 
 ---
 

@@ -6,9 +6,9 @@ publishdate = "2022-03-17T14:45:30+09:00"                                       
 lastmod = "2022-04-07T17:53:01+09:00"                                     # manually adjust to local timezone
 
 #aliases = [""]
-slug = ""
+#slug = ""
 translationKey = "{SLUG}-{DATE}"
-relCanonical = "https://im.youronly.one/{BLOG-NAME}/{POST-TITLE}-{DATE}/"                                                   # the actual URL of the post; also used for disqus ID and url
+#relCanonical = "https://im.youronly.one/{BLOG-NAME}/{POST-TITLE}-{DATE}/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
