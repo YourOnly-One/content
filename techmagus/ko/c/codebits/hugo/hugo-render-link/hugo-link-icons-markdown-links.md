@@ -1,14 +1,14 @@
 +++
-title = "How To Add Link Icons in Hugo Markdown Links"
-description = "How to add link icons for Markdown links in Hugo"
+title = "Hugo Markdown 링크에 링크 아이콘을 추가하는 방법"
+description = "Hugo에서 Markdown 링크에 대한 링크 아이콘을 추가하는 방법"
 
-publishdate = "2022-05-20T19:24:30+08:00"                                          # manually adjust to local timezone
-lastmod = "2022-06-17T14:07:01+08:00"                                       # manually adjust to local timezone
+publishdate = "2022-05-20T20:24:30+09:00"                                          # manually adjust to local timezone
+lastmod = "2022-06-17T15:07:01+09:00"                                       # manually adjust to local timezone
 
-aliases = ["/codebits/how-to-add-link-icons-hugo-markdown-links-2022140"]
+aliases = ["/ko/codebits/how-to-add-link-icons-hugo-markdown-links-2022140", "/ko/codebits/hugo-render-link/how-to-add-link-icons-hugo-markdown-links-2022140"]
 slug = "how-to-add-link-icons-hugo-markdown-links"
 translationKey = "how-to-add-link-icons-hugo-markdown-links-2022140"
-relCanonical = "https://im.youronly.one/techmagus/codebits/hugo-render-link/how-to-add-link-icons-hugo-markdown-links-2022140/"
+relCanonical = "https://im.youronly.one/techmagus/ko/codebits/hugo/hugo-render-link/how-to-add-link-icons-hugo-markdown-links-2022140/"
 #disqus_url = ""                                                    # no use case in sites by Yelosan Publishing (YourOnly.One)
 #disqus_identifier = ""                                             # set if slug date of this content is different from main translation (en-PH)
 
@@ -47,41 +47,41 @@ type = "article"                                                             # a
   #rel = "noopener"
 +++
 
-Link icons are great. It signals to the reader what a link is. It is external? Or perhaps a video? If the link is clicked, will it start a download or will it open the default mail program? Link icons also helps a developer or content creator to easily find links, or the lack thereof.
+링크 아이콘은 훌륭합니다. 링크가 무엇인지 독자에게 알립니다. 외부인가? 아니면 아마도 비디오? 링크를 클릭하면 다운로드가 시작됩니까? 아니면 기본 메일 프로그램이 열립니까? 링크 아이콘은 또한 개발자 또는 콘텐츠 작성자가 링크 또는 링크가 없는 것을 쉽게 찾도록 도와줍니다.
 
 <!--more-->
 
-Link icons started with and was popularised by {{% quote type="title" lang="en" %}}Wikipedia{{% /quote %}} a decade ago [^wikipedia-link-icons]. Everyone were looking for CMS plugins to add link icons to their websites and blogs. The method back then was to use a small `.png` image file as the icon. But today? We are going to use {{% quote type="name" lang="en" %}}Unicode{{% /quote %}} emojis and only use `.svg` if an appropriate emoji is not available.
+링크 아이콘은 10년 전에 {{% quote type="title" lang="en" %}}Wikipedia{{% /quote %}}로 시작되어 대중화되었습니다 [^wikipedia-link-icons]. 모두가 자신의 웹사이트와 블로그에 링크 아이콘을 추가할 CMS 플러그인을 찾고 있었습니다. 당시 방식은 작은 '.png' 이미지 파일을 아이콘으로 사용하는 것이었다. 근데 오늘? {{% quote type="name" lang="en" %}}Unicode{{% /quote %}} 이모티콘을 사용하고 적절한 이모티콘을 사용할 수 없는 경우에만 `.svg`를 사용합니다.
 
-In this post, we will add link icons support in {{% quote type="name" lang="en" %}}Hugo{{% /quote %}} through {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} links. No shortcode needed, just plain regular `[text](https://example.com "Title")` links, thanks to the power of render hooks [^hugo-markdown-render-hooks].
+이 포스트에서는 MARKDOWN 링크를 통해 HUGO에서 지원하는 링크 아이콘을 추가합니다. 렌더 후크의 기능 덕분에 단축 코드가 필요하지 않고 일반 일반 `[text](https://example.com "Title")` 링크만 있으면 됩니다 [^hugo-markdown-render-hooks].
 
 [^wikipedia-link-icons]: [w:Help:External link icons](https://en.wikipedia.org/wiki/Help:External_link_icons "w:Help:External link icons")
 [^hugo-markdown-render-hooks]: [Hugo: Markdown Render Hooks](https://gohugo.io/templates/render-hooks/ "Hugo: Markdown Render Hooks")
 
-## Features
+## 특징
 
-- Add link icons without using {{% quote type="name" lang="en" %}}JavaScript{{% /quote %}}
-  - With internal {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} links support
-- Features from [](hugo-cross-reference-markdown-links.md)
+- {{% quote type="name" lang="en" %}}JavaScript{{% /quote %}}를 사용하지 않고 링크 아이콘 추가
+  - 내부 {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} 링크 지원
+- [](hugo-cross-reference-markdown-links.md)의 기능
 
-## What's new
+## 새로운 소식
 
-- 2022-06-17:
-  - ftp icon changed to: <span class="emoji">&#x2194;&#xFE0F;</span>
-  - `sftp://` protocol moved to ftp category
-  - ref: switched to {{% quote type="name" lang="en" %}}Hugo{{% /quote %}}'s `findRE` where appropriate
-  - fix: `[text](./path/to/content/)` and `[text.ext](./path/to/file.ext)` formats
+- 2022년 6월 17일:
+  - ftp 아이콘이 <span class="emoji">&#x2194;&#xFE0F;</span>로 변경되었습니다.
+  - `sftp://` 프로토콜이 ftp 범주로 이동됨
+  - 리팩토링: 적절한 경우 {{% quote type="name" lang="en" %}}Hugo{{% /quote %}}의 `findRE`로 전환
+  - 수정: `[text](./path/to/content/)` 및 `[text.ext](./path/to/file.ext)` 구문
 
-- 2022-05-27:
-  - Same (sub)-domain no longer have external icon.
-  - More external link support like audio, video, fonts, disk images, documents, presentations, spreadsheets, and more!
+- 2022년 5월 27일:
+  - 동일한(하위) 도메인에는 더 이상 외부 아이콘이 없습니다.
+  - 오디오, 비디오, 글꼴, 디스크 이미지, 문서, 프레젠테이션, 스프레드시트 등과 같은 더 많은 외부 링크 지원!
 
-## Steps
+## 단계
 
-To add link icons, follow the steps below:
+링크 아이콘을 추가하려면 다음 단계를 따르세요.
 
-1. Create a file called `render-link.html` in this directory `/layouts/_default/_markup/`
-1. Copy and paste this code:
+1. 이 디렉토리 `/layouts/_default/_markup/`에 `render-link.html`이라는 파일을 만듭니다.
+1. 이 코드를 복사하여 붙여넣습니다.
 
     ```go-html-template
     {{- $baseurl := urls.Parse site.BaseURL -}}
@@ -167,7 +167,7 @@ To add link icons, follow the steps below:
     <a href="{{ $destination | safeURL }}"{{ with or .Title $getpage.LinkTitle .Text }} title="{{ . }}"{{ end }}{{ with $icon }} class="icon_{{ . }}"{{ end }}{{ if not $internal }} rel="noopener external"{{ end }}>{{ or .Text .Title $getpage.LinkTitle | safeHTML }}</a>
     ```
 
-1. In your stylesheet file add:
+1. 스타일시트 파일에 다음을 추가합니다.
 
     ```css
     /********************
@@ -211,30 +211,30 @@ To add link icons, follow the steps below:
     ********************/
     ```
 
-1. Download `.svg` icons: [link-icons.7z](./techmagus/dls/link-icons.7z)
+1. `.svg` 아이콘 다운로드: [link-icons.7z](./techmagus/dls/link-icons.7z)
 
-    - Sources (all in the Public Domain):
-      - Presentation: [tango x office presentation](https://openclipart.org/detail/36505/tango-x-office-presentation) by [warszawianka](https://openclipart.org/artist/warszawianka)
-      - Spreadsheet: [tango x office spreadsheet](https://openclipart.org/detail/36517/tango-x-office-spreadsheet) by [warszawianka](https://openclipart.org/artist/warszawianka)
-      - Subtitle: [mimetype subtitle](https://openclipart.org/detail/212110/mimetype-subtitle) by [sixsixfive](https://openclipart.org/artist/sixsixfive)
-      - Executable: [mimetype binary](https://openclipart.org/detail/212161/mimetype-binary) by [sixsixfive](https://openclipart.org/artist/sixsixfive)
-      - Scripts: [tango text x script](https://openclipart.org/detail/36175/tango-text-x-script) by [warszawianka](https://openclipart.org/artist/warszawianka)
-      - Fonts: [tango preferences desktop font](https://openclipart.org/detail/35257/tango-preferences-desktop-font) by [warszawianka](https://openclipart.org/artist/warszawianka)
-      - Image editing: [Artists Brush And Paint](https://openclipart.org/detail/231061/artists-brush-and-paint) by [GDJ](https://openclipart.org/artist/GDJ)
+    - 출처(모두 공개 도메인):
+      - 프레젠테이션: [warszawianka](https://openclipart.org/artist/warszawianka)의 [tango x office presentation](https://openclipart.org/detail/36505/tango-x-office-presentation)
+      - 스프레드시트: [warszawianka](https://openclipart.org/artist/warszawianka)의 [tango x office spreadsheet](https://openclipart.org/detail/36517/tango-x-office-spreadsheet)
+      - 자막: [sixsixfive](https://openclipart.org/artist/sixsixfive)의 [mimetype subtitle](https://openclipart.org/detail/212110/mimetype-subtitle)
+      - 실행 파일: [sixsixfive](https://openclipart.org/artist/sixsixfive)의 [mimetype binary](https://openclipart.org/detail/212161/mimetype-binary)
+      - 대본: [warszawianka](https://openclipart.org/artist/warszawianka)의 [tango text x script](https://openclipart.org/detail/36175/tango-text-x-script)
+      - 글꼴: [warszawianka](https://openclipart.org/artist/warszawianka)의 [tango preferences desktop font](https://openclipart.org/detail/35257/tango-preferences-desktop-font)
+      - 이미지 편집: [GDJ](https://openclipart.org/artist/GDJ)의 [Artists Brush And Paint](https://openclipart.org/detail/231061/artists-brush-and-paint)
 
-      It is possible to hotlink from the listed sources. However, there is no information if they were setup for it.
+      나열된 소스에서 핫링크할 수 있습니다. 그러나 설정한 경우 정보가 없습니다.
       {.note}
 
-1. Extract the `.svg` files in `/static/fonts/` folder.
+1. `/static/fonts/` 폴더에서 `.svg` 파일의 압축을 풉니다.
 
-## How to use
+## 사용하는 방법
 
-The following {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} links
+다음 {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} 링크
 
   ```markdown {linenos=false}
-  - External links
+  - 외부 링크
     - [https://example.com/#fragment](https://example.com/#fragment "https://example.com/#fragment")
-  - Chat
+  - 채팅
     - [irc://](irc://example.com "irc://") | [ircs://](ircs://example.com "ircs://") | [irc6://](irc6://example.com "irc6://") | [xmpp://](xmpp://example.com "xmpp://") | [jabber://](jabber://example.com "jabber://") | [discord://](discord://example.com "discord://") | [skype://](skype://example.com "skype://")
   - FTP
     - [sftp://](sftp://example.com "sftp://") | [ftp://](ftp://example.com "ftp://") | [aftp://](aftp://example.com "aftp://")
@@ -242,45 +242,45 @@ The following {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} links
     - [magnet://](magnet://example.com "magnet://")
   - Mail
     - [mailto:](mailto:noreply@example.com "mailto:")
-  - Remote
+  - 원격
     - [telnet://](telnet://example.com "telnet://") | [ssh://](ssh://example.com "ssh://") | [git://](git://example.com "git://") | [svn://](svn://example.com "svn://") | [bzr://](bzr://example.com "bzr://")
   - Tel
     - [tel:](tel:123-456-7890 "tel:")
-  - Books
+  - 서적
     - [doi://](doi://example.com "doi://") | [.epub](https://example.com/file.epub ".epub") | [.mobi](https://example.com/file.mobi ".mobi") | [.pdf](https://example.com/file.pdf ".pdf")
-  - Document
+  - 문서
     - [.odt](https://example.com/file.odt ".odt") | [.sdw](https://example.com/file.sdw ".sdw") | [.sxw](https://example.com/file.sxw ".sxw") | [.uof](https://example.com/file.uof ".uof") | [.uot](https://example.com/file.uot ".uot") | [.doc](https://example.com/file.doc ".doc") | [.docx](https://example.com/file.docx ".docx")
-  - Text
+  - 텍스트
     - [.txt](https://example.com/file.txt ".txt") | [.csv](https://example.com/file.csv ".csv")
-  - Presentation
+  - 프레젠테이션
     - [.odp](https://example.com/file.odp ".odp") | [.fodp](https://example.com/file.fodp ".fodp") | [.sdd](https://example.com/file.sdd ".sdd") | [.sdp](https://example.com/file.sdp ".sdp") | [.sxi](https://example.com/file.sxi ".sxi") | [.uop](https://example.com/file.uop ".uop") | [.ppt](https://example.com/file.ppt ".ppt") | [.pptx](https://example.com/file.pptx ".pptx")
-  - Spreadsheet
+  - 스프레드시트
     - [.ods](https://example.com/file.ods ".ods") | [.fods](https://example.com/file.fods ".fods") | [.sdc](https://example.com/file.sdc ".sdc") | [.sxc](https://example.com/file.sxc ".sxc") | [.uos](https://example.com/file.uos ".uos") | [.xls](https://example.com/file.xls ".xls") | [.xlsx](https://example.com/file.xlsx ".xlsx")
-  - Audio
+  - 오디오
     - [.flac](https://example.com/file.flac ".flac") | [.aac](https://example.com/file.aac ".aac") | [.mka](https://example.com/file.mka ".mka") | [.ogg](https://example.com/file.ogg ".ogg") | [.oga](https://example.com/file.oga ".oga") | [.opus](https://example.com/file.opus ".opus") | [.mp3](https://example.com/file.mp3 ".mp3") | [.mpa](https://example.com/file.mpa ".mpa") | [.mid](https://example.com/file.mid ".mid") | [.midi](https://example.com/file.midi ".midi") | [.wav](https://example.com/file.wav ".wav") | [.wave](https://example.com/file.wave ".wave") | [.wma](https://example.com/file.wma ".wma")
-  - Video
+  - 동영상
     - [.av1](https://example.com/file.av1 ".av1") | [.webm](https://example.com/file.webm ".webm") | [.xvid](https://example.com/file.xvid ".xvid") | [.mkv](https://example.com/file.mkv ".mkv") | [.mk3d](https://example.com/file.mk3d ".mk3d") | [.ogm](https://example.com/file.ogm ".ogm") | [.ogv](https://example.com/file.ogv ".ogv") | [.divx](https://example.com/file.divx ".divx") | [.avi](https://example.com/file.avi ".avi") | [.mp4](https://example.com/file.mp4 ".mp4") | [.mpeg4](https://example.com/file.mpeg4 ".mpeg4") | [.mpv](https://example.com/file.mpv ".mpv") | [.mpeg](https://example.com/file.mpeg ".mpeg") | [.mpg](https://example.com/file.mpg ".mpg")
-  - Subtitle
+  - 부제
     - [.vtt](https://example.com/file.vtt ".vtt") | [.ttml](https://example.com/file.ttml ".ttml") | [.dfxp](https://example.com/file.dfxp ".dfxp") | [.srt](https://example.com/file.srt ".srt") | [.sub](https://example.com/file.sub ".sub") | [.sbv](https://example.com/file.sbv ".sbv") | [.scc](https://example.com/file.scc ".scc") | [.mks](https://example.com/file.mks ".mks")
-  - Executables
+  - 실행 파일
     - [.deb](https://example.com/file.deb ".deb") | [.apk](https://example.com/file.apk ".apk") | [.exe](https://example.com/file.exe ".exe") | [.com](https://example.com/file.com ".com") | [.msi](https://example.com/file.msi ".msi")
-  - Scripts
+  - 스크립트
     - [.bat](https://example.com/file.bat ".bat") | [.sh](https://example.com/file.sh ".sh")
-  - Fonts
+  - 글꼴
     - [.woff](https://example.com/file.woff ".woff") | [.woff2](https://example.com/file.woff2 ".woff2") | [.otf](https://example.com/file.otf ".otf") | [.ttf](https://example.com/file.ttf ".ttf") | [.ttc](https://example.com/file.ttc ".ttc")
-  - Compressed files
+  - 압축 파일
     - [.7z](https://example.com/file.7z ".7z") | [.7zip](https://example.com/file.7zip ".7zip") | [.tar](https://example.com/file.tar ".tar") | [.gz](https://example.com/file.gz ".gz") | [.gzip](https://example.com/file.gzip ".gzip") | [.bz2](https://example.com/file.bz2 ".bz2") | [.bzip2](https://example.com/file.bzip2 ".bzip2") | [.zip](https://example.com/file.zip ".zip") | [.rar](https://example.com/file.rar ".rar")
-  - Disk images
+  - 디스크 이미지
     - [.img](https://example.com/file.img ".img") | [.iso](https://example.com/file.iso ".iso") | [.dmg](https://example.com/file.dmg ".dmg") | [.mds](https://example.com/file.mds ".mds") | [.mdf](https://example.com/file.mdf ".mdf") | [.mdx](https://example.com/file.mdx ".mdx")
-  - Image editing
+  - 이미지 편집
     - [.xcf](https://example.com/file.xcf ".xcf") | [.psd](https://example.com/file.psd ".psd")
   ```
 
-Will render as:
+다음과 같이 렌더링됩니다.
 
-- External links
+- 외부 링크
   - [https://example.com/#fragment](https://example.com/#fragment "https://example.com/#fragment")
-- Chat
+- 채팅
   - [irc://](irc://example.com "irc://") | [ircs://](ircs://example.com "ircs://") | [irc6://](irc6://example.com "irc6://") | [xmpp://](xmpp://example.com "xmpp://") | [jabber://](jabber://example.com "jabber://") | [discord://](discord://example.com "discord://") | [skype://](skype://example.com "skype://")
 - FTP
   - [sftp://](sftp://example.com "sftp://") | [ftp://](ftp://example.com "ftp://") | [aftp://](aftp://example.com "aftp://")
@@ -288,44 +288,44 @@ Will render as:
   - [magnet://](magnet://example.com "magnet://")
 - Mail
   - [mailto:](mailto:noreply@example.com "mailto:")
-- Remote
+- 원격
   - [telnet://](telnet://example.com "telnet://") | [ssh://](ssh://example.com "ssh://") | [git://](git://example.com "git://") | [svn://](svn://example.com "svn://") | [bzr://](bzr://example.com "bzr://")
 - Tel
   - [tel:](tel:123-456-7890 "tel:")
-- Books
+- 서적
   - [doi://](doi://example.com "doi://") | [.epub](https://example.com/file.epub ".epub") | [.mobi](https://example.com/file.mobi ".mobi") | [.pdf](https://example.com/file.pdf ".pdf")
-- Document
+- 문서
   - [.odt](https://example.com/file.odt ".odt") | [.sdw](https://example.com/file.sdw ".sdw") | [.sxw](https://example.com/file.sxw ".sxw") | [.uof](https://example.com/file.uof ".uof") | [.uot](https://example.com/file.uot ".uot") | [.doc](https://example.com/file.doc ".doc") | [.docx](https://example.com/file.docx ".docx")
-- Text
+- 텍스트
   - [.txt](https://example.com/file.txt ".txt") | [.csv](https://example.com/file.csv ".csv")
-- Presentation
+- 프레젠테이션
   - [.odp](https://example.com/file.odp ".odp") | [.fodp](https://example.com/file.fodp ".fodp") | [.sdd](https://example.com/file.sdd ".sdd") | [.sdp](https://example.com/file.sdp ".sdp") | [.sxi](https://example.com/file.sxi ".sxi") | [.uop](https://example.com/file.uop ".uop") | [.ppt](https://example.com/file.ppt ".ppt") | [.pptx](https://example.com/file.pptx ".pptx")
-- Spreadsheet
+- 스프레드시트
   - [.ods](https://example.com/file.ods ".ods") | [.fods](https://example.com/file.fods ".fods") | [.sdc](https://example.com/file.sdc ".sdc") | [.sxc](https://example.com/file.sxc ".sxc") | [.uos](https://example.com/file.uos ".uos") | [.xls](https://example.com/file.xls ".xls") | [.xlsx](https://example.com/file.xlsx ".xlsx")
-- Audio
+- 오디오
   - [.flac](https://example.com/file.flac ".flac") | [.aac](https://example.com/file.aac ".aac") | [.mka](https://example.com/file.mka ".mka") | [.ogg](https://example.com/file.ogg ".ogg") | [.oga](https://example.com/file.oga ".oga") | [.opus](https://example.com/file.opus ".opus") | [.mp3](https://example.com/file.mp3 ".mp3") | [.mpa](https://example.com/file.mpa ".mpa") | [.mid](https://example.com/file.mid ".mid") | [.midi](https://example.com/file.midi ".midi") | [.wav](https://example.com/file.wav ".wav") | [.wave](https://example.com/file.wave ".wave") | [.wma](https://example.com/file.wma ".wma")
-- Video
+- 동영상
   - [.av1](https://example.com/file.av1 ".av1") | [.webm](https://example.com/file.webm ".webm") | [.xvid](https://example.com/file.xvid ".xvid") | [.mkv](https://example.com/file.mkv ".mkv") | [.mk3d](https://example.com/file.mk3d ".mk3d") | [.ogm](https://example.com/file.ogm ".ogm") | [.ogv](https://example.com/file.ogv ".ogv") | [.divx](https://example.com/file.divx ".divx") | [.avi](https://example.com/file.avi ".avi") | [.mp4](https://example.com/file.mp4 ".mp4") | [.mpeg4](https://example.com/file.mpeg4 ".mpeg4") | [.mpv](https://example.com/file.mpv ".mpv") | [.mpeg](https://example.com/file.mpeg ".mpeg") | [.mpg](https://example.com/file.mpg ".mpg")
-- Subtitle
+- 부제
   - [.vtt](https://example.com/file.vtt ".vtt") | [.ttml](https://example.com/file.ttml ".ttml") | [.dfxp](https://example.com/file.dfxp ".dfxp") | [.srt](https://example.com/file.srt ".srt") | [.sub](https://example.com/file.sub ".sub") | [.sbv](https://example.com/file.sbv ".sbv") | [.scc](https://example.com/file.scc ".scc") | [.mks](https://example.com/file.mks ".mks")
-- Executables
+- 실행 파일
   - [.deb](https://example.com/file.deb ".deb") | [.apk](https://example.com/file.apk ".apk") | [.exe](https://example.com/file.exe ".exe") | [.com](https://example.com/file.com ".com") | [.msi](https://example.com/file.msi ".msi")
-- Scripts
+- 스크립트
   - [.bat](https://example.com/file.bat ".bat") | [.sh](https://example.com/file.sh ".sh")
-- Fonts
+- 글꼴
   - [.woff](https://example.com/file.woff ".woff") | [.woff2](https://example.com/file.woff2 ".woff2") | [.otf](https://example.com/file.otf ".otf") | [.ttf](https://example.com/file.ttf ".ttf") | [.ttc](https://example.com/file.ttc ".ttc")
-- Compressed files
+- 압축 파일
   - [.7z](https://example.com/file.7z ".7z") | [.7zip](https://example.com/file.7zip ".7zip") | [.tar](https://example.com/file.tar ".tar") | [.gz](https://example.com/file.gz ".gz") | [.gzip](https://example.com/file.gzip ".gzip") | [.bz2](https://example.com/file.bz2 ".bz2") | [.bzip2](https://example.com/file.bzip2 ".bzip2") | [.zip](https://example.com/file.zip ".zip") | [.rar](https://example.com/file.rar ".rar")
-- Disk images
+- 디스크 이미지
   - [.img](https://example.com/file.img ".img") | [.iso](https://example.com/file.iso ".iso") | [.dmg](https://example.com/file.dmg ".dmg") | [.mds](https://example.com/file.mds ".mds") | [.mdf](https://example.com/file.mdf ".mdf") | [.mdx](https://example.com/file.mdx ".mdx")
-- Image editing
+- 이미지 편집
   - [.xcf](https://example.com/file.xcf ".xcf") | [.psd](https://example.com/file.psd ".psd")
 
-An official list of Uniform Resource Identifier (URI) Schemes can be found at the IANA official website. [^uri-schemes-iana] However, not all popular URI Schemes were registered and/or submitted, for example, `discord://` and `bzr://` (as of IANA document dated 2022-05-13). Regardless, these popular unregistered URI Schemes were included in the above code.
+URI(Uniform Resource Identifier) 체계의 공식 목록은 IANA 공식 웹사이트에서 확인할 수 있습니다. [^uri-schemes-iana] 그러나 `discord://` 및 `bzr://` (2022-05-13 일자 IANA 문서 기준)과 같이 널리 사용되는 모든 URI 체계가 등록 및/또는 제출된 것은 아닙니다. 그럼에도 불구하고 이러한 인기 있는 등록되지 않은 URI 스키마가 위의 코드에 포함되었습니다.
 
 [^uri-schemes-iana]: IANA: [URI Schemes](https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml)
 
-I hope you find it useful!
+유용하게 사용하시길 바랍니다!
 
 ---
 
@@ -337,7 +337,7 @@ I hope you find it useful!
   link="https://img.youronly.one/h/hugo-markdown-link-render.webp"
   linkrel="noopener"
 
-  title="How To Customize Markdown Links in Hugo"
+  title="Hugo에서 Markdown 링크를 사용자 지정하는 방법"
 
   licensecode="ccbysa4"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"

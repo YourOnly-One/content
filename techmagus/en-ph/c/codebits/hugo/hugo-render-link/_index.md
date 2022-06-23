@@ -1,13 +1,13 @@
 +++
-title = "Hugo：Markdown リンクをカスタマイズする"
-description = "Hugo Markdownリンクに相互参照サポート、リンクアイコンなどを追加する方法。"
+title = "Hugo: Customize Your Markdown Links"
+description = "How to add cross reference support, link icons, and more in Hugo Markdown links."
 
 #lastmod = "{{ .Date }}"                 # last update; manually adjust to local timezone
 #publishdate = "{{ .Date }}"             # first publication; manually adjust to local timezone
 #date = "{{ .Date }}"                    # first created; manually adjust to local timezone
 #expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
 
-aliases = ["/ja/codebits/how-to-customize-markdown-links-hugo-2022135"]                                        # "/post"
+aliases = ["/codebits/how-to-customize-markdown-links-hugo-2022135", "/c/codebits/hugo-render-link"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
 #slug = ""
 translationKey = "section-hugo-markdown-links"
@@ -18,7 +18,7 @@ translationKey = "section-hugo-markdown-links"
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-syndications = ["https://mastodon.social/@youronlyone/108303916946754498", "https://diasp.org/posts/21145789", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid036F7UJdHLFXMvcXkuA1ox3iUDUougC3w7WJjCcB8198AtFrwHqAA52fBzgHMj22Upl", "https://twitter.com/YourOnlyONEofcl/status/1525681470022508544"]
+syndications = ["https://mastodon.social/@youronlyone/108303915231124593", "https://diasp.org/posts/21145789", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid036F7UJdHLFXMvcXkuA1ox3iUDUougC3w7WJjCcB8198AtFrwHqAA52fBzgHMj22Upl", "https://twitter.com/YourOnlyONEofcl/status/1525681466302246912"]
 
 #channels = [""]
 #categories = [""]
@@ -34,7 +34,7 @@ comments = false
 toc = true
 
 #audio = [""]
-images = ["https://img.youronly.one/h/hugo-markdown-link-render.webp"]                 # used for og:images, etc.; first image is cover image
+images = ["https://img.youronly.one/h/hugo-markdown-link-render.webp"]
 #videos = ["https://www.youtube.com/watch?v="]
 
 #type = ""                                             # article, sitepage, review
@@ -54,15 +54,15 @@ images = ["https://img.youronly.one/h/hugo-markdown-link-render.webp"]          
   #rel = "noopener"
 +++
 
-{{% quote type="name" lang="en" %}}Hugo{{% /quote %}}での{{% quote type="name" lang="en" %}}Markdown{{% /quote %}}リンクのレンダリング方法をカスタマイズする方法をお探しですか？ リンクアイコンを追加したいですか？ または、（古い方法） `{{</* ref */>}}`を使用せずに内部相互参照のサポートを追加するのはどうですか？
+Are you looking for ways to customize how {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} links are rendered in {{% quote type="name" lang="en" %}}Hugo{{% /quote %}}? Maybe you want to add link icons? Or, how about add support for internal cross reference without using (the old method) `{{</* ref */>}}`?
 
-{{% quote type="name" lang="en" %}}Hugo{{% /quote %}}には、{{% quote type="work" lang="en" %}}allow custom templates to override markdown rendering functionality{{% /quote %}} (翻訳：カスタムテンプレートがマークダウンレンダリング機能をオーバーライドできるようにする) [^hugo-markdown-render-hooks] {{% quote type="name" lang="en" %}}Markdown{{% /quote %}}レンダリングフックと呼ばれる機能があります。 現在、一般的に要求される4つの{{% quote type="name" lang="en" %}}Markdown{{% /quote %}}レンダリング領域をサポートしています。
+{{% quote type="name" lang="en" %}}Hugo{{% /quote %}} has a feature called {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} render hooks which {{% quote type="work" lang="en" %}}allow custom templates to override markdown rendering functionality{{% /quote %}} [^hugo-markdown-render-hooks]. It currently supports four, commonly requested, {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} rendering areas:
 
 - codeblock
 - heading
 - image
 - link
 
-{{% quote type="name" lang="en" %}}Hugo{{% /quote %}}の{{% quote type="name" lang="en" %}}Markdown{{% /quote %}}リンクのレンダリング方法をカスタマイズするさまざまな方法があります。
+Here are various ways to customize how {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} links in {{% quote type="name" lang="en" %}}Hugo{{% /quote %}} can be rendered.
 
 [^hugo-markdown-render-hooks]: Hugo: [Markdown Render Hooks](https://gohugo.io/templates/render-hooks/ "Hugo: Markdown Render Hooks")
