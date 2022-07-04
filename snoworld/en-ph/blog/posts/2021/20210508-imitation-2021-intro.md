@@ -33,7 +33,7 @@ type = "article"                                                           # art
 #license = ""
 
 #audio = [""]																# og:audio
-images = ["https://img.youronly.one/p/Imitation-(2021)-Title.webp", "https://img.youronly.one/p/Imitation-(2021)-Agency_Accommodation-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Away_from_Family-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Dream-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Dream-02.webp", "https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-02.webp", "https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-03.webp", "https://img.youronly.one/p/Imitation-(2021)-Omega_III-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Omega_III-02.webp", "https://img.youronly.one/p/Imitation-(2021)-Omega_III-03.webp", "https://img.youronly.one/p/Imitation-(2021)-Omega_III-04.webp", "https://img.youronly.one/p/Imitation-(2021)-Quitting-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Quitting-02.webp", "https://img.youronly.one/p/Imitation-(2021)-Shax-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-02.webp"]    # og:images
+images = ["images/i/imitation-(2021)-title.webp", "images/i/imitation-(2021)-agency-accommodation-01.webp", "images/i/imitation-(2021)-away-from-family-01.webp", "images/i/imitation-(2021)-dream-01.webp", "images/i/imitation-(2021)-dream-02.webp", "images/i/imitation-(2021)-lee-ma-ha-01.webp", "images/i/imitation-(2021)-lee-ma-ha-02.webp", "images/i/imitation-(2021)-lee-ma-ha-03.webp", "images/i/imitation-(2021)-omega-iii-01.webp", "images/i/imitation-(2021)-omega-iii-02.webp", "images/i/imitation-(2021)-omega-iii-03.webp", "images/i/imitation-(2021)-omega-iii-04.webp", "images/i/imitation-(2021)-quitting-01.webp", "images/i/imitation-(2021)-quitting-02.webp", "images/i/imitation-(2021)-shax-01.webp", "images/i/imitation-(2021)-sold-to-another-agency-01.webp", "images/i/imitation-(2021)-sold-to-another-agency-02.webp"]    # og:images
 videos = ["https://www.youtube.com/watch?v=m7WhnM4mU4w"]                                # og:video
 
 contenttypes = ["CriticReview"]
@@ -183,12 +183,12 @@ Meanwhile, 《Lee Yu Jin》, 《Ma Ha》's loyal friend who is the center of the
 This new 2021 Korean Drama entitled 《Imitation》 should appeal to all fans of K-Pop or Korean Music. It tells the story K-Pop idols went through when they dreamed of debuting in the industry and the life they experience as an idol that the public rarely sees. This was the tone they established in episode 1 as 《Lee Ma Ha》, an aspiring idol, spent her teenage years training hard and non-stop just to be selected to debut on the elusive stage of Korean Music.
 
 {{< image
-  width="50%"
+  width="48%"
   class="obj_floatleft"
   type="image"
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Dream-01.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Dream-01.webp"
+  src="images/i/imitation-(2021)-dream-01.webp"
+  link="images/i/imitation-(2021)-dream-01.webp"
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -207,12 +207,12 @@ This new 2021 Korean Drama entitled 《Imitation》 should appeal to all fans of
 >}}
 
 {{< image
-  width="50%"
+  width="48%"
   class="obj_floatright"
   type="image"
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Dream-02.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Dream-02.webp"
+  src="images/i/imitation-(2021)-dream-02.webp"
+  link="images/i/imitation-(2021)-dream-02.webp"
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -233,12 +233,12 @@ This new 2021 Korean Drama entitled 《Imitation》 should appeal to all fans of
 <div class="floatclear"></div>
 
 {{< image
-  width="50%"
+  width="48%"
   class="obj_floatleft"
   type="image"
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-01.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-01.webp"
+  src="images/i/imitation-(2021)-lee-ma-ha-01.webp"
+  link="images/i/imitation-(2021)-lee-ma-ha-01.webp"
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -257,12 +257,12 @@ This new 2021 Korean Drama entitled 《Imitation》 should appeal to all fans of
 >}}
 
 {{< image
-  width="50%"
+  width="48%"
   class="obj_floatright"
   type="image"
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-02.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-02.webp"
+  src="images/i/imitation-(2021)-lee-ma-ha-02.webp"
+  link="images/i/imitation-(2021)-lee-ma-ha-02.webp"
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -285,8 +285,8 @@ This new 2021 Korean Drama entitled 《Imitation》 should appeal to all fans of
 {{< image
   type="image"
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-03.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-03.webp"
+  src="images/i/imitation-(2021)-lee-ma-ha-03.webp"
+  link="images/i/imitation-(2021)-lee-ma-ha-03.webp"
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -314,8 +314,8 @@ In the era of millions of K-Pop idol trainees, only 0.1% are selected to debut. 
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Shax-01.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Shax-01.webp"
+  src="images/i/imitation-(2021)-shax-01.webp"
+  link="images/i/imitation-(2021)-shax-01.webp"
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -336,12 +336,12 @@ In the era of millions of K-Pop idol trainees, only 0.1% are selected to debut. 
 And being selected does not mean a trainee will debut as was depicted in the first episode, anything can happen, like a member quitting and committing suicide due to stress, unfulfilled dreams, and the harsh environment some agencies provide.
 
 {{< image
-  width="50%"
+  width="48%"
   class="obj_floatleft"
   type="image"
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Quitting-01.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Quitting-01.webp"
+  src="images/i/imitation-(2021)-quitting-01.webp"
+  link="images/i/imitation-(2021)-quitting-01.webp"
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -360,12 +360,12 @@ And being selected does not mean a trainee will debut as was depicted in the fir
 >}}
 
 {{< image
-  width="50%"
+  width="48%"
   class="obj_floatright"
   type="image"
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Quitting-02.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Quitting-02.webp"
+  src="images/i/imitation-(2021)-quitting-02.webp"
+  link="images/i/imitation-(2021)-quitting-02.webp"
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -391,8 +391,8 @@ And being selected does not mean a trainee will debut as was depicted in the fir
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Agency_Accommodation-01.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Agency_Accommodation-01.webp"
+  src="images/i/imitation-(2021)-agency-accommodation-01.webp"
+  link="images/i/imitation-(2021)-agency-accommodation-01.webp"
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -418,8 +418,8 @@ Being away from your family, especially in special occasions, is very depressing
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Away_from_Family-01.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Away_from_Family-01.webp"
+  src="images/i/imitation-(2021)-away-from-family-01.webp"
+  link="images/i/imitation-(2021)-away-from-family-01.webp"
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -440,12 +440,12 @@ Being away from your family, especially in special occasions, is very depressing
 If that was not enough, 《Lee Ma Ha》's agency sold her to a less popular company.
 
 {{< image
-  width="50%"
+  width="48%"
   class="obj_floatleft"
   type="image"
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-01.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-01.webp"
+  src="images/i/imitation-(2021)-sold-to-another-agency-01.webp"
+  link="images/i/imitation-(2021)-sold-to-another-agency-01.webp"
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -464,12 +464,12 @@ If that was not enough, 《Lee Ma Ha》's agency sold her to a less popular comp
 >}}
 
 {{< image
-  width="50%"
+  width="48%"
   class="obj_floatright"
   type="image"
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-02.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-02.webp"
+  src="images/i/imitation-(2021)-sold-to-another-agency-02.webp"
+  link="images/i/imitation-(2021)-sold-to-another-agency-02.webp"
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -494,12 +494,12 @@ If that was not enough, 《Lee Ma Ha》's agency sold her to a less popular comp
 Regardless if one is a solo act or a group, they have to market themselves within the industry and introduce themselves to their seniors. In a very competitive industry such as K-Pop idol world, getting your seniors to like your music, your act, and them saying something positive about you or your group, will help in exposure and potential success. Like what 《Omega III》 did in episode 1, they even gave a free copy of their single to their seniors.
 
 {{< image
-  width="50%"
+  width="48%"
   class="obj_floatleft"
   type="image"
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Omega_III-01.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Omega_III-01.webp"
+  src="images/i/imitation-(2021)-omega-iii-01.webp"
+  link="images/i/imitation-(2021)-omega-iii-01.webp"
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -518,12 +518,12 @@ Regardless if one is a solo act or a group, they have to market themselves withi
 >}}
 
 {{< image
-  width="50%"
+  width="48%"
   class="obj_floatright"
   type="image"
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Omega_III-02.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Omega_III-02.webp"
+  src="images/i/imitation-(2021)-omega-iii-02.webp"
+  link="images/i/imitation-(2021)-omega-iii-02.webp"
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -544,12 +544,12 @@ Regardless if one is a solo act or a group, they have to market themselves withi
 <div class="floatclear"></div>
 
 {{< image
-  width="50%"
+  width="48%"
   class="obj_floatleft"
   type="image"
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Omega_III-03.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Omega_III-03.webp"
+  src="images/i/imitation-(2021)-omega-iii-03.webp"
+  link="images/i/imitation-(2021)-omega-iii-03.webp"
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -568,12 +568,12 @@ Regardless if one is a solo act or a group, they have to market themselves withi
 >}}
 
 {{< image
-  width="50%"
+  width="48%"
   class="obj_floatright"
   type="image"
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Omega_III-04.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Omega_III-04.webp"
+  src="images/i/imitation-(2021)-omega-iii-04.webp"
+  link="images/i/imitation-(2021)-omega-iii-04.webp"
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -617,7 +617,7 @@ Respect them. Stop bullying them.
 {{< image
   type="imagecoverattrib"
 
-  link="https://img.youronly.one/p/Imitation-(2021)-Title.webp"
+  link="images/i/imitation-(2021)-title.webp"
   linkrel="noopener external nofollow"
 
   title="Imitation"

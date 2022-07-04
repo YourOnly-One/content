@@ -27,7 +27,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
-images = ["https://img.youronly.one/k/K-pop_1st_Generation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
+images = ["images/k/kpop-1st-generation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
 videos = ["https://www.youtube.com/watch?v=OEDHEzs5kyk", "https://www.youtube.com/watch?v=zEx_sjAkT5Y", "https://www.youtube.com/watch?v=nrNx1NuDAGs", "https://www.youtube.com/watch?v=JaKZel1Ijfo", "https://www.youtube.com/watch?v=Wqu7X_aMA3c", "https://www.youtube.com/watch?v=bwr1dfTyhhY", "https://www.youtube.com/watch?v=WruayckJTMY", "https://www.youtube.com/watch?v=mxD4dd75_YU", "https://www.youtube.com/watch?v=1mWCan2qb_U", "https://www.youtube.com/watch?v=P61ndtsw8x4", "https://www.youtube.com/watch?v=bQxSnvda0vs", "https://www.youtube.com/watch?v=CwuTCJ1WpJY", "https://www.youtube.com/watch?v=WqDfAtSxf0o", "https://www.youtube.com/watch?v=Yq8coViLkVo", "https://www.youtube.com/watch?v=vcDvdtAl4rg", "https://www.youtube.com/watch?v=R9sLJJtoiRo", "https://www.youtube.com/watch?v=Kh-AMnZojcE", "https://www.youtube.com/watch?v=ZlRYeom9Szc", "https://www.youtube.com/watch?v=Lfgg_AVzyIg", "https://www.youtube.com/watch?v=ExNuwh4Kq5Q", "https://www.youtube.com/watch?v=PZ-rMQtWoTc", "https://www.youtube.com/watch?v=GaW8CGJfEa4", "https://www.youtube.com/watch?v=iKdr44yEBQU", "https://www.youtube.com/watch?v=3eHi8VHKymo", "https://www.youtube.com/watch?v=evb-3W3Wnls", "https://www.youtube.com/watch?v=BZAbbYVH1EQ", "https://www.youtube.com/watch?v=DfslE2pbmCk", "https://www.youtube.com/watch?v=2pB0zurYJAc", "https://www.youtube.com/watch?v=mZcYcS2x0rA", "https://www.youtube.com/watch?v=QoRs_lwwW8E"]                                                       # used by og:video, etc.
 
 type = "sitepage"                                                           # article, sitepage, review
@@ -780,7 +780,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/k/K-pop_1st_Generation-01.webp"
+  link="images/k/kpop-1st-generation-01.webp"
   linkrel="noopener"
 
   title="K-pop 1st Generation"

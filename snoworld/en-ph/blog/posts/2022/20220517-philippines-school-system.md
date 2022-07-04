@@ -34,7 +34,7 @@ comments = true
 toc = true
 
 #audio = [""]
-#images = ["https://img.youronly.one/{LETTER}/{FILENAME}.webp"]
+#images = ["images/{LETTER}/{FILENAME}.webp"]
 #videos = ["https://www.youtube.com/watch?v="]
 
 type = "article"                                             # article, sitepage, review
@@ -107,7 +107,7 @@ Senior (21–22)
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/"
+  link="images/{LETTER}/{FILENAME}.webp"
   linkrel="noopener"
   thumbnailurl=""
 

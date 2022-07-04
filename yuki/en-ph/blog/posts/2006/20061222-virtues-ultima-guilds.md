@@ -34,7 +34,7 @@ comments = true
 toc = true
 
 #audio = [""]
-#images = ["https://img.youronly.one/{LETTER}/{FILENAME}.webp"]
+#images = ["images/{LETTER}/{FILENAME}.webp"]
 #videos = ["https://www.youtube.com/watch?v="]
 
 type = "article"                                             # article, sitepage, review
@@ -212,7 +212,7 @@ Article history:
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/"
+  link=""
   linkrel="noopener"
   thumbnailurl=""
 

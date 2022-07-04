@@ -28,7 +28,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
-images = ["https://img.youronly.one/p/ppopcon-2022-cover.webp"]                                                       # used by og:images, etc.; first image is cover image
+images = ["images/p/ppopcon-2022-cover.webp", "images/p/ppopcon-2022-ticket-benefits.jpg"]                                                       # used by og:images, etc.; first image is cover image
 videos = ["https://www.youtube.com/watch?v=JrTfeAGX48o"]                                                       # used by og:video, etc.
 
 type = "article"                                                           # article, sitepage, review
@@ -186,8 +186,8 @@ Tickets for the 2022 PPOPCON is available at Ticketnet outlets (SM Malls, Fisher
 Tickets can also be bought online via Ticketnet Online: [2022 PPOPCON Concert Ticket Sales](https://ticketnet.com.ph/events/detail/2022-PPOPCON) and [2022 PPOPCON Concert Streaming Ticket Sales](https://streaming.ticketnet.com.ph/product/2022-ppop-con-smart-araneta-coliseum/). For provincial and International ticket reservation see: [2022 PPOPCON (APRIL 10,2022) Provincial and International Ticket Reservation](https://docs.google.com/forms/d/e/1FAIpQLSd_su5c1LQK0WG4s-jb8QyejjMGuQA5vLE0-SAvF5P_xv_RBQ/viewform).
 
 {{< image
-  src="https://img.youronly.one/p/ppopcon-2022-ticket-benefits.jpg"
-  link="https://img.youronly.one/p/ppopcon-2022-ticket-benefits.jpg"
+  src="images/p/ppopcon-2022-ticket-benefits.jpg"
+  link="images/p/ppopcon-2022-ticket-benefits.jpg"
   linkrel="noopener"
 
   title="PPOPCON Concert"
@@ -258,7 +258,7 @@ See you there!
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/p/ppopcon-2022-cover.webp"
+  link="images/p/ppopcon-2022-cover.webp"
   linkrel="noopener"
 
   title="PPOPCON 2022"

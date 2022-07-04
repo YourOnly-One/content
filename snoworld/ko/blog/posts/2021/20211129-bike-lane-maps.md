@@ -28,7 +28,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
-images = ["https://img.youronly.one/p/yuki/CyclOSM-01.webp"]                                                       # used by og:images, etc.; first image is cover image
+images = ["images/c/cyclosm-01.webp"]                                                       # used by og:images, etc.; first image is cover image
 #videos = [""]                                                       # used by og:video, etc.
 
 type = "article"                                                           # article, sitepage, review
@@ -89,7 +89,7 @@ CyclOSM은 다음 스마트폰 앱에서 사용할 수 있습니다.
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/p/yuki/CyclOSM-01.webp"
+  link="images/c/cyclosm-01.webp"
   linkrel="noopener external"
   thumbnailurl=""
 

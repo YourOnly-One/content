@@ -34,7 +34,7 @@ type = "article"                                                           # art
 contenttypes = ["CriticReview"]
 
 #audio = [""]																# og:audio
-images = ["https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-01.webp", "https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-02.webp", "https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-03.webp"]    # og:images
+images = ["images/l/lovestruck-in-the-city-(2020)-01.webp", "images/l/lovestruck-in-the-city-(2020)-02.webp", "images/l/lovestruck-in-the-city-(2020)-03.webp"]    # og:images
 videos = ["https://www.youtube.com/watch?v=-lKjFaESjwk"]                                # og:video
 
 [[authors]]
@@ -179,8 +179,8 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-02.webp"
-  link="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-02.webp"
+  src="images/l/lovestruck-in-the-city-(2020)-02.webp"
+  link="images/l/lovestruck-in-the-city-(2020)-02.webp"
   linkrel="noopener external nofollow"
 
   title="都会の男女の恋愛法 (2020)"
@@ -214,8 +214,8 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-03.webp"
-  link="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-03.webp"
+  src="images/l/lovestruck-in-the-city-(2020)-03.webp"
+  link="images/l/lovestruck-in-the-city-(2020)-03.webp"
   linkrel="noopener external nofollow"
 
   title="都会の男女の恋愛法 (2020)"
@@ -336,7 +336,7 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
 {{< image
   type="imagecoverattrib"
 
-  link="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-01.webp"
+  link="images/l/lovestruck-in-the-city-(2020)-01.webp"
   linkrel="noopener external nofollow"
 
   title="都会の男女の恋愛法 (2020)"

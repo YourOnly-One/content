@@ -26,7 +26,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
-#images = ["https://img.youronly.one/"]                                                       # used by og:images, etc.; first image is cover image
+#images = ["images/{LETTER}/{FILENAME}.webp"]                                                       # used by og:images, etc.; first image is cover image
 #videos = ["https://www.youtube.com/watch?v="]                                                       # used by og:video, etc.
 
 type = "article"                                                           # article, sitepage, review
@@ -49,22 +49,7 @@ SUMMARY
 
 <!--more-->
 
-{{< figure src="./image.png" caption="./" >}}
-
-{{< figure src="image.png" caption="filename.ext" >}}
-
-{{< figure src="../image.png" caption="../" >}}
-
-![Image Test](https://gohugo.io/news/0.82.0-relnotes/featured.png)
-![Image Test](https://gohugo.io/news/0.82.0-relnotes/featured.png)
-{data-something="something"}
-
-![Image Test](https://gohugo.io/news/0.82.0-relnotes/featured.png){data-something="something"}
-
-- [Laurel & Hardy](/laurel-hardy/)
-- [Laurel &amp; Hardy](/laurel-hardy/)
-- [Laurel &#x26; Hardy](/laurel-hardy/)
-- [Laurel &#38; Hardy](/laurel-hardy/)
+WEH
 
 ---
 
@@ -73,7 +58,7 @@ SUMMARY
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/"
+  link=""
   linkrel="noopener external"
   thumbnailurl=""
 

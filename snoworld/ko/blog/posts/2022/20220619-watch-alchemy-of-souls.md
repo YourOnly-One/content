@@ -34,7 +34,7 @@ comments = true
 toc = true
 
 #audio = [""]
-images = ["https://img.youronly.one/a/alchemy-of-souls-00-cover.png"]
+images = ["images/a/alchemy-of-souls-00-cover.png", "images/a/alchemy-of-souls-02.webp", "images/a/alchemy-of-souls-06.webp", "images/a/alchemy-of-souls-05.webp", "images/a/alchemy-of-souls-04.webp", "images/a/alchemy-of-souls-01.webp", "images/a/alchemy-of-souls-07.webp", "images/a/alchemy-of-souls-03.webp", "images/a/alchemy-of-souls-08.webp"]
 #videos = ["https://www.youtube.com/watch?v="]
 
 type = "review"                                             # article, sitepage, review
@@ -187,13 +187,13 @@ contenttypes = ["CriticReview"]
 {{% quote type="name" lang="ko" %}}장욱{{% /quote %}}은 아버지에게 봉인된 마법으로 성장했다. 그는 봉인을 풀고 마법을 가르칠 수 있는 강력한 주인을 계속 찾아 헤매고, 그의 길은 {{% quote type="name" lang="ko" %}}무덕{{% /quote %}}과 교차할 때까지 계속된다.
 
 {{< image
-  width="50%"
+  width="48%"
   class="obj_floatleft"
 
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/alchemy-of-souls-02.webp"
-  link="https://img.youronly.one/a/alchemy-of-souls-02.webp"
+  src="images/a/alchemy-of-souls-02.webp"
+  link="images/a/alchemy-of-souls-02.webp"
   linkrel="noopener"
 
   title="환혼"
@@ -210,13 +210,13 @@ contenttypes = ["CriticReview"]
 >}}
 
 {{< image
-  width="50%"
+  width="48%"
   class="obj_floatright"
 
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/alchemy-of-souls-06.webp"
-  link="https://img.youronly.one/a/alchemy-of-souls-06.webp"
+  src="images/a/alchemy-of-souls-06.webp"
+  link="images/a/alchemy-of-souls-06.webp"
   linkrel="noopener"
 
   title="환혼"
@@ -243,13 +243,13 @@ contenttypes = ["CriticReview"]
 {{% quote type="name" lang="ko" %}}무덕{{% /quote %}}은 {{% quote type="name" lang="ko" %}}정소민{{% /quote %}}의 개인 메이드 {{% quote type="name" lang="ko" %}}정소민{{% /quote %}}이 맡는다. 그녀는 실제로 가장 두려운 마법사 암살자이자 그녀의 일족 살해에 대한 복수를 추구하는 {{% quote type="name" lang="ko" %}}낙수{{% /quote %}}입니다. 그러나 환혼술을 수행한 후 그녀는 자신도 모르게 나약하고 마력이 없어 보이는 {{% quote type="name" lang="ko" %}}무덕{{% /quote %}}의 몸을 차지하게 된다.
 
 {{< image
-  width="50%"
+  width="48%"
   class="obj_floatleft"
 
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/alchemy-of-souls-05.webp"
-  link="https://img.youronly.one/a/alchemy-of-souls-05.webp"
+  src="images/a/alchemy-of-souls-05.webp"
+  link="images/a/alchemy-of-souls-05.webp"
   linkrel="noopener"
 
   title="환혼"
@@ -266,13 +266,13 @@ contenttypes = ["CriticReview"]
 >}}
 
 {{< image
-  width="50%"
+  width="48%"
   class="obj_floatright"
 
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/alchemy-of-souls-04.webp"
-  link="https://img.youronly.one/a/alchemy-of-souls-04.webp"
+  src="images/a/alchemy-of-souls-04.webp"
+  link="images/a/alchemy-of-souls-04.webp"
   linkrel="noopener"
 
   title="환혼"
@@ -313,8 +313,8 @@ contenttypes = ["CriticReview"]
 {{< image
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/alchemy-of-souls-01.webp"
-  link="https://img.youronly.one/a/alchemy-of-souls-01.webp"
+  src="images/a/alchemy-of-souls-01.webp"
+  link="images/a/alchemy-of-souls-01.webp"
   linkrel="noopener"
 
   title="환혼"
@@ -348,8 +348,8 @@ contenttypes = ["CriticReview"]
 {{< image
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/alchemy-of-souls-07.webp"
-  link="https://img.youronly.one/a/alchemy-of-souls-07.webp"
+  src="images/a/alchemy-of-souls-07.webp"
+  link="images/a/alchemy-of-souls-07.webp"
   linkrel="noopener"
 
   title="환혼"
@@ -392,8 +392,8 @@ contenttypes = ["CriticReview"]
 {{< image
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/alchemy-of-souls-03.webp"
-  link="https://img.youronly.one/a/alchemy-of-souls-03.webp"
+  src="images/a/alchemy-of-souls-03.webp"
+  link="images/a/alchemy-of-souls-03.webp"
   linkrel="noopener"
 
   title="환혼"
@@ -431,8 +431,8 @@ contenttypes = ["CriticReview"]
 {{< image
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/alchemy-of-souls-08.webp"
-  link="https://img.youronly.one/a/alchemy-of-souls-08.webp"
+  src="images/a/alchemy-of-souls-08.webp"
+  link="images/a/alchemy-of-souls-08.webp"
   linkrel="noopener"
 
   title="환혼"
@@ -484,7 +484,7 @@ contenttypes = ["CriticReview"]
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/a/alchemy-of-souls-00-cover.png"
+  link="images/a/alchemy-of-souls-00-cover.png"
   linkrel="noopener"
 
   title="환혼"

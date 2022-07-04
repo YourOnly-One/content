@@ -34,7 +34,7 @@ contenttypes = ["CriticReview"]
 #license = "link to custom license if different from website license"
 
 #audio = [""]                                                       # og:audio
-images = ["https://img.youronly.one/p/The_King-Eternal_Monarch-(2020)-01.jpg"]                                                      # og:images
+images = ["images/t/the-king-eternal-monarch-(2020)-01.jpg"]                                                      # og:images
 videos = ["https://www.youtube.com/watch?v=N1L1iaFZQ9I"]                                                      # og:video
 
 [[authors]]
@@ -274,7 +274,7 @@ Overall score of 9.5 out of 10 stars.
 {{< image
   type="imagecoverattrib"
 
-  link="https://img.youronly.one/p/The_King-Eternal_Monarch-(2020)-01.jpg"
+  link="images/t/the-king-eternal-monarch-(2020)-01.jpg"
   linkrel="noopener external nofollow"
 
   title="The King: Eternal Monarch (2020)"

@@ -34,7 +34,7 @@ type = "article"                                                           # art
 contenttypes = ["CriticReview"]
 
 #audio = [""]																# og:audio
-images = ["https://img.youronly.one/p/The_Uncanny_Counter-(2020)-01.webp", "https://img.youronly.one/p/The_Uncanny_Counter-(2020)-02.jpeg"]    # og:images
+images = ["images/t/the-uncanny-counter-(2020)-01.webp", "images/t/the-uncanny-counter-(2020)-02.jpeg"]    # og:images
 videos = ["https://www.youtube.com/watch?v=rI55SRM6uhs"]                                # og:video
 
 [[authors]]
@@ -169,8 +169,8 @@ The multiple story arcs were well thought out and I was amazed with how these di
   height=""
   width=""
 
-  src="https://img.youronly.one/p/The_Uncanny_Counter-(2020)-02.jpeg"
-  link="https://img.youronly.one/p/The_Uncanny_Counter-(2020)-02.jpeg"
+  src="images/t/the-uncanny-counter-(2020)-02.jpeg"
+  link="images/t/the-uncanny-counter-(2020)-02.jpeg"
   linkrel="noopener external nofollow"
 
   title="The Uncanny Counter (2020)"
@@ -256,7 +256,7 @@ Since it was already announced that season 2 was given a green light, it further
 {{< image
   type="imagecoverattrib"
 
-  link="https://img.youronly.one/p/The_Uncanny_Counter-(2020)-01.webp"
+  link="images/t/the-uncanny-counter-(2020)-01.webp"
   linkrel="noopener external nofollow"
 
   title="The Uncanny Counter (2020)"

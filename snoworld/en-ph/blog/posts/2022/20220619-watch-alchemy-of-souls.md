@@ -34,7 +34,7 @@ comments = true
 toc = true
 
 #audio = [""]
-images = ["https://img.youronly.one/a/alchemy-of-souls-00-cover.png"]
+images = ["images/a/alchemy-of-souls-00-cover.png", "images/a/alchemy-of-souls-02.webp", "images/a/alchemy-of-souls-06.webp", "images/a/alchemy-of-souls-05.webp", "images/a/alchemy-of-souls-04.webp", "images/a/alchemy-of-souls-01.webp", "images/a/alchemy-of-souls-07.webp", "images/a/alchemy-of-souls-03.webp", "images/a/alchemy-of-souls-08.webp"]
 #videos = ["https://www.youtube.com/watch?v="]
 
 type = "review"                                             # article, sitepage, review
@@ -187,13 +187,13 @@ Here is a short rundown and quick feedback about the premier of this live-action
 {{% quote type="name" lang="ko-Latn" %}}Jang Uk{{% /quote %}} grew up with his magic sealed by his father. He continually searches for a master powerful enough to break the seal and teach him magic, magic that is rightfully his, until his path crossed with {{% quote type="name" lang="ko-Latn" %}}Mu Deok{{% /quote %}}.
 
 {{< image
-  width="50%"
+  width="48%"
   class="obj_floatleft"
 
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/alchemy-of-souls-02.webp"
-  link="https://img.youronly.one/a/alchemy-of-souls-02.webp"
+  src="images/a/alchemy-of-souls-02.webp"
+  link="images/a/alchemy-of-souls-02.webp"
   linkrel="noopener"
 
   title="Alchemy of Souls (환혼)"
@@ -210,13 +210,13 @@ Here is a short rundown and quick feedback about the premier of this live-action
 >}}
 
 {{< image
-  width="50%"
+  width="48%"
   class="obj_floatright"
 
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/alchemy-of-souls-06.webp"
-  link="https://img.youronly.one/a/alchemy-of-souls-06.webp"
+  src="images/a/alchemy-of-souls-06.webp"
+  link="images/a/alchemy-of-souls-06.webp"
   linkrel="noopener"
 
   title="Alchemy of Souls (환혼)"
@@ -243,13 +243,13 @@ Together, they embark on a fantastical journey of magic, romance, and survival i
 {{% quote type="name" lang="ko-Latn" %}}Mu Deok{{% /quote %}} is played by {{% quote type="name" lang="ko-Latn" %}}Jung So Min{{% /quote %}} ({{% quote type="name" lang="ko" %}}정소민{{% /quote %}}), a personal maid of {{% quote type="name" lang="ko-Latn" %}}Jang Uk{{% /quote %}}. She is actually {{% quote type="name" lang="ko-Latn" %}}Nak Su{{% /quote %}}, the most feared mage assassin and who is seeking revenge for the murder of her clan. However, after performing the alchemy of souls, she inadvertedly taken over the body of {{% quote type="name" lang="ko-Latn" %}}Mu Deok{{% /quote %}}, who is weak and seemingly have no pathways to magic.
 
 {{< image
-  width="50%"
+  width="48%"
   class="obj_floatleft"
 
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/alchemy-of-souls-05.webp"
-  link="https://img.youronly.one/a/alchemy-of-souls-05.webp"
+  src="images/a/alchemy-of-souls-05.webp"
+  link="images/a/alchemy-of-souls-05.webp"
   linkrel="noopener"
 
   title="Alchemy of Souls (환혼)"
@@ -266,13 +266,13 @@ Together, they embark on a fantastical journey of magic, romance, and survival i
 >}}
 
 {{< image
-  width="50%"
+  width="48%"
   class="obj_floatright"
 
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/alchemy-of-souls-04.webp"
-  link="https://img.youronly.one/a/alchemy-of-souls-04.webp"
+  src="images/a/alchemy-of-souls-04.webp"
+  link="images/a/alchemy-of-souls-04.webp"
   linkrel="noopener"
 
   title="Alchemy of Souls (환혼)"
@@ -313,8 +313,8 @@ There are four powerful mage clans in {{% quote type="name" lang="ko-Latn" %}}Da
 {{< image
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/alchemy-of-souls-01.webp"
-  link="https://img.youronly.one/a/alchemy-of-souls-01.webp"
+  src="images/a/alchemy-of-souls-01.webp"
+  link="images/a/alchemy-of-souls-01.webp"
   linkrel="noopener"
 
   title="Alchemy of Souls (환혼)"
@@ -348,8 +348,8 @@ There are four powerful mage clans in {{% quote type="name" lang="ko-Latn" %}}Da
 {{< image
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/alchemy-of-souls-07.webp"
-  link="https://img.youronly.one/a/alchemy-of-souls-07.webp"
+  src="images/a/alchemy-of-souls-07.webp"
+  link="images/a/alchemy-of-souls-07.webp"
   linkrel="noopener"
 
   title="Alchemy of Souls (환혼)"
@@ -392,8 +392,8 @@ There are four powerful mage clans in {{% quote type="name" lang="ko-Latn" %}}Da
 {{< image
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/alchemy-of-souls-03.webp"
-  link="https://img.youronly.one/a/alchemy-of-souls-03.webp"
+  src="images/a/alchemy-of-souls-03.webp"
+  link="images/a/alchemy-of-souls-03.webp"
   linkrel="noopener"
 
   title="Alchemy of Souls (환혼)"
@@ -431,8 +431,8 @@ There are four powerful mage clans in {{% quote type="name" lang="ko-Latn" %}}Da
 {{< image
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/alchemy-of-souls-08.webp"
-  link="https://img.youronly.one/a/alchemy-of-souls-08.webp"
+  src="images/a/alchemy-of-souls-08.webp"
+  link="images/a/alchemy-of-souls-08.webp"
   linkrel="noopener"
 
   title="Alchemy of Souls (환혼)"
@@ -484,7 +484,7 @@ Looking for a true live-action high fantasy? Look no further, {{% quote type="ti
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/a/alchemy-of-souls-00-cover.png"
+  link="images/a/alchemy-of-souls-00-cover.png"
   linkrel="noopener"
 
   title="Alchemy of Souls (환혼)"

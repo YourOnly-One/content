@@ -28,7 +28,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
-images = ["https://img.youronly.one/p/versesspace/freeculture/copyleft-copyright-01.webp"]                                                       # used by og:images, etc.; first image is cover image
+images = ["images/c/copyleft-copyright-01.webp"]                                                       # used by og:images, etc.; first image is cover image
 #videos = [""]                                                       # used by og:video, etc.
 
 type = "article"                                                           # article, sitepage, review

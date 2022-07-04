@@ -34,7 +34,7 @@ type = "article"                                                           # art
 contenttypes = ["CriticReview"]
 
 #audio = [""]																# og:audio
-images = ["https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-01.webp", "https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"]    # og:images
+images = ["images/p/please-dont-date-him-(2020)-01.webp", "images/p/please-dont-date-him-(2020)-02.webp"]    # og:images
 videos = ["https://www.youtube.com/watch?v=gHJBiKk1hYw"]                                # og:video
 
 [[authors]]
@@ -167,8 +167,8 @@ The literary device used for the plot was properly used and was not just a liter
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
-  link="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
+  src="images/p/please-dont-date-him-(2020)-02.webp"
+  link="images/p/please-dont-date-him-(2020)-02.webp"
   linkrel="noopener"
 
   title="Please Don't Date Him (2020)"
@@ -250,7 +250,7 @@ It's sad that they only planned a total of ten (10) episodes, they could have ex
 {{< image
   type="imagecoverattrib"
 
-  link="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-01.webp"
+  link="images/p/please-dont-date-him-(2020)-01.webp"
   linkrel="noopener"
 
   title="Please Don't Date Him (2020)"

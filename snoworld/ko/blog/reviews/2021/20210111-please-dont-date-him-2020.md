@@ -34,7 +34,7 @@ type = "article"                                                           # art
 contenttypes = ["CriticReview"]
 
 #audio = [""]																# og:audio
-images = ["https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-01.webp", "https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"]    # og:images
+images = ["images/p/please-dont-date-him-(2020)-01.webp", "images/p/please-dont-date-him-(2020)-02.webp"]    # og:images
 videos = ["https://www.youtube.com/watch?v=gHJBiKk1hYw"]                                # og:video
 
 [[authors]]
@@ -167,8 +167,8 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
-  link="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
+  src="images/p/please-dont-date-him-(2020)-02.webp"
+  link="images/p/please-dont-date-him-(2020)-02.webp"
   linkrel="noopener"
 
   title="제발 그 남자 만나지 마요 (2020)"
@@ -250,7 +250,7 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
 {{< image
   type="imagecoverattrib"
 
-  link="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-01.webp"
+  link="images/p/please-dont-date-him-(2020)-01.webp"
   linkrel="noopener"
 
   title="제발 그 남자 만나지 마요 (2020)"

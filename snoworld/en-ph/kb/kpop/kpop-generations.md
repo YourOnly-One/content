@@ -28,7 +28,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
-images = ["https://img.youronly.one/k/K-pop_Generations-01.webp"]                                                       # used by og:images, etc.; first image is cover image
+images = ["images/k/kpop-generations-01.webp"]                                                       # used by og:images, etc.; first image is cover image
 #videos = [""]                                                       # used by og:video, etc.
 
 type = "sitepage"                                                           # article, sitepage, review
@@ -161,7 +161,7 @@ We know it is your *Sweet Dream* that you are our *Only One*, and ladies, in *Ev
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/k/K-pop_Generations-01.webp"
+  link="images/k/kpop-generations-01.webp"
   linkrel="noopener"
 
   title="K-pop Generations"

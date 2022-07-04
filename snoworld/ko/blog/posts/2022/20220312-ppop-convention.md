@@ -28,7 +28,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
-images = ["https://img.youronly.one/p/ppopcon-2022-cover.webp"]                                                       # used by og:images, etc.; first image is cover image
+images = ["images/p/ppopcon-2022-cover.webp", "images/p/ppopcon-2022-ticket-benefits.jpg"]                                                       # used by og:images, etc.; first image is cover image
 videos = ["https://www.youtube.com/watch?v=JrTfeAGX48o"]                                                       # used by og:video, etc.
 
 type = "article"                                                           # article, sitepage, review
@@ -186,8 +186,8 @@ type = "article"                                                           # art
 티켓은 또한 <bdi lang="en-PH">Ticketnet Online</bdi>: [2022 PPOPCON 콘서트 티켓 판매](https://ticketnet.com.ph/events/detail/2022-PPOPCON) 및 [2022 PPOPCON 콘서트 스트리밍 티켓 판매를](https://streaming.ticketnet.com.ph/product/2022-ppop-con-smart-araneta-coliseum/) 통해 온라인으로 구매할 수 있습니다. 지방 및 국제 티켓 예약은 [2022 PPOP 컨벤션(2022년 4월 10일) 지방 및 국제 티켓 예약을](https://docs.google.com/forms/d/e/1FAIpQLSd_su5c1LQK0WG4s-jb8QyejjMGuQA5vLE0-SAvF5P_xv_RBQ/viewform) 참조하십시오.
 
 {{< image
-  src="https://img.youronly.one/p/ppopcon-2022-ticket-benefits.jpg"
-  link="https://img.youronly.one/p/ppopcon-2022-ticket-benefits.jpg"
+  src="images/p/ppopcon-2022-ticket-benefits.jpg"
+  link="images/p/ppopcon-2022-ticket-benefits.jpg"
   linkrel="noopener"
 
   title="PPOPCON Concert"
@@ -258,7 +258,7 @@ type = "article"                                                           # art
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/p/ppopcon-2022-cover.webp"
+  link="images/p/ppopcon-2022-cover.webp"
   linkrel="noopener"
 
   title="PPOPCON 2022"

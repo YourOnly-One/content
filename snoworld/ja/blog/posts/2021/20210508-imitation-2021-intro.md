@@ -33,7 +33,7 @@ type = "article"                                                           # art
 #license = ""
 
 #audio = [""]																# og:audio
-images = ["https://img.youronly.one/p/Imitation-(2021)-Title.webp", "https://img.youronly.one/p/Imitation-(2021)-Agency_Accommodation-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Away_from_Family-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Dream-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Dream-02.webp", "https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-02.webp", "https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-03.webp", "https://img.youronly.one/p/Imitation-(2021)-Omega_III-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Omega_III-02.webp", "https://img.youronly.one/p/Imitation-(2021)-Omega_III-03.webp", "https://img.youronly.one/p/Imitation-(2021)-Omega_III-04.webp", "https://img.youronly.one/p/Imitation-(2021)-Quitting-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Quitting-02.webp", "https://img.youronly.one/p/Imitation-(2021)-Shax-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-02.webp"]    # og:images
+images = ["images/i/imitation-(2021)-title.webp", "images/i/imitation-(2021)-agency-accomodation-01.webp", "images/i/imitation-(2021)-away-from-family-01.webp", "images/i/imitation-(2021)-dream-01.webp", "images/i/imitation-(2021)-dream-02.webp", "images/i/imitation-(2021)-lee-ma-ha-01.webp", "images/i/imitation-(2021)-lee-ma-ha-02.webp", "images/i/imitation-(2021)-lee-ma-ha-03.webp", "images/i/imitation-(2021)-omega-iii-01.webp", "images/i/imitation-(2021)-omega-iii-02.webp", "images/i/imitation-(2021)-omega-iii-03.webp", "images/i/imitation-(2021)-omega-iii-04.webp", "images/i/imitation-(2021)-quitting-01.webp", "images/i/imitation-(2021)-quitting-02.webp", "images/i/imitation-(2021)-shax-01.webp", "images/i/imitation-(2021)-sold-to-another-agency-01.webp", "images/i/imitation-(2021)-sold-to-another-agency-02.webp"]    # og:images
 videos = ["https://www.youtube.com/watch?v=m7WhnM4mU4w"]                                # og:video
 
 contenttypes = ["CriticReview"]
@@ -188,8 +188,8 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Dream-01.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Dream-01.webp"
+  src="images/i/imitation-(2021)-dream-01.webp"
+  link="images/i/imitation-(2021)-dream-01.webp"
   linkrel="noopener external nofollow"
 
   title="《イミテーション》 (2021)"
@@ -213,8 +213,8 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Dream-02.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Dream-02.webp"
+  src="images/i/imitation-(2021)-dream-02.webp"
+  link="images/i/imitation-(2021)-dream-02.webp"
   linkrel="noopener external nofollow"
 
   title="《イミテーション》 (2021)"
@@ -238,8 +238,8 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-01.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-01.webp"
+  src="images/i/imitation-(2021)-lee-ma-ha-01.webp"
+  link="images/i/imitation-(2021)-lee-ma-ha-01.webp"
   linkrel="noopener external nofollow"
 
   title="《イミテーション》 (2021)"
@@ -263,8 +263,8 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-02.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-02.webp"
+  src="images/i/imitation-(2021)-lee-ma-ha-02.webp"
+  link="images/i/imitation-(2021)-lee-ma-ha-02.webp"
   linkrel="noopener external nofollow"
 
   title="《イミテーション》 (2021)"
@@ -288,8 +288,8 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-03.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-03.webp"
+  src="images/i/imitation-(2021)-lee-ma-ha-03.webp"
+  link="images/i/imitation-(2021)-lee-ma-ha-03.webp"
   linkrel="noopener external nofollow"
 
   title="《イミテーション》 (2021)"
@@ -317,8 +317,8 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Shax-01.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Shax-01.webp"
+  src="images/i/imitation-(2021)-shax-01.webp"
+  link="images/i/imitation-(2021)-shax-01.webp"
   linkrel="noopener external nofollow"
 
   title="《イミテーション》 (2021)"
@@ -344,8 +344,8 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Quitting-01.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Quitting-01.webp"
+  src="images/i/imitation-(2021)-quitting-01.webp"
+  link="images/i/imitation-(2021)-quitting-01.webp"
   linkrel="noopener external nofollow"
 
   title="《イミテーション》 (2021)"
@@ -369,8 +369,8 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Quitting-02.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Quitting-02.webp"
+  src="images/i/imitation-(2021)-quitting-02.webp"
+  link="images/i/imitation-(2021)-quitting-02.webp"
   linkrel="noopener external nofollow"
 
   title="《イミテーション》 (2021)"
@@ -394,8 +394,8 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Agency_Accommodation-01.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Agency_Accommodation-01.webp"
+  src="images/i/imitation-(2021)-agency-accomodation-01.webp"
+  link="images/i/imitation-(2021)-agency-accomodation-01.webp"
   linkrel="noopener external nofollow"
 
   title="《イミテーション》 (2021)"
@@ -421,8 +421,8 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Away_from_Family-01.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Away_from_Family-01.webp"
+  src="images/i/imitation-(2021)-away-from-family-01.webp"
+  link="images/i/imitation-(2021)-away-from-family-01.webp"
   linkrel="noopener external nofollow"
 
   title="《イミテーション》 (2021)"
@@ -448,8 +448,8 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-01.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-01.webp"
+  src="images/i/imitation-(2021)-sold-to-another-agency-01.webp"
+  link="images/i/imitation-(2021)-sold-to-another-agency-01.webp"
   linkrel="noopener external nofollow"
 
   title="《イミテーション》 (2021)"
@@ -473,8 +473,8 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-02.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-02.webp"
+  src="images/i/imitation-(2021)-sold-to-another-agency-02.webp"
+  link="images/i/imitation-(2021)-sold-to-another-agency-02.webp"
   linkrel="noopener external nofollow"
 
   title="《イミテーション》 (2021)"
@@ -502,8 +502,8 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Omega_III-01.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Omega_III-01.webp"
+  src="images/i/imitation-(2021)-omega-iii-01.webp"
+  link="images/i/imitation-(2021)-omega-iii-01.webp"
   linkrel="noopener external nofollow"
 
   title="《イミテーション》 (2021)"
@@ -527,8 +527,8 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Omega_III-02.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Omega_III-02.webp"
+  src="images/i/imitation-(2021)-omega-iii-02.webp"
+  link="images/i/imitation-(2021)-omega-iii-02.webp"
   linkrel="noopener external nofollow"
 
   title="《イミテーション》 (2021)"
@@ -552,8 +552,8 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Omega_III-03.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Omega_III-03.webp"
+  src="images/i/imitation-(2021)-omega-iii-03.webp"
+  link="images/i/imitation-(2021)-omega-iii-03.webp"
   linkrel="noopener external nofollow"
 
   title="《イミテーション》 (2021)"
@@ -577,8 +577,8 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Imitation-(2021)-Omega_III-04.webp"
-  link="https://img.youronly.one/p/Imitation-(2021)-Omega_III-04.webp"
+  src="images/i/imitation-(2021)-omega-iii-04.webp"
+  link="images/i/imitation-(2021)-omega-iii-04.webp"
   linkrel="noopener external nofollow"
 
   title="《イミテーション》 (2021)"
@@ -656,7 +656,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 {{< image
   type="imagecoverattrib"
 
-  link="https://img.youronly.one/p/Imitation-(2021)-Title.webp"
+  link="images/i/imitation-(2021)-title.webp"
   linkrel="noopener external nofollow"
 
   title="イミテーション"

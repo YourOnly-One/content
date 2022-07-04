@@ -28,7 +28,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                          # used for og:audio, etc.
-images = ["https://img.youronly.one/g/grid-red-logo.webp"]                 # used for og:images, etc.; first image is cover image
+images = ["images/g/grid-red-logo.webp", "images/g/grid-device-the-ghost-02.webp", "images/g/grid-sae-ha-death.webp", "images/g/grid-the-ghost-remembering-sae-ha.webp", "images/g/grid-the-ghost-vs-foe-blue-01.webp", "images/g/grid-storehouse-sae-ha-2022.webp", "images/g/grid-the-ghost-vs-foe-blue-04.webp", "images/g/grid-device-blue-time-traveler-friendly-01.webp", "images/g/grid-device-blue-time-traveler-foe-01.webp", "images/g/grid-device-blue-time-traveler-foe-02.webp", "images/g/grid-device-blue-time-traveler-foe-03.webp", "images/g/grid-the-ghost-blue-time-traveler-sae-ha.awebp", "images/g/grid-irr-destroyed-2022.awebp", "images/g/grid-faction-scene.webp", "images/g/grid-destroyed-2022-01.webp", "images/g/grid-microtesla-blue-time-traveler-friendly-230µT-01.webp", "images/g/grid-microtesla-blue-time-traveler-friendly-230µT-02.webp", "images/g/grid-microtesla-ghost-408µT-and-blue-237µT-01.webp", "images/g/grid-vanishing-time-travelers.awebp"]                 # used for og:images, etc.; first image is cover image
 #videos = ["https://www.youtube.com/watch?v="]                         # used for og:video, etc.
 
 type = "article"                                                             # article, sitepage, review
@@ -198,8 +198,8 @@ Before we begin we need to be on the same page on how to approach the questions 
     The time travel device can only be controlled by a person with a chip implanted in their arm. The chip is the bridge between a person's brain and the device.
 
     {{< image
-      src="https://img.youronly.one/g/grid-device-the-ghost-02.webp"
-      link="https://img.youronly.one/g/grid-device-the-ghost-02.webp"
+      src="images/g/grid-device-the-ghost-02.webp"
+      link="images/g/grid-device-the-ghost-02.webp"
       linkrel="noopener"
 
       title="Grid (그리드)"
@@ -271,8 +271,8 @@ Realities and versions are technically the same. *Reality* is used to refer to c
 100% did not. Here are the reasons why:
 
 {{< image
-  src="https://img.youronly.one/g/grid-sae-ha-death.webp"
-  link="https://img.youronly.one/g/grid-sae-ha-death.webp"
+  src="images/g/grid-sae-ha-death.webp"
+  link="images/g/grid-sae-ha-death.webp"
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -295,8 +295,8 @@ If it is not possible to visit the future beyond a time traveler's origin time, 
 The Ghost, herself, is another clue.
 
 {{< image
-  src="https://img.youronly.one/g/grid-the-ghost-remembering-sae-ha.webp"
-  link="https://img.youronly.one/g/grid-the-ghost-remembering-sae-ha.webp"
+  src="images/g/grid-the-ghost-remembering-sae-ha.webp"
+  link="images/g/grid-the-ghost-remembering-sae-ha.webp"
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -330,8 +330,8 @@ It did not occur to her that events that should happen will still happen as long
 Here is how it happened:
 
 {{< image
-  src="https://img.youronly.one/g/grid-the-ghost-vs-foe-blue-01.webp"
-  link="https://img.youronly.one/g/grid-the-ghost-vs-foe-blue-01.webp"
+  src="images/g/grid-the-ghost-vs-foe-blue-01.webp"
+  link="images/g/grid-the-ghost-vs-foe-blue-01.webp"
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -421,8 +421,8 @@ Sae Ha made a choice to die because they found no other way to alter events with
 He is the Sae Ha the Friendly Blue Time Traveler saved. However, he can not reveal himself, otherwise they would risk changing recorded history.
 
 {{< image
-  src="https://img.youronly.one/g/grid-storehouse-sae-ha-2022.webp"
-  link="https://img.youronly.one/g/grid-storehouse-sae-ha-2022.webp"
+  src="images/g/grid-storehouse-sae-ha-2022.webp"
+  link="images/g/grid-storehouse-sae-ha-2022.webp"
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -483,8 +483,8 @@ This is the only way for events, mentioned in <q>[What is the relation of Sae Ha
 ## The Ghost
 
 {{< image
-  src="https://img.youronly.one/g/grid-the-ghost-vs-foe-blue-04.webp"
-  link="https://img.youronly.one/g/grid-the-ghost-vs-foe-blue-04.webp"
+  src="images/g/grid-the-ghost-vs-foe-blue-04.webp"
+  link="images/g/grid-the-ghost-vs-foe-blue-04.webp"
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -588,8 +588,8 @@ Good question! Unfortunately there is no way to know who is the Blue Time Travel
     - His time device is slimmer and pointed.
 
 {{< image
-  src="https://img.youronly.one/g/grid-device-blue-time-traveler-friendly-01.webp"
-  link="https://img.youronly.one/g/grid-device-blue-time-traveler-friendly-01.webp"
+  src="images/g/grid-device-blue-time-traveler-friendly-01.webp"
+  link="images/g/grid-device-blue-time-traveler-friendly-01.webp"
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -614,8 +614,8 @@ Good question! Unfortunately there is no way to know who is the Blue Time Travel
   class=""
   style=""
 
-  src="https://img.youronly.one/g/grid-device-blue-time-traveler-foe-01.webp"
-  link="https://img.youronly.one/g/grid-device-blue-time-traveler-foe-01.webp"
+  src="images/g/grid-device-blue-time-traveler-foe-01.webp"
+  link="images/g/grid-device-blue-time-traveler-foe-01.webp"
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -635,8 +635,8 @@ Good question! Unfortunately there is no way to know who is the Blue Time Travel
   class=""
   style=""
 
-  src="https://img.youronly.one/g/grid-device-blue-time-traveler-foe-02.webp"
-  link="https://img.youronly.one/g/grid-device-blue-time-traveler-foe-02.webp"
+  src="images/g/grid-device-blue-time-traveler-foe-02.webp"
+  link="images/g/grid-device-blue-time-traveler-foe-02.webp"
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -656,8 +656,8 @@ Good question! Unfortunately there is no way to know who is the Blue Time Travel
   class=""
   style=""
 
-  src="https://img.youronly.one/g/grid-device-blue-time-traveler-foe-03.webp"
-  link="https://img.youronly.one/g/grid-device-blue-time-traveler-foe-03.webp"
+  src="images/g/grid-device-blue-time-traveler-foe-03.webp"
+  link="images/g/grid-device-blue-time-traveler-foe-03.webp"
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -676,8 +676,8 @@ Maybe they are twins or clones or one is an earlier version of the other. Regard
 As the Friendly Blue Time Traveler said in English, <q>It's not me. Can't you see it?</q> while he was pointing with his eyes to look at his time device (he was also aware someone who looked exactly like him fought her). Upon realising this, the Ghost let him do what he was about to.
 
 {{< image
-  src="https://img.youronly.one/g/grid-the-ghost-blue-time-traveler-sae-ha.webp"
-  link="https://img.youronly.one/g/grid-the-ghost-blue-time-traveler-sae-ha.webp"
+  src="images/g/grid-the-ghost-blue-time-traveler-sae-ha.awebp"
+  link="images/g/grid-the-ghost-blue-time-traveler-sae-ha.awebp"
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -745,8 +745,8 @@ This question was asked by [@Eliza M](https://mydramalist.com/profile/7681823) o
 The Grid that was destroyed is in 2022, not the 1997 Grid.
 
 {{< image
-  src="https://img.youronly.one/g/grid-irr-destroyed-2022.webp"
-  link="https://img.youronly.one/g/grid-irr-destroyed-2022.webp"
+  src="images/g/grid-irr-destroyed-2022.awebp"
+  link="images/g/grid-irr-destroyed-2022.awebp"
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -783,8 +783,8 @@ The man who appears to be the subordinate could be the Friendly Blue Time Travel
 He made this report to who appears to be his superior, <q>The Grid is all gone. From all the times and layers.</q>
 
 {{< image
-  src="https://img.youronly.one/g/grid-faction-scene.webp"
-  link="https://img.youronly.one/g/grid-faction-scene.webp"
+  src="images/g/grid-faction-scene.webp"
+  link="images/g/grid-faction-scene.webp"
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -833,8 +833,8 @@ The clue in episode 10 points to Song Eo Jin.
 Maybe, maybe not. Since the Ghost said she was born in 2091, Byeori would be 69 years old by then.
 
 {{< image
-  src="https://img.youronly.one/g/grid-destroyed-2022-01.webp"
-  link="https://img.youronly.one/g/grid-destroyed-2022-01.webp"
+  src="images/g/grid-destroyed-2022-01.webp"
+  link="images/g/grid-destroyed-2022-01.webp"
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -907,8 +907,8 @@ For a human being to produce over 100 µT meant they were exposed to extremely p
 - Sae Ha: 106 µT
 
 {{< image
-  src="https://img.youronly.one/g/grid-microtesla-blue-time-traveler-friendly-230µT-01.webp"
-  link="https://img.youronly.one/g/grid-microtesla-blue-time-traveler-friendly-230µT-01.webp"
+  src="images/g/grid-microtesla-blue-time-traveler-friendly-230µT-01.webp"
+  link="images/g/grid-microtesla-blue-time-traveler-friendly-230µT-01.webp"
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -923,8 +923,8 @@ For a human being to produce over 100 µT meant they were exposed to extremely p
 >}}
 
 {{< image
-  src="https://img.youronly.one/g/grid-microtesla-blue-time-traveler-friendly-230µT-02.webp"
-  link="https://img.youronly.one/g/grid-microtesla-blue-time-traveler-friendly-230µT-02.webp"
+  src="images/g/grid-microtesla-blue-time-traveler-friendly-230µT-02.webp"
+  link="images/g/grid-microtesla-blue-time-traveler-friendly-230µT-02.webp"
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -939,8 +939,8 @@ For a human being to produce over 100 µT meant they were exposed to extremely p
 >}}
 
 {{< image
-  src="https://img.youronly.one/g/grid-microtesla-ghost-408µT-and-blue-237µT-01.webp"
-  link="https://img.youronly.one/g/grid-microtesla-ghost-408µT-and-blue-237µT-01.webp"
+  src="images/g/grid-microtesla-ghost-408µT-and-blue-237µT-01.webp"
+  link="images/g/grid-microtesla-ghost-408µT-and-blue-237µT-01.webp"
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -983,8 +983,8 @@ If you have additional questions or not-so-violent reactions, you can also leave
 Thank you for listening (or reading in this case).
 
 {{< image
-  src="https://img.youronly.one/g/grid-vanishing-time-travelers.webp"
-  link="https://img.youronly.one/g/grid-vanishing-time-travelers.webp"
+  src="images/g/grid-vanishing-time-travelers.awebp"
+  link="images/g/grid-vanishing-time-travelers.awebp"
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -1005,7 +1005,7 @@ Thank you for listening (or reading in this case).
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/g/grid-red-logo.webp"
+  link="images/g/grid-red-logo.webp"
   linkrel="noopener"
 
   title="Grid (그리드)"

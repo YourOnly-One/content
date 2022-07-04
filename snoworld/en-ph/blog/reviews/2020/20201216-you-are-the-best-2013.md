@@ -34,7 +34,7 @@ type = "article"                                                           # art
 contenttypes = ["CriticReview"]
 
 #audio = [""]																# og:audio
-images = ["https://img.youronly.one/p/You_Are_The_Best-(2013)-01.webp", "https://img.youronly.one/p/You_Are_The_Best-(2013)-02.webp"]		# og:images
+images = ["images/y/you-are-the-best-(2013)-01.webp", "images/y/you-are-the-best-(2013)-02.webp"]		# og:images
 videos = ["https://www.youtube.com/watch?v=ardVKfVYRa8"]                                # og:video
 
 [[authors]]
@@ -211,8 +211,8 @@ I'm giving it an 8 out of 10 stars.
   height=""
   width=""
 
-  src="https://img.youronly.one/p/You_Are_The_Best-(2013)-02.webp"
-  link="https://img.youronly.one/p/You_Are_The_Best-(2013)-02.webp"
+  src="images/y/you-are-the-best-(2013)-02.webp"
+  link="images/y/you-are-the-best-(2013)-02.webp"
   linkrel="noopener external nofollow"
 
   title="You Are The Best! (2013)"
@@ -298,7 +298,7 @@ Overall, I'm giving the series 8 out of 10 stars. It was a great show and it was
 {{< image
   type="imagecoverattrib"
 
-  link="https://img.youronly.one/p/You_Are_The_Best-(2013)-01.webp"
+  link="images/y/you-are-the-best-(2013)-01.webp"
   linkrel="noopener external nofollow"
 
   title="You Are The Best! (2013)"

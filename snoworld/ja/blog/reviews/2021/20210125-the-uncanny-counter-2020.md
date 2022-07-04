@@ -35,7 +35,7 @@ type = "article"                                                           # art
 contenttypes = ["CriticReview"]
 
 #audio = [""]																# og:audio
-images = ["https://img.youronly.one/p/The_Uncanny_Counter-(2020)-01.webp", "https://img.youronly.one/p/The_Uncanny_Counter-(2020)-02.jpeg"]    # og:images
+images = ["images/t/the-uncanny-counter-(2020)-01.webp", "images/t/the-uncanny-counter-(2020)-02.jpeg"]    # og:images
 videos = ["https://www.youtube.com/watch?v=rI55SRM6uhs"]                                # og:video
 
 [[authors]]
@@ -170,8 +170,8 @@ sameas = ["https://www.imdb.com/name/nm1602570"]
   height=""
   width=""
 
-  src="https://img.youronly.one/p/The_Uncanny_Counter-(2020)-02.jpeg"
-  link="https://img.youronly.one/p/The_Uncanny_Counter-(2020)-02.jpeg"
+  src="images/t/the-uncanny-counter-(2020)-02.jpeg"
+  link="images/t/the-uncanny-counter-(2020)-02.jpeg"
   linkrel="noopener external nofollow"
 
   title="驚異的な噂 (2020)"
@@ -257,7 +257,7 @@ sameas = ["https://www.imdb.com/name/nm1602570"]
 {{< image
   type="imagecoverattrib"
 
-  link="https://img.youronly.one/p/The_Uncanny_Counter-(2020)-01.webp"
+  link="images/t/the-uncanny-counter-(2020)-01.webp"
   linkrel="noopener external nofollow"
 
   title="驚異的な噂 (2020)"

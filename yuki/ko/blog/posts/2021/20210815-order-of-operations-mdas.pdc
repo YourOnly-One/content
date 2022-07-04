@@ -35,7 +35,7 @@ type = "article"                                                           # art
 
 #videos = [""]																# og:video
 #audio = [""]																# og:audio
-images = ["https://img.youronly.one/p/Mathematics-chalkboard-pixabay_license.jpg"]    # og:images
+images = ["images/m/mathematics-chalkboard-pixabay-license.jpg"]    # og:images
 
 [[authors]]
 person = "yuki"
@@ -198,7 +198,7 @@ MDAS, PEMDAS, BEDMAS, BODMAS, BIDMAS 및 GEMDAS는 보는 것에 의존하기 �
 {{< image
   type="imagecoverattrib"
 
-  link="https://img.youronly.one/p/Mathematics-chalkboard-pixabay_license.jpg"
+  link="images/m/mathematics-chalkboard-pixabay-license.jpg"
   linkrel="noopener external nofollow"
 
   title="Mathematics chalkboard"

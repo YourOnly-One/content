@@ -56,8 +56,8 @@ For example, in **Baybayin-Tagalog**, the layout was split in two groups with a 
 {{< image
   type="image"
 
-  height="50%"
-  width="50%"
+  height="48%"
+  width="48%"
 
   src="https://1.bp.blogspot.com/-TkqwVveQ7Ng/XuN_HJfV25I/AAAAAAAAivE/CdyjIzSXZosZ1IukmC2WV9B3_6jHTBMnQCPcBGAYYCw/s1600/Gboard-Baybayin_Layouts.jpg"
   link="https://1.bp.blogspot.com/-TkqwVveQ7Ng/XuN_HJfV25I/AAAAAAAAivE/CdyjIzSXZosZ1IukmC2WV9B3_6jHTBMnQCPcBGAYYCw/s1600/Gboard-Baybayin_Layouts.jpg"
@@ -87,8 +87,8 @@ The continued Baybayin request by the Baybayin community finally showed results.
 {{< image
   type="image"
 
-  height="50%"
-  width="50%"
+  height="48%"
+  width="48%"
 
   src="https://4.bp.blogspot.com/-2KsIhfyB7tw/XuN_F_jadmI/AAAAAAAAiu4/Ml-oTghjH9caBvjw_XizloNoxam_oOhZACPcBGAYYCw/s1600/GBoard-02-Baybayin-Buhid.png"
   link="https://4.bp.blogspot.com/-2KsIhfyB7tw/XuN_F_jadmI/AAAAAAAAiu4/Ml-oTghjH9caBvjw_XizloNoxam_oOhZACPcBGAYYCw/s1600/GBoard-02-Baybayin-Buhid.png"
@@ -112,8 +112,8 @@ The continued Baybayin request by the Baybayin community finally showed results.
 {{< image
   type="image"
 
-  height="50%"
-  width="50%"
+  height="48%"
+  width="48%"
 
   src="https://4.bp.blogspot.com/-mczk_wcedP8/XuN_F99hP-I/AAAAAAAAiu8/pi1rY490YGcT9cSPHaGJ2h8qJlS4Bx9iwCPcBGAYYCw/s1600/GBoard-03-Baybayin-Hanunoo%25CC%2581.png"
   link="https://4.bp.blogspot.com/-mczk_wcedP8/XuN_F99hP-I/AAAAAAAAiu8/pi1rY490YGcT9cSPHaGJ2h8qJlS4Bx9iwCPcBGAYYCw/s1600/GBoard-03-Baybayin-Hanunoo%25CC%2581.png"
@@ -137,8 +137,8 @@ The continued Baybayin request by the Baybayin community finally showed results.
 {{< image
   type="image"
 
-  height="50%"
-  width="50%"
+  height="48%"
+  width="48%"
 
   src="https://3.bp.blogspot.com/-WWyOKOzY8yY/XuN_F4XbfLI/AAAAAAAAivA/oZItaTWCocInCm5rrK7uokgE4aUFR1YsACPcBGAYYCw/s1600/GBoard-04-Baybayin-Tagalog-animated.png"
   link="https://3.bp.blogspot.com/-WWyOKOzY8yY/XuN_F4XbfLI/AAAAAAAAivA/oZItaTWCocInCm5rrK7uokgE4aUFR1YsACPcBGAYYCw/s1600/GBoard-04-Baybayin-Tagalog-animated.png"
@@ -162,8 +162,8 @@ The continued Baybayin request by the Baybayin community finally showed results.
 {{< image
   type="image"
 
-  height="50%"
-  width="50%"
+  height="48%"
+  width="48%"
 
   src="https://4.bp.blogspot.com/-BxeUYDATzos/XuN_GvSzmFI/AAAAAAAAivA/84s4EAUFgq8pnNLDuevDijSpB_-mJmgVQCPcBGAYYCw/s1600/GBoard-05-Baybayin-Tagbanwa.jpg"
   link="https://4.bp.blogspot.com/-BxeUYDATzos/XuN_GvSzmFI/AAAAAAAAivA/84s4EAUFgq8pnNLDuevDijSpB_-mJmgVQCPcBGAYYCw/s1600/GBoard-05-Baybayin-Tagbanwa.jpg"

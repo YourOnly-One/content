@@ -231,7 +231,7 @@ The keyboard layout shown in the images were:
   link="https://bitbucket.org/repo/dpEe94/images/3811385080-PHNX-Neo_in_Noto_Sans_Phoenician_font.png"
   linkrel="noopener"
 
-  title=""
+  title="Paleo Hebrew Unicode Keyboard"
   caption=""
 
   licensecode="ccbysa4"

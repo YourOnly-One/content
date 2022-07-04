@@ -28,7 +28,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
-images = ["https://img.youronly.one/k/K-pop_4th_Generation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
+images = ["images/k/kpop-4th-generation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
 videos = ["https://www.youtube.com/watch?v=uBY1AoiF5Vo", "https://www.youtube.com/watch?v=Zzl9eAcI1lk", "https://www.youtube.com/watch?v=yhCb3nEqxrQ", "https://www.youtube.com/watch?v=KLF85_qHujQ", "https://www.youtube.com/watch?v=3GWscde8rM8"]                                                       # used by og:video, etc.
 
 type = "sitepage"                                                           # article, sitepage, review
@@ -214,7 +214,7 @@ In February, ***VIVIZ*** and ***NMIXX*** strenghtened the girl power theme with 
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/k/K-pop_4th_Generation-01.webp"
+  link="images/k/kpop-4th-generation-01.webp"
   linkrel="noopener"
 
   title="K-pop 4th Generation"

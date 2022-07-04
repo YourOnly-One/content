@@ -31,7 +31,7 @@ type = "article"                                                           # art
 #license = ""
 
 #audio = [""]																# og:audio
-images = ["https://img.youronly.one/p/Alpha_Gateway-(2018)-01.jpg"]    # og:images
+images = ["images/a/alpha-gateway-(2018)-01.jpg"]    # og:images
 videos = ["https://www.youtube.com/watch?v=gInFXtRvwlM"]                               # og:video
 
 [[authors]]

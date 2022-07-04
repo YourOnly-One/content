@@ -28,7 +28,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
-images = ["https://img.youronly.one/p/ppopcon-2022-cover.webp"]                                                       # used by og:images, etc.; first image is cover image
+images = ["images/p/ppopcon-2022-cover.webp", "images/p/ppopcon-2022-ticket-benefits.jpg"]                                                       # used by og:images, etc.; first image is cover image
 videos = ["https://www.youtube.com/watch?v=JrTfeAGX48o"]                                                       # used by og:video, etc.
 
 type = "article"                                                           # article, sitepage, review
@@ -186,8 +186,8 @@ type = "article"                                                           # art
 チケットは、<bdi lang="en-PH">Ticketnet Online</bdi>からオンラインで購入することもできます：[2022PPOPCONコンサートチケット販売お](https://ticketnet.com.ph/events/detail/2022-PPOPCON)よび[2022PPOPCONコンサートストリーミングチケット販売](https://streaming.ticketnet.com.ph/product/2022-ppop-con-smart-araneta-coliseum/)。 州および国際チケットの予約については、[2022 PPOPCON（2022年4月10日）州および国際チケットの予約](https://docs.google.com/forms/d/e/1FAIpQLSd_su5c1LQK0WG4s-jb8QyejjMGuQA5vLE0-SAvF5P_xv_RBQ/viewform)。
 
 {{< image
-  src="https://img.youronly.one/p/ppopcon-2022-ticket-benefits.jpg"
-  link="https://img.youronly.one/p/ppopcon-2022-ticket-benefits.jpg"
+  src="images/p/ppopcon-2022-ticket-benefits.jpg"
+  link="images/p/ppopcon-2022-ticket-benefits.jpg"
   linkrel="noopener"
 
   title="PPOPCON Concert"
@@ -258,7 +258,7 @@ type = "article"                                                           # art
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/p/ppopcon-2022-cover.webp"
+  link="images/p/ppopcon-2022-cover.webp"
   linkrel="noopener"
 
   title="PPOPCON 2022"

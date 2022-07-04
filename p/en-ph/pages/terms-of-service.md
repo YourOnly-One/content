@@ -26,7 +26,7 @@ comments = false
 toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
-images = [""]                                                       # used by og:images, etc.; first image is cover image
+#images = [""]                                                       # used by og:images, etc.; first image is cover image
 #videos = [""]                                                       # used by og:video, etc.
 
 #type = "sitepage"                                                           # article, sitepage, review

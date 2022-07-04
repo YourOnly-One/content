@@ -35,7 +35,7 @@ type = "article"                                                           # art
 
 #videos = [""]																# og:video
 #audio = [""]																# og:audio
-images = ["https://img.youronly.one/p/Mathematics-chalkboard-pixabay_license.jpg"]    # og:images
+images = ["images/m/mathematics-chalkboard-pixabay-license.jpg"]    # og:images
 
 [[authors]]
 person = "yuki"
@@ -196,7 +196,7 @@ The examples I provided earlier were very simple and basic. If one is confused w
 {{< image
   type="imagecoverattrib"
 
-  link="https://img.youronly.one/p/Mathematics-chalkboard-pixabay_license.jpg"
+  link="images/m/mathematics-chalkboard-pixabay-license.jpg"
   linkrel="noopener external nofollow"
 
   title="Mathematics chalkboard"

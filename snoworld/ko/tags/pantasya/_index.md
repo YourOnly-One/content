@@ -36,7 +36,7 @@ comments = false
 toc = true
 
 #audio = [""]
-#images = ["https://img.youronly.one/{LETTER}/{FILENAME}.webp"]
+#images = ["images/{LETTER}/{FILENAME}.webp"]
 #videos = ["https://www.youtube.com/watch?v="]
 
 #type = ""                                             # article, sitepage, review

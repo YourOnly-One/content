@@ -26,7 +26,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                          # used for og:audio, etc.
-#images = ["https://img.youronly.one/p/p-pop_1st_Generation-01.webp"]                 # used for og:images, etc.; first image is cover image
+#images = ["images/p/ppop-1st-generation-01.webp"]                 # used for og:images, etc.; first image is cover image
 #videos = ["https://www.youtube.com/watch?v="]                         # used for og:video, etc.
 
 type = "sitepage"                                                           # article, sitepage, review
@@ -1478,7 +1478,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/p/p-pop_1st_Generation-01.webp"
+  link="images/p/ppop-1st-generation-01.webp"
   linkrel="noopener"
 
   title="P-pop 1st Generation"

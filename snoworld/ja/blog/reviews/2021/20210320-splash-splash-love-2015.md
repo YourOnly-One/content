@@ -34,7 +34,7 @@ type = "article"                                                           # art
 contenttypes = ["CriticReview"]
 
 #audio = [""]																# og:audio
-images = ["https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-02-twofie.gif", "https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-03.jpeg"]    # og:images
+images = ["images/s/splash-splash-love-(2015)-02-twofie.gif", "images/s/splash-splash-love-(2015)-03.jpeg"]    # og:images
 videos = ["https://www.youtube.com/watch?v=hAkKzgShR5A", "https://www.youtube.com/watch?v=Tq4F-OMKWpc"]                               # og:video
 
 [[authors]]
@@ -135,8 +135,8 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-02-twofie.gif"
-  link="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-02-twofie.gif"
+  src="images/s/splash-splash-love-(2015)-02-twofie.gif"
+  link="images/s/splash-splash-love-(2015)-02-twofie.gif"
   linkrel="noopener external nofollow"
 
   title="퐁당퐁당 LOVE (2015)"
@@ -168,8 +168,8 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-03.jpeg"
-  link="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-03.jpeg"
+  src="images/s/splash-splash-love-(2015)-03.jpeg"
+  link="images/s/splash-splash-love-(2015)-03.jpeg"
   linkrel="noopener external nofollow"
 
   title="퐁당퐁당 LOVE (2015)"
@@ -307,7 +307,7 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
 {{< image
   type="imagecoverattrib"
 
-  link="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-01-banner.jpeg"
+  link="images/s/splash-splash-love-(2015)-01-banner.jpeg"
   linkrel="noopener external nofollow"
 
   title="フォンダンフォンダンLOVE (2015)"

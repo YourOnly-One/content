@@ -26,7 +26,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                          # used for og:audio, etc.
-images = ["https://img.youronly.one/l/le-sserafim-logo.webp"]                 # used for og:images, etc.; first image is cover image
+images = ["images/l/le-sserafim-logo.webp"]                 # used for og:images, etc.; first image is cover image
 videos = ["https://www.youtube.com/watch?v=fH4-8WO6aA4"]                         # used for og:video, etc.
 
 type = "article"                                                             # article, sitepage, review
@@ -147,7 +147,7 @@ HYBE와 쏘스뮤직은 2022년 3월 25일 <q lang="en-PH">IM Fearless</q>라는
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/l/le-sserafim-logo.webp"
+  link="images/l/le-sserafim-logo.webp"
   linkrel="noopener"
 
   title="Le Sserafim"

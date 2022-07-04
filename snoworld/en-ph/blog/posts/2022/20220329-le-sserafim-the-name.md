@@ -28,7 +28,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                          # used for og:audio, etc.
-images = ["https://img.youronly.one/l/le-sserafim-logo.webp"]                 # used for og:images, etc.; first image is cover image
+images = ["images/l/le-sserafim-logo.webp"]                 # used for og:images, etc.; first image is cover image
 videos = ["https://www.youtube.com/watch?v=fH4-8WO6aA4"]                         # used for og:video, etc.
 
 type = "article"                                                             # article, sitepage, review
@@ -147,7 +147,7 @@ The group's theme will revolve around their name <bdi lang="ko-Latn">Le Sserafim
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/l/le-sserafim-logo.webp"
+  link="images/l/le-sserafim-logo.webp"
   linkrel="noopener"
 
   title="Le Sserafim"

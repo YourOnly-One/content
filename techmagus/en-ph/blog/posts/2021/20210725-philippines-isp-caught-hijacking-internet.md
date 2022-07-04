@@ -29,7 +29,7 @@ toc = true
 
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
-images = ["https://img.youronly.one/p/MediaFire-no_VPN-PH_gov_ISP_SSL_hijack-03.png", "https://img.youronly.one/p/MediaFire-no_VPN-PH_gov_ISP_SSL_hijack-01.png", "https://img.youronly.one/p/MediaFire-SSL_cert-comparison-01.png"]                                                       # used by og:images, etc.; first image is cover image
+images = ["images/m/mediafire-no-vpn-ph-gov-isp-ssl-hijack-03.png", "images/mediafire-no-vpn-ph-gov-isp-ssl-hijack-01.png", "images/mediafire-ssl-cert-comparison-01.png"]                                                       # used by og:images, etc.; first image is cover image
 
 type = "article"                                                           # article, sitepage, review
 
@@ -60,8 +60,8 @@ Let's take a look at an example.
   height=""
   width=""
 
-  src="https://img.youronly.one/p/MediaFire-no_VPN-PH_gov_ISP_SSL_hijack-01.png"
-  link="https://img.youronly.one/p/MediaFire-no_VPN-PH_gov_ISP_SSL_hijack-01.png"
+  src="images/m/mediafire-no-vpn-ph-gov-isp-ssl-hijack-01.png"
+  link="images/m/mediafire-no-vpn-ph-gov-isp-ssl-hijack-01.png"
   linkrel="noopener"
 
   title=""
@@ -95,8 +95,8 @@ We all know that we can never trust ISPs, government order or not, so let this b
   height=""
   width=""
 
-  src="https://img.youronly.one/p/MediaFire-SSL_cert-comparison-01.png"
-  link="https://img.youronly.one/p/MediaFire-SSL_cert-comparison-01.png"
+  src="images/m/mediafire-ssl-cert-comparison-01.png"
+  link="images/m/mediafire-ssl-cert-comparison-01.png"
   linkrel="noopener"
 
   title=""
@@ -125,7 +125,7 @@ We all know that we can never trust ISPs, government order or not, so let this b
 {{< image
   type="imagecoverattrib"
 
-  link="https://img.youronly.one/p/MediaFire-no_VPN-PH_gov_ISP_SSL_hijack-03.png"
+  link="images/m/mediafire-no-vpn-ph-gov-isp-ssl-hijack-03.png"
   linkrel="noopener"
 
   title=""

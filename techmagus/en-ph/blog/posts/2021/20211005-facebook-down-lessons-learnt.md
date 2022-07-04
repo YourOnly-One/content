@@ -29,7 +29,7 @@ toc = true
 
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
-images = ["https://img.youronly.one/p/techmagus/ddfon/decentralisation-01.webp", "https://img.youronly.one/p/techmagus/ddfon/friendica-01-frio-profile.webp", "https://img.youronly.one/p/techmagus/ddfon/hubzilla-01.webp", "https://img.youronly.one/p/techmagus/ddfon/zap-01-logo.svg", "https://img.youronly.one/p/techmagus/ddfon/misskey-01-hashtag.webp", "https://img.youronly.one/p/techmagus/ddfon/pixelfed-01-trending.webp", "https://img.youronly.one/p/techmagus/ddfon/mastodon-01-dashboard.webp", "https://img.youronly.one/p/techmagus/ddfon/peertube-01-discover.webp", "https://img.youronly.one/p/techmagus/ddfon/keybase-01-chat.webp", "https://img.youronly.one/p/techmagus/ddfon/matrix-01-element_client.webp", "https://img.youronly.one/p/techmagus/ddfon/session-01.webp"]                                                       # used by og:images, etc.; first image is cover image
+images = ["images/d/decentralisation-01.webp", "images/f/friendica-01-frio-profile.webp", "images/h/hubzilla-01.webp", "images/z/zap-01-logo.svg", "images/m/misskey-01-hashtag.webp", "images/p/pixelfed-01-trending.webp", "images/m/mastodon-01-dashboard.webp", "images/p/peertube-01-discover.webp", "images/k/keybase-01-chat.webp", "images/m/matrix-01-element-client.webp", "images/s/session-01.webp"]                                                       # used by og:images, etc.; first image is cover image
 
 type = "article"                                                           # article, sitepage, review
 
@@ -96,8 +96,8 @@ If you think that this is new, surprise! Federation has been around since 2008, 
   height="80%"
   width="80%"
 
-  src="https://img.youronly.one/p/techmagus/ddfon/friendica-01-frio-profile.webp"
-  link="https://img.youronly.one/p/techmagus/ddfon/friendica-01-frio-profile.webp"
+  src="images/f/friendica-01-frio-profile.webp"
+  link="images/f/friendica-01-frio-profile.webp"
   linkrel="noopener"
 
   title="Frio Theme"
@@ -140,8 +140,8 @@ If you want to give it a spin, choose one of the servers available [here](https:
   height="80%"
   width="80%"
 
-  src="https://img.youronly.one/p/techmagus/ddfon/hubzilla-01.webp"
-  link="https://img.youronly.one/p/techmagus/ddfon/hubzilla-01.webp"
+  src="images/h/hubzilla-01.webp"
+  link="images/h/hubzilla-01.webp"
   linkrel="noopener"
 
   title="Hubzilla"
@@ -178,11 +178,11 @@ You can sign-up for a Hubzilla channel (or account if you will) in any of the av
 {{< image
   type="image"
 
-  height="50%"
-  width="50%"
+  height="48%"
+  width="48%"
 
-  src="https://img.youronly.one/p/techmagus/ddfon/zap-01-logo.svg"
-  link="https://img.youronly.one/p/techmagus/ddfon/zap-01-logo.svg"
+  src="images/z/zap-01-logo.svg"
+  link="images/z/zap-01-logo.svg"
   linkrel="noopener"
 
   title="Zap"
@@ -225,8 +225,8 @@ If you are ready to jump in and create your online social web identity, choose a
   height="80%"
   width="80%"
 
-  src="https://img.youronly.one/p/techmagus/ddfon/misskey-01-hashtag.webp"
-  link="https://img.youronly.one/p/techmagus/ddfon/misskey-01-hashtag.webp"
+  src="images/m/misskey-01-hashtag.webp"
+  link="images/m/misskey-01-hashtag.webp"
   linkrel="noopener"
 
   title="Misskey"
@@ -274,8 +274,8 @@ You can find a Misskey community which perfectly fits you [here](https://join.mi
   height="80%"
   width="80%"
 
-  src="https://img.youronly.one/p/techmagus/ddfon/pixelfed-01-trending.webp"
-  link="https://img.youronly.one/p/techmagus/ddfon/pixelfed-01-trending.webp"
+  src="images/p/pixelfed-01-trending.webp"
+  link="images/p/pixelfed-01-trending.webp"
   linkrel="noopener"
 
   title="Pixelfed"
@@ -325,8 +325,8 @@ You can start uploading your photos into the fediverse today by joining any [Pix
   height="80%"
   width="80%"
 
-  src="https://img.youronly.one/p/techmagus/ddfon/mastodon-01-dashboard.webp"
-  link="https://img.youronly.one/p/techmagus/ddfon/mastodon-01-dashboard.webp"
+  src="images/m/mastodon-01-dashboard.webp"
+  link="images/m/mastodon-01-dashboard.webp"
   linkrel="noopener"
 
   title="Mastodon"
@@ -368,8 +368,8 @@ If you are regularly use Twitter and you like its flow, Mastodon is the right pl
   height="80%"
   width="80%"
 
-  src="https://img.youronly.one/p/techmagus/ddfon/peertube-01-discover.webp"
-  link="https://img.youronly.one/p/techmagus/ddfon/peertube-01-discover.webp"
+  src="images/p/peertube-01-discover.webp"
+  link="images/p/peertube-01-discover.webp"
   linkrel="noopener"
 
   title="PeerTube"
@@ -420,8 +420,8 @@ Ready to upload your videos and be seen by countless of fediverse citizens? Find
   height="80%"
   width="80%"
 
-  src="https://img.youronly.one/p/techmagus/ddfon/keybase-01-chat.webp"
-  link="https://img.youronly.one/p/techmagus/ddfon/keybase-01-chat.webp"
+  src="images/k/keybase-01-chat.webp"
+  link="images/k/keybase-01-chat.webp"
   linkrel="noopener"
 
   title="Keybase"
@@ -486,8 +486,8 @@ Keybase Teams which offers 100 GB of storage per team and if you choose to host 
   height="80%"
   width="80%"
 
-  src="https://img.youronly.one/p/techmagus/ddfon/matrix-01-element_client.webp"
-  link="https://img.youronly.one/p/techmagus/ddfon/matrix-01-element_client.webp"
+  src="images/m/matrix-01-element-client.webp"
+  link="images/m/matrix-01-element-client.webp"
   linkrel="noopener"
 
   title="Matrix"
@@ -531,8 +531,8 @@ Try Matrix [today](https://matrix.org/docs/projects/try-matrix-now/)!
   height="80%"
   width="80%"
 
-  src="https://img.youronly.one/p/techmagus/ddfon/session-01.webp"
-  link="https://img.youronly.one/p/techmagus/ddfon/session-01.webp"
+  src="images/s/session-01.webp"
+  link="images/s/session-01.webp"
   linkrel="noopener"
 
   title="Session"
@@ -580,7 +580,7 @@ Enjoy and Shalom!
 {{< image
   type="imagecoverattrib"
 
-  link="https://img.youronly.one/p/techmagus/ddfon/decentralisation-01.gif"
+  link="images/d/decentralisation-01.webp"
   linkrel="noopener"
 
   title="Decentralisation"

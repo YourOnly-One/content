@@ -33,7 +33,7 @@ type = "article"                                                           # art
 #license = ""
 
 #audio = [""]																# og:audio
-images = ["https://img.youronly.one/p/Sisyphus_The_Myth-01.webp", "https://img.youronly.one/p/Sisyphus_The_Myth-02.webp", "https://img.youronly.one/p/Sisyphus_The_Myth-03.webp", "https://img.youronly.one/p/Sisyphus_The_Myth-04.webp", "https://img.youronly.one/p/Sisyphus_The_Myth-05.webp"]    # og:images
+images = ["images/s/sisyphus-the-myth-01.webp", "images/s/sisyphus-the-myth-02.webp", "images/s/sisyphus-the-myth-03.webp", "images/s/sisyphus-the-myth-04.webp", "images/s/sisyphus-the-myth-05.webp"]    # og:images
 videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                                                               # og:video
 
 [[authors]]
@@ -149,8 +149,8 @@ Anyone for *ending #1* will probably not like the rest of this post but are stil
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Sisyphus_The_Myth-03.webp"
-  link="https://img.youronly.one/p/Sisyphus_The_Myth-03.webp"
+  src="images/s/sisyphus-the-myth-03.webp"
+  link="images/s/sisyphus-the-myth-03.webp"
   linkrel="noopener external nofollow"
 
   title="Sisyphus: The Myth"
@@ -210,8 +210,8 @@ Yes, an FAQ. I think this is the best format to use this way it is easier to und
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Sisyphus_The_Myth-02.webp"
-  link="https://img.youronly.one/p/Sisyphus_The_Myth-02.webp"
+  src="images/s/sisyphus-the-myth-02.webp"
+  link="images/s/sisyphus-the-myth-02.webp"
   linkrel="noopener external nofollow"
 
   title="Sisyphus: The Myth"
@@ -263,8 +263,8 @@ Which brings us to the next question.
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Sisyphus_The_Myth-04.webp"
-  link="https://img.youronly.one/p/Sisyphus_The_Myth-04.webp"
+  src="images/s/sisyphus-the-myth-04.webp"
+  link="images/s/sisyphus-the-myth-04.webp"
   linkrel="noopener external nofollow"
 
   title="Sisyphus: The Myth"
@@ -330,8 +330,8 @@ And we are back to that airplane scene. The new Seo Hae arrived. Han Tae Sul saw
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Sisyphus_The_Myth-05.webp"
-  link="https://img.youronly.one/p/Sisyphus_The_Myth-05.webp"
+  src="images/s/sisyphus-the-myth-05.webp"
+  link="images/s/sisyphus-the-myth-05.webp"
   linkrel="noopener external nofollow"
 
   title="Sisyphus: The Myth"
@@ -423,7 +423,7 @@ Animetric presented an excellent explanation on the show's ending, I highly reco
 {{< image
   type="imagecoverattrib"
 
-  link="https://img.youronly.one/p/Sisyphus_The_Myth-01.webp"
+  link="images/s/sisyphus-the-myth-01.webp"
   linkrel="noopener external nofollow"
 
   title="Sisyphus: The Myth"

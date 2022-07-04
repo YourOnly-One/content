@@ -34,7 +34,7 @@ comments = false
 toc = true
 
 #audio = [""]
-images = ["https://img.youronly.one/h/hugo-markdown-link-render.webp"]
+images = ["images/h/hugo-markdown-link-render.webp"]
 #videos = ["https://www.youtube.com/watch?v="]
 
 #type = ""                                             # article, sitepage, review

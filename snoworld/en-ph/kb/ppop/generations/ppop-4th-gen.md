@@ -26,7 +26,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                          # used for og:audio, etc.
-#images = ["https://img.youronly.one/p/p-pop_4th_Generation-01.webp"]                 # used for og:images, etc.; first image is cover image
+#images = ["images/p/ppop-4th-generation-01.webp"]                 # used for og:images, etc.; first image is cover image
 #videos = ["https://www.youtube.com/watch?v="]                         # used for og:video, etc.
 
 type = "sitepage"                                                           # article, sitepage, review
@@ -650,7 +650,7 @@ As of 2022-02-14, embed for the official music video is disabled. If this has be
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/p/p-pop_4th_Generation-01.webp"
+  link="images/p/ppop-4th-generation-01.webp"
   linkrel="noopener"
 
   title="P-pop 4th Generation"

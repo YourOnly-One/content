@@ -28,7 +28,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
-images = ["https://img.youronly.one/k/K-pop_Generations-01.webp"]                                                       # used by og:images, etc.; first image is cover image
+images = ["images/k/kpop-generations-01.webp"]                                                       # used by og:images, etc.; first image is cover image
 #videos = [""]                                                       # used by og:video, etc.
 
 type = "sitepage"                                                           # article, sitepage, review
@@ -161,7 +161,7 @@ K-POP音楽の各世代を10暦年に設定すると、美しい物語が浮か�
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/k/K-pop_Generations-01.webp"
+  link="images/k/kpop-generations-01.webp"
   linkrel="noopener"
 
   title="K-pop Generations"

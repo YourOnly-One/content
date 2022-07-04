@@ -37,7 +37,7 @@ type = "article"                                                           # art
 contenttypes = ["CriticReview"]
 
 #audio = [""]																# og:audio
-images = ["https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-01.jpg", "https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-02.gif"]		# og:images
+images = ["images/w/while-you-were-sleeping-(2017)-01.jpg", "images/w/while-you-were-sleeping-(2017)-02.gif"]		# og:images
 videos = ["https://www.youtube.com/watch?v=8--Jj-iA0TY"]                               # og:video
 
 [[authors]]
@@ -224,8 +224,8 @@ sameas = ["https://www.imdb.com/name/nm8589259"]
   height=""
   width=""
 
-  src="https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-02.gif"
-  link="https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-02.gif"
+  src="images/w/while-you-were-sleeping-(2017)-02.gif"
+  link="images/w/while-you-were-sleeping-(2017)-02.gif"
   linkrel="noopener external nofollow"
 
   title="あなたが寝ている間に (2017)"
@@ -311,7 +311,7 @@ sameas = ["https://www.imdb.com/name/nm8589259"]
 {{< image
   type="imagecoverattrib"
 
-  link="https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-01.jpg"
+  link="images/w/while-you-were-sleeping-(2017)-01.jpg"
   linkrel="noopener external nofollow"
 
   title="あなたが寝ている間に (2017)"

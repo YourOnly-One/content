@@ -29,7 +29,7 @@ toc = true
 
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
-images = ["https://img.youronly.one/p/techmagus/ddfon/decentralisation-01.webp", "https://img.youronly.one/p/techmagus/ddfon/friendica-01-frio-profile.webp", "https://img.youronly.one/p/techmagus/ddfon/hubzilla-01.webp", "https://img.youronly.one/p/techmagus/ddfon/zap-01-logo.svg", "https://img.youronly.one/p/techmagus/ddfon/misskey-01-hashtag.webp", "https://img.youronly.one/p/techmagus/ddfon/pixelfed-01-trending.webp", "https://img.youronly.one/p/techmagus/ddfon/mastodon-01-dashboard.webp", "https://img.youronly.one/p/techmagus/ddfon/peertube-01-discover.webp", "https://img.youronly.one/p/techmagus/ddfon/keybase-01-chat.webp", "https://img.youronly.one/p/techmagus/ddfon/matrix-01-element_client.webp", "https://img.youronly.one/p/techmagus/ddfon/session-01.webp"]                                                       # used by og:images, etc.; first image is cover image
+images = ["images/d/decentralisation-01.webp", "images/f/friendica-01-frio-profile.webp", "images/h/hubzilla-01.webp", "images/z/zap-01-logo.svg", "images/m/misskey-01-hashtag.webp", "images/p/pixelfed-01-trending.webp", "images/m/mastodon-01-dashboard.webp", "images/p/peertube-01-discover.webp", "images/k/keybase-01-chat.webp", "images/m/matrix-01-element-client.webp", "images/s/session-01.webp"]                                                       # used by og:images, etc.; first image is cover image
 
 type = "article"                                                           # article, sitepage, review
 
@@ -95,8 +95,8 @@ Facebook과 해당 서비스의 가장 긴 다운타임에 기여한 많은 요�
   height="80%"
   width="80%"
 
-  src="https://img.youronly.one/p/techmagus/ddfon/friendica-01-frio-profile.webp"
-  link="https://img.youronly.one/p/techmagus/ddfon/friendica-01-frio-profile.webp"
+  src="images/f/friendica-01-frio-profile.webp"
+  link="images/f/friendica-01-frio-profile.webp"
   linkrel="noopener"
 
   title="Frio Theme"
@@ -139,8 +139,8 @@ Facebook과 해당 서비스의 가장 긴 다운타임에 기여한 많은 요�
   height="80%"
   width="80%"
 
-  src="https://img.youronly.one/p/techmagus/ddfon/hubzilla-01.webp"
-  link="https://img.youronly.one/p/techmagus/ddfon/hubzilla-01.webp"
+  src="images/h/hubzilla-01.webp"
+  link="images/h/hubzilla-01.webp"
   linkrel="noopener"
 
   title="Hubzilla"
@@ -177,11 +177,11 @@ example.com에 채널을 만든 다음 example.net에서 복제할 수 있습니
 {{< image
   type="image"
 
-  height="50%"
-  width="50%"
+  height="48%"
+  width="48%"
 
-  src="https://img.youronly.one/p/techmagus/ddfon/zap-01-logo.svg"
-  link="https://img.youronly.one/p/techmagus/ddfon/zap-01-logo.svg"
+  src="images/z/zap-01-logo.svg"
+  link="images/z/zap-01-logo.svg"
   linkrel="noopener"
 
   title="Zap"
@@ -224,8 +224,8 @@ example.com에 채널을 만든 다음 example.net에서 복제할 수 있습니
   height="80%"
   width="80%"
 
-  src="https://img.youronly.one/p/techmagus/ddfon/misskey-01-hashtag.webp"
-  link="https://img.youronly.one/p/techmagus/ddfon/misskey-01-hashtag.webp"
+  src="images/m/misskey-01-hashtag.webp"
+  link="images/m/misskey-01-hashtag.webp"
   linkrel="noopener"
 
   title="Misskey"
@@ -273,8 +273,8 @@ example.com에 채널을 만든 다음 example.net에서 복제할 수 있습니
   height="80%"
   width="80%"
 
-  src="https://img.youronly.one/p/techmagus/ddfon/pixelfed-01-trending.webp"
-  link="https://img.youronly.one/p/techmagus/ddfon/pixelfed-01-trending.webp"
+  src="images/p/pixelfed-01-trending.webp"
+  link="images/p/pixelfed-01-trending.webp"
   linkrel="noopener"
 
   title="Pixelfed"
@@ -324,8 +324,8 @@ example.com에 채널을 만든 다음 example.net에서 복제할 수 있습니
   height="80%"
   width="80%"
 
-  src="https://img.youronly.one/p/techmagus/ddfon/mastodon-01-dashboard.webp"
-  link="https://img.youronly.one/p/techmagus/ddfon/mastodon-01-dashboard.webp"
+  src="images/m/mastodon-01-dashboard.webp"
+  link="images/m/mastodon-01-dashboard.webp"
   linkrel="noopener"
 
   title="Mastodon"
@@ -367,8 +367,8 @@ example.com에 채널을 만든 다음 example.net에서 복제할 수 있습니
   height="80%"
   width="80%"
 
-  src="https://img.youronly.one/p/techmagus/ddfon/peertube-01-discover.webp"
-  link="https://img.youronly.one/p/techmagus/ddfon/peertube-01-discover.webp"
+  src="images/p/peertube-01-discover.webp"
+  link="images/p/peertube-01-discover.webp"
   linkrel="noopener"
 
   title="PeerTube"
@@ -419,8 +419,8 @@ PeerTube는 fediverse의 일부이기 때문에 fediverse의 모든 사용자는
   height="80%"
   width="80%"
 
-  src="https://img.youronly.one/p/techmagus/ddfon/keybase-01-chat.webp"
-  link="https://img.youronly.one/p/techmagus/ddfon/keybase-01-chat.webp"
+  src="images/k/keybase-01-chat.webp"
+  link="images/k/keybase-01-chat.webp"
   linkrel="noopener"
 
   title="Keybase"
@@ -485,8 +485,8 @@ PeerTube는 fediverse의 일부이기 때문에 fediverse의 모든 사용자는
   height="80%"
   width="80%"
 
-  src="https://img.youronly.one/p/techmagus/ddfon/matrix-01-element_client.webp"
-  link="https://img.youronly.one/p/techmagus/ddfon/matrix-01-element_client.webp"
+  src="images/m/matrix-01-element-client.webp"
+  link="images/m/matrix-01-element-client.webp"
   linkrel="noopener"
 
   title="Matrix"
@@ -530,8 +530,8 @@ Matrix에는 언급된 것보다 훨씬 더 많은 기능이 있지만 이러한
   height="80%"
   width="80%"
 
-  src="https://img.youronly.one/p/techmagus/ddfon/session-01.webp"
-  link="https://img.youronly.one/p/techmagus/ddfon/session-01.webp"
+  src="images/s/session-01.webp"
+  link="images/s/session-01.webp"
   linkrel="noopener"
 
   title="Session"
@@ -579,7 +579,7 @@ Matrix에는 언급된 것보다 훨씬 더 많은 기능이 있지만 이러한
 {{< image
   type="imagecoverattrib"
 
-  link="https://img.youronly.one/p/techmagus/ddfon/decentralisation-01.gif"
+  link="images/d/decentralisation-01.gif"
   linkrel="noopener"
 
   title="Decentralisation"

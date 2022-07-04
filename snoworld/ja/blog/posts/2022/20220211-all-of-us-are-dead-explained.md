@@ -28,7 +28,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
-images = ["https://img.youronly.one/a/all-of-us-are-dead-s01-01.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-what-is-a-hambie.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-orangibberish.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-hyosan-high-bomb.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-rooftop.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-chung-san-gwi-nam.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-lee-byung-chan.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-prez-nam-ra.webp"]                                                       # used by og:images, etc.; first image is cover image
+images = ["images/a/all-of-us-are-dead-s01-01.webp", "images/a/all-of-us-are-dead-s01-what-is-a-hambie.awebp", "images/a/all-of-us-are-dead-s01-orangibberish.awebp", "images/a/all-of-us-are-dead-s01-hyosan-high-bomb.awebp", "images/a/all-of-us-are-dead-s01-rooftop.awebp", "images/a/all-of-us-are-dead-s01-chung-san-gwi-nam.awebp", "images/a/all-of-us-are-dead-s01-lee-byung-chan.awebp", "images/a/all-of-us-are-dead-s01-prez-nam-ra.awebp"]                                                       # used by og:images, etc.; first image is cover image
 videos = ["https://www.youtube.com/watch?v=G99V9Kl9JhQ", "https://www.youtube.com/watch?v=017_tQvH3_w"]                                                       # used by og:video, etc.
 
 type = "article"                                                           # article, sitepage, review
@@ -72,8 +72,8 @@ type = "article"                                                           # art
 {{< image
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/all-of-us-are-dead-s01-what-is-a-hambie.webp"
-  link="https://img.youronly.one/a/all-of-us-are-dead-s01-what-is-a-hambie.webp"
+  src="images/a/all-of-us-are-dead-s01-what-is-a-hambie.awebp"
+  link="images/a/all-of-us-are-dead-s01-what-is-a-hambie.awebp"
 
   title="ハンビーとは何ですか？"
   caption=""
@@ -111,8 +111,8 @@ type = "article"                                                           # art
 {{< image
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/all-of-us-are-dead-s01-orangibberish.webp"
-  link="https://img.youronly.one/a/all-of-us-are-dead-s01-orangibberish.webp"
+  src="images/a/all-of-us-are-dead-s01-orangibberish.awebp"
+  link="images/a/all-of-us-are-dead-s01-orangibberish.awebp"
 
   title="Orangibberish"
   caption=""
@@ -146,8 +146,8 @@ type = "article"                                                           # art
 {{< image
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/all-of-us-are-dead-s01-hyosan-high-bomb.webp"
-  link="https://img.youronly.one/a/all-of-us-are-dead-s01-hyosan-high-bomb.webp"
+  src="images/a/all-of-us-are-dead-s01-hyosan-high-bomb.awebp"
+  link="images/a/all-of-us-are-dead-s01-hyosan-high-bomb.awebp"
 
   title="ひょうさん高校"
   caption="爆撃"
@@ -201,8 +201,8 @@ type = "article"                                                           # art
 {{< image
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/all-of-us-are-dead-s01-rooftop.webp"
-  link="https://img.youronly.one/a/all-of-us-are-dead-s01-rooftop.webp"
+  src="images/a/all-of-us-are-dead-s01-rooftop.awebp"
+  link="images/a/all-of-us-are-dead-s01-rooftop.awebp"
 
   title="ひょうさん高校"
   caption="屋上"
@@ -236,8 +236,8 @@ type = "article"                                                           # art
 {{< image
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/all-of-us-are-dead-s01-chung-san-gwi-nam.webp"
-  link="https://img.youronly.one/a/all-of-us-are-dead-s01-chung-san-gwi-nam.webp"
+  src="images/a/all-of-us-are-dead-s01-chung-san-gwi-nam.awebp"
+  link="images/a/all-of-us-are-dead-s01-chung-san-gwi-nam.awebp"
 
   title="イ・チョンサンとユン・グウィ・ナム"
   caption="ひょうさん高校爆撃で亡くなりました"
@@ -263,8 +263,8 @@ type = "article"                                                           # art
 {{< image
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/all-of-us-are-dead-s01-lee-byung-chan.webp"
-  link="https://img.youronly.one/a/all-of-us-are-dead-s01-lee-byung-chan.webp"
+  src="images/a/all-of-us-are-dead-s01-lee-byung-chan.awebp"
+  link="images/a/all-of-us-are-dead-s01-lee-byung-chan.awebp"
 
   title="イ・ビョンチャン変身"
   caption="人間から不滅のタイプのゾンビまで"
@@ -325,8 +325,8 @@ type = "article"                                                           # art
 {{< image
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/all-of-us-are-dead-s01-prez-nam-ra.webp"
-  link="https://img.youronly.one/a/all-of-us-are-dead-s01-prez-nam-ra.webp"
+  src="images/a/all-of-us-are-dead-s01-prez-nam-ra.awebp"
+  link="images/a/all-of-us-are-dead-s01-prez-nam-ra.awebp"
 
   title="チェ・ナム・ラ大統領"
   caption="ナムラはそれが好き"
@@ -371,7 +371,7 @@ type = "article"                                                           # art
   type="imagecoverattrib"
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/a/all-of-us-are-dead-s01-prez-nam-ra.webp"
+  link="images/a/all-of-us-are-dead-s01-prez-nam-ra.awebp"
   title="今、私たちの学校"
   licensecode="allrightsreserved"
 

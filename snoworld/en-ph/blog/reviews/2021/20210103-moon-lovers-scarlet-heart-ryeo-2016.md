@@ -37,8 +37,8 @@ contenttypes = ["CriticReview"]
 
 #audio = [""]                                                       # og:audio
 images = [
-  "https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-01.webp",
-  "https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-02.webp"
+  "images/m/moon-lovers-scarlet-heart-ryeo-(2016)-01.webp",
+  "images/m/moon-lovers-scarlet-heart-ryeo-(2016)-02.webp"
 ]                                                     # og:images
 videos = ["https://www.youtube.com/watch?v=2ljxyaAIphc"]                                                      # og:video
 
@@ -174,8 +174,8 @@ The music, unfortunately, did not make an impact. There were scenes where a powe
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-02.webp"
-  link="https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-02.webp"
+  src="images/m/moon-lovers-scarlet-heart-ryeo-(2016)-02.webp"
+  link="images/m/moon-lovers-scarlet-heart-ryeo-(2016)-02.webp"
   linkrel="noopener external nofollow"
 
   title="Moon Lovers: Scarlet Heart Ryeo (2016)"
@@ -257,7 +257,7 @@ I give this show 8 out of 10 stars.
 {{< image
   type="imagecoverattrib"
 
-  link="https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-01.webp"
+  link="images/m/moon-lovers-scarlet-heart-ryeo-(2016)-01.webp"
   linkrel="noopener external nofollow"
 
   title="Moon Lovers: Scarlet Heart Ryeo (2016)"

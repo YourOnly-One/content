@@ -26,7 +26,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                          # used for og:audio, etc.
-#images = ["https://img.youronly.one/{FILENAME}.webp"]                 # used for og:images, etc.; first image is cover image
+#images = ["images/{FILENAME}.webp"]                 # used for og:images, etc.; first image is cover image
 #videos = ["https://www.youtube.com/watch?v="]                         # used for og:video, etc.
 
 type = ""                                                           # article, sitepage, review
@@ -105,7 +105,7 @@ draft = true
 #  #id = ""
 #  #name = "Way of Believers / 信者の道 / 테크 마구스"
 #  url = "https://im.youronly.one/way/"
-#  avatar = "https://img.youronly.one/works/FlagMenorah-Proto-(CC0).webp"
+#  avatar = "images/works/FlagMenorah-Proto-(CC0).webp"
 #  #rel = "noopener external nofollow"
 
 #[[authors]]

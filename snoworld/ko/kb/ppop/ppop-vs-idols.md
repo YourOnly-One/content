@@ -28,7 +28,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
-images = ["https://img.youronly.one/p/ppop-idols.webp"]                                                       # used by og:images, etc.; first image is cover image
+images = ["images/p/ppop-idols.webp"]                                                       # used by og:images, etc.; first image is cover image
 videos = ["https://www.youtube.com/watch?v=wmzTYhjQh3A", "https://www.youtube.com/watch?v=_5Y_mTfBh3o", "https://www.youtube.com/watch?v=QmAQQhDnhiI"]                                                       # used by og:video, etc.
 
 type = "article"                                                           # article, sitepage, review
@@ -159,7 +159,7 @@ type = "article"                                                           # art
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/p/ppop-idols.webp"
+  link="images/p/ppop-idols.webp"
   linkrel="noopener"
 
   title="P-pop and IDOLS"

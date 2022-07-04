@@ -34,7 +34,7 @@ type = "article"                                                           # art
 contenttypes = ["CriticReview"]
 
 #audio = [""]																# og:audio
-images = ["https://img.youronly.one/p/You_Are_The_Best-(2013)-01.webp", "https://img.youronly.one/p/You_Are_The_Best-(2013)-02.webp"]		# og:images
+images = ["images/y/you-are-the-best-(2013)-01.webp", "images/y/you-are-the-best-(2013)-02.webp"]		# og:images
 videos = ["https://www.youtube.com/watch?v=ardVKfVYRa8"]                                # og:video
 
 [[authors]]
@@ -211,8 +211,8 @@ sameas = ["https://en.wikipedia.org/wiki/Yoon_Sung-sik", "https://www.imdb.com/n
   height=""
   width=""
 
-  src="https://img.youronly.one/p/You_Are_The_Best-(2013)-02.webp"
-  link="https://img.youronly.one/p/You_Are_The_Best-(2013)-02.webp"
+  src="images/y/you-are-the-best-(2013)-02.webp"
+  link="images/y/you-are-the-best-(2013)-02.webp"
   linkrel="noopener external nofollow"
 
   title="最高だ李 (2013)"
@@ -298,7 +298,7 @@ sameas = ["https://en.wikipedia.org/wiki/Yoon_Sung-sik", "https://www.imdb.com/n
 {{< image
   type="imagecoverattrib"
 
-  link="https://img.youronly.one/p/You_Are_The_Best-(2013)-01.webp"
+  link="images/y/you-are-the-best-(2013)-01.webp"
   linkrel="noopener external nofollow"
 
   title="最高だ李 (2013)"

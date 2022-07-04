@@ -26,7 +26,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                          # used for og:audio, etc.
-#images = ["https://img.youronly.one/{FILENAME}.webp"]                 # used for og:images, etc.; first image is cover image
+#images = ["images/{FILENAME}.webp"]                 # used for og:images, etc.; first image is cover image
 #videos = ["https://www.youtube.com/watch?v="]                         # used for og:video, etc.
 
 type = "article"                                                           # article, sitepage, review
@@ -75,7 +75,7 @@ Music videos.
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/"
+  link="images/{LETTER}/{FILENAME}.webp"
   linkrel="noopener"
   thumbnailurl=""
 

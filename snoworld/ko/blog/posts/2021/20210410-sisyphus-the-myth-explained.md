@@ -33,7 +33,7 @@ type = "article"                                                           # art
 #license = ""
 
 #audio = [""]																# og:audio
-images = ["https://img.youronly.one/p/Sisyphus_The_Myth-01.webp", "https://img.youronly.one/p/Sisyphus_The_Myth-02.webp", "https://img.youronly.one/p/Sisyphus_The_Myth-03.webp", "https://img.youronly.one/p/Sisyphus_The_Myth-04.webp", "https://img.youronly.one/p/Sisyphus_The_Myth-05.webp"]    # og:images
+images = ["images/s/sisyphus-the-myth-01.webp", "images/s/sisyphus-the-myth-02.webp", "images/s/sisyphus-the-myth-03.webp", "images/s/sisyphus-the-myth-04.webp", "images/s/sisyphus-the-myth-05.webp"]    # og:images
 videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                                                               # og:video
 
 [[authors]]
@@ -151,8 +151,8 @@ videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                        
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Sisyphus_The_Myth-03.webp"
-  link="https://img.youronly.one/p/Sisyphus_The_Myth-03.webp"
+  src="images/s/sisyphus-the-myth-03.webp"
+  link="images/s/sisyphus-the-myth-03.webp"
   linkrel="noopener external nofollow"
 
   title="시지프스: The Myth"
@@ -212,8 +212,8 @@ videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                        
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Sisyphus_The_Myth-02.webp"
-  link="https://img.youronly.one/p/Sisyphus_The_Myth-02.webp"
+  src="images/s/sisyphus-the-myth-02.webp"
+  link="images/s/sisyphus-the-myth-02.webp"
   linkrel="noopener external nofollow"
 
   title="시지프스: The Myth"
@@ -265,8 +265,8 @@ videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                        
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Sisyphus_The_Myth-04.webp"
-  link="https://img.youronly.one/p/Sisyphus_The_Myth-04.webp"
+  src="images/s/sisyphus-the-myth-04.webp"
+  link="images/s/sisyphus-the-myth-04.webp"
   linkrel="noopener external nofollow"
 
   title="시지프스: The Myth"
@@ -332,8 +332,8 @@ videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                        
   height=""
   width=""
 
-  src="https://img.youronly.one/p/Sisyphus_The_Myth-05.webp"
-  link="https://img.youronly.one/p/Sisyphus_The_Myth-05.webp"
+  src="images/s/sisyphus-the-myth-05.webp"
+  link="images/s/sisyphus-the-myth-05.webp"
   linkrel="noopener external nofollow"
 
   title="시지프스: The Myth"
@@ -425,7 +425,7 @@ Animetric은 쇼의 결말에 대한 훌륭한 설명을 발표했습니다. 나
 {{< image
   type="imagecoverattrib"
 
- link="https://img.youronly.one/p/Sisyphus_The_Myth-01.webp"
+ link="images/s/sisyphus-the-myth-01.webp"
   linkrel="noopener external nofollow"
 
   title="시지프스: The Myth"

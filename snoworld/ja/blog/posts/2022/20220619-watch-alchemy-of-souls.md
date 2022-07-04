@@ -34,7 +34,7 @@ comments = true
 toc = true
 
 #audio = [""]
-images = ["https://img.youronly.one/a/alchemy-of-souls-00-cover.png"]
+images = ["images/a/alchemy-of-souls-00-cover.png", "images/a/alchemy-of-souls-02.webp", "images/a/alchemy-of-souls-06.webp", "images/a/alchemy-of-souls-05.webp", "images/a/alchemy-of-souls-04.webp", "images/a/alchemy-of-souls-01.webp", "images/a/alchemy-of-souls-07.webp", "images/a/alchemy-of-souls-03.webp", "images/a/alchemy-of-souls-08.webp"]
 #videos = ["https://www.youtube.com/watch?v="]
 
 type = "review"                                             # article, sitepage, review
@@ -187,13 +187,13 @@ contenttypes = ["CriticReview"]
 {{% quote type="name" lang="ko-Latn" %}}Jang Uk{{% /quote %}}は父親に魔法を封印されて育ちました。 彼は、彼の道が{{% quote type="name" lang="ko-Latn" %}}Mu Deok{{% /quote %}}と交差するまで、封印を破り、彼に魔法、当然のことながら彼である魔法を教えるのに十分強力なマスターを絶えず探します。
 
 {{< image
-  width="50%"
+  width="48%"
   class="obj_floatleft"
 
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/alchemy-of-souls-02.webp"
-  link="https://img.youronly.one/a/alchemy-of-souls-02.webp"
+  src="images/a/alchemy-of-souls-02.webp"
+  link="images/a/alchemy-of-souls-02.webp"
   linkrel="noopener"
 
   title="魂の錬金術 (환혼)"
@@ -210,13 +210,13 @@ contenttypes = ["CriticReview"]
 >}}
 
 {{< image
-  width="50%"
+  width="48%"
   class="obj_floatright"
 
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/alchemy-of-souls-06.webp"
-  link="https://img.youronly.one/a/alchemy-of-souls-06.webp"
+  src="images/a/alchemy-of-souls-06.webp"
+  link="images/a/alchemy-of-souls-06.webp"
   linkrel="noopener"
 
   title="魂の錬金術 (환혼)"
@@ -243,13 +243,13 @@ contenttypes = ["CriticReview"]
 {{% quote type="name" lang="ko-Latn" %}}Mu Deok{{% /quote %}}は、{{% quote type="name" lang="ko-Latn" %}}Jang Uk{{% /quote %}}の個人的なメイドである{{% quote type="name" lang="ko-Latn" %}}Jung So Min{{% /quote %}}（{{% quote type="name" lang="ko" %}}정소민{{% /quote %}}）が演じています。 彼女は実際には{{% quote type="name" lang="ko-Latn" %}}Nak Su{{% /quote %}}であり、最も恐れられている魔術師の暗殺者であり、彼女の一族の殺害に対する復讐を求めています。 しかし、魂の錬金術を行った後、彼女はうっかりして{{% quote type="name" lang="ko-Latn" %}}Mu Deok{{% /quote %}}の体を乗っ取った。彼は弱く、魔法への道がないようだ。
 
 {{< image
-  width="50%"
+  width="48%"
   class="obj_floatleft"
 
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/alchemy-of-souls-05.webp"
-  link="https://img.youronly.one/a/alchemy-of-souls-05.webp"
+  src="images/a/alchemy-of-souls-05.webp"
+  link="images/a/alchemy-of-souls-05.webp"
   linkrel="noopener"
 
   title="魂の錬金術 (환혼)"
@@ -266,13 +266,13 @@ contenttypes = ["CriticReview"]
 >}}
 
 {{< image
-  width="50%"
+  width="48%"
   class="obj_floatright"
 
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/alchemy-of-souls-04.webp"
-  link="https://img.youronly.one/a/alchemy-of-souls-04.webp"
+  src="images/a/alchemy-of-souls-04.webp"
+  link="images/a/alchemy-of-souls-04.webp"
   linkrel="noopener"
 
   title="魂の錬金術 (환혼)"
@@ -313,8 +313,8 @@ contenttypes = ["CriticReview"]
 {{< image
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/alchemy-of-souls-01.webp"
-  link="https://img.youronly.one/a/alchemy-of-souls-01.webp"
+  src="images/a/alchemy-of-souls-01.webp"
+  link="images/a/alchemy-of-souls-01.webp"
   linkrel="noopener"
 
   title="魂の錬金術 (환혼)"
@@ -348,8 +348,8 @@ contenttypes = ["CriticReview"]
 {{< image
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/alchemy-of-souls-07.webp"
-  link="https://img.youronly.one/a/alchemy-of-souls-07.webp"
+  src="images/a/alchemy-of-souls-07.webp"
+  link="images/a/alchemy-of-souls-07.webp"
   linkrel="noopener"
 
   title="魂の錬金術 (환혼)"
@@ -392,8 +392,8 @@ contenttypes = ["CriticReview"]
 {{< image
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/alchemy-of-souls-03.webp"
-  link="https://img.youronly.one/a/alchemy-of-souls-03.webp"
+  src="images/a/alchemy-of-souls-03.webp"
+  link="images/a/alchemy-of-souls-03.webp"
   linkrel="noopener"
 
   title="魂の錬金術 (환혼)"
@@ -431,8 +431,8 @@ contenttypes = ["CriticReview"]
 {{< image
   isrepresentativeofpage=false
 
-  src="https://img.youronly.one/a/alchemy-of-souls-08.webp"
-  link="https://img.youronly.one/a/alchemy-of-souls-08.webp"
+  src="images/a/alchemy-of-souls-08.webp"
+  link="images/a/alchemy-of-souls-08.webp"
   linkrel="noopener"
 
   title="魂の錬金術 (환혼)"
@@ -484,7 +484,7 @@ contenttypes = ["CriticReview"]
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/a/alchemy-of-souls-00-cover.png"
+  link="images/a/alchemy-of-souls-00-cover.png"
   linkrel="noopener"
 
   title="魂の錬金術 (환혼)"

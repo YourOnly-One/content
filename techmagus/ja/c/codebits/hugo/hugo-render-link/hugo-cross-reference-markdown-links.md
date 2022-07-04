@@ -28,7 +28,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                          # used for og:audio, etc.
-images = ["https://img.youronly.one/h/hugo-markdown-link-render.webp"]                 # used for og:images, etc.; first image is cover image
+images = ["images/h/hugo-markdown-link-render.webp"]                 # used for og:images, etc.; first image is cover image
 #videos = ["https://www.youtube.com/watch?v="]                         # used for og:video, etc.
 
 type = "article"                                                             # article, sitepage, review
@@ -219,7 +219,7 @@ type = "article"                                                             # a
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/h/hugo-markdown-link-render.webp"
+  link="images/h/hugo-markdown-link-render.webp"
   linkrel="noopener"
 
   title="HugoでMarkdownリンクをカスタマイズする方法"

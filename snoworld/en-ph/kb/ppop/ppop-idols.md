@@ -28,7 +28,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                          # used for og:audio, etc.
-images = ["https://img.youronly.one/p/ppop-idols-02.webp"]                 # used for og:images, etc.; first image is cover image
+images = ["images/p/ppop-idols-02.webp"]                 # used for og:images, etc.; first image is cover image
 videos = ["https://www.youtube.com/watch?v=_5Y_mTfBh3o", "https://www.youtube.com/watch?v=QmAQQhDnhiI", "https://www.youtube.com/watch?v=_IKAPJSAiSQ", "https://www.youtube.com/watch?v=Dpuw7AMlDyM", "https://www.youtube.com/watch?v=a9VP0PToxnM", "https://www.youtube.com/watch?v=RLAp9uhQFOI"]                         # used for og:video, etc.
 
 type = "article"                                                           # article, sitepage, review
@@ -358,7 +358,7 @@ Here are the generations of modern P-pop:
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/p/ppop-idols-02.webp"
+  link="images/p/ppop-idols-02.webp"
   linkrel="noopener"
 
   title="P-pop idols"

@@ -26,7 +26,7 @@ featured = true
 toc = true
 
 #audio = [""]                                                          # used for og:audio, etc.
-#images = ["https://img.youronly.one/{LETTER}/{FILENAME}.webp"]                 # used for og:images, etc.; first image is cover image
+#images = ["images/{LETTER}/{FILENAME}.webp"]                 # used for og:images, etc.; first image is cover image
 #videos = ["https://www.youtube.com/watch?v="]                         # used for og:video, etc.
 
 type = "article"                                                             # article, sitepage, review
@@ -107,7 +107,7 @@ Quotation marks
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/"
+  link="images/{LETTER}/{FILENAME}.webp"
   linkrel="noopener"
   thumbnailurl=""
 

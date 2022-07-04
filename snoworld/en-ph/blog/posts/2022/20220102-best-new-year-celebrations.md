@@ -28,7 +28,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
-images = ["https://img.youronly.one/n/new-year-2022-1024x.png"]                                                       # used by og:images, etc.; first image is cover image
+images = ["images/n/new-year-2022-1024x.png"]                                                       # used by og:images, etc.; first image is cover image
 videos = ["https://www.youtube.com/watch?v=73WNoce81p8", "https://www.youtube.com/watch?v=VurcwV-3zNc", "https://www.youtube.com/watch?v=VHHDw3EUJGA", "https://www.youtube.com/watch?v=sB2fT6V83WY", "https://www.youtube.com/watch?v=Vig8Kk7gW8Y", "https://www.youtube.com/watch?v=KNaqD3gS4cw", "https://www.youtube.com/watch?v=h12m2Gf0mEw", "https://www.youtube.com/watch?v=oHL3nAOX3qw", "https://www.youtube.com/watch?v=Dwl-o5EFOpI", "https://www.youtube.com/watch?v=I8IcsHuZOIM"]                                                       # used by og:video, etc.
 
 type = "article"                                                           # article, sitepage, review

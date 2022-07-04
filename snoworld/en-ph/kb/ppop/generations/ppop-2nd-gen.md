@@ -26,7 +26,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                          # used for og:audio, etc.
-#images = ["https://img.youronly.one/p/p-pop_2nd_Generation-01.webp"]                 # used for og:images, etc.; first image is cover image
+#images = ["images/p/ppop-2nd-generation-01.webp"]                 # used for og:images, etc.; first image is cover image
 #videos = ["https://www.youtube.com/watch?v="]                         # used for og:video, etc.
 
 type = "sitepage"                                                           # article, sitepage, review
@@ -975,7 +975,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/p/p-pop_2nd_Generation-01.webp"
+  link="images/p/ppop-2nd-generation-01.webp"
   linkrel="noopener"
 
   title="P-pop 2nd Generation"

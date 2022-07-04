@@ -28,7 +28,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                          # used for og:audio, etc.
-images = ["https://img.youronly.one/g/grid-red-logo.webp"]                 # used for og:images, etc.; first image is cover image
+images = ["images/g/grid-red-logo.webp", "images/g/grid-device-the-ghost-02.webp", "images/g/grid-sae-ha-death.webp", "images/g/grid-the-ghost-remembering-sae-ha.webp", "images/g/grid-the-ghost-vs-foe-blue-01.webp", "images/g/grid-storehouse-sae-ha-2022.webp", "images/g/grid-the-ghost-vs-foe-blue-04.webp", "images/g/grid-device-blue-time-traveler-friendly-01.webp", "images/g/grid-device-blue-time-traveler-foe-01.webp", "images/g/grid-device-blue-time-traveler-foe-02.webp", "images/g/grid-device-blue-time-traveler-foe-03.webp", "images/g/grid-the-ghost-blue-time-traveler-sae-ha.awebp", "images/g/grid-irr-destroyed-2022.awebp", "images/g/grid-faction-scene.webp", "images/g/grid-destroyed-2022-01.webp", "images/g/grid-microtesla-blue-time-traveler-friendly-230µT-01.webp", "images/g/grid-microtesla-blue-time-traveler-friendly-230µT-02.webp", "images/g/grid-microtesla-ghost-408µT-and-blue-237µT-01.webp", "images/g/grid-vanishing-time-travelers.awebp"]                 # used for og:images, etc.; first image is cover image
 #videos = ["https://www.youtube.com/watch?v="]                         # used for og:video, etc.
 
 type = "article"                                                             # article, sitepage, review
@@ -200,8 +200,8 @@ type = "article"                                                             # a
     タイムトラベルデバイスは、腕にチップを埋め込んだ人だけが制御できます。 チップは、人の脳とデバイスの間の架け橋です。
 
     {{< image
-      src="https://img.youronly.one/g/grid-device-the-ghost-02.webp"
-      link="https://img.youronly.one/g/grid-device-the-ghost-02.webp"
+      src="images/g/grid-device-the-ghost-02.webp"
+      link="images/g/grid-device-the-ghost-02.webp"
       linkrel="noopener"
 
       title="グリッド (그리드)"
@@ -273,8 +273,8 @@ type = "article"                                                             # a
 100％はしませんでした。 理由は次のとおりです。
 
 {{< image
-  src="https://img.youronly.one/g/grid-sae-ha-death.webp"
-  link="https://img.youronly.one/g/grid-sae-ha-death.webp"
+  src="images/g/grid-sae-ha-death.webp"
+  link="images/g/grid-sae-ha-death.webp"
   linkrel="noopener"
 
   title="グリッド (그리드)"
@@ -297,8 +297,8 @@ type = "article"                                                             # a
 幽霊自身も別の手がかりです。
 
 {{< image
-  src="https://img.youronly.one/g/grid-the-ghost-remembering-sae-ha.webp"
-  link="https://img.youronly.one/g/grid-the-ghost-remembering-sae-ha.webp"
+  src="images/g/grid-the-ghost-remembering-sae-ha.webp"
+  link="images/g/grid-the-ghost-remembering-sae-ha.webp"
   linkrel="noopener"
 
   title="グリッド (그리드)"
@@ -332,8 +332,8 @@ Sae Haが死んだと記録されている限り、起こるべき出来事が�
 これがどのように起こったかです：
 
 {{< image
-  src="https://img.youronly.one/g/grid-the-ghost-vs-foe-blue-01.webp"
-  link="https://img.youronly.one/g/grid-the-ghost-vs-foe-blue-01.webp"
+  src="images/g/grid-the-ghost-vs-foe-blue-01.webp"
+  link="images/g/grid-the-ghost-vs-foe-blue-01.webp"
   linkrel="noopener"
 
   title="グリッド (그리드)"
@@ -423,8 +423,8 @@ Sae Haは、グリッドの存在を消去せずにイベントを変更する�
 彼は、フレンドリーなブルータイムトラベラーが救ったセハです。 しかし、彼は自分自身を明らかにすることはできません。さもなければ、彼らは記録された歴史を変える危険を冒すことになります。
 
 {{< image
-  src="https://img.youronly.one/g/grid-storehouse-sae-ha-2022.webp"
-  link="https://img.youronly.one/g/grid-storehouse-sae-ha-2022.webp"
+  src="images/g/grid-storehouse-sae-ha-2022.webp"
+  link="images/g/grid-storehouse-sae-ha-2022.webp"
   linkrel="noopener"
 
   title="グリッド (그리드)"
@@ -485,8 +485,8 @@ Sae Haは、グリッドの存在を消去せずにイベントを変更する�
 ## 幽霊
 
 {{< image
-  src="https://img.youronly.one/g/grid-the-ghost-vs-foe-blue-04.webp"
-  link="https://img.youronly.one/g/grid-the-ghost-vs-foe-blue-04.webp"
+  src="images/g/grid-the-ghost-vs-foe-blue-04.webp"
+  link="images/g/grid-the-ghost-vs-foe-blue-04.webp"
   linkrel="noopener"
 
   title="グリッド (그리드)"
@@ -590,8 +590,8 @@ Sae Haは、グリッドの存在を消去せずにイベントを変更する�
     - 彼の時間装置はよりスリムで尖っています。
 
 {{< image
-  src="https://img.youronly.one/g/grid-device-blue-time-traveler-friendly-01.webp"
-  link="https://img.youronly.one/g/grid-device-blue-time-traveler-friendly-01.webp"
+  src="images/g/grid-device-blue-time-traveler-friendly-01.webp"
+  link="images/g/grid-device-blue-time-traveler-friendly-01.webp"
   linkrel="noopener"
 
   title="グリッド (그리드)"
@@ -616,8 +616,8 @@ Sae Haは、グリッドの存在を消去せずにイベントを変更する�
   class=""
   style=""
 
-  src="https://img.youronly.one/g/grid-device-blue-time-traveler-foe-01.webp"
-  link="https://img.youronly.one/g/grid-device-blue-time-traveler-foe-01.webp"
+  src="images/g/grid-device-blue-time-traveler-foe-01.webp"
+  link="images/g/grid-device-blue-time-traveler-foe-01.webp"
   linkrel="noopener"
 
   title="グリッド (그리드)"
@@ -637,8 +637,8 @@ Sae Haは、グリッドの存在を消去せずにイベントを変更する�
   class=""
   style=""
 
-  src="https://img.youronly.one/g/grid-device-blue-time-traveler-foe-02.webp"
-  link="https://img.youronly.one/g/grid-device-blue-time-traveler-foe-02.webp"
+  src="images/g/grid-device-blue-time-traveler-foe-02.webp"
+  link="images/g/grid-device-blue-time-traveler-foe-02.webp"
   linkrel="noopener"
 
   title="グリッド (그리드)"
@@ -658,8 +658,8 @@ Sae Haは、グリッドの存在を消去せずにイベントを変更する�
   class=""
   style=""
 
-  src="https://img.youronly.one/g/grid-device-blue-time-traveler-foe-03.webp"
-  link="https://img.youronly.one/g/grid-device-blue-time-traveler-foe-03.webp"
+  src="images/g/grid-device-blue-time-traveler-foe-03.webp"
+  link="images/g/grid-device-blue-time-traveler-foe-03.webp"
   linkrel="noopener"
 
   title="グリッド (그리드)"
@@ -678,8 +678,8 @@ Sae Haは、グリッドの存在を消去せずにイベントを変更する�
 フレンドリーブルータイムトラベラーが英語で言ったように、<q>それは私ではありません。あなたはそれを見ることができませんか？</q> 彼が自分の時間装置を見るために彼の目で指さしている間（彼はまた、彼とまったく同じように見える誰かが彼女と戦ったことを知っていました）。 これに気づいたとき、幽霊は彼に彼がしようとしていたことをさせました。
 
 {{< image
-  src="https://img.youronly.one/g/grid-the-ghost-blue-time-traveler-sae-ha.webp"
-  link="https://img.youronly.one/g/grid-the-ghost-blue-time-traveler-sae-ha.webp"
+  src="images/g/grid-the-ghost-blue-time-traveler-sae-ha.awebp"
+  link="images/g/grid-the-ghost-blue-time-traveler-sae-ha.awebp"
   linkrel="noopener"
 
   title="グリッド (그리드)"
@@ -747,8 +747,8 @@ Sae Haは、グリッドの存在を消去せずにイベントを変更する�
 破壊されたグリッドは、1997年のグリッドではなく、2022年のものです。
 
 {{< image
-  src="https://img.youronly.one/g/grid-irr-destroyed-2022.webp"
-  link="https://img.youronly.one/g/grid-irr-destroyed-2022.webp"
+  src="images/g/grid-irr-destroyed-2022.awebp"
+  link="images/g/grid-irr-destroyed-2022.awebp"
   linkrel="noopener"
 
   title="グリッド (그리드)"
@@ -785,8 +785,8 @@ Sae Haは、グリッドの存在を消去せずにイベントを変更する�
 彼は彼の上司のように見える人にこの報告をしました、<q>グリッドはすべてなくなっています。 すべての時代と層から。</q>
 
 {{< image
-  src="https://img.youronly.one/g/grid-faction-scene.webp"
-  link="https://img.youronly.one/g/grid-faction-scene.webp"
+  src="images/g/grid-faction-scene.webp"
+  link="images/g/grid-faction-scene.webp"
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -835,8 +835,8 @@ Temporal Mechanics＃4は、タイムトラベラーがその時間に入るた�
 多分そうでないかもしれません。 ゴーストが2091年に生まれたと言っていたので、それまでにビョリは69歳になるでしょう。
 
 {{< image
-  src="https://img.youronly.one/g/grid-destroyed-2022-01.webp"
-  link="https://img.youronly.one/g/grid-destroyed-2022-01.webp"
+  src="images/g/grid-destroyed-2022-01.webp"
+  link="images/g/grid-destroyed-2022-01.webp"
   linkrel="noopener"
 
   title="グリッド (그리드)"
@@ -909,8 +909,8 @@ Z軸、または高さ、または上下に移動することは、私が<q>存�
 - Sae Ha：106 µT
 
 {{< image
-  src="https://img.youronly.one/g/grid-microtesla-blue-time-traveler-friendly-230µT-01.webp"
-  link="https://img.youronly.one/g/grid-microtesla-blue-time-traveler-friendly-230µT-01.webp"
+  src="images/g/grid-microtesla-blue-time-traveler-friendly-230µT-01.webp"
+  link="images/g/grid-microtesla-blue-time-traveler-friendly-230µT-01.webp"
   linkrel="noopener"
 
   title="グリッド (그리드)"
@@ -925,8 +925,8 @@ Z軸、または高さ、または上下に移動することは、私が<q>存�
 >}}
 
 {{< image
-  src="https://img.youronly.one/g/grid-microtesla-blue-time-traveler-friendly-230µT-02.webp"
-  link="https://img.youronly.one/g/grid-microtesla-blue-time-traveler-friendly-230µT-02.webp"
+  src="images/g/grid-microtesla-blue-time-traveler-friendly-230µT-02.webp"
+  link="images/g/grid-microtesla-blue-time-traveler-friendly-230µT-02.webp"
   linkrel="noopener"
 
   title="グリッド (그리드)"
@@ -941,8 +941,8 @@ Z軸、または高さ、または上下に移動することは、私が<q>存�
 >}}
 
 {{< image
-  src="https://img.youronly.one/g/grid-microtesla-ghost-408µT-and-blue-237µT-01.webp"
-  link="https://img.youronly.one/g/grid-microtesla-ghost-408µT-and-blue-237µT-01.webp"
+  src="images/g/grid-microtesla-ghost-408µT-and-blue-237µT-01.webp"
+  link="images/g/grid-microtesla-ghost-408µT-and-blue-237µT-01.webp"
   linkrel="noopener"
 
   title="グリッド (그리드)"
@@ -985,8 +985,8 @@ Z軸、または高さ、または上下に移動することは、私が<q>存�
 聞いてくれてありがとう（この場合は読んでくれて）。
 
 {{< image
-  src="https://img.youronly.one/g/grid-vanishing-time-travelers.webp"
-  link="https://img.youronly.one/g/grid-vanishing-time-travelers.webp"
+  src="images/g/grid-vanishing-time-travelers.awebp"
+  link="images/g/grid-vanishing-time-travelers.awebp"
   linkrel="noopener"
 
   title="グリッド (그리드)"
@@ -1007,7 +1007,7 @@ Z軸、または高さ、または上下に移動することは、私が<q>存�
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/g/grid-red-logo.webp"
+  link="images/g/grid-red-logo.webp"
   linkrel="noopener"
 
   title="グリッド (그리드)"

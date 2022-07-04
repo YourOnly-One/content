@@ -26,7 +26,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
-images = ["https://img.youronly.one/"]                                                       # used by og:images, etc.; first image is cover image
+#images = ["images/{LETTER}/{FILENAME}.webp"]                                                       # used by og:images, etc.; first image is cover image
 #videos = ["https://www.youtube.com/watch?v="]                                                       # used by og:video, etc.
 
 type = ""                                                           # article, sitepage, review
@@ -132,7 +132,7 @@ GO: The quick brown**P-pop**fox jumps over the lazy dog.
 
   isrepresentativeofpage=true
 
-  link="https://img.youronly.one/"
+  link=""
   linkrel="noopener external"
   thumbnailurl=""
 
