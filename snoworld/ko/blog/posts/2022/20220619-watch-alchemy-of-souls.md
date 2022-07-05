@@ -232,6 +232,8 @@ contenttypes = ["CriticReview"]
   attribrel="noopener"
 >}}
 
+<div class="floatclear"></div>
+
 {{% quote type="name" lang="ko" %}}무덕{{% /quote %}}은 깊은 비밀을 가진 {{% quote type="name" lang="ko" %}}장욱{{% /quote %}}의 새로운 개인 하녀로, 모든 어둠 중 가장 금지 된 환혼술을 수행 한 후 가장 두려운 마법사 암살자 {{% quote type="name" lang="ko" %}}낙수{{% /quote %}}에게 그녀의 몸을 인수했습니다. 예술 주문.
 
 그들은 함께 정치, 흑마법, 무술로 가득 찬 나라에서 마법, 로맨스, 생존의 환상적인 여행을 시작합니다.
@@ -287,6 +289,8 @@ contenttypes = ["CriticReview"]
   attriburl="https://netflix.com"
   attribrel="noopener"
 >}}
+
+<div class="floatclear"></div>
 
 한편, 그녀의 주인 {{% quote type="name" lang="ko" %}}장욱{{% /quote %}}({{% quote type="name" lang="ko" %}}이재욱{{% /quote %}})은 {{% quote type="name" lang="ko" %}}대호{{% /quote %}}에서 가장 강력한 마법사의 아들이다. 그의 혈통을 위해 아버지에게 봉인된 그의 마법에는 어두운 비밀이 있다. 영혼이 암살자 {{% quote type="name" lang="ko" %}}낙수{{% /quote %}}인 하녀 {{% quote type="name" lang="ko" %}}무덕{{% /quote %}}.
 

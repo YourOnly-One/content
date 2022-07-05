@@ -232,6 +232,8 @@ contenttypes = ["CriticReview"]
   attribrel="noopener"
 >}}
 
+<div class="floatclear"></div>
+
 {{% quote type="name" lang="ko-Latn" %}}Mu Deok{{% /quote %}}は{{% quote type="name" lang="ko-Latn" %}}Jang Uk{{% /quote %}}の新しい個人的なメイドであり、深い秘密を持っています。彼女の体は、魂の錬金術を実行した後、最も恐れられている魔術師の暗殺者である{{% quote type="name" lang="ko-Latn" %}}Nak Su{{% /quote %}}に引き継がれました。 アートの呪文。
 
 一緒に、彼らは政治、黒魔術、そして武道に満ちた国で魔法、ロマンス、そして生存の幻想的な旅に乗り出します。
@@ -287,6 +289,8 @@ contenttypes = ["CriticReview"]
   attriburl="https://netflix.com"
   attribrel="noopener"
 >}}
+
+<div class="floatclear"></div>
 
 一方、彼女の主人である{{% quote type="name" lang="ko-Latn" %}}Jang Uk{{% /quote %}}（{{% quote type="name" lang="ko-Latn" %}}Lee Jae Wook{{% /quote %}}（{{% quote type="name" lang="ko" %}}이재욱{{% /quote %}}）が演じる）は、{{% quote type="name" lang="ko-Latn" %}}Daeho{{% /quote %}}で最も強力な魔術師の息子です。 彼の血統には暗い秘密があるため、彼の魔法は父親によって封印されました。 彼は彼の個人的なメイド{{% quote type="name" lang="ko-Latn" %}}Mu Deok{{% /quote %}}の下で訓練しています—その魂は暗殺者{{% quote type="name" lang="ko-Latn" %}}Nak Su{{% /quote %}}です。
 

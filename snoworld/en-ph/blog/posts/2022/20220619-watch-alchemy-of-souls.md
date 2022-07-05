@@ -232,6 +232,8 @@ Here is a short rundown and quick feedback about the premier of this live-action
   attribrel="noopener"
 >}}
 
+<div class="floatclear"></div>
+
 {{% quote type="name" lang="ko-Latn" %}}Mu Deok{{% /quote %}} is {{% quote type="name" lang="ko-Latn" %}}Jang Uk{{% /quote %}}'s new personal maid who has a deep secret, her body was taken over by {{% quote type="name" lang="ko-Latn" %}}Nak Su{{% /quote %}}, the most feared mage assassin, after performing the alchemy of souls—the most forbidden of all dark art spells.
 
 Together, they embark on a fantastical journey of magic, romance, and survival in a country filled with politics, dark magic, and martial arts.
@@ -287,6 +289,8 @@ Together, they embark on a fantastical journey of magic, romance, and survival i
   attriburl="https://netflix.com"
   attribrel="noopener"
 >}}
+
+<div class="floatclear"></div>
 
 Meanwhile her master, {{% quote type="name" lang="ko-Latn" %}}Jang Uk{{% /quote %}} (played by {{% quote type="name" lang="ko-Latn" %}}Lee Jae Wook{{% /quote %}} ({{% quote type="name" lang="ko" %}}이재욱{{% /quote %}})) is the son of the most powerful mage in {{% quote type="name" lang="ko-Latn" %}}Daeho{{% /quote %}}. His magic was sealed by his father for his lineage has a dark secret. He is training under his personal maid {{% quote type="name" lang="ko-Latn" %}}Mu Deok{{% /quote %}}—whose soul is {{% quote type="name" lang="ko-Latn" %}}Nak Su{{% /quote %}} the assassin.
 
