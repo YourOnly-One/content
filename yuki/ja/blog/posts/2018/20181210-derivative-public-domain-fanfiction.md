@@ -14,7 +14,7 @@ relCanonical = "https://im.youronly.one/yuki/ja/derivative-public-domain-fanfict
 
 syndications = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/395530524949517"]
 
-channels = ["versesspace"]
+channels = ["worldbuildingwriting"]
 categories = ["literature"]                           # taxonomy
 keywords = ["Writing", "Creative Writing", "Public Domain", "Fanfiction", "Verses.Space", "KWWP", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 #series = [""]                               # subset of series taxonomy

@@ -14,7 +14,7 @@ relCanonical = "https://im.youronly.one/yuki/ko/free-culture-anti-copyright-2021
 
 syndications = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/562205601615341"]
 
-channels = ["versesspace"]
+channels = ["worldbuildingwriting"]
 categories = ["literature"]                                                   # taxonomy
 keywords = ["free culture", "copyright", "open access", "open knowledge", "sharing culture", "creative commons"]                                                     # meta keywords
 series = ["freeculture", "copyright"]                                                       # subset of series taxonomy
