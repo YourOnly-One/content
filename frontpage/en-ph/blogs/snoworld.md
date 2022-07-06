@@ -1,6 +1,6 @@
 +++
-title = ""
-subtitle = ""
+title = "Snoworld ❄️"
+#subtitle = "Snoworld ❄️"
 publishdate = "2020-03-25T06:00:00+00:00"
 lastmod = "2020-03-25T06:00:00+00:00"
 link = "https://im.youronly.one/snoworld/"
@@ -10,4 +10,4 @@ weight = "13"
 #metarobots = "noindex"
 +++
 
-[Snoworld™](https://im.youronly.one/snoworld/ "Snoworld™")
+[Snoworld™ ❄️](https://im.youronly.one/snoworld/ "Snoworld™ ❄️")

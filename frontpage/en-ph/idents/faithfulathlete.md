@@ -1,6 +1,6 @@
 +++
-title = ""
-subtitle = ""
+#title = "Faithful Athlete 🎽"
+#subtitle = "Faithful Athlete 🎽"
 publishdate = "2020-03-25T06:00:00+00:00"
 lastmod = "2020-03-25T06:00:00+00:00"
 link = "https://im.youronly.one/faithfulathlete/"
@@ -10,4 +10,4 @@ weight = "31"
 #metarobots = "noindex"
 +++
 
-[The Faithful Athlete](https://im.youronly.one/faithfulathlete/ "The Faithful Athlete")
+[Faithful Athlete™ 🎽](https://im.youronly.one/faithfulathlete/ "Faithful Athlete™ 🎽")
