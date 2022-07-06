@@ -1,10 +1,10 @@
 +++
 title = "The Principles and Virtues of Ultima VI on Guild Management"
-description = ""
+description = "How to apply the Axiom of Singularity in Guild Management"
 
-lastmod = "2022-06-24T17:23:12+08:00"                 # last update; manually adjust to local timezone
-publishdate = "2006-12-22T00:00:00-10:00"             # first publication; manually adjust to local timezone
-date = "2006-12-21T00:00:00-08:00"                    # first created; manually adjust to local timezone
+lastmod = "2022-07-07T00:00:00+08:00"                 # last update; manually adjust to local timezone
+publishdate = "2006-12-22T00:04:05+00:00"             # first publication; manually adjust to local timezone
+date = "2006-12-21T04:27:18-08:00"                    # first created; manually adjust to local timezone
 #expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
 
 #aliases = [""]                                        # "/post"
@@ -21,7 +21,7 @@ relCanonical = "https://im.youronly.one/yooki/ultima-6-virtues-guild-management-
 #syndications = [""]
 
 channels = ["gameshogun"]
-#categories = [""]
+categories = ["literature"]
 keywords = ["Ultima", "Ultima VI", "Ultima 6", "Axiom of Singularity", "Book of Circles", "Principles", "Virtues", "Guild Management"]
 #series = [""]
 #tags = [""]
@@ -34,27 +34,29 @@ comments = true
 toc = true
 
 #audio = [""]
-#images = ["images/{LETTER}/{FILENAME}.webp"]
+images = ["images/u/ultima-codex-of-ultimate-wisdom.png"]
 #videos = ["https://www.youtube.com/watch?v="]
 
 type = "article"                                             # article, sitepage, review
 
-draft = true
+#draft = true
 
 #license = ""                                          # only set if the post license is not the same as the site license
 
-#### AUTHOR: YOOki CHRONICLES ####
+#### AUTHOR: GAMESHOGUN ####
 [[authors]]
   person = "yuki"
   #id = ""
   name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
-  #name = "YOOki Chronicles / YOOkiクロニクル / YOOki 연대기"
-  url = "https://im.youronly.one/yuki/"
-  avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
+  #name = "gameshogun 🎲 / ゲーム将軍 🎲 / 게임장군 🎲"
+  url = "https://im.youronly.one"
+  avatar = "https://rsc.youronly.one/img/y/gameshogun-joystick-1280x.png"
   #rel = "noopener"
 +++
 
-SUMMARY
+{{% quote type="title" lang="en" %}}Ultima VI: The False Prophet{{% /quote %}} introduced a new set of principles and virtues the avatar (the player) has to embody, it is called the {{% quote type="work" lang="en" %}}Axiom of Singularity{{% /quote %}}. What made this very interesting is that it can be applied in guild management.
+
+Here is how …
 
 <!--more-->
 
@@ -66,7 +68,7 @@ SUMMARY
 "A circle has no end. It continues forever, with all parts equally important in the success of the whole. Our society is the same. It too continues forever, with all members (and all virtues) equal parts of the unified whole."
 {{% /quotebox %}}
 
-I have been thinking for a long time how to present my experiences in running a successful guild. There are two popular guides from two highly respected guild leaders/founders: {{% quote type="name" lang="en" %}}Brimstone{{% /quote %}}'s Guide, founder and leader of the {{% quote type="name" lang="en" %}}Lost Order of Akalabeth{{% /quote %}} and {{% quote type="name" lang="en" %}}Faust{{% /quote %}}'s {{% quote type="work" lang="en" %}}[On Guild Management](https://web.archive.org/web/20061020114959/http://www.gamerifts.com/sections/shadowbane/faust/guild_one.shtml){{% /quote %}}.
+I have been thinking for a long time how to present my experiences in running a successful guild. There are two popular guides from two highly respected guild leaders/founders: {{% quote type="name" lang="en" %}}Brimstone{{% /quote %}}'s Guide (founder and leader of the {{% quote type="name" lang="en" %}}Lost Order of Akalabeth{{% /quote %}}) and {{% quote type="name" lang="en" %}}Faust{{% /quote %}}'s {{% quote type="work" lang="en" %}}[On Guild Management](https://web.archive.org/web/20061020114959/http://www.gamerifts.com/sections/shadowbane/faust/guild_one.shtml){{% /quote %}}.
 
 I can write another guide but it will only become a parallel of the other two. I want something that will be remembered and enjoyed by guild leaders and members for its different style. I looked back into my RPG years, I searched my archives of gaming manuals, and found the {{% quote type="work" lang="en" %}}Axiom of Singularity{{% /quote %}} from the highly acclaimed game of {{% quote type="name" lang="en" %}}Richard Garriott{{% /quote %}}, {{% quote type="title" lang="en" %}}Ultima VI: The False Prophet{{% /quote %}}.
 
@@ -203,7 +205,7 @@ Article history:
 - First published: 2006-12-22
 - First revision: 2007-06-09
 - Second revision: 2009-01-05
-- Third revision: 2022-06-23
+- Third revision: 2022-07-07
 
 ---
 
@@ -212,43 +214,39 @@ Article history:
 
   isrepresentativeofpage=true
 
-  link=""
+  link="images/u/ultima-codex-of-ultimate-wisdom.png"
   linkrel="noopener"
-  thumbnailurl=""
 
-  title=""
+  title="Codex of Ultimate Wisdom (with background)"
   caption=""
-  alt=""
-  embeddedtextcaption=""
-  inlanguage=""
+  alt="Codex of Ultimate Wisdom (with background)"
 
-  licensecode=""
-  licenseurl=""
-  licensename=""
-
-  acquirelicensepage=""
-  copyrightnotice=""
-  credittext=""
+  licensecode="ccbysa4"
+  licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
+  licensename="Creative Commons-Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
   attriburl="https://im.youronly.one/"
   attribrel="noopener"
-
-  cc0country=""
-  cc0countrycode=""
-  cc0countryurl=""
 >}}
 
----
+{{< image
+  type="imagecoverattrib"
 
-注意：Google翻訳
-고시 : Google 번역
+  isrepresentativeofpage=true
 
----
+  link="https://wiki.ultimacodex.com/wiki/File:Codwis.gif"
+  linkrel="noopener external"
 
-Only use the following if needed
+  title="Codex of Ultimate Wisdom"
+  caption=""
+  alt="Codex of Ultimate Wisdom"
 
-<!-- markdownlint-disable-next-line -->
+  licensecode="ccbysa3"
+  licenseurl="https://creativecommons.org/licenses/by-sa/3.0/"
+  licensename="Creative Commons-Attribution-ShareAlike 3.0 Unported"
 
-<!-- markdownlint-disable -->
-<!-- markdownlint-enable -->
+  attribto="Tribun"
+  attriburl="https://wiki.ultimacodex.com/wiki/User:Tribun"
+  attribrel="noopener external"
+>}}
