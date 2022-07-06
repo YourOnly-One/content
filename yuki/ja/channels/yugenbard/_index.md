@@ -1,5 +1,5 @@
 +++
-title = "幽玄吟遊詩人"
+title = "幽玄吟遊詩人 🎻"
 #description = ""
 
 #lastmod = "{{ .Date }}"                 # last update; manually adjust to local timezone

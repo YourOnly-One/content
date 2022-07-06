@@ -1,5 +1,5 @@
 +++
-title = "Yūgen Bard"
+title = "Yūgen Bard 🎻"
 #description = ""
 
 #lastmod = "{{ .Date }}"                 # last update; manually adjust to local timezone

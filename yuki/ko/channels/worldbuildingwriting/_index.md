@@ -1,5 +1,5 @@
 +++
-title = "사랑과 관계"
+title = "세계 구축과 글쓰기 ✨"
 #description = ""
 
 #lastmod = "{{ .Date }}"                 # last update; manually adjust to local timezone
@@ -7,10 +7,10 @@ title = "사랑과 관계"
 #date = "{{ .Date }}"                    # first created; manually adjust to local timezone
 #expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
 
-aliases = ["/ko/channels/love-and-relationships"]                                        # "/post"
+aliases = ["/ko/channels/verses.space", "/ko/channels/verses-space"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
 #slug = ""
-translationKey = "channel-love-relationships"
+translationKey = "channel-kwwp"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
 #disquq_identifier = ""                                # set if date of this content is different from main translation

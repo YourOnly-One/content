@@ -1,5 +1,5 @@
 +++
-title = "YOOkiクロニクル"
+title = "YOOkiクロニクル 📜"
 #description = ""
 
 #lastmod = "{{ .Date }}"                 # last update; manually adjust to local timezone

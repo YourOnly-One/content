@@ -1,5 +1,5 @@
 +++
-title = "techmagus"
+title = "techmagus 🚀"
 #description = ""
 
 #lastmod = "{{ .Date }}"                 # last update; manually adjust to local timezone

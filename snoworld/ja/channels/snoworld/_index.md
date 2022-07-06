@@ -1,5 +1,5 @@
 +++
-title = "雪の世界"
+title = "雪の世界 ❄️"
 #description = ""
 
 #lastmod = "{{ .Date }}"                 # last update; manually adjust to local timezone

@@ -1,5 +1,5 @@
 +++
-title = "편도 신앙"
+title = "편도 신앙 🛐"
 #description = ""
 
 #lastmod = "{{ .Date }}"                 # last update; manually adjust to local timezone

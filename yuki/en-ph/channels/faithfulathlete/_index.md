@@ -1,5 +1,5 @@
 +++
-title = "Faithful Athlete"
+title = "Faithful Athlete 🎽"
 #description = ""
 
 #lastmod = "{{ .Date }}"                 # last update; manually adjust to local timezone

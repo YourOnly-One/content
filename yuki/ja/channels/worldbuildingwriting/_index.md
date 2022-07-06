@@ -1,5 +1,5 @@
 +++
-title = "스노우 월드"
+title = "世界構築と執筆 ✨"
 #description = ""
 
 #lastmod = "{{ .Date }}"                 # last update; manually adjust to local timezone
@@ -7,10 +7,10 @@ title = "스노우 월드"
 #date = "{{ .Date }}"                    # first created; manually adjust to local timezone
 #expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
 
-aliases = ["/ko/channels/snoworld"]                                        # "/post"
+aliases = ["/ja/channels/verses.space", "/ja/channels/verses-space"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
 #slug = ""
-translationKey = "channel-snoworld"
+translationKey = "channel-kwwp"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
 #disquq_identifier = ""                                # set if date of this content is different from main translation

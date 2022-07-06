@@ -1,5 +1,5 @@
 +++
-title = "ハイテク マギ"
+title = "ハイテク マギ 🚀"
 #description = ""
 
 #lastmod = "{{ .Date }}"                 # last update; manually adjust to local timezone

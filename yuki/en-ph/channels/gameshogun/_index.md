@@ -1,5 +1,5 @@
 +++
-title = "Love and Relationships"
+title = "gameshogun 🎲"
 #description = ""
 
 #lastmod = "{{ .Date }}"                 # last update; manually adjust to local timezone
@@ -7,10 +7,10 @@ title = "Love and Relationships"
 #date = "{{ .Date }}"                    # first created; manually adjust to local timezone
 #expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
 
-aliases = ["/channels/love-and-relationship"]                                        # "/post"
+#aliases = [""]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
 #slug = ""
-translationKey = "channel-love-relationships"
+translationKey = "channel-gameshogun"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
 #disquq_identifier = ""                                # set if date of this content is different from main translation
@@ -43,13 +43,13 @@ toc = true
 
 #license = ""                                          # only set if the post license is not the same as the site license
 
-#### AUTHOR: YOOki CHRONICLES ####
+#### AUTHOR: GAMESHOGUN ####
 [[authors]]
   person = "yuki"
   #id = ""
   name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
-  #name = "YOOki Chronicles / YOOkiクロニクル / YOOki 연대기"
-  url = "https://im.youronly.one/yuki/"
-  avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
+  #name = "gameshogun 🎲 / ゲーム将軍 🎲 / 게임장군 🎲"
+  url = "https://im.youronly.one/yuki/channels/gameshogun/"
+  avatar = "https://rsc.youronly.one/img/y/gameshogun-joystick-1280x.png"
   #rel = "noopener"
 +++

@@ -1,5 +1,5 @@
 +++
-title = "一方向の信仰"
+title = "一方向の信仰 🛐"
 #description = ""
 
 #lastmod = "{{ .Date }}"                 # last update; manually adjust to local timezone

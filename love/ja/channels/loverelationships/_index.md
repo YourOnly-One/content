@@ -1,5 +1,5 @@
 +++
-title = "愛と関係"
+title = "愛と関係 💞"
 #description = ""
 
 #lastmod = "{{ .Date }}"                 # last update; manually adjust to local timezone

@@ -1,5 +1,5 @@
 +++
-title = "自信のある旅行者"
+title = "自信のある旅行者 🧭"
 #description = ""
 
 #lastmod = "{{ .Date }}"                 # last update; manually adjust to local timezone
