@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/way/happy-true-new-year-202085/"        
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["waybelievers"]
+channels = ["onewayfaith"]
 categories = ["discourse"]                           # taxonomy
 keywords = ["new year", "traditions", "holiday", "One Way Faith", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 #series = [""]                               # subset of series taxonomy

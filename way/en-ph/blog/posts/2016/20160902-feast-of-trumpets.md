@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/way/feast-of-trumpets-2016246/"         
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["waybelievers"]
+channels = ["onewayfaith"]
 categories = ["appointedtimes"]                           # taxonomy
 keywords = ["feast of trumpets", "Rosh Hashana", "One Way Faith", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 #series = [""]                               # subset of series taxonomy

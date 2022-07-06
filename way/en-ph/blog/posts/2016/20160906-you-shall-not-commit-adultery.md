@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/way/7th-you-shall-not-commit-adultery-20
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["waybelievers"]
+channels = ["onewayfaith"]
 categories = ["discourse"]                           # taxonomy
 keywords = ["adultery", "7th Commandment", "7th Law", "7th Instruction", "One Way Faith", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 #series = [""]                               # subset of series taxonomy

@@ -16,7 +16,7 @@ relCanonical = "https://im.youronly.one/way/the-feast-of-𐤉𐤄𐤅𐤄-yahuah
 
 syndications = ["https://twitter.com/YourOnlyONEofcl/status/1515154729684242432", "https://twitter.com/YourOnlyONEofcl/status/1515154732540563464", "https://www.facebook.com/youronly.ONE.WAY/posts/1963409427180161", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/637868274049073"]
 
-channels = ["waybelievers"]
+channels = ["onewayfaith"]
 categories = ["appointedtimes"]                           # taxonomy
 keywords = ["feast", "festival", "fiesta", "passover", "pesach", "pasach", "holiday", "holy day", "One Way Faith", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 #series = [""]                               # subset of series taxonomy

@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/way/job-complains-201647/"              
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["waybelievers"]
+channels = ["onewayfaith"]
 categories = ["discourse"]                           # taxonomy
 keywords = ["Job", "Iyyob", "complaining", "complaints", "One Way Faith", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 #series = [""]                               # subset of series taxonomy

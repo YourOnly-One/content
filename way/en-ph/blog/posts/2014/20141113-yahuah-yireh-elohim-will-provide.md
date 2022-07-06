@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/way/𐤉𐤄𐤅𐤄-yahuah-yireh-elohim
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["waybelievers"]
+channels = ["onewayfaith"]
 categories = ["life"]                           # taxonomy
 keywords = ["musings", "life", "One Way Faith", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 #series = [""]                               # subset of series taxonomy

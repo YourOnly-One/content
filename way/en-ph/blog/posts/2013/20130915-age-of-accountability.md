@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/way/the-age-of-accountability-2013248/" 
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["waybelievers"]
+channels = ["onewayfaith"]
 categories = ["opinion"]                           # taxonomy
 keywords = ["accountabiltiy", "age", "One Way Faith", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 #series = [""]                               # subset of series taxonomy
