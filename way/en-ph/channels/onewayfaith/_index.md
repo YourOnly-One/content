@@ -7,7 +7,7 @@ title = "One Way Faith 🛐"
 #date = "{{ .Date }}"                    # first created; manually adjust to local timezone
 #expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
 
-aliases = ["/channels/way-of-believers/", "/channels/waybelievers/"]                                        # "/post"
+aliases = ["/channels/way-of-believers", "/channels/waybelievers"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
 #slug = ""
 translationKey = "channel-onewayfaith"
