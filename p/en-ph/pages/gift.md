@@ -39,7 +39,7 @@ toc = true
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  name = "ᜌᜓᜃᜒ (雪亮 | 스노 | Yuki)"
   url = "https://im.youronly.one/yuki/"
   avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
   #rel = "noopener external nofollow"

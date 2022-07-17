@@ -48,7 +48,7 @@ private = true
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  name = "ᜌᜓᜃᜒ (雪亮 | 스노 | Yuki)"
   #name = "Confident Traveler / 自信のある旅行者 / 자신감있는 여행자"
   url = "https://im.youronly.one/confidentraveler/"
   avatar = "https://rsc.youronly.one/img/y/Confident_Traveler-logo-01-1500x.webp"

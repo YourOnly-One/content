@@ -47,7 +47,7 @@ toc = true
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  name = "ᜌᜓᜃᜒ (雪亮 | 스노 | Yuki)"
   #name = "gameshogun 🎲 / ゲーム将軍 🎲 / 게임장군 🎲"
   url = "https://im.youronly.one/yuki/channels/gameshogun/"
   avatar = "https://rsc.youronly.one/img/y/gameshogun-joystick-1280x.png"

@@ -47,7 +47,7 @@ toc = true
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  name = "ᜌᜓᜃᜒ (雪亮 | 스노 | Yuki)"
   #name = "Love and Relationships / 愛と関係 / 사랑과 관계"
   url = "https://im.youronly.one/love/"
   avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"

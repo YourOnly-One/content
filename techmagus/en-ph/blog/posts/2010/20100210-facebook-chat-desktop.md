@@ -37,7 +37,7 @@ draft = true
 #[[authors]]
 #  person = ""
 #  #id = ""
-#  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+#  name = "ᜌᜓᜃᜒ (雪亮 | 스노 | Yuki)"
 #  url = ""
 #  avatar = ""
 #  rel = "noopener external nofollow"

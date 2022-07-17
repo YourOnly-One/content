@@ -39,7 +39,7 @@ images = ["https://img.youronly.one/works/Yellow_Bell-02-CC_By-SA_4.0-s.webp", "
 [[authors]]
 person = "yuki"
 #id = ""
-name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+name = "ᜌᜓᜃᜒ (雪亮 | 스노 | Yuki)"
 url = "https://im.youronly.one/confidentraveler/"
 avatar = "https://rsc.youronly.one/img/y/Confident_Traveler-logo-01-1500x.webp"
 #rel = "noopener external nofollow"
