@@ -56,7 +56,7 @@ type = "article"                                             # article, sitepage
 
 There is an on-going show entitled {{% quote type="title" lang="en" %}}Extraordinary Attorney Woo{{% /quote %}} ({{% quote type="title" lang="ko" %}}이상한 변호사 우영우{{% /quote %}}) which tackles the challenges, discrimination, prejudices, and stigma autistics face on a daily basis. However, it is not possible for them to touch on every single topic, it is not a documentary after all.
 
-How else can we let neurotypicals understand autistics? Social media, social networks. Here is one such important thread, a discussion about what a *real autism experience* is.
+How else can we let neurotypicals understand autistics? Social media, social networks. Here is one such important thread, a discussion about what a real *autism acceptance* is.
 
 <!--more-->
 
