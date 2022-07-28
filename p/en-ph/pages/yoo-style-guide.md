@@ -75,27 +75,27 @@ BODY
     - https://en.wikipedia.org/wiki/List_of_style_guides
 -->
 
-{{% quote type="quote_name|quote_title|quote_work" lang="" %}}content{{% /quote %}}
+{{% quote type="name|title|work" lang="" %}}content{{% /quote %}}
 
 - Mottos are quoted in `<q></q>`
 
 Capitalized
 
 - channel names, TV network name, brand/company names, author names, band names, singer names
-- use: {{% quote type="quote_name" lang="" %}}content{{% /quote %}}
+- use: {{% quote type="name" lang="" %}}content{{% /quote %}}
 
 Italicized (in old print: underline)
 
 - movies, televisions, radio shows, books, periodicals, databases, websites
-- use: {{% quote type="quote_title" lang="" %}}content{{% /quote %}}
+- use: {{% quote type="title" lang="" %}}content{{% /quote %}}
 
 - Chinese: 《…〈…〉…》
 - Japanese: 《…〈…〉…》
 
 Quotation marks
 
-- episode, articles, essays, chapters, poems, songs, speeches, mottos
-- use: {{% quote type="quote_work" lang="" %}}content{{% /quote %}}
+- episode, articles, essays, chapters, poems, songs, speeches, mottos, and ordinary quotation marks
+- use: {{% quote type="work" lang="" %}}content{{% /quote %}}
 - Chinese: 「…『…』…」
 - Japanese: 「…『…』…」
 - South Korean (usually for vertical only): 「…『…』…」
@@ -107,7 +107,7 @@ Quotation marks
 
   isrepresentativeofpage=true
 
-  link="images/{LETTER}/{FILENAME}.webp"
+  link="images/{LETTER}/{FILENAME}.png"
   linkrel="noopener"
   thumbnailurl=""
 
@@ -136,5 +136,5 @@ Quotation marks
 
 ---
 
-注意：Google翻訳
-고시 : Google 번역
+注意:ネイバーPapago神経翻訳
+주의사항 : 네이버 파파고 신경번역
