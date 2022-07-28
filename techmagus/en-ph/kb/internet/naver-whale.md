@@ -43,22 +43,22 @@ type = "review"                                             # article, sitepage,
 
 #license = ""                                          # only set if the post license is not the same as the site license
 
-contenttypes = ["CriticReview"]                                                   # Semantic Web JSON-LD
-[semweb]                                                              # Semantic Web JSON-LD
-  type = "SoftwareApplication"                                                           # Book, Movie, TVSeries
+#contenttypes = ["CriticReview"]                                                   # Semantic Web JSON-LD
+#[semweb]                                                              # Semantic Web JSON-LD
+#  type = "SoftwareApplication"                                                           # Book, Movie, TVSeries
 
-[semweb.review]
-  snippet = "Naver Whale (네이버 웨일) is geared toward ordinary users and professionals who prefer to have an out-of-the-box experience where the tools they need are but a click away."
-  rating = "9.00"
+#[semweb.review]
+#  snippet = "Naver Whale (네이버 웨일) is geared toward ordinary users and professionals who prefer to have an out-of-the-box experience where the tools they need are but a click away."
+#  rating = "9.00"
 
-[semweb.product]
-  name = "Naver Whale"
-  alternatenames = ["네이버 웨일", "ネイバーウェール"]
-  sameas = ["https://en.wikipedia.org/wiki/Naver_Whale", "https://whale.naver.com/en/", "https://whale.naver.com/", "https://play.google.com/store/apps/details?id=com.naver.whale", "https://apps.apple.com/us/app/whale-naver-whale-browser/id1374073304"]
-  countryoforigin = "Korea"
-  description = "Surfing My Way. A Next Level Browser."
-  #datepublished = ""
-  categories = ["Browser", "Web", "Internet"]
+#[semweb.product]
+#  name = "Naver Whale"
+#  alternatenames = ["네이버 웨일", "ネイバーウェール"]
+#  sameas = ["https://en.wikipedia.org/wiki/Naver_Whale", "https://whale.naver.com/en/", "https://whale.naver.com/", "https://play.google.com/store/apps/details?id=com.naver.whale", "https://apps.apple.com/us/app/whale-naver-whale-browser/id1374073304"]
+#  countryoforigin = "Korea"
+#  description = "Surfing My Way. A Next Level Browser."
+#  #datepublished = ""
+#  categories = ["Browser", "Web", "Internet"]
 
 #### AUTHOR: TECHMAGUS ####
 [[authors]]

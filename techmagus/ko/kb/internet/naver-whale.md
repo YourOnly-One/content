@@ -43,22 +43,22 @@ type = "review"                                             # article, sitepage,
 
 #license = ""                                          # only set if the post license is not the same as the site license
 
-contenttypes = ["CriticReview"]                                                   # Semantic Web JSON-LD
-[semweb]                                                              # Semantic Web JSON-LD
-  type = "SoftwareApplication"                                                           # Book, Movie, TVSeries
+#contenttypes = ["CriticReview"]                                                   # Semantic Web JSON-LD
+#[semweb]                                                              # Semantic Web JSON-LD
+#  type = "SoftwareApplication"                                                           # Book, Movie, TVSeries
 
-[semweb.review]
-  snippet = "네이버 웨일는 클릭 한 번으로 필요한 도구가 있는 곳에서 바로 사용할 수 있는 경험을 선호하는 일반 사용자 및 전문가들을 대상으로 합니다."
-  rating = "9.00"
+#[semweb.review]
+#  snippet = "네이버 웨일는 클릭 한 번으로 필요한 도구가 있는 곳에서 바로 사용할 수 있는 경험을 선호하는 일반 사용자 및 전문가들을 대상으로 합니다."
+#  rating = "9.00"
 
-[semweb.product]
-  name = "네이버 웨일"
-  alternatenames = ["네이버 웨일", "ネイバーウェール"]
-  sameas = ["https://en.wikipedia.org/wiki/Naver_Whale", "https://whale.naver.com/en/", "https://whale.naver.com/", "https://play.google.com/store/apps/details?id=com.naver.whale", "https://apps.apple.com/us/app/whale-naver-whale-browser/id1374073304"]
-  countryoforigin = "Korea"
-  description = "Surfing My Way. A Next Level Browser."
-  #datepublished = ""
-  categories = ["Browser", "Web", "Internet"]
+#[semweb.product]
+#  name = "네이버 웨일"
+#  alternatenames = ["네이버 웨일", "ネイバーウェール"]
+#  sameas = ["https://en.wikipedia.org/wiki/Naver_Whale", "https://whale.naver.com/en/", "https://whale.naver.com/", "https://play.google.com/store/apps/details?id=com.naver.whale", "https://apps.apple.com/us/app/whale-naver-whale-browser/id1374073304"]
+#  countryoforigin = "Korea"
+#  description = "Surfing My Way. A Next Level Browser."
+#  #datepublished = ""
+#  categories = ["Browser", "Web", "Internet"]
 
 #### AUTHOR: TECHMAGUS ####
 [[authors]]
