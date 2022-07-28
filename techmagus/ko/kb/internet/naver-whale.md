@@ -18,7 +18,9 @@ relCanonical = "https://im.youronly.one/techmagus/ko/naver-whale-browser-2022209
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndications = ["https://mastodon.social", "https://twitter.com", "https://facebook.com"]
+syndications = ["https://mastodon.social/@youronlyone/108724555415579169",
+"https://twitter.com/YourOnlyONEofcl/status/1552605217568407552",
+"https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0fnc9TL7QGEm4dvgQHZ7vpuu3c17QPKMZ2NhqABPB27WR8xG9QQaQXdigCe1Nwjyvl"]
 
 channels = ["techmagus"]
 categories = ["web"]
