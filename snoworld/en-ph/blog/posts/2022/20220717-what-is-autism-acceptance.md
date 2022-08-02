@@ -11,7 +11,7 @@ date = "2022-07-17T07:17:01+08:00"                    # first created; manually 
 #url = ""                                              # "path/post"; override .Permalink
 slug = "what-real-autism-acceptance"
 translationKey = "what-real-autism-acceptance-2022198"
-relCanonical = "https://im.youronly.one/snoworld/{LANG}/what-real-autism-acceptance-2022198/"
+relCanonical = "https://im.youronly.one/snoworld/what-real-autism-acceptance-2022198/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
 #disquq_identifier = ""                                # set if date of this content is different from main translation
 
