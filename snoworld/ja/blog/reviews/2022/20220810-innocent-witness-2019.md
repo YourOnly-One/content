@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/ja/innocent-witness-증인-2019
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndications = [""]
+syndications = ["https://mastodon.social/@youronlyone/108832944497867482", "https://diasp.org/posts/11923a30ff9d013abc4128a1592b385a", "https://twitter.com/YourOnlyONEofcl/status/1559546189657149440", "https://facebook.com/YourOnly.ONE.ofcl/posts/pfbid02ALnhZff8yeqiEn6KD472AuWoJhcqQuXvXyvC2s7qNZv4EgVCps1QRE9o7peXrfo9l", "https://t.youronly.one/post/692751798937780224/innocent-witness-review"]
 
 channels = ["snoworld"]
 categories = ["autism", "films"]
@@ -35,7 +35,7 @@ toc = true
 
 #audio = [""]
 images = ["images/i/innocent-witness-2019-cover.jpg", "images/i/innocent-witness-2019-01a.png", "images/i/innocent-witness-2019-01b.png", "images/i/innocent-witness-2019-01c.png"]
-#videos = ["https://www.youtube.com/watch?v="]
+videos = ["https://www.youtube.com/watch?v=UDOCOTOXjKM"]
 
 type = "review"                                             # article, sitepage, review
 
