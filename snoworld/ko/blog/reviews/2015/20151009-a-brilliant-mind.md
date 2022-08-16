@@ -21,10 +21,10 @@ relCanonical = "https://im.youronly.one/snoworld/ko/a-brilliant-young-mind-20152
 #syndications = [""]
 
 channels = ["snoworld"]
-categories = ["films"]
+categories = ["autism", "films"]
 keywords = ["X+Y", "A Brilliant Young Mind", "Autism", "Asperger's Syndrome", "Autism Spectrum", "Autistic", "Aspie", "ブリリアントヤングマインド", "自閉症スペクトラム", "빛나는 젊은 마인드", "자폐 스펙트럼", "자폐증", "自閉症"]
 #series = [""]
-tags = ["reviews", "autismspectrum"]
+tags = ["reviews"]
 
 comments = true
 #weight = ""
@@ -188,7 +188,7 @@ contenttypes = ["CriticReview"]                                                 
 
 영화는 훌륭했고 완벽하게 실행되었습니다. aspie 또는 자폐증으로, 그것은 단순히 연결합니다. 나는 Nathan의 만남과 투쟁의 많은 사례에서 나 자신을 발견했습니다. 모든 것이 이해가 되어야 하는 순간 또는 당신이 기대하는 것을 하지 않을 것입니다. 또는 사람들이 실제로 무엇을 의미했는지 물어야 할 때.
 
-나는 중국 문화, 그리고 일반적으로 동아시아 문화가 제시되는 방식을 좋아합니다. 대부분의 아시아 태평양 국가에서는 자폐증을 갖기에는 너무 부끄러워서 자폐증을 숨기지 않습니다. 일부 문화권에서는 "행운"의 부적으로 간주됩니다. 일부에서는 단순히 부끄러움이 없습니다. 슬프게도 우리 나라에서는 정신적, 사회적 차이(또는 "장애"라는 용어를 선호하는 경우)와 관련하여 서구 문화를 습득했지만 지난 몇 년 동안 변화해 왔습니다.
+저는 중국 문화, 그리고 아시아 태평양 지역이 전반적으로 소개된 방식이 마음에 듭니다. 일부 아시아 태평양 국가에서는 자폐증이 불운을 가져온다고 믿기 때문에 자폐아들을 숨기지 않는 가족들도 있습니다. 자폐증이 되거나 가족 친척이 있는 것은 수치스러운 일이 아니다. 슬프게도, 우리 나라에서는 정신적, 사회적 차이(혹은 그 용어를 선호한다면 "장애")에 관한 한 서구 문화를 습득했습니다. 비록 그것이 지난 몇 년 동안 변화하고 있지만요.
 
 {{< image
   isrepresentativeofpage=false

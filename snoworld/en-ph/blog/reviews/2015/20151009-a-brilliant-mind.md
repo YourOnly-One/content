@@ -21,10 +21,10 @@ relCanonical = "https://im.youronly.one/snoworld/a-brilliant-young-mind-2015282/
 #syndications = [""]
 
 channels = ["snoworld"]
-categories = ["films"]
+categories = ["autism", "films"]
 keywords = ["X+Y", "A Brilliant Young Mind", "Autism", "Asperger's Syndrome", "Autism Spectrum", "Autistic", "Aspie", "ブリリアントヤングマインド", "自閉症スペクトラム", "빛나는 젊은 마인드", "자폐 스펙트럼", "자폐증", "自閉症"]
 #series = [""]
-tags = ["reviews", "autismspectrum"]
+tags = ["reviews"]
 
 comments = true
 #weight = ""
@@ -188,7 +188,7 @@ That is basically the summary. Let's get on the review.
 
 The film was superb and executed perfectly. As an aspie or autistic, it simply connects. I found myself in many instances of Nathan's encounters and struggles. Moments when everything has to make sense or we will not do something you expect us to. Or, those times when we have to ask what people actually meant.
 
-I like how the Chinese culture, and East Asian culture in general, was presented. In most Asia-Pacific nations, autistics are not hidden away because it was too shameful to have an autistic. In some cultures, they are seen as a "good luck" charm. In some, there simply is no shame in it. In my country, sad it may be, we acquired the Western culture when it comes to mental and social differences (or "disability" if  you prefer that term), although that has been changing for the past years.
+I like how the Chinese culture, and Asia-Pacific in general, was presented. In some Asia-Pacific nations, there are some families who do not hide their autistic children because they believe it brings bad luck otherwise. There simply is no shame in being autistic or have a family relative who is. In my country, sad it may be, we acquired the Western culture when it comes to mental and social differences (or "disability" if  you prefer that term), although that has been changing for the past years.
 
 {{< image
   isrepresentativeofpage=false
