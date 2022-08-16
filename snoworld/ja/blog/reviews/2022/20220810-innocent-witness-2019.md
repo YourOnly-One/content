@@ -1,6 +1,6 @@
 +++
 title = "《証人》 復習する"
-description = "自閉症の少女が犯罪を目撃し、目撃者になるために戦う物語。"
+description = "自閉症の少女が犯罪を目撃し、人々が彼女の信頼を無視しているにもかかわらず、証人として戦う物語です。"
 
 lastmod = "2022-08-16T21:01:52+09:00"                 # last update; manually adjust to local timezone
 publishdate = "2022-08-16T21:01:52+09:00"             # first publication; manually adjust to local timezone
