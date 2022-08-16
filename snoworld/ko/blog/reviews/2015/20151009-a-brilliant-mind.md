@@ -2,7 +2,7 @@
 title = "빛나는 젊은 마인드 비평"
 description = "자신과 더 넓은 세상에 대해 더 많은 것을 스스로 발견한 자폐증 수학 천재에 대한 이야기입니다."
 
-lastmod = "2022-07-07T20:12:50+09:00"                 # last update; manually adjust to local timezone
+lastmod = "2022-08-17T01:24:40+09:00"                 # last update; manually adjust to local timezone
 publishdate = "2015-10-09T14:09:20+00:00"             # first publication; manually adjust to local timezone
 date = "2015-10-09T14:09:20+00:00"                    # first created; manually adjust to local timezone
 #expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
