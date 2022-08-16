@@ -11,7 +11,7 @@ date = "2006-12-21T04:27:18-08:00"                    # first created; manually 
 #url = ""                                              # "path/post"; override .Permalink
 slug = "ultima-6-virtues-guild-management"
 translationKey = "ultima-6-virtues-guild-management-2006356"
-relCanonical = "https://im.youronly.one/yooki/ultima-6-virtues-guild-management-2006356/"
+relCanonical = "https://im.youronly.one/yuki/ultima-6-virtues-guild-management-2006356/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
 #disquq_identifier = ""                                # set if date of this content is different from main translation
 
