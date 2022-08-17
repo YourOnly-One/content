@@ -86,7 +86,7 @@ Capitalized
 
 Italicized (in old print: underline)
 
-- movies, televisions, radio shows, books, periodicals, databases, websites
+- albums, movies, televisions, radio shows, books, periodicals, databases, websites
 - use: {{% quote type="title" lang="" %}}content{{% /quote %}}
 
 - Chinese: 《…〈…〉…》
