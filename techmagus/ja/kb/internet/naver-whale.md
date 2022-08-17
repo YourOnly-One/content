@@ -4,7 +4,7 @@ description = "サーフィンマイウェイ。 次のレベルのブラウザ�
 
 lastmod = "2022-07-28T18:01:17+09:00"                 # last update; manually adjust to local timezone
 publishdate = "2022-07-28T18:01:17+09:00"             # first publication; manually adjust to local timezone
-date = "2022-07-18T20:21:14+08:00"                    # first created; manually adjust to local timezone
+date = "2022-07-18T21:21:14+09:00"                    # first created; manually adjust to local timezone
 #expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
 
 #aliases = [""]                                        # "/post"
