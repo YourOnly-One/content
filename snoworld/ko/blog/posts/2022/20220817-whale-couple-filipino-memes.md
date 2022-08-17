@@ -22,7 +22,7 @@ relCanonical = "https://im.youronly.one/snoworld/ko/whale-couple-filipino-memes-
 
 channels = ["snoworld"]
 categories = ["literature"]
-keywords = ["memes", "jokes", "extraordinary attorney woo", "이상한 변호사 우영우"]
+keywords = ["memes", "jokes", "extraordinary attorney woo", "이상한 변호사 우영우", "変な弁護士ウ·ヨンウ"]
 #series = [""]
 tags = ["kdrama"]
 

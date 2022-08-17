@@ -1,6 +1,6 @@
 +++
 title = "Whale Couple Filipino Memes"
-description = "Fun and witty Filipino memes about the Whale Couple in Extraordinary Attorney Woo."
+description = "Fun and witty Filipino memes about the Whale Couple from Extraordinary Attorney Woo."
 
 lastmod = "2022-08-17T21:50:00+08:00"                 # last update; manually adjust to local timezone
 publishdate = "2022-08-17T21:50:00+08:00"             # first publication; manually adjust to local timezone
@@ -22,7 +22,7 @@ relCanonical = "https://im.youronly.one/snoworld/whale-couple-filipino-memes-202
 
 channels = ["snoworld"]
 categories = ["literature"]
-keywords = ["memes", "jokes", "extraordinary attorney woo", "이상한 변호사 우영우"]
+keywords = ["memes", "jokes", "extraordinary attorney woo", "이상한 변호사 우영우", "変な弁護士ウ·ヨンウ"]
 #series = [""]
 tags = ["kdrama"]
 
