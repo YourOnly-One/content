@@ -4,7 +4,7 @@ description = "自閉症の少女が犯罪を目撃し、人々が彼女の信�
 
 lastmod = "2022-08-16T21:01:52+09:00"                 # last update; manually adjust to local timezone
 publishdate = "2022-08-16T21:01:52+09:00"             # first publication; manually adjust to local timezone
-date = "2022-08-10T12:55:57+08:00"                    # first created; manually adjust to local timezone
+date = "2022-08-10T12:55:57+09:00"                    # first created; manually adjust to local timezone
 #expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
 
 #aliases = [""]                                        # "/post"
