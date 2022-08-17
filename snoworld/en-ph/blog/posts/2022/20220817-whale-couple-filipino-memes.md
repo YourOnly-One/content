@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/whale-couple-filipino-memes-202
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndications = [""]
+syndications = ["https://mastodon.social/@youronlyone/108840782007161626", "https://diasp.org/posts/36cafcd000b1013bbcd228a1592b385a", "https://blog.naver.com/youronlyone-ofcl/222851204830", "https://twitter.com/YourOnlyONEofcl/status/1560038770958733314", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0bwW58dTZGs9KcwDXTEWayYTV7Jxx7nYXt24gUtBQhSuN4LBW7syjNoyDYEQtkEAxl"]
 
 channels = ["snoworld"]
 categories = ["literature"]
