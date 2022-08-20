@@ -3,7 +3,7 @@ title = "Privacy Policy"
 description = "YourOnly.One™ Privacy Policy"
 
 publishdate = "2016-06-14T06:02:00+00:00"
-lastmod = "2022-03-14T07:00:00+08:00"
+lastmod = "2022-08-21T03:52:17+08:00"
 
 #aliases = ["", ""]
 #slug = ""
@@ -48,13 +48,13 @@ At **[YourOnly.One](https://youronly.one "YourOnly.One")**™ we consider the pr
 
 If you require any more information or have any questions about our Privacy Policy, please feel free to [](contact-us.md).
 
-## Personal identification information
+## Personally Identifiable Information ("PII")
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, respond to a survey, join contests and promotions, and in connection with other activities, services, features, or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, or other details. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect Personally Identifiable Information or PII from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, respond to a survey, join contests and promotions, and in connection with other activities, services, features, or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, or other details. Users may, however, visit our Site anonymously. We will collect PII from Users only if they voluntarily submit such information to us. Users can always refuse to supply PII, except that it may prevent them from engaging in certain Site related activities.
 
-## Non-personal identification information
+## Non-Personally Identifiable Information
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users, means of connection to our Site, such as the operating system and the Internet service providers utilized, and other similar information.
+We may collect non-Personally Identifiable Information about Users whenever they interact with our Site. Non-PII may include the browser name, the type of computer and technical information about Users, means of connection to our Site, such as the operating system and the Internet service providers utilized, and other similar information.
 
 ## Log Files
 
@@ -86,7 +86,7 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 ## Sharing your personal information
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any PII regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
 ## Electronic newsletters
 
@@ -98,7 +98,7 @@ Users may find advertising or other content on Site that link to the sites and s
 
 ## Advertising
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, to measure the effectiveness of their advertising campaigns and deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non-PII about you or others who use your computer. This information allows ad networks to, among other things, to measure the effectiveness of their advertising campaigns and deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
 YourOnly.One has no access to or control over these cookies used by third-party advertisers.
 
@@ -151,7 +151,7 @@ According to CalOPPA, we agree to the following:
 
 We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity.
 
-YourOnly.One does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that YourOnly.One has in its database the personally-identifiable information of a child under the age of 13, please [](contact-us.md) immediately and we will use our best efforts to promptly remove such information from our records.
+YourOnly.One does not knowingly collect any PII from children under the age of 13. If a parent or guardian believes that YourOnly.One has in its database the PII of a child under the age of 13, please [](contact-us.md) immediately and we will use our best efforts to promptly remove such information from our records.
 
 ## CAN-SPAM Act
 
@@ -178,13 +178,11 @@ By using Site, you signify your acceptance of this policy. If you do not agree t
 
 ## Update
 
-This Privacy Policy was last updated on: 2022-03-14.
+This Privacy Policy was last updated on: 2022-08-21.
 
 ### Changes
 
-- Changed all links to `https`
-- DoubleClick DART Cookie and Advertising Partners section replaced with Google Adsense section.
-- Added YouTube videos section
+- Corrected the instances of "personal identification information" to "Personally Identifiable Information" or "PII"
 
 ---
 
