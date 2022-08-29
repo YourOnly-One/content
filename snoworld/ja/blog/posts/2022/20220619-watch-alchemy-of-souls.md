@@ -22,7 +22,7 @@ syndications = ["https://mastodon.social/@youronlyone/108513323302788590", "http
 
 channels = ["snoworld"]
 categories = ["tv"]
-keywords = ["pantasya", "ᜉᜈ᜔ᜆᜐ᜔ᜌ", "alchemy of souls", "환혼", "high fantasy", "magic", "魂の錬金術師", "還魂", "还魂"]
+keywords = ["Alchemy of Souls", "환혼", "還魂", "魂の錬金術", "魂の錬金術師", "还魂", "pantasya", "ᜉᜈ᜔ᜆᜐ᜔ᜌ", "magic", "high fantasy"]
 #series = [""]
 tags = ["pantasya"]
 
