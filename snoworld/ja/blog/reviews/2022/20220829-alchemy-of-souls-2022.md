@@ -24,7 +24,7 @@ channels = ["snoworld"]
 categories = ["tv"]
 keywords = ["Alchemy of Souls", "환혼", "還魂", "魂の錬金術", "魂の錬金術師", "还魂", "pantasya", "ᜉᜈ᜔ᜆᜐ᜔ᜌ", "magic", "high fantasy"]
 #series = [""]
-tags = ["pantasya", "reviews"]
+tags = ["kdrama", "pantasya", "reviews"]
 
 comments = true
 #weight = ""
