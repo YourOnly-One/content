@@ -2,7 +2,7 @@
 title = "必見のこと：魂の錬金術"
 description = "愛、政治、ダークマジックについての韓国のハイファンタジー。"
 
-lastmod = "2022-06-21T12:53:00+09:00"                 # last update; manually adjust to local timezone
+lastmod = "2022-08-30T10:53:00+09:00"                 # last update; manually adjust to local timezone
 publishdate = "2022-06-21T11:05:00+09:00"             # first publication; manually adjust to local timezone
 date = "2022-06-19T18:17:17+09:00"                    # first created; manually adjust to local timezone
 #expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
@@ -242,7 +242,7 @@ contenttypes = ["CriticReview"]
 
 {{% quote type="title" lang="ja" %}}魂の錬金術{{% /quote %}}（{{% quote type="title" lang="ko" %}}환혼{{% /quote %}}）は、魔法、愛、政治、武道に関する韓国の{{% quote type="title" lang="fil" %}}[pantasya](/pantasya){{% /quote %}} ({{% quote type="title" lang="tl-Tglg" %}}[ᜉᜈ᜔ᜆᜐ᜔ᜌ](/pantasya){{% /quote %}})です。 人気のデュオ{{% quote type="name" lang="ko-Latn" %}}Hong{{% /quote %}}姉妹が書いた。 それは彼らの子供時代に不当に扱われ、正義と復讐を探している2人の魂についての物語です。 それでも、{{% quote type="title" lang="ko-Latn" %}}Daeho{{% /quote %}}の国、そしておそらく魔法の使用者と魔法自体に破滅をもたらすかもしれないそれらよりも大きな力があります。
 
-{{% quote type="name" lang="ko-Latn" %}}Mu Deok{{% /quote %}}は、{{% quote type="name" lang="ko-Latn" %}}Jang Uk{{% /quote %}}の個人的なメイドである{{% quote type="name" lang="ko-Latn" %}}Jung So Min{{% /quote %}}（{{% quote type="name" lang="ko" %}}정소민{{% /quote %}}）が演じています。 彼女は実際には{{% quote type="name" lang="ko-Latn" %}}Nak Su{{% /quote %}}であり、最も恐れられている魔術師の暗殺者であり、彼女の一族の殺害に対する復讐を求めています。 しかし、魂の錬金術を行った後、彼女はうっかりして{{% quote type="name" lang="ko-Latn" %}}Mu Deok{{% /quote %}}の体を乗っ取った。彼は弱く、魔法への道がないようだ。
+{{% quote type="name" lang="ja" %}}無徳{{% /quote %}}({{% quote type="name" lang="ko" %}}무덕{{% /quote %}})は{{% quote type="name" lang="ja" %}}チャン·ウク{{% /quote %}}({{% quote type="name" lang="ko" %}}장욱{{% /quote %}})の個人メイド{{% quote type="name" lang="ja" %}}チョン·ソミン{{% /quote %}}({{% quote type="name" lang="ko" %}}정소민{{% /quote %}})が演じています。 彼女は実は{{% quote type="name" lang="ja" %}}落水{{% /quote %}}({{% quote type="name" lang="ko" %}}낙수{{% /quote %}})で、最も恐れられている暗殺者であり、一族の殺害に対する復讐を求めている。 しかし、魂の錬金術を披露した後、彼女は虚弱で魔法への道がなさそうな{{% quote type="name" lang="ja" %}}無徳{{% /quote %}}({{% quote type="name" lang="ko" %}}무덕{{% /quote %}})の体をうっかり引き継いだ。
 
 {{< image
   width="48%"

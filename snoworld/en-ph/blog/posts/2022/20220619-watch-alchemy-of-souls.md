@@ -2,7 +2,7 @@
 title = "A Must Watch: Alchemy of Souls"
 description = "A Korean high fantasy about love, politics, and dark magic."
 
-lastmod = "2022-06-21T11:53:00+08:00"                 # last update; manually adjust to local timezone
+lastmod = "2022-08-30T09:53:00+08:00"                 # last update; manually adjust to local timezone
 publishdate = "2022-06-21T10:05:00+08:00"             # first publication; manually adjust to local timezone
 date = "2022-06-19T17:17:17+08:00"                    # first created; manually adjust to local timezone
 #expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
@@ -242,7 +242,7 @@ Together, they embark on a fantastical journey of magic, romance, and survival i
 
 {{% quote type="title" lang="en" %}}Alchemy of Souls{{% /quote %}} ({{% quote type="title" lang="ko" %}}환혼{{% /quote %}}) is a Korean {{% quote type="title" lang="fil" %}}[pantasya](/pantasya){{% /quote %}} ({{% quote type="title" lang="tl-Tglg" %}}[ᜉᜈ᜔ᜆᜐ᜔ᜌ](/pantasya){{% /quote %}}) about magic, love, politics, and martial arts. It was penned by the popular duo, the {{% quote type="name" lang="ko-Latn" %}}Hong{{% /quote %}} sisters. It tells the story about two souls who were wronged in their childhood and is looking for justice and revenge. Yet there are forces greater than them that may spell doom to the nation of {{% quote type="title" lang="ko-Latn" %}}Daeho{{% /quote %}}, and possibly the magic users and magic itself.
 
-{{% quote type="name" lang="ko-Latn" %}}Mu Deok{{% /quote %}} is played by {{% quote type="name" lang="ko-Latn" %}}Jung So Min{{% /quote %}} ({{% quote type="name" lang="ko" %}}정소민{{% /quote %}}), a personal maid of {{% quote type="name" lang="ko-Latn" %}}Jang Uk{{% /quote %}}. She is actually {{% quote type="name" lang="ko-Latn" %}}Nak Su{{% /quote %}}, the most feared mage assassin and who is seeking revenge for the murder of her clan. However, after performing the alchemy of souls, she inadvertedly taken over the body of {{% quote type="name" lang="ko-Latn" %}}Mu Deok{{% /quote %}}, who is weak and seemingly have no pathways to magic.
+{{% quote type="name" lang="ko-Latn" %}}Mu Deok{{% /quote %}} is played by {{% quote type="name" lang="ko-Latn" %}}Jung So Min{{% /quote %}} ({{% quote type="name" lang="ko" %}}정소민{{% /quote %}}), a personal maid of {{% quote type="name" lang="ko-Latn" %}}Jang Uk{{% /quote %}}. She is actually {{% quote type="name" lang="ko-Latn" %}}Nak Su{{% /quote %}}, the most feared mage assassin and who is seeking revenge for the murder of her clan. However, after performing the alchemy of souls, she inadvertently taken over the body of {{% quote type="name" lang="ko-Latn" %}}Mu Deok{{% /quote %}}, who is weak and seemingly have no pathways to magic.
 
 {{< image
   width="48%"

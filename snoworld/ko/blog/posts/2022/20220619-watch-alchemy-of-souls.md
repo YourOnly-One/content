@@ -2,7 +2,7 @@
 title = "꼭 봐야 할 것: 환혼"
 description = "사랑, 정치, 흑마법에 대한 한국의 하이 판타지."
 
-lastmod = "2022-06-21T12:53:00+09:00"                 # last update; manually adjust to local timezone
+lastmod = "2022-08-30T10:53:00+09:00"                 # last update; manually adjust to local timezone
 publishdate = "2022-06-21T11:05:00+09:00"             # first publication; manually adjust to local timezone
 date = "2022-06-19T18:17:17+09:00"                    # first created; manually adjust to local timezone
 #expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
@@ -242,7 +242,7 @@ contenttypes = ["CriticReview"]
 
 {{% quote type="title" lang="ko" %}}환혼{{% /quote %}}은 마술, 사랑, 정치 및 무술에 관한 한국의 {{% quote type="title" lang="fil" %}}[pantasya](/pantasya){{% /quote %}} ({{% quote type="title" lang="tl-Tglg" %}}[ᜉᜈ᜔ᜆᜐ᜔ᜌ](/pantasya){{% /quote %}})입니다. 인기 듀오 {{% quote type="name" lang="ko" %}}홍{{% /quote %}}자매가 작사했다. 어린 시절 학대를 받은 두 영혼이 정의와 복수를 찾아가는 이야기를 그린다. 그러나 그들보다 더 큰 세력이 {{% quote type="title" lang="ko" %}}대호{{% /quote %}}라는 나라, 그리고 아마도 마법 사용자와 마법 자체에 파멸을 초래할 수도 있습니다.
 
-{{% quote type="name" lang="ko" %}}무덕{{% /quote %}}은 {{% quote type="name" lang="ko" %}}정소민{{% /quote %}}의 개인 메이드 {{% quote type="name" lang="ko" %}}정소민{{% /quote %}}이 맡는다. 그녀는 실제로 가장 두려운 마법사 암살자이자 그녀의 일족 살해에 대한 복수를 추구하는 {{% quote type="name" lang="ko" %}}낙수{{% /quote %}}입니다. 그러나 환혼술을 수행한 후 그녀는 자신도 모르게 나약하고 마력이 없어 보이는 {{% quote type="name" lang="ko" %}}무덕{{% /quote %}}의 몸을 차지하게 된다.
+{{% quote type="name" lang="ko" %}}무덕{{% /quote %}}은 {{% quote type="name" lang="ko" %}}장욱{{% /quote %}}의 개인 하녀 {{% quote type="name" lang="ko" %}}정소민{{% /quote %}}이 연기한다. 그녀는 사실 가장 두려운 마법사 암살자이자 자신의 일족을 죽인 것에 대한 복수를 노리는 {{% quote type="name" lang="ko" %}}낙수{{% /quote %}}이다. 그러나 영혼의 연금술을 행한 후 그녀는 무심코 몸이 약하고 마법의 통로가 없어 보이는 {{% quote type="name" lang="ko" %}}무덕{{% /quote %}}의 몸을 이어받았다.
 
 {{< image
   width="48%"
