@@ -207,7 +207,7 @@ Meanwhile her master, {{% quote type="name" lang="ko-Latn" %}}Jang Uk{{% /quote 
 
   attribto="Netflix"
   attriburl="https://netflix.com"
-  attribrel="noopener"
+  attribrel="noopener external"
 >}}
 
 ### Season 01 details
@@ -252,7 +252,7 @@ They all did well in their performances, however, there are four actors who dese
 
   attribto="Netflix"
   attriburl="https://netflix.com"
-  attribrel="noopener"
+  attribrel="noopener external"
 >}}
 
 {{< image
@@ -275,7 +275,7 @@ They all did well in their performances, however, there are four actors who dese
 
   attribto="Netflix"
   attriburl="https://netflix.com"
-  attribrel="noopener"
+  attribrel="noopener external"
 >}}
 
 {{< image
@@ -298,7 +298,7 @@ They all did well in their performances, however, there are four actors who dese
 
   attribto="Netflix"
   attriburl="https://netflix.com"
-  attribrel="noopener"
+  attribrel="noopener external"
 >}}
 
 <div class="floatclear"></div>
@@ -332,7 +332,7 @@ They all did well in their performances, however, there are four actors who dese
 
   attribto="Netflix"
   attriburl="https://netflix.com"
-  attribrel="noopener"
+  attribrel="noopener external"
 >}}
 
 - **{{% quote type="name" lang="ko-Latn" %}}Hwang Min Hyun{{% /quote %}} ({{% quote type="name" lang="ko" %}}황민현{{% /quote %}}) as {{% quote type="name" lang="ko-Latn" %}}Seo Yul{{% /quote %}} ({{% quote type="name" lang="ko" %}}서율{{% /quote %}}).** Actor {{% quote type="name" lang="ko-Latn" %}}Hwang Min Hyun{{% /quote %}} ({{% quote type="name" lang="ko" %}}황민현{{% /quote %}}) brought to life a character whose role is a handsome, genius mage, who is clueless about the little things yet have a very caring and pure heart. His acting gave his character, {{% quote type="name" lang="ko-Latn" %}}Seo Yul{{% /quote %}} ({{% quote type="name" lang="ko" %}}서율{{% /quote %}}), the look of someone who always analyze the situation around him. Always in deep thought yet laughs with his childhood friends.
@@ -354,7 +354,7 @@ They all did well in their performances, however, there are four actors who dese
 
   attribto="Netflix"
   attriburl="https://netflix.com"
-  attribrel="noopener"
+  attribrel="noopener external"
 >}}
 
 - **{{% quote type="name" lang="ko-Latn" %}}Yoo Joon Sang{{% /quote %}} ({{% quote type="name" lang="ko" %}}유준상{{% /quote %}}) as {{% quote type="name" lang="ko-Latn" %}}Park Jin{{% /quote %}} ({{% quote type="name" lang="ko" %}}박진{{% /quote %}}).** {{% quote type="name" lang="ko-Latn" %}}Park Jin{{% /quote %}} ({{% quote type="name" lang="ko" %}}박진{{% /quote %}})! The most hilarious character in this drama! Right in the early episodes of {{% quote type="title" lang="en" %}}Alchemy of Souls{{% /quote %}} ({{% quote type="title" lang="ko" %}}환혼{{% /quote %}}), {{% quote type="name" lang="ko-Latn" %}}Yoo Joon Sang{{% /quote %}} ({{% quote type="name" lang="ko" %}}유준상{{% /quote %}}) already made his character unique and standout. Only a veteran actor can mix together begins serious, dumbfounded, a romantic fool, and comedic, into one. In one episode, I can not tell if he actually slipped while walking, it was so natural yet he never broke being in-character. I would not be surprised if he developed his character himself as being slow, clueless, and a romantic fool. He added that needed break from the deep seriousness of the drama at the right moment.
@@ -376,7 +376,7 @@ They all did well in their performances, however, there are four actors who dese
 
   attribto="Netflix"
   attriburl="https://netflix.com"
-  attribrel="noopener"
+  attribrel="noopener external"
 >}}
 
 - **{{% quote type="name" lang="ko-Latn" %}}Oh Na Ra{{% /quote %}} ({{% quote type="name" lang="ko" %}}오나라{{% /quote %}}) as {{% quote type="name" lang="ko-Latn" %}}Kim Do Ju{{% /quote %}} ({{% quote type="name" lang="ko" %}}김도주{{% /quote %}}).** Then we have veteran actress {{% quote type="name" lang="ko-Latn" %}}Oh Na Ra{{% /quote %}} ({{% quote type="name" lang="ko" %}}오나라{{% /quote %}}) whose character is the love interest of clueless and romantic fool {{% quote type="name" lang="ko-Latn" %}}Park Jin{{% /quote %}} ({{% quote type="name" lang="ko" %}}박진{{% /quote %}}). While her role as {{% quote type="name" lang="ko-Latn" %}}Kim Do Ju{{% /quote %}} ({{% quote type="name" lang="ko" %}}김도주{{% /quote %}}) was a support character (even though she was listed as a main character) she was still an integral part of the story as she is the person who gives balance to {{% quote type="name" lang="ko-Latn" %}}Park Jin{{% /quote %}} ({{% quote type="name" lang="ko" %}}박진{{% /quote %}}) and {{% quote type="name" lang="ko-Latn" %}}Jang Uk{{% /quote %}} ({{% quote type="name" lang="ko" %}}장욱{{% /quote %}}). She was the only mother figure in the life of {{% quote type="name" lang="ko-Latn" %}}Jang Uk{{% /quote %}} ({{% quote type="name" lang="ko" %}}장욱{{% /quote %}}) and the lady of the Jang clan. the character of {{% quote type="name" lang="ko-Latn" %}}Oh Na Ra{{% /quote %}} ({{% quote type="name" lang="ko" %}}오나라{{% /quote %}}) made the audiences feel happy and sad for her. {{% quote type="name" lang="ko-Latn" %}}Oh Na Ra{{% /quote %}} ({{% quote type="name" lang="ko" %}}오나라{{% /quote %}}) embodied the nature of her character and gave us a way to feel what it is like to live in their world.
@@ -437,5 +437,5 @@ Each scene in the entire drama were perfect, there were no exaggerations yet wer
 
   attribto="Netflix"
   attriburl="https://netflix.com"
-  attribrel="noopener"
+  attribrel="noopener external"
 >}}

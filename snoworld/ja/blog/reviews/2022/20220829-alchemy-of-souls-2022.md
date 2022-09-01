@@ -206,7 +206,7 @@ contenttypes = ["CriticReview"]                                                 
 
   attribto="Netflix"
   attriburl="https://netflix.com"
-  attribrel="noopener"
+  attribrel="noopener external"
 >}}
 
 ### シーズン01の詳細
@@ -251,7 +251,7 @@ contenttypes = ["CriticReview"]                                                 
 
   attribto="Netflix"
   attriburl="https://netflix.com"
-  attribrel="noopener"
+  attribrel="noopener external"
 >}}
 
 {{< image
@@ -274,7 +274,7 @@ contenttypes = ["CriticReview"]                                                 
 
   attribto="Netflix"
   attriburl="https://netflix.com"
-  attribrel="noopener"
+  attribrel="noopener external"
 >}}
 
 {{< image
@@ -297,7 +297,7 @@ contenttypes = ["CriticReview"]                                                 
 
   attribto="Netflix"
   attriburl="https://netflix.com"
-  attribrel="noopener"
+  attribrel="noopener external"
 >}}
 
 <div class="floatclear"></div>
@@ -331,7 +331,7 @@ contenttypes = ["CriticReview"]                                                 
 
   attribto="Netflix"
   attriburl="https://netflix.com"
-  attribrel="noopener"
+  attribrel="noopener external"
 >}}
 
 - **{{% quote type="title" lang="ja" %}}書律{{% /quote %}} ({{% quote type="title" lang="ko" %}}서율{{% /quote %}})で{{% quote type="name" lang="ja" %}}ファンミンヒョン　{{% /quote %}} ({{% quote type="name" lang="ko" %}}황민현{{% /quote %}})。** 俳優 {{% quote type="name" lang="ja" %}}ファンミンヒョン　{{% /quote %}} ({{% quote type="name" lang="ko" %}}황민현{{% /quote %}})は、些細なことにも無知で、思いやりがあり、純粋な心を持ったハンサムで天才的な魔法使いのキャラクターを誕生させた。 彼の演技は、いつも周りの状況を分析する人のような{{% quote type="title" lang="ja" %}}書律{{% /quote %}} ({{% quote type="title" lang="ko" %}}서율{{% /quote %}})というキャラクターを与えた。 いつも深い考えに浸りながら、幼なじみと笑っている。
@@ -353,7 +353,7 @@ contenttypes = ["CriticReview"]                                                 
 
   attribto="Netflix"
   attriburl="https://netflix.com"
-  attribrel="noopener"
+  attribrel="noopener external"
 >}}
 
 - **{{% quote type="name" lang="ja" %}}ユ·ジュンサン{{% /quote %}}({{% quote type="name" lang="ko" %}}유준상{{% /quote %}})は{{% quote type="name" lang="ja" %}}パク·ジン{{% /quote %}}({{% quote type="name" lang="ko" %}}박진{{% /quote %}})で。** {{% quote type="name" lang="ja" %}}パク·ジン{{% /quote %}}({{% quote type="name" lang="ko" %}}박진{{% /quote %}}) このドラマで一番面白いキャラクター！ {{% quote type="name" lang="ja" %}}還魂{{% /quote %}}({{% quote type="name" lang="ko" %}}환혼{{% /quote %}})の初期のエピソードで、{{% quote type="name" lang="ja" %}}ユ·ジュンサン{{% /quote %}}({{% quote type="name" lang="ko" %}}유준상{{% /quote %}})はすでに彼のキャラクターを独特で際立たせていた。 ベテラン俳優だけが真剣に、呆れ、ロマンチックな愚かさ、コメディーを一つにまとめることができる。 あるエピソードでは、彼が実際に歩いているときに滑ったかどうかは分かりません。それはとても自然なことでしたが、彼は決してキャラクターを壊しませんでした。 もし彼が自分の性格をゆっくりと、無知で、ロマンチックな愚か者として発展させても、私は驚かないでしょう。 彼は、ドラマの深刻さから適切なタイミングで抜け出す必要があると付け加えた。
@@ -375,7 +375,7 @@ contenttypes = ["CriticReview"]                                                 
 
   attribto="Netflix"
   attriburl="https://netflix.com"
-  attribrel="noopener"
+  attribrel="noopener external"
 >}}
 
 - **{{% quote type="name" lang="ja" %}}キム·ドジュ{{% /quote %}}({{% quote type="name" lang="ko" %}}김도주{{% /quote %}})で{{% quote type="name" lang="ja" %}}オナラ{{% /quote %}}({{% quote type="name" lang="ko" %}}오나라{{% /quote %}})** その次に、{{% quote type="name" lang="ja" %}}パク·ジン{{% /quote %}}({{% quote type="name" lang="ko" %}}박진{{% /quote %}})の恋愛対象であるベテラン女優{{% quote type="name" lang="ja" %}}オナラ{{% /quote %}}({{% quote type="name" lang="ko" %}}오나라{{% /quote %}})が登場する。 {{% quote type="name" lang="ja" %}}キム·ドジュ{{% /quote %}}({{% quote type="name" lang="ko" %}}김도주{{% /quote %}})役は脇役だったが、{{% quote type="name" lang="ja" %}}パク·ジン{{% /quote %}}({{% quote type="name" lang="ko" %}}박진{{% /quote %}})と{{% quote type="name" lang="ja" %}}チャン·ウク{{% /quote %}}({{% quote type="name" lang="ko" %}}장욱{{% /quote %}})のバランスを取る人物であるため、依然として話の核心的な部分だった。 {{% quote type="name" lang="ja" %}}チャン·ウク{{% /quote %}}({{% quote type="name" lang="ko" %}}장욱{{% /quote %}})の生涯で唯一の母親であり、チャン氏の夫人だった。 {{% quote type="name" lang="ja" %}}オナラ{{% /quote %}}({{% quote type="name" lang="ko" %}}오나라{{% /quote %}})のキャラクターは、観客を彼女に幸せと悲しみを感じさせた。 {{% quote type="name" lang="ja" %}}オナラ{{% /quote %}}({{% quote type="name" lang="ko" %}}오나라{{% /quote %}})は彼女の性格の本質を具体化し、彼らの世界で生きることがどんなものかを私たちに感じさせてくれた。
@@ -436,7 +436,7 @@ contenttypes = ["CriticReview"]                                                 
 
   attribto="Netflix"
   attriburl="https://netflix.com"
-  attribrel="noopener"
+  attribrel="noopener external"
 >}}
 
 ---

@@ -206,7 +206,7 @@ contenttypes = ["CriticReview"]                                                 
 
   attribto="Netflix"
   attriburl="https://netflix.com"
-  attribrel="noopener"
+  attribrel="noopener external"
 >}}
 
 ### 시즌 01 상세 정보
@@ -251,7 +251,7 @@ contenttypes = ["CriticReview"]                                                 
 
   attribto="Netflix"
   attriburl="https://netflix.com"
-  attribrel="noopener"
+  attribrel="noopener external"
 >}}
 
 {{< image
@@ -274,7 +274,7 @@ contenttypes = ["CriticReview"]                                                 
 
   attribto="Netflix"
   attriburl="https://netflix.com"
-  attribrel="noopener"
+  attribrel="noopener external"
 >}}
 
 {{< image
@@ -297,7 +297,7 @@ contenttypes = ["CriticReview"]                                                 
 
   attribto="Netflix"
   attriburl="https://netflix.com"
-  attribrel="noopener"
+  attribrel="noopener external"
 >}}
 
 <div class="floatclear"></div>
@@ -331,7 +331,7 @@ contenttypes = ["CriticReview"]                                                 
 
   attribto="Netflix"
   attriburl="https://netflix.com"
-  attribrel="noopener"
+  attribrel="noopener external"
 >}}
 
 - **{{% quote type="name" lang="ko" %}}황민현{{% /quote %}}은 {{% quote type="title" lang="ko" %}}서율{{% /quote %}}로.** 배우 {{% quote type="name" lang="ko" %}}황민현{{% /quote %}}이 작은 일에도 무지하면서도 매우 배려심 있고 순수한 마음을 가진 잘생기고 천재적인 마법사 역할을 맡은 캐릭터를 탄생시켰다. 그의 연기는 {{% quote type="title" lang="ko" %}}서율{{% /quote %}}이라는 캐릭터로, 항상 주변 상황을 분석하는 듯한 느낌을 줬다. 항상 깊은 생각에 잠겨있지만 그의 어린시절 친구들과 웃는다.
@@ -353,7 +353,7 @@ contenttypes = ["CriticReview"]                                                 
 
   attribto="Netflix"
   attriburl="https://netflix.com"
-  attribrel="noopener"
+  attribrel="noopener external"
 >}}
 
 - **{{% quote type="name" lang="ko" %}}유준상{{% /quote %}}은{{% quote type="name" lang="ko" %}}박진{{% /quote %}}로.** {{% quote type="name" lang="ko" %}}박진{{% /quote %}}! 이 드라마에서 가장 웃긴 캐릭터! {{% quote type="name" lang="ko" %}}환혼{{% /quote %}}의 초기 에피소드 바로 직후, {{% quote type="name" lang="ko" %}}유준상{{% /quote %}}은 이미 그의 캐릭터를 독특하고 돋보이게 만들었다. 함께 섞일 수 있는 베테랑 배우만이 진지하고, 어처구니가 없고, 로맨틱한 바보이며, 코믹한 배우로 시작한다. 한 에피소드에서, 나는 그가 실제로 걷는 동안 미끄러졌는지 알 수 없다, 그것은 너무 자연스러웠지만 그는 캐릭터에 속하지 않았다. 그가 느리고, 무지하고, 로맨틱한 바보로 자신의 성격을 발전시켰다고 해도 나는 놀라지 않을 것이다. 그는 적절한 순간에 드라마의 깊은 진지함에서 벗어날 필요가 있다고 덧붙였다.
@@ -375,7 +375,7 @@ contenttypes = ["CriticReview"]                                                 
 
   attribto="Netflix"
   attriburl="https://netflix.com"
-  attribrel="noopener"
+  attribrel="noopener external"
 >}}
 
 - **{{% quote type="name" lang="ko" %}}오나라{{% /quote %}}는 {{% quote type="name" lang="ko" %}}김도주{{% /quote %}}로** 그리고 나서 우리는 무식하고 로맨틱한 바보 {{% quote type="name" lang="ko" %}}박진{{% /quote %}}의 연애 관심사인 베테랑 여배우 {{% quote type="name" lang="ko" %}}오나라{{% /quote %}}이 있다. {{% quote type="name" lang="ko" %}}김도주{{% /quote %}} 역은 조연(주인공으로 이름을 올렸음에도 불구하고)이었지만, {{% quote type="name" lang="ko" %}}박진{{% /quote %}}와 {{% quote type="name" lang="ko" %}}장욱{{% /quote %}}의 균형을 잡아주는 인물이어서 여전히 이야기의 빼놓을 수 없는 존재였다. {{% quote type="name" lang="ko" %}}장욱{{% /quote %}}의 생애에서 유일한 어머니이자 장씨 문중의 여인이었다. {{% quote type="name" lang="ko" %}}오나라{{% /quote %}}의 캐릭터는 관객들로 하여금 그녀를 위해 기쁘고 슬프게 만들었다. {{% quote type="name" lang="ko" %}}오나라{{% /quote %}}은 그녀의 캐릭터의 본질을 구현했고, 그들의 세계에서 사는 것이 어떤 것인지 느낄 수 있는 방법을 주었다.
@@ -436,7 +436,7 @@ contenttypes = ["CriticReview"]                                                 
 
   attribto="Netflix"
   attriburl="https://netflix.com"
-  attribrel="noopener"
+  attribrel="noopener external"
 >}}
 
 ---
