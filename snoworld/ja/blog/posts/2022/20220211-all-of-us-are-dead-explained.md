@@ -1,5 +1,5 @@
 +++
-title = "（更新しました） 《今私たちの学校は》死んでいる"
+title = "（更新）《今私たちの学校は》死んでいる"
 description = "Netflixの《今私たちの学校は》のシーズン2はありますか？ 《今私たちの学校は》で調べてください！"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = "2022-02-11T18:30:12+09:00"                                        # manually adjust to local timezone

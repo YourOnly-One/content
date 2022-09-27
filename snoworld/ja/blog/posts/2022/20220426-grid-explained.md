@@ -1,5 +1,5 @@
 +++
-title = "《グリッド (그리드)》 の説明"
+title = "（更新）《グリッド (그리드)》 の説明"
 description = "ディズニープラス 《グリッド (그리드)》 の説明"
 
 publishdate = "2022-04-26T08:00:00+09:00"                                          # manually adjust to local timezone
