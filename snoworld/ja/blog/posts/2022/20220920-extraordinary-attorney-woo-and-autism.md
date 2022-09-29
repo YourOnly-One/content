@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/ja/extraordinary-attorney-woo-a
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndications = [""]
+syndications = ["https://mastodon.social/@youronlyone/109081070434990817", "https://twitter.com/YourOnlyONEofcl/status/1575415138299121665", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0t4umDySdyhoi6Lo7azJX7t6i3AC7D2kh2fVEnRrW1BrEVz8aoGhsKm5L4WZkyRfgl"]
 
 channels = ["snoworld"]
 categories = ["tv"]
