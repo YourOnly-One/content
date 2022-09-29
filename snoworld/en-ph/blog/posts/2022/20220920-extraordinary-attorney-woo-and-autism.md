@@ -21,10 +21,10 @@ relCanonical = "https://im.youronly.one/snoworld/extraordinary-attorney-woo-auti
 syndications = ["https://mastodon.social/@youronlyone/109081066703627726", "https://diasp.org/posts/384aec00220a013b792628a1592b385a", "https://twitter.com/YourOnlyONEofcl/status/1575415130820681728", "https://t.youronly.one/post/696721004274286592/actually-autistics-on-extraordinary-attorney-woo", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0t4umDySdyhoi6Lo7azJX7t6i3AC7D2kh2fVEnRrW1BrEVz8aoGhsKm5L4WZkyRfgl"]
 
 channels = ["snoworld"]
-categories = ["tv"]
+categories = ["autism", "tv"]
 keywords = ["Extraordinary Attorney Woo", "이상한 변호사 우영우", "変な弁護士ウ·ヨンウ", "Autism", "Autism Spectrum", "Autistic", "Autistics", "Actually Autistic", "Actually Autistics"]
 #series = [""]
-tags = ["kdrama"]
+tags = ["autismacceptance", "kdrama"]
 
 comments = true
 #weight = ""
