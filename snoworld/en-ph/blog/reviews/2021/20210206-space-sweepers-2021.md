@@ -14,7 +14,7 @@ relCanonical = "https://im.youronly.one/snoworld/승리호-space-sweepers-2021-2
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-syndications = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/356323248870245"]
+syndications = ["https://youronlyone.medium.com/review-space-sweepers-2021-bd438d8ce65b", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/356323248870245"]
 
 channels = ["snoworld"]
 categories = ["films"]																									# taxonomy
