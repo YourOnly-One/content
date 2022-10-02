@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/start-up-philippines-premiere-w
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-syndications = ["https://mastodon.social/@youronlyone/109097385623872478", "https://twitter.com/YourOnlyONEofcl/status/1576458009244360704", "https://diasp.org/posts/31b5d480244e013b7ada28a1592b385a", "https://www.tumblr.com/youronlyoneofcl/696979171081109504/start-up-ph-on-the-same-level-as-the-original", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02yE9SwmSFoD3BgFmzoMReccq6cwCmuGdfaQ2L96K4j8BZNXojAwYi439nJppAFWZtl", "https://www.reddit.com/r/asiandrama/comments/xtienl/my_review_of_startup_phs_premiere_week/", "https://www.reddit.com/user/Laibcoms/comments/xtio7c/startup_ph_on_the_same_level_as_the_original/"]
+syndications = ["https://mastodon.social/@youronlyone/109097385623872478", "https://mydramalist.com/discussions/start-up/81839-a-short-review-of-the-premiere-week-of-start-up-ph", "https://twitter.com/YourOnlyONEofcl/status/1576458009244360704", "https://diasp.org/posts/31b5d480244e013b7ada28a1592b385a", "https://www.tumblr.com/youronlyoneofcl/696979171081109504/start-up-ph-on-the-same-level-as-the-original", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02yE9SwmSFoD3BgFmzoMReccq6cwCmuGdfaQ2L96K4j8BZNXojAwYi439nJppAFWZtl", "https://www.reddit.com/r/asiandrama/comments/xtienl/my_review_of_startup_phs_premiere_week/", "https://www.reddit.com/user/Laibcoms/comments/xtio7c/startup_ph_on_the_same_level_as_the_original/"]
 
 channels = ["snoworld"]
 categories = ["tv"]
