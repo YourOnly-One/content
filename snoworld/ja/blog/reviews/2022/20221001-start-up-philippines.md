@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/ja/start-up-philippines-premier
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndications = [""]
+syndications = ["https://mastodon.social/@youronlyone/109097392210048516", "https://twitter.com/YourOnlyONEofcl/status/1576458015330381824", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02yE9SwmSFoD3BgFmzoMReccq6cwCmuGdfaQ2L96K4j8BZNXojAwYi439nJppAFWZtl"]
 
 channels = ["snoworld"]
 categories = ["tv"]

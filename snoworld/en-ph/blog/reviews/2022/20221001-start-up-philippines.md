@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/start-up-philippines-premiere-w
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndications = [""]
+syndications = ["https://mastodon.social/@youronlyone/109097385623872478", "https://twitter.com/YourOnlyONEofcl/status/1576458009244360704", "https://diasp.org/posts/31b5d480244e013b7ada28a1592b385a", "https://www.tumblr.com/youronlyoneofcl/696979171081109504/start-up-ph-on-the-same-level-as-the-original", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02yE9SwmSFoD3BgFmzoMReccq6cwCmuGdfaQ2L96K4j8BZNXojAwYi439nJppAFWZtl"]
 
 channels = ["snoworld"]
 categories = ["tv"]
