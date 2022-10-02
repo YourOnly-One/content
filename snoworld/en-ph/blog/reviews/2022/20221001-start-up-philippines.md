@@ -195,7 +195,7 @@ contenttypes = ["CriticReview"]                                                 
 {{% quote type="title" lang="en-PH" %}}Start-Up PH{{% /quote %}} is on the same level as the original series, similar to the Philippine adaptation of {{% quote type="title" lang="en" %}}Descendants of the Sun{{% /quote %}} ({{% quote type="title" lang="ko" %}}태양의 후예{{% /quote %}}).
 {{% /quotebox %}}
 
-## Synopsis / あらすじ / 개요
+## Synopsis
 
 {{% quote type="name" lang="en-PH" %}}Sandbox PH{{% /quote %}} is the Philippine branch of {{% quote type="name" lang="en" %}}Sandbox{{% /quote %}}, a fictional incubator company from Korea (from the original series). They take in people aspiring to build the next big tech company in the Philippines while learning the ropes of managing a company and developing a new product.
 
@@ -263,11 +263,11 @@ The boy next door {{% quote type="name" lang="en-PH" %}}Alden Richards{{% /quote
 
 Another outstanding talent who brought the show's high ratings in its first week is {{% quote type="name" lang="en-PH" %}}Yasmien Kurdi{{% /quote %}} as {{% quote type="name" lang="en-PH" %}}Katrina 'Ina' Diaz{{% /quote %}}, the Filipino counterpart of {{% quote type="name" lang="ko-Latn" %}}Won In Jae{{% /quote %}} ({{% quote type="name" lang="ko" %}}유인재{{% /quote %}}), played by {{% quote type="name" lang="ko-Latn" %}}Kang Han Na{{% /quote %}} ({{% quote type="name" lang="ko" %}}강한나{{% /quote %}}) in the original series. {{% quote type="name" lang="en-PH" %}}Ina{{% /quote %}} possessed the same fierceness and intimidating qualities of being a big sister as {{% quote type="name" lang="ko-Latn" %}}In Jae{{% /quote %}} ({{% quote type="name" lang="ko" %}}인재{{% /quote %}}), with the added Filipino touch of being *mataray* (blunt; mean; pretentious; sassy); excellent acting from {{% quote type="name" lang="en-PH" %}}Yasmien{{% /quote %}}.
 
-## Premiere Week Production / 生産 / 생산
+## Premiere Week Production
 
 When it comes to adapting a story to a local setting, it is critical to have balance. Changing everything to what is locally common can ruin the essence of the original story. There are different types of adaptations, but in this particular scenario, it was a retelling of the original story in a Philippine setting. The Philippine adaptation of {{% quote type="title" lang="en" %}}Start-Up{{% /quote %}} ({{% quote type="title" lang="ko" %}}스타트업{{% /quote %}}) did not disappoint. In general, parts that should be the same remained as-is while modifying those that fit in a local context.
 
-## Premiere Week Verdict / 評決 / 평결을 내리다
+## Premiere Week Verdict
 
 {{< image
   width="70%"
@@ -294,7 +294,7 @@ When it comes to adapting a story to a local setting, it is critical to have bal
 
 My verdict after watching the premiere week episodes is a perfect ten (10)! I rarely watch locally produced movies and TV series these days because the plot is usually the same. If it was an adaptation, either the production was subpar or there were excessive changes. {{% quote type="title" lang="en-PH" %}}Start-Up PH{{% /quote %}} is on the same level as the original series, similar to the Philippine adaptation of {{% quote type="title" lang="en-PH" %}}Descendants of the Sun{{% /quote %}} ({{% quote type="title" lang="ko" %}}태양의 후예{{% /quote %}}). I am looking forward to seeing the rest of {{% quote type="title" lang="en-PH" %}}Start-Up PH{{% /quote %}}, especially how there were already hints our lead female character may choose her childhood pen pal in the end—a different choice from the original series.
 
-## Official trailer / 公式トレーラー / 공식 트레일러
+## Official trailer
 
 {{< video
   platform="youtube"
