@@ -221,7 +221,7 @@ A perfect 10 out of 10!
   endtime=""
 
   title="THE HANDMAIDEN Official Int'l Special Trailer"
-  caption="《The Handmaiden》 (2016) trailer"
+  caption="«The Handmaiden» (2016) trailer"
 
   datecreated=""
   datepublished="2016-04-25"

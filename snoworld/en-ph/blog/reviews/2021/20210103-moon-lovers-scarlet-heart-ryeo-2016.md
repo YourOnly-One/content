@@ -211,7 +211,7 @@ I give this show 8 out of 10 stars.
   endtime=""
 
   title="Scarlet Heart : Ryeo Trailer"
-  caption="《Moon Lovers: Scarlet Heart Ryeo》 (2016) trailer"
+  caption="«Moon Lovers: Scarlet Heart Ryeo» (2016) trailer"
   inlanguage="ko"
 
   datecreated=""

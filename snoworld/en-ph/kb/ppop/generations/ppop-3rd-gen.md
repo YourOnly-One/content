@@ -662,7 +662,7 @@ This was also when the *Philippine idol industry* started with the debut of ***X
 - Did you know?
   - 《Dahil Sa'yo》 was the first number one song in the new Billboard Philippines Top 20 chart (now defunct).
   - His debut song was the most viewed P-pop and OPM video on YouTube at that time. [^iñigo-pascual-wikipedia-youtube-views]
-  - ***[2NE1](kpop-2nd-gen.md#2ne1 "2NE1")***'s Sandara Park made a cover of 《Dahil Sa'yo》 together with ***[iKON](kpop-3rd-gen.md#ikon "iKON")***'s Jay. [^iñigo-pascual-dara-tv-dahil-sa-iyo]
+  - ***[2NE1](kpop-2nd-gen.md#2ne1 "2NE1")***'s Sandara Park made a cover of «Dahil Sa'yo» together with ***[iKON](kpop-3rd-gen.md#ikon "iKON")***'s Jay. [^iñigo-pascual-dara-tv-dahil-sa-iyo]
 - Authority control:
   - [Discogs](https://www.discogs.com/artist/6895621-I%C3%B1igo-Pascual)
   - [ISNI](https://isni.org/isni/0000000503481476)

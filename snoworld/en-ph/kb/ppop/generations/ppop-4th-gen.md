@@ -106,7 +106,7 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
   - [Instagram](https://www.instagram.com/infinityeightofficial)
   - [Twitter](https://twitter.com/8EightOfficial)
 
-[^clover-songs-kumakabog-kabog]: [Clover] YouTube: 《[Kumakabog-kabog (Pounding Heart)](https://www.youtube.com/watch?v=_KFzox7Ng_k "Clover: Kumakabog-kabog (Pounding Heart)")》 (Tagalog remix of 《맘이맘이》 (《Mammy Mammy》); original by *[Kimi (키미)](kpop-3rd-gen.md#kimi "Kimi (키미)")*)
+[^clover-songs-kumakabog-kabog]: [Clover] YouTube: 《[Kumakabog-kabog (Pounding Heart)](https://www.youtube.com/watch?v=_KFzox7Ng_k "Clover: Kumakabog-kabog (Pounding Heart)")》 (Tagalog remix of «맘이맘이» («Mammy Mammy»); original by *[Kimi (키미)](kpop-3rd-gen.md#kimi "Kimi (키미)")*)
 
 ### 1st.One {#1st-one-MNvUmzVR7AStxbtQp}
 

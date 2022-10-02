@@ -1,5 +1,5 @@
 +++
-title = "What K-Pop Idols Go Through According to 《Imitation》"
+title = "What K-Pop Idols Go Through According to «Imitation»"
 description = "The road to becoming a K-Pop idol is not as easy as most assume."	# For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = "2021-05-08T13:54:00+08:00"
@@ -78,7 +78,7 @@ name = "이미테이션"
 alternatenames = ["Imitation"]
 sameas = ["https://en.wikipedia.org/wiki/Imitation_(TV_series)", "https://www.imdb.com/title/tt14371376/"]
 countryoforigin = "Korea"
-description = "《Imitation》 is a 12-episode drama about K-Pop idols. It depicts the various challenges and experiences idols go through from training to finally being chosen to debut, a world that fans rarely see."
+description = "«Imitation» is a 12-episode drama about K-Pop idols. It depicts the various challenges and experiences idols go through from training to finally being chosen to debut, a world that fans rarely see."
 datepublished = "2021-05-07"
 categories = ["Drama", "K-pop", "Romance"]
 
@@ -192,8 +192,8 @@ This new 2021 Korean Drama entitled 《Imitation》 should appeal to all fans of
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="《Lee Ma Ha》 sets her goal"
-  alt="Imitation (2021) 《Lee Ma Ha》 sets her goal"
+  caption="«Lee Ma Ha» sets her goal"
+  alt="Imitation (2021) «Lee Ma Ha» sets her goal"
 
   attribalign=""
 
@@ -216,8 +216,8 @@ This new 2021 Korean Drama entitled 《Imitation》 should appeal to all fans of
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="《Lee Ma Ha》 dreams of debuting in a grand stage"
-  alt="Imitation (2021) 《Lee Ma Ha》 dreams of debuting in a grand stage"
+  caption="«Lee Ma Ha» dreams of debuting in a grand stage"
+  alt="Imitation (2021) «Lee Ma Ha» dreams of debuting in a grand stage"
 
   attribalign=""
 
@@ -242,8 +242,8 @@ This new 2021 Korean Drama entitled 《Imitation》 should appeal to all fans of
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="《Lee Ma Ha》 prepares to run"
-  alt="Imitation (2021) 《Lee Ma Ha》 prepares to run"
+  caption="«Lee Ma Ha» prepares to run"
+  alt="Imitation (2021) «Lee Ma Ha» prepares to run"
 
   attribalign=""
 
@@ -266,8 +266,8 @@ This new 2021 Korean Drama entitled 《Imitation》 should appeal to all fans of
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="《Lee Ma Ha》 running"
-  alt="Imitation (2021) 《Lee Ma Ha》 running"
+  caption="«Lee Ma Ha» running"
+  alt="Imitation (2021) «Lee Ma Ha» running"
 
   attribalign=""
 
@@ -290,8 +290,8 @@ This new 2021 Korean Drama entitled 《Imitation》 should appeal to all fans of
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="《Lee Ma Ha》 ran more than 11 km"
-  alt="Imitation (2021) 《Lee Ma Ha》 ran more than 11 km"
+  caption="«Lee Ma Ha» ran more than 11 km"
+  alt="Imitation (2021) «Lee Ma Ha» ran more than 11 km"
 
   attribalign=""
 
@@ -319,8 +319,8 @@ In the era of millions of K-Pop idol trainees, only 0.1% are selected to debut. 
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="《Shax》"
-  alt="Imitation (2021) 《Shax》"
+  caption="«Shax»"
+  alt="Imitation (2021) «Shax»"
 
   attribalign=""
 
@@ -423,8 +423,8 @@ Being away from your family, especially in special occasions, is very depressing
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="《Lee Ma Ha》 celebrated her birthday away from her family"
-  alt="Imitation (2021) 《Lee Ma Ha》 celebrated her birthday away from her family"
+  caption="«Lee Ma Ha» celebrated her birthday away from her family"
+  alt="Imitation (2021) «Lee Ma Ha» celebrated her birthday away from her family"
 
   attribalign=""
 
@@ -449,8 +449,8 @@ If that was not enough, 《Lee Ma Ha》's agency sold her to a less popular comp
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="《Lee Ma Ha》 packing her things"
-  alt="Imitation (2021) 《Lee Ma Ha》 packing her things"
+  caption="«Lee Ma Ha» packing her things"
+  alt="Imitation (2021) «Lee Ma Ha» packing her things"
 
   attribalign=""
 
@@ -473,8 +473,8 @@ If that was not enough, 《Lee Ma Ha》's agency sold her to a less popular comp
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="《Lee Ma Ha》 packing her things"
-  alt="Imitation (2021) 《Lee Ma Ha》 packing her things"
+  caption="«Lee Ma Ha» packing her things"
+  alt="Imitation (2021) «Lee Ma Ha» packing her things"
 
   attribalign=""
 
@@ -503,8 +503,8 @@ Regardless if one is a solo act or a group, they have to market themselves withi
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="《Omega III》 debut"
-  alt="Imitation (2021) 《Omega III》 debut"
+  caption="«Omega III» debut"
+  alt="Imitation (2021) «Omega III» debut"
 
   attribalign=""
 
@@ -527,8 +527,8 @@ Regardless if one is a solo act or a group, they have to market themselves withi
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="《Omega III》 debut"
-  alt="Imitation (2021) 《Omega III》 debut"
+  caption="«Omega III» debut"
+  alt="Imitation (2021) «Omega III» debut"
 
   attribalign=""
 
@@ -553,8 +553,8 @@ Regardless if one is a solo act or a group, they have to market themselves withi
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="《Omega III》 debut"
-  alt="Imitation (2021) 《Omega III》 debut"
+  caption="«Omega III» debut"
+  alt="Imitation (2021) «Omega III» debut"
 
   attribalign=""
 
@@ -577,8 +577,8 @@ Regardless if one is a solo act or a group, they have to market themselves withi
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="《Omega III》 debut"
-  alt="Imitation (2021) 《Omega III》 debut"
+  caption="«Omega III» debut"
+  alt="Imitation (2021) «Omega III» debut"
 
   attribalign=""
 
@@ -605,7 +605,7 @@ Respect them. Stop bullying them.
   platform="youtube"
   id="m7WhnM4mU4w"
   title="Official Trailer: Imitation | 仿品 | iQiyi"
-  caption="《Imitation》 trailer"
+  caption="«Imitation» trailer"
   inlanguage="ko"
   datepublished="2021-04-27"
   attribto="iQIYI 爱奇艺"

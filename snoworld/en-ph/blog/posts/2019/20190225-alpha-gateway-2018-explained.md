@@ -1,6 +1,6 @@
 +++
-title = "《Alpha Gateway》 Parallel Worlds Explained"
-description = "Confused on the parallel worlds of 《The Gateway》?"	# For Schema.org; OpenGraph; Twitter Cards
+title = "«Alpha Gateway» Parallel Worlds Explained"
+description = "Confused on the parallel worlds of «The Gateway»?"	# For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = "2019-02-25T16:46:12+08:00"
 lastmod = "2022-05-14T16:32:55+08:00"
@@ -92,7 +92,7 @@ We can only hope there was another Jane that ended up in the Alpha World to send
   endtime=""
 
   title="Alpha Gateway - Official Trailer Sci Fi Thriller Movie HD"
-  caption="《Alpha Gateway》 trailer"
+  caption="«Alpha Gateway» trailer"
   inlanguage="en"
 
   datecreated=""

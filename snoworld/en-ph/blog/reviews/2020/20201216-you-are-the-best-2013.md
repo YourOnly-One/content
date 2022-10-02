@@ -1,6 +1,6 @@
 +++
-title = "《You Are The Best!》 review"
-description = "A review of 《최고다 이순신》"	# For Schema.org; OpenGraph; Twitter Cards
+title = "«You Are The Best!» review"
+description = "A review of «You Are The Best!»"	# For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = "2020-12-16T19:04:36+08:00"
 lastmod = "2020-12-16T19:04:36+08:00"
@@ -256,7 +256,7 @@ Overall, I'm giving the series 8 out of 10 stars. It was a great show and it was
   endtime=""
 
   title="[Trailer] You Are The Best! (최고다 이순신) - ENGLISH"
-  caption="《You Are The Best!》 (2013) trailer"
+  caption="«You Are The Best!» (2013) trailer"
   inlanguage="ko"
 
   datecreated=""

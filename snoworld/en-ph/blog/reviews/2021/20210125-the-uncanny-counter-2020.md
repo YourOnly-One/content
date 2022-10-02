@@ -1,5 +1,5 @@
 +++
-title = "《The Uncanny Counter》 review"
+title = "«The Uncanny Counter» review"
 description = "A story about family, friendships, forgiveness, and second chances."	# For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = "2021-01-25T16:20:30+08:00"
@@ -66,7 +66,7 @@ name = "경이로운 소문"
 alternatenames = ["The Uncanny Counter"]
 sameas = ["https://en.wikipedia.org/wiki/The_Uncanny_Counter", "https://www.imdb.com/title/tt13273826"]
 countryoforigin = "Korea"
-description = "《The Uncanny Counter》 (2020) Season 1 was a live-action adaptation of the webtoon (digital Korean manhwa) entitled 《Kyeongirowoon Somoon》 (2018) by Jang Yi. It stars 《Cho Byeong Kyu》, 《Yoo Joon Sang》, 《Kim Se Jeong》, 《Yeom Hye Ran》, and 《Ahn Suk Hwan》, as the Counters--people who hunts evil spirits."
+description = "«The Uncanny Counter» (2020) Season 1 was a live-action adaptation of the webtoon (digital Korean manhwa) entitled «Kyeongirowoon Somoon» (2018) by Jang Yi. It stars «Cho Byeong Kyu», «Yoo Joon Sang», «Kim Se Jeong», «Yeom Hye Ran», and «Ahn Suk Hwan», as the Counters--people who hunts evil spirits."
 datepublished = "2020-11-28"
 categories = ["Action", "Drama", "Supernatural", "Paranormal"]
 
@@ -174,8 +174,8 @@ The multiple story arcs were well thought out and I was amazed with how these di
   linkrel="noopener external nofollow"
 
   title="The Uncanny Counter (2020)"
-  caption="(left to right) 《Kim Se Jeong》, 《Yoo Joon Sang》, 《Ahn Suk Hwan》, 《Cho Byeong Kyu》, 《Yeom Hye Ran》"
-  alt="The Uncanny Counter (2020) (left to right) 《Kim Se Jeong》, 《Yoo Joon Sang》, 《Ahn Suk Hwan》, 《Cho Byeong Kyu》, 《Yeom Hye Ran》"
+  caption="(left to right) «Kim Se Jeong», «Yoo Joon Sang», «Ahn Suk Hwan», «Cho Byeong Kyu», «Yeom Hye Ran»"
+  alt="The Uncanny Counter (2020) (left to right) «Kim Se Jeong», «Yoo Joon Sang», «Ahn Suk Hwan», «Cho Byeong Kyu», «Yeom Hye Ran»"
 
   attribalign=""
 
@@ -210,7 +210,7 @@ Since it was already announced that season 2 was given a green light, it further
   endtime=""
 
   title="The Uncanny Counter | Official Trailer | Netflix [ENG SUB]"
-  caption="《The Uncanny Counter》 trailer"
+  caption="«The Uncanny Counter» trailer"
   inlanguage="ko"
 
   datecreated=""

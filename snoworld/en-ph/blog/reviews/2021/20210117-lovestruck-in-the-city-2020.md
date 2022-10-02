@@ -1,5 +1,5 @@
 +++
-title = "《Lovestruck in the City》 review"
+title = "«Lovestruck in the City» review"
 description = "Fun, Relatable, Full of Lessons"	# For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = "2021-01-17T08:17:39+08:00"
@@ -49,7 +49,7 @@ videos = ["https://www.youtube.com/watch?v=-lKjFaESjwk"]                        
 type = "TVSeries"
 
 [semweb.review]
-snippet = "If you're looking for a TV show to break your existing serious line-ups, definitely pickup 《Lovestruck in the City》. The characters, stories, and twists, were based on true-to-life love stories and are relatable for everyone."
+snippet = "If you're looking for a TV show to break your existing serious line-ups, definitely pickup «Lovestruck in the City». The characters, stories, and twists, were based on true-to-life love stories and are relatable for everyone."
 rating = "9.50"
 
 # If different from our website
@@ -66,7 +66,7 @@ name = "도시남녀의 사랑법"
 alternatenames = ["Lovestruck in the City"]
 sameas = ["https://en.wikipedia.org/wiki/Lovestruck_in_the_City", "https://www.imdb.com/title/tt13394544"]
 countryoforigin = "Korea"
-description = "《Lovestruck in the City》 is a short story or short form romantic comedy drama which depicts real love stories of young people as they live in a huge busy city. It stars 《Ji Chan Wook》 and 《Kim Ji Won》. The series is also the first part of the multi-series entitled 《City Couple's Way of Love》."
+description = "«Lovestruck in the City» is a short story or short form romantic comedy drama which depicts real love stories of young people as they live in a huge busy city. It stars «Ji Chan Wook» and «Kim Ji Won». The series is also the first part of the multi-series entitled «City Couple's Way of Love»."
 datepublished = "2020-12-22"
 categories = ["Romance", "Drama", "Comedy"]
 
@@ -184,8 +184,8 @@ From the title and synopsis, the impression was this is a part comedy, part chee
   linkrel="noopener external nofollow"
 
   title="Lovestruck in the City (2020)"
-  caption="(left to right) 《So Ju Yeon》, 《Ryu Kyung Soo》, 《Kim Ji Won》"
-  alt="Lovestruck in the City (2020) (left to right) 《So Ju Yeon》, 《Ryu Kyung Soo》, 《Kim Ji Won》"
+  caption="(left to right) «So Ju Yeon», «Ryu Kyung Soo», «Kim Ji Won»"
+  alt="Lovestruck in the City (2020) (left to right) «So Ju Yeon», «Ryu Kyung Soo», «Kim Ji Won»"
 
   attribalign=""
 
@@ -219,8 +219,8 @@ Watch in [Netflix](https://www.netflix.com/title/81340910) today.
   linkrel="noopener external nofollow"
 
   title="Lovestruck in the City (2020)"
-  caption="《Kim Min Seok》 (left); 《So Ju Yeon》 (right)"
-  alt="Lovestruck in the City (2020) 《Kim Min Seok》 (left); 《So Ju Yeon》 (right)"
+  caption="«Kim Min Seok» (left); «So Ju Yeon» (right)"
+  alt="Lovestruck in the City (2020) «Kim Min Seok» (left); «So Ju Yeon» (right)"
 
   attribalign=""
 
@@ -245,7 +245,7 @@ Watch in [Netflix](https://www.netflix.com/title/81340910) today.
   endtime=""
 
   title="[ENG SUB HD] Lovestruck in the City Official Trailer"
-  caption="《Lovestruck in the City》 trailer"
+  caption="«Lovestruck in the City» trailer"
   inlanguage="ko"
 
   datecreated=""
@@ -293,8 +293,8 @@ Watch in [Netflix](https://www.netflix.com/title/81340910) today.
   starttime=""
   endtime=""
 
-  title="《Lovestruck in the City》 OST"
-  caption="《Lovestruck in the City》 OST"
+  title="«Lovestruck in the City» OST"
+  caption="«Lovestruck in the City» OST"
   inlanguage="ko"
 
   datecreated=""

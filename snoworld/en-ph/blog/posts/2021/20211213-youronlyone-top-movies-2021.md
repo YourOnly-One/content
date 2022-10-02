@@ -286,7 +286,7 @@ If you are looking for a good Chinese drama, I recommend *A Writer's Odyssey*. I
   id="zyj9TKm89hU"
   linkrel="noopener external nofollow"
 
-  title="A Writer's Odyssey Ultimate Trailer | In Theater February 12 《刺杀小说家》终极预告｜2月12日海外上映"
+  title="A Writer's Odyssey Ultimate Trailer | In Theater February 12 «刺杀小说家»终极预告｜2月12日海外上映"
   caption="The mysterious boss Redmane finally shows up, a revenge of the protagonist seems full of difficulties. However, sometimes hope and belief can be the strongest weapons to defeat impossible."
   inlanguage="zh"
 

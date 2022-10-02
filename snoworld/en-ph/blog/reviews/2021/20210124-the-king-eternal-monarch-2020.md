@@ -228,7 +228,7 @@ Overall score of 9.5 out of 10 stars.
   endtime=""
 
   title="The King: Eternal Monarch | Official Trailer | Netflix [ENG SUB]"
-  caption="《The King: Eternal Monarch》 (2020) trailer"
+  caption="«The King: Eternal Monarch» (2020) trailer"
   inlanguage="ko"
 
   datecreated=""

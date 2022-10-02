@@ -1,6 +1,6 @@
 +++
-title = "(Updated) 《Sisyphus: The Myth》 Explained Logically"
-description = "Confused about the ending of 《Sisyphus: The Myth》?"	# For Schema.org; OpenGraph; Twitter Cards
+title = "(Updated) «Sisyphus: The Myth» Explained Logically"
+description = "Confused about the ending of «Sisyphus: The Myth»?"	# For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = "2021-04-10T21:12:21+08:00"
 lastmod = "2022-05-03T13:07:19+08:00"                                     # manually adjust to local timezone
@@ -154,7 +154,7 @@ Anyone for *ending #1* will probably not like the rest of this post but are stil
   linkrel="noopener external nofollow"
 
   title="Sisyphus: The Myth"
-  caption="《Kim Byung Chul》 as 《Seo Won Ju / Sigma》"
+  caption="«Kim Byung Chul» as «Seo Won Ju / Sigma»"
   alt="Sisyphus: The Myth"
 
   attribalign=""
@@ -215,7 +215,7 @@ Yes, an FAQ. I think this is the best format to use this way it is easier to und
   linkrel="noopener external nofollow"
 
   title="Sisyphus: The Myth"
-  caption="《Park Shin Hye》 as 《Kang Seo Hae》"
+  caption="«Park Shin Hye» as «Kang Seo Hae»"
   alt="Sisyphus: The Myth"
 
   attribalign=""
@@ -268,7 +268,7 @@ Which brings us to the next question.
   linkrel="noopener external nofollow"
 
   title="Sisyphus: The Myth"
-  caption="《Kim Byung Chul》 as 《Seo Won Ju / Sigma》"
+  caption="«Kim Byung Chul» as «Seo Won Ju / Sigma»"
   alt="Sisyphus: The Myth"
 
   attribalign=""
@@ -335,7 +335,7 @@ And we are back to that airplane scene. The new Seo Hae arrived. Han Tae Sul saw
   linkrel="noopener external nofollow"
 
   title="Sisyphus: The Myth"
-  caption="《Kim Byung Chul》 as 《Seo Won Ju / Sigma》"
+  caption="«Kim Byung Chul» as «Seo Won Ju / Sigma»"
   alt="Sisyphus: The Myth"
 
   attribalign=""
@@ -376,7 +376,7 @@ Animetric presented an excellent explanation on the show's ending, I highly reco
   linkrel="noopener external nofollow"
 
   title="[티저] ＂이번엔 끝장을 보자＂ 조승우x박신혜 ＜시지프스 : the myth＞ 2021년 2월 첫 방송"
-  caption="《Sisyphus: The Myth》 trailer"
+  caption="«Sisyphus: The Myth» trailer"
 
   datecreated=""
   datepublished="2020-12-23"

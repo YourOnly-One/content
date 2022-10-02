@@ -1,6 +1,6 @@
 +++
-title = "《Start-Up PH》 on the same level as the original"
-description = "A short review of the premiere week of 《Start-Up PH》"
+title = "«Start-Up PH» on the same level as the original"
+description = "A short review of the premiere week of «Start-Up PH»"
 
 lastmod = "2022-10-02T11:22:21+08:00"                 # last update; manually adjust to local timezone
 publishdate = "2022-10-02T11:22:21+08:00"             # first publication; manually adjust to local timezone
@@ -62,7 +62,7 @@ contenttypes = ["CriticReview"]                                                 
   sameas = ["https://en.wikipedia.org/wiki/Park_Hye-ryun", "https://mydramalist.com/people/15970-park-hye-ryun"]
 
 [semweb.review]
-  snippet = "《Start-Up PH》 is on the same level as the original series, similar to the Philippine adaptation of 《Descendants of the Sun》. I am looking forward to seeing the rest of 《Start-Up PH》."
+  snippet = "«Start-Up PH» is on the same level as the original series, similar to the Philippine adaptation of «Descendants of the Sun». I am looking forward to seeing the rest of «Start-Up PH»."
   rating = "10.00"
 
 [semweb.product]
@@ -70,7 +70,7 @@ contenttypes = ["CriticReview"]                                                 
   #alternatenames = [""]
   sameas = ["https://en.wikipedia.org/wiki/Start-Up_PH", "https://www.imdb.com/title/tt22171072/", "https://mydramalist.com/723095-start-up", "https://www.gmanetwork.com/entertainment/tv/start_up_ph/home/"]
   countryoforigin = "Philippines"
-  description = "《Start-Up PH》 is a 2022 Philippine drama starring Bea Alonzo, Alden Richards, Jeric Gonzales, and Yasmien Kurdi. This show is about two sisters who dream of starting the next highly successful startup company, but learn that being a successful CEO means first and foremost being human."
+  description = "«Start-Up PH» is a 2022 Philippine drama starring Bea Alonzo, Alden Richards, Jeric Gonzales, and Yasmien Kurdi. This show is about two sisters who dream of starting the next highly successful startup company, but learn that being a successful CEO means first and foremost being human."
   datepublished = "2022-09-26"
   categories = ["Romance", "Comedy", "Drama"]
 

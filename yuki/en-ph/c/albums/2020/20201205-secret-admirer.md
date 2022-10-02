@@ -1,7 +1,7 @@
 +++
 title = "[Mix] Secret Admirer"
-description = "《__Secret Admirer__》 is a compilation of songs promising love and faithfulness for the person who stole our heart. These are songs with messages we wish we can tell him/her."													# IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
-summary = "《__Secret Admirer__》 is a compilation of songs promising love and faithfulness for the person who stole our heart. These are songs with messages we wish we can tell him/her."																											# for summary text in list displays
+description = "«__Secret Admirer__» is a compilation of songs promising love and faithfulness for the person who stole our heart. These are songs with messages we wish we can tell him/her."													# IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
+summary = "«__Secret Admirer__» is a compilation of songs promising love and faithfulness for the person who stole our heart. These are songs with messages we wish we can tell him/her."																											# for summary text in list displays
 
 images = ["https://1.bp.blogspot.com/-6RVBTHA7oQ4/X8r3rBADTSI/AAAAAAAAoKk/dES600k9j3gF-uyVdBV9jXMetFS88lpnACPcBGAYYCw/s0/Album-Secret%2BAdmirer-01.png"]																											# og:images
 #videos = [""]																											# og:video

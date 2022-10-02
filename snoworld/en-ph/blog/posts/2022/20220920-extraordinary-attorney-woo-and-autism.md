@@ -1,5 +1,5 @@
 +++
-title = "Autistics On 《Extraordinary Attorney Woo》"
+title = "Autistics On «Extraordinary Attorney Woo»"
 description = "An interview with autistics about the Korean drama Extraordinary Attorney Woo (이상한 변호사 우영우)."
 
 lastmod = "2022-09-29T17:00:00+08:00"                 # last update; manually adjust to local timezone
@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/extraordinary-attorney-woo-auti
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-syndications = ["https://youronlyone.medium.com/autistics-on-extraordinary-attorney-woo-7a7739897361", "https://mastodon.social/@youronlyone/109081066703627726", "https://diasp.org/posts/384aec00220a013b792628a1592b385a", "https://twitter.com/YourOnlyONEofcl/status/1575415130820681728", "https://t.youronly.one/post/696721004274286592/actually-autistics-on-extraordinary-attorney-woo", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0t4umDySdyhoi6Lo7azJX7t6i3AC7D2kh2fVEnRrW1BrEVz8aoGhsKm5L4WZkyRfgl"]
+syndications = ["https://youronlyone.medium.com/autistics-on-extraordinary-attorney-woo-7a7739897361", "https://mastodon.social/@youronlyone/109081066703627726", "https://diasp.org/posts/384aec00220a013b792628a1592b385a", "https://mydramalist.com/discussions/strange-lawyer-woo-young-woo/81775-autistics-on-extraordinary-attorney-woo", "https://twitter.com/YourOnlyONEofcl/status/1575415130820681728", "https://t.youronly.one/post/696721004274286592/actually-autistics-on-extraordinary-attorney-woo", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0t4umDySdyhoi6Lo7azJX7t6i3AC7D2kh2fVEnRrW1BrEVz8aoGhsKm5L4WZkyRfgl"]
 
 channels = ["snoworld"]
 categories = ["autism", "tv"]

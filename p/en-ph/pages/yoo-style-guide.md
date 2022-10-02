@@ -77,11 +77,9 @@ BODY
 
 {{% quote type="name|title|work" lang="" %}}content{{% /quote %}}
 
-- Mottos are quoted in `<q></q>`
-
 Capitalized
 
-- channel names, TV network name, brand/company names, author names, band names, singer names
+- channel names, TV network name, brand/company names, author names, band names, singer names, actor names, character names
 - use: {{% quote type="name" lang="" %}}content{{% /quote %}}
 
 Italicized (in old print: underline)
@@ -89,15 +87,15 @@ Italicized (in old print: underline)
 - albums, movies, televisions, radio shows, books, periodicals, databases, websites
 - use: {{% quote type="title" lang="" %}}content{{% /quote %}}
 
-- Chinese: 《…〈…〉…》
-- Japanese: 《…〈…〉…》
+- English: « … ‹ … › … »
+- Asian: 《 … 〈 … 〉 … 》 -- guillemets
 
 Quotation marks
 
 - episode, articles, essays, chapters, poems, songs, speeches, mottos, and ordinary quotation marks
 - use: {{% quote type="work" lang="" %}}content{{% /quote %}}
-- Chinese: 「…『…』…」
-- Japanese: 「…『…』…」
+- English: " … ' … ' … "
+- Asian: 「 … 『 … 』 … 」
 - South Korean (usually for vertical only): 「…『…』…」
 
 ---

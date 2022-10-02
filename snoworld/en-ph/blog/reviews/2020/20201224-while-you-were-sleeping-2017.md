@@ -1,6 +1,6 @@
 +++
-title = "《While You Were Sleeping》 review"
-description = "A review of the sweet and relatable drama 《While You Were Sleeping》."	# For Schema.org; OpenGraph; Twitter Cards
+title = "«While You Were Sleeping» review"
+description = "A review of the sweet and relatable drama «While You Were Sleeping»."	# For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = "2020-12-24T16:57:34+08:00"
 lastmod = "2020-12-24T16:57:34+08:00"
@@ -51,7 +51,7 @@ videos = ["https://www.youtube.com/watch?v=8--Jj-iA0TY"]                        
 type = "TVSeries"
 
 [semweb.review]
-snippet = "Watching 《While You Were Sleeping》 made me feel again what it is to truly fall in love. It was lovely, touching, and memorable, a drama I would repeatedly watch and a relationship anyone would die for."
+snippet = "Watching «While You Were Sleeping» made me feel again what it is to truly fall in love. It was lovely, touching, and memorable, a drama I would repeatedly watch and a relationship anyone would die for."
 rating = "9.00"
 
 # If different from our website
@@ -68,7 +68,7 @@ name = "당신이 잠든 사이에"
 alternatenames = ["While You Were Sleeping"]
 sameas = ["https://en.wikipedia.org/wiki/While_You_Were_Sleeping_(2017_TV_series)", "https://www.imdb.com/title/tt6256484"]
 countryoforigin = "Korea"
-description = "《While You Were Sleeping》 is a comedy, legal, and romance drama, focusing on the tale of three young adults who have acquired the ability to see the future through their dreams: field reporter Nam Hong-joo, rookie prosecutor Jung Jae-chan, and police officer Han Woo-tak. Some of these dreams show crimes that Jae-chan has to investigate and others show disastrous events that one or more of them will have to endure. Troubled by these dreams, the trio collaborate with each other to prevent their ominous dreams from turning into reality and to take down their archenemy, the corrupt lawyer Lee Yoo-beom."
+description = "«While You Were Sleeping» is a comedy, legal, and romance drama, focusing on the tale of three young adults who have acquired the ability to see the future through their dreams: field reporter Nam Hong-joo, rookie prosecutor Jung Jae-chan, and police officer Han Woo-tak. Some of these dreams show crimes that Jae-chan has to investigate and others show disastrous events that one or more of them will have to endure. Troubled by these dreams, the trio collaborate with each other to prevent their ominous dreams from turning into reality and to take down their archenemy, the corrupt lawyer Lee Yoo-beom."
 datepublished = "2017-09-27"
 categories = ["Romance", "Drama", "Legal", "Comedy"]
 
@@ -268,7 +268,7 @@ I give 《While You Were Sleeping》 an overall score of 9.0 out of 10 stars.
   endtime=""
 
   title="[While You Were Sleeping] Official Teaser (Eng Sub)"
-  caption="《While You Were Sleeping》 (2017) trailer"
+  caption="«While You Were Sleeping» (2017) trailer"
   inlanguage="ko"
 
   datecreated=""

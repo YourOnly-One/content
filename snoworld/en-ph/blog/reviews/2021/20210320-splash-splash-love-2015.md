@@ -1,5 +1,5 @@
 +++
-title = "《Splash Splash LOVE》 review"
+title = "«Splash Splash LOVE» review"
 description = "A story you will never forget for the rest of your life"  # For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = "2021-03-20T11:10:37+08:00"
@@ -51,7 +51,7 @@ videos = ["https://www.youtube.com/watch?v=hAkKzgShR5A", "https://www.youtube.co
 type = "TVSeries"
 
 [semweb.review]
-snippet = "I can not believe I only discovered 《퐁당퐁당 LOVE》 / 《Splash Splash LOVE》 today. A simple yet very touching story that we can all relate to. I will never forget this story for the rest of my life."
+snippet = "I can not believe I only discovered «퐁당퐁당 LOVE» / «Splash Splash LOVE» today. A simple yet very touching story that we can all relate to. I will never forget this story for the rest of my life."
 rating = "10.00"
 
 # If different from our website
@@ -212,7 +212,7 @@ I can not believe I only discovered 《퐁당퐁당 LOVE》 / 《Splash Splash L
   linkrel="noopener external nofollow"
 
   title="[teaser] 윤두준, 김슬기의 '퐁당퐁당 LOVE' 티져 2탄"
-  caption="《Splash Splash LOVE》 (2015) trailer"
+  caption="«Splash Splash LOVE» (2015) trailer"
 
   datecreated=""
   datepublished="2015-12-01"
@@ -262,7 +262,7 @@ I can not believe I only discovered 《퐁당퐁당 LOVE》 / 《Splash Splash L
   endtime=""
 
   title="[MV] 퐁당퐁당LOVE OST-'너에게 퐁당' (단비 이야기)"
-  caption="《Splash Splash LOVE》 (2015) OST"
+  caption="«Splash Splash LOVE» (2015) OST"
 
   datecreated=""
   datepublished="2016-03-10"

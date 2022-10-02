@@ -864,7 +864,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   - She won Little Miss Korea at age 7.
 - Wikipedia: [Hahm Eun-jung](https://en.wikipedia.org/wiki/Hahm_Eun-jung "Hahm Eun-jung")
 
-[^eun-jung-songs-desire]: [Eun Jung] YouTube: [EUN JUNG 《DESIRE》 MUSIC VIDEO](https://www.youtube.com/watch?v=als-8K2vYBo "EUN JUNG 《DESIRE》 MUSIC VIDEO")
+[^eun-jung-songs-desire]: [Eun Jung] YouTube: [EUN JUNG 《DESIRE》 MUSIC VIDEO](https://www.youtube.com/watch?v=als-8K2vYBo "EUN JUNG «DESIRE» MUSIC VIDEO")
 [^eun-jung-songs-sweet-snow]: [Eun Jung] YouTube: [Sweet Snow](https://www.youtube.com/watch?v=_yM86BVV7VM "Sweet Snow")
 [^eun-jung-songs-a-little-more]: [Eun Jung] YouTube: [あともう少し…](https://www.youtube.com/watch?v=sKCCfdi4YU4 "あともう少し…") (A little more …)
 

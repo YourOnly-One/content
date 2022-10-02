@@ -225,7 +225,7 @@ Score: 9 out of 10!
   endtime=""
 
   title="Space Sweepers | Official Trailer | Netflix"
-  caption="《Space Sweepers》 (2021) trailer"
+  caption="«Space Sweepers» (2021) trailer"
   inlanguage="ko"
 
   datecreated=""
