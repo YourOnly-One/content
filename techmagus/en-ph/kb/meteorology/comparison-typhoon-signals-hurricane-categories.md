@@ -54,7 +54,7 @@ But before that, I want to request to news networks like CNN to at least take ex
 
 For my fellow Filipinos, here is a table of the difference between PAGASA's Public Storm Warning Signal (PSWS) system and the Saffir-Simpson Hurricane Category Scale.
 
-<div class="responsive_embedframe"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWclNfI_mzrFEr4l-d2MvClkCH9wYOZXPHVHvE9mXO7VujesUC_X8Oz-5ZX5wuGwFV6-Rkf-yuV0_Z/pubhtml?widget=true&amp;headers=false" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="responsive_embedframe"><iframe anonymous src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSWclNfI_mzrFEr4l-d2MvClkCH9wYOZXPHVHvE9mXO7VujesUC_X8Oz-5ZX5wuGwFV6-Rkf-yuV0_Z/pubhtml?widget=true&amp;headers=false" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 
 As you can see above, the Saffir-Simpson scale Categories 1 through 5 is equivalent to PAGASA's Signal No.2 and No.5. Interestingly, Signal No.5 is simply "any wind speed greater than 220 km/h" which is a strong Category 4 or 5 storm. This means that a <i>strong</i> Category 4 and Category 5 storms are that **STRONG**!
 

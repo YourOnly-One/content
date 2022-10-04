@@ -63,7 +63,7 @@ In urban areas, it renders the main different types of cycle tracks and lanes, o
 
 [^a]: [CyclOSM](https://www.cyclosm.org)
 
-<div class="responsive_embedframe"><iframe src="https://www.openstreetmap.org/export/embed.html?bbox=120.96642494201662%2C14.524183738283355%2C121.09156608581543%2C14.590560833157706&amp;layer=cyclosm" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe></div>
+<div class="responsive_embedframe"><iframe anonymous src="https://www.openstreetmap.org/export/embed.html?bbox=120.96642494201662%2C14.524183738283355%2C121.09156608581543%2C14.590560833157706&amp;layer=cyclosm" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe></div>
 
 See the [Legend](https://www.cyclosm.org/legend.html) or [View Larger Map on CyclOSM](https://www.cyclosm.org/#map=14/14.5597/121.0365/cyclosm)
 
@@ -78,7 +78,7 @@ CyclOSM is available in these smartphone apps:
 
 ## Bike Lanes via Google My Maps
 
-<div class="responsive_embedframe"><iframe src="https://www.google.com/maps/d/embed?mid=1MUEnacNSB60OpJQG0ViAnzJ6ECrA5z7p" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe></div>
+<div class="responsive_embedframe"><iframe anonymous src="https://www.google.com/maps/d/embed?mid=1MUEnacNSB60OpJQG0ViAnzJ6ECrA5z7p" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe></div>
 
 Started by: Jesus Israel Jr.; [View Larger Map](https://www.google.com/maps/d/viewer?mid=1MUEnacNSB60OpJQG0ViAnzJ6ECrA5z7p&ll=14.598237980859727%2C121.0651953487783&z=13)
 

@@ -50,7 +50,7 @@ avatar = "https://rsc.youronly.one/img/y/Yūgen_Bard-logo-01-1500x.webp"
 
 A total of 17 songs with a running time of 1 hour and 12 minutes, 《Secret Admirer》 is the perfect gift to secretly send to your significant other who is yet know they have you in their life. **BONUS**: Three additional songs added putting the total playtime to 1 hour and 24 minutes which guarantees your significant other will finally realise they love you too!
 
-<div class="responsive_embedframe"><iframe src="https://open.spotify.com/embed/playlist/43emZgYoSDRR277EyIA8p5" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe></div>
+<div class="responsive_embedframe"><iframe anonymous src="https://open.spotify.com/embed/playlist/43emZgYoSDRR277EyIA8p5" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe></div>
 
 Do not forget to "follow"/"like" the playlist in your Spotify account!
 

@@ -56,7 +56,7 @@ Imagine waking up every day, when you go out of your home to go to school or you
 
 Watch this video showing us exactly that - huge and beautiful rings like Saturn's encircling Planet Earth.
 
-<div class="responsive_embedframe"><iframe src="https://www.youtube-nocookie.com/embed/hoz5Q2rGQtQ" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="responsive_embedframe"><iframe anonymous src="https://www.youtube-nocookie.com/embed/hoz5Q2rGQtQ" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 
 And as <a href="//www.youtube.com/user/danthemango" target="_blank" rel="noopener">danthemango</a> said: <q>… the only thing this is missing are the shots from the Earth, under the ring's shadows, or the shots at the rings in Earth's shadow</q>.
 

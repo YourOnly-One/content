@@ -50,7 +50,7 @@ avatar = "https://rsc.youronly.one/img/y/Yūgen_Bard-logo-01-1500x.webp"
 
 実行時間1時間12分の合計17曲の《秘密の崇拝者》は、あなたが人生にいることをまだ知らない大切な人に密かに送るのに最適な贈り物です。 **ボーナス**：3つの追加曲が追加され、合計再生時間が1時間24分になりました。これにより、大切な人がついにあなたを愛していることに気付くことが保証されます。
 
-<div class="responsive_embedframe"><iframe src="https://open.spotify.com/embed/playlist/43emZgYoSDRR277EyIA8p5" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe></div>
+<div class="responsive_embedframe"><iframe anonymous src="https://open.spotify.com/embed/playlist/43emZgYoSDRR277EyIA8p5" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe></div>
 
 Spotifyアカウントのプレイリストを《フォロー》/《いいね》することを忘れないでください！
 

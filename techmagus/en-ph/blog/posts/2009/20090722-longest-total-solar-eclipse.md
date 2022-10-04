@@ -104,15 +104,15 @@ Here are my select photos of today's record-breaking eclipse - longest Total Sol
 
 ## Video Coverage from India and China
 
-<div class="responsive_embedframe"><iframe src="https://www.youtube-nocookie.com/embed/kKNNhbILWsY" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="responsive_embedframe"><iframe anonymous src="https://www.youtube-nocookie.com/embed/kKNNhbILWsY" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 
-<div class="responsive_embedframe"><iframe src="https://www.youtube-nocookie.com/embed/HgDoAQwT35s" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="responsive_embedframe"><iframe anonymous src="https://www.youtube-nocookie.com/embed/HgDoAQwT35s" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 
-<div class="responsive_embedframe"><iframe src="https://www.youtube-nocookie.com/embed/iseVpCFGyGs" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="responsive_embedframe"><iframe anonymous src="https://www.youtube-nocookie.com/embed/iseVpCFGyGs" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 
-<div class="responsive_embedframe"><iframe src="https://www.youtube-nocookie.com/embed/JeHjY-l3y9U" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="responsive_embedframe"><iframe anonymous src="https://www.youtube-nocookie.com/embed/JeHjY-l3y9U" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 
-<div class="responsive_embedframe"><iframe src="https://www.youtube-nocookie.com/embed/ThfGAObRHQs" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="responsive_embedframe"><iframe anonymous src="https://www.youtube-nocookie.com/embed/ThfGAObRHQs" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 

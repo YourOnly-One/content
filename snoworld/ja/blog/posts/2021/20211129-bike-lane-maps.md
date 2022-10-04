@@ -63,7 +63,7 @@ type = "article"                                                           # art
 
 [^a]: [CyclOSM](https://www.cyclosm.org)
 
-<div class="responsive_embedframe"><iframe src="https://www.openstreetmap.org/export/embed.html?bbox=120.96642494201662%2C14.524183738283355%2C121.09156608581543%2C14.590560833157706&amp;layer=cyclosm" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe></div>
+<div class="responsive_embedframe"><iframe anonymous src="https://www.openstreetmap.org/export/embed.html?bbox=120.96642494201662%2C14.524183738283355%2C121.09156608581543%2C14.590560833157706&amp;layer=cyclosm" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe></div>
 
 [凡例](https://www.cyclosm.org/legend.html)または[CyclOSMでより大きな地図を表示](https://www.cyclosm.org/#map=14/14.5597/121.0365/cyclosm)を参照してください。
 
@@ -78,7 +78,7 @@ CyclOSMは、次のスマートフォンアプリで利用できます。
 
 ## Googleマイマップ経由の自転車専用車
 
-<div class="responsive_embedframe"><iframe src="https://www.google.com/maps/d/embed?mid=1MUEnacNSB60OpJQG0ViAnzJ6ECrA5z7p" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe></div>
+<div class="responsive_embedframe"><iframe anonymous src="https://www.google.com/maps/d/embed?mid=1MUEnacNSB60OpJQG0ViAnzJ6ECrA5z7p" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe></div>
 
 開始者：イエス・イスラエル・ジュニア; [拡大地図を表示](https://www.google.com/maps/d/viewer?mid=1MUEnacNSB60OpJQG0ViAnzJ6ECrA5z7p&ll=14.598237980859727%2C121.0651953487783&z=13)
 

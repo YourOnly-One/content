@@ -63,7 +63,7 @@ type = "article"                                                           # art
 
 [^a]: [CyclOSM](https://www.cyclosm.org)
 
-<div class="responsive_embedframe"><iframe src="https://www.openstreetmap.org/export/embed.html?bbox=120.96642494201662%2C14.524183738283355%2C121.09156608581543%2C14.590560833157706&amp;layer=cyclosm" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe></div>
+<div class="responsive_embedframe"><iframe anonymous src="https://www.openstreetmap.org/export/embed.html?bbox=120.96642494201662%2C14.524183738283355%2C121.09156608581543%2C14.590560833157706&amp;layer=cyclosm" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe></div>
 
 [범례](https://www.cyclosm.org/legend.html) 또는 [CyclOSM에서 더 큰 지도 보기](https://www.cyclosm.org/#map=14/14.5597/121.0365/cyclosm)를 참조하십시오.
 
@@ -78,7 +78,7 @@ CyclOSM은 다음 스마트폰 앱에서 사용할 수 있습니다.
 
 ## Google 내 지도를 통한 자전거 도로
 
-<div class="responsive_embedframe"><iframe src="https://www.google.com/maps/d/embed?mid=1MUEnacNSB60OpJQG0ViAnzJ6ECrA5z7p" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe></div>
+<div class="responsive_embedframe"><iframe anonymous src="https://www.google.com/maps/d/embed?mid=1MUEnacNSB60OpJQG0ViAnzJ6ECrA5z7p" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe></div>
 
 시작자: Jesus Israel Jr.; [큰 지도 보기](https://www.google.com/maps/d/viewer?mid=1MUEnacNSB60OpJQG0ViAnzJ6ECrA5z7p&ll=14.598237980859727%2C121.0651953487783&z=13)
 

@@ -50,7 +50,7 @@ avatar = "https://rsc.youronly.one/img/y/Yūgen_Bard-logo-01-1500x.webp"
 
 러닝 타임 1 시간 12 분 총 17 곡의 《Secret Admirer》는 아직 당신이 있다는 사실을 아는 연인에게 몰래 보낼 수있는 완벽한 선물입니다. **보너스** : 3 개의 추가 노래가 추가되어 총 재생 시간이 1 시간 24 분으로 늘어났기 때문에 상대방이 마침내 당신을 사랑한다는 것을 깨닫게됩니다!
 
-<div class="responsive_embedframe"><iframe src="https://open.spotify.com/embed/playlist/43emZgYoSDRR277EyIA8p5" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe></div>
+<div class="responsive_embedframe"><iframe anonymous src="https://open.spotify.com/embed/playlist/43emZgYoSDRR277EyIA8p5" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe></div>
 
 Spotify 계정의 재생 목록을 "팔로우"/ "좋아요"하는 것을 잊지 마십시오!
 
