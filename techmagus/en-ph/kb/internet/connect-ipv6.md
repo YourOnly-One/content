@@ -123,7 +123,7 @@ You are done! To test if your IPv6 is working do or visit the following:
 
 For one, Miredo/Teredo was developed only as a temporary gateway to the IPv6 Internet. In fact, it was set as the last access point when you have other IPv6 implementation like a tunnel broker.
 
-Another reason is to have a static IPv6 address (even if your ISP gives you a dynamic IPv4 address). For this to work, you have to register an account over at Gogo6.com's <a href="//www.gogo6.com/freenet6" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Freenet6 service</a> (<a href="https://www.gogo6.com/freenet6/registration" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">register here</a>).
+Another reason is to have a static IPv6 address (even if your ISP gives you a dynamic IPv4 address). For this to work, you have to register an account over at Gogo6.com's <a href="https://www.gogo6.com/freenet6" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Freenet6 service</a> (<a href="https://www.gogo6.com/freenet6/registration" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">register here</a>).
 
 Then you have to edit your gogoc.conf, follow the instructions below:
 

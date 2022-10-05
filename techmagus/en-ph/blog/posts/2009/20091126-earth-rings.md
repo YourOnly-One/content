@@ -58,7 +58,7 @@ Watch this video showing us exactly that - huge and beautiful rings like Saturn'
 
 <div class="responsive_embedframe"><iframe anonymous src="https://www.youtube-nocookie.com/embed/hoz5Q2rGQtQ" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 
-And as <a href="//www.youtube.com/user/danthemango" target="_blank" rel="noopener">danthemango</a> said: <q>… the only thing this is missing are the shots from the Earth, under the ring's shadows, or the shots at the rings in Earth's shadow</q>.
+And as <a href="https://www.youtube.com/user/danthemango" target="_blank" rel="noopener">danthemango</a> said: <q>… the only thing this is missing are the shots from the Earth, under the ring's shadows, or the shots at the rings in Earth's shadow</q>.
 
 ---
 
