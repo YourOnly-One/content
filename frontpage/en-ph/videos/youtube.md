@@ -8,7 +8,8 @@ link = "https://youtube.com/YourOnlyONEofcl"
 image = "https://rsc.youronly.one/img/logos/youtube.webp"
 #metarobots = "noindex"
 
-#draft = "true"
+#draft = true
+#private = true
 +++
 
 [YouTube](https://youtube.com/YourOnlyONEofcl "YouTube")

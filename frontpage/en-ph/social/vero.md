@@ -8,6 +8,9 @@ link = "https://vero.co/youronlyone"
 image = "https://rsc.youronly.one/img/logos/vero.png"
 weight = "43"
 #metarobots = "noindex"
+
+draft = true
+private = true
 +++
 
 [Vero](https://vero.co/youronlyone "Vero")
