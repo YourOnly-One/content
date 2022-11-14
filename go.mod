@@ -1,3 +1,3 @@
 module gitlab.com/youronlyone/content
 
-go 1.18
+go 1.19.2
