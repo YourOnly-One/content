@@ -2,6 +2,8 @@
 title = "The LANG Attribute"
 description = "The LANG attribute is a powerful piece of code when designing websites. Let me show you how to correctly use the LANG attribute."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
+# DATE checked and correct
+
 publishdate = "2009-06-21T00:20:37+08:00"                                        # manually adjust to local timezone
 lastmod = "2009-06-21T00:20:37+08:00"                                        # manually adjust to local timezone
 

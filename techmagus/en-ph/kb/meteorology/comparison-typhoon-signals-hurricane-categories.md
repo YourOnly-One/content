@@ -2,6 +2,8 @@
 title = "Comparison of Typhoon Signals and Hurricane Categories"
 description = "Philippine Typhoon Signals and the American Hurricane Categories are worlds apart. In this post, I'll clarify the difference between these two scale systems."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
+# DATE checked and correct
+
 publishdate = "2009-10-02T00:03:23+08:00"                                        # manually adjust to local timezone
 lastmod = "2009-10-02T00:03:23+08:00"                                        # manually adjust to local timezone
 
