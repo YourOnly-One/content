@@ -94,7 +94,7 @@ The best way to test this is to open this article in your favourite mobile brows
 
 - Baybayin-Buhid: <bdi lang="bku-Buhd">ᝀᝁᝂᝃᝄᝅᝆᝇᝈᝉᝊᝋᝌᝍᝎᝏᝐᝑ</bdi>
 - Baybayin-Hanunoó: <bdi lang="hnn-Hano">ᜠᜡᜢᜣᜤᜥᜦᜧᜨᜩᜪᜫᜬᜭᜮᜯᜰᜱ</bdi>
-- Baybayin-Tagalog: <bdi lang="tgl-Tglg">ᜃᜄᜅᜆᜇᜈᜉᜊᜋᜌᜎᜏᜀᜁᜂᜐᜑ</bdi>
+- Baybayin-Tagalog: <bdi lang="tl-Tglg">ᜃᜄᜅᜆᜇᜈᜉᜊᜋᜌᜎᜏᜀᜁᜂᜐᜑ</bdi>
 - Baybayin-Tagbanwa: <bdi lang="tbw-Tagb">ᝣᝤᝥᝦᝧᝨᝩᝪᝫᝬᝮᝯᝠᝡᝢᝰ</bdi>
 
 If you can not see one of those, then your mobile phone is missing the appropriate Noto font support for that script. This in turn will automatically disable Gboard support for it. It means it is time to switch to an "Android One" model.
