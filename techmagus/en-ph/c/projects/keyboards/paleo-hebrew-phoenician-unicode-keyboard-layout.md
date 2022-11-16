@@ -62,25 +62,24 @@ The **Phoenician Unicode Keyboard Layout** or **PHNX-UKL** is the first Unicode-
 - Phoenician papyri
 - Punic
 
-In addition to the above, the Phoenician Unicode block is currently compatible with a much earlier script than Palæo-Hebrew/Phoenician which is *Ancient Hebrew (a.k.a. Proto-Canaanite; Early Hebrew; Proto-Sinaitic)*, a pictograph script which was in used from 6000 B.C.E. to 1700 B.C.E. As the Ancient Hebrew script is still being deciphered and might have more glyphs, the Unicode Consortium in the future may assign a separate block for this.
+In addition to the above, the Phoenician Unicode block is also compatible with a much earlier script than Palæo-Hebrew/Phoenician which is *Ancient Hebrew (a.k.a. Proto-Canaanite; Early Hebrew; Proto-Sinaitic)*, a pictograph script which was in used from 6000 B.C.E. to 1700 B.C.E. As the Ancient Hebrew script is still being deciphered and might have more glyphs, the Unicode Consortium in the future may assign a separate block for this.
 
 There are also some exceptions. While the Samaritan script is similar and one of the closely related and surviving writing system to the Palæo-Hebrew/Phoenician family, the Unicode consortium assigned a separate block ([U+0800…U+083F](https://www.unicode.org/charts/PDF/U0800.pdf)) for the Samaritan script. As such, do not use the Phoenician Unicode block when creating a font for or typing in Samaritan.
 
-Lastly, why "Phoenician" and not "Palœo-Hebrew"? Simply because the former was the name chosen by the Unicode Consortium to refer to this Unicode block. As this keyboard project is claiming to be a Unicode-compliant layout, using the name assigned by the Unicode is part of it. If in the future they change the block name to the latter, then this project will implement the same.
+Lastly, why "Phoenician" and not "Palœo-Hebrew"? Simply because the former was the name chosen by the Unicode Consortium to refer to this Unicode block. As this keyboard project is a Unicode-compliant layout, using the name assigned by the Unicode is part of it. If in the future they change the block name to the latter, then this project will implement the same.
 
 ## Project info
 
 - Based on: [Unicode 8.0](https://blog.unicode.org/2015/06/announcing-unicode-standard-version-80.html) (2015-06-17)
-
 - Unicode block: [U+10900…U+1091F](https://www.unicode.org/charts/PDF/U10900.pdf)
 - Unicode name: Phoenician
 - Latest version: 1.0.0
-- First release: 2015-07
+- First release: 2015-07-19
 - Official website: [https://im.youronly.one/techmagus/projects/keyboard/paleo-hebrew-phoenician-unicode-keyboard-2015200/](https://im.youronly.one/techmagus/projects/keyboard/paleo-hebrew-phoenician-unicode-keyboard-2015200/)
 - Git: [https://bitbucket.org/paninap/phnx-ukl](https://bitbucket.org/paninap/phnx-ukl)
-- Project contact: YourOnly.One / techmagus
+- Project contact: [techmagus](https://im.youronly.one/p/contact-us/)
 
-*A project of [Yelosan Publishing](https://bitbucket.org/paninap/).*
+*A project of [Yelosan Publishing](https://yelosan.youronly.one).*
 
 ## Fonts
 
@@ -89,7 +88,6 @@ To see the glyphs that you are typing, you will need a Unicode-compliant or mixe
 ## License
 
 - Content License: Creative Commons-Attribution 4.0 International (CC BY-SA 4.0 International License)
-
 - Code Copyright and License:
   - Copyright © 2015, 2016, 2018 JC John Sese Cuneta.
   - Copyleft 🄯 2015, 2016, 2018 JC John Sese Cuneta. [The MIT License](https://bitbucket.org/paninap/phnx-ukl/wiki/License)
@@ -121,24 +119,26 @@ Examples:
 Without these invisible markers, in the first example, the "C++" will become "++C"; in the second example, the exclamation point "!" will be on the right side not left. Also, you would have to cheat by first typing "C++" or the exclamation point "!" before typing Hebrew just to achieve the correct format (which is not advisable as far as semantics, relationships, and typing-flow are concerned). See [https://www.w3.org/International/articles/inline-bidi-markup/](https://www.w3.org/International/articles/inline-bidi-markup/).
 
 {{< image
-  type="image"
-
   height=""
   width=""
+  class=""
+  style=""
+
+  isrepresentativeofpage=false
 
   src="https://bitbucket.org/repo/dpEe94/images/1312841647-PHNX-Neo_in_Ancient_Hebrew_6000-1700BCE_font.png"
   link="https://bitbucket.org/repo/dpEe94/images/1312841647-PHNX-Neo_in_Ancient_Hebrew_6000-1700BCE_font.png"
-  linkrel="noopener"
+  linkrel="noopener external"
 
   title="Neo-Paleo Layout"
   caption="Ancient Hebrew 6000-1700 BCE font"
   alt="Neo-Paleo Layout in Ancient Hebrew 6000-1700 BCE font"
 
-  attribalign=""
+  datepublished="2015-07-19"
 
   licensecode="ccbysa4"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
-  licensename="CC BY-SA 4.0 International"
+  licensename="Creative Commons-Attribution-ShareAlike (CC-BY-SA) 4.0 International License"
 
   attribto="I'M YourOnly.One"
   attriburl="https://im.youronly.one/"
@@ -146,24 +146,26 @@ Without these invisible markers, in the first example, the "C++" will become "++
 >}}
 
 {{< image
-  type="image"
-
   height=""
   width=""
+  class=""
+  style=""
+
+  isrepresentativeofpage=false
 
   src="https://bitbucket.org/repo/dpEe94/images/3811385080-PHNX-Neo_in_Noto_Sans_Phoenician_font.png"
   link="https://bitbucket.org/repo/dpEe94/images/3811385080-PHNX-Neo_in_Noto_Sans_Phoenician_font.png"
-  linkrel="noopener"
+  linkrel="noopener external"
 
   title="Neo-Paleo Layout"
   caption="Noto Sans Phoenician font"
   alt="Neo-Paleo Layout in Noto Sans Phoenician font"
 
-  attribalign=""
+  datepublished="2015-07-19"
 
   licensecode="ccbysa4"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
-  licensename="CC BY-SA 4.0 International"
+  licensename="Creative Commons-Attribution-ShareAlike (CC-BY-SA) 4.0 International License"
 
   attribto="I'M YourOnly.One"
   attriburl="https://im.youronly.one/"
@@ -171,24 +173,26 @@ Without these invisible markers, in the first example, the "C++" will become "++
 >}}
 
 {{< image
-  type="image"
-
   height=""
   width=""
+  class=""
+  style=""
+
+  isrepresentativeofpage=false
 
   src="https://bitbucket.org/repo/dpEe94/images/418159615-PHNX-Neo_in_Paleo-Hebrew_Gezer_1000-901BCE_font.png"
   link="https://bitbucket.org/repo/dpEe94/images/418159615-PHNX-Neo_in_Paleo-Hebrew_Gezer_1000-901BCE_font.png"
-  linkrel="noopener"
+  linkrel="noopener external"
 
   title="Neo-Paleo Layout"
   caption="Paleo-Hebrew Gezer 1000-901 BCE font"
   alt="Neo-Paleo Layout in Paleo-Hebrew Gezer 1000-901 BCE font"
 
-  attribalign=""
+  datepublished="2015-07-19"
 
   licensecode="ccbysa4"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
-  licensename="CC BY-SA 4.0 International"
+  licensename="Creative Commons-Attribution-ShareAlike (CC-BY-SA) 4.0 International License"
 
   attribto="I'M YourOnly.One"
   attriburl="https://im.youronly.one/"
@@ -220,7 +224,6 @@ The keyboard layout shown in the images were:
 ## Download and install
 
 - [Download the Keyboard installer tagged "PHNX-UKL"](https://bitbucket.org/paninap/phnx-ukl/downloads)
-
 - [Get Unicode fonts here](https://bitbucket.org/paninap/phnx-ukl/wiki/Fonts)
 
 ---
