@@ -27,7 +27,7 @@ toc = true
 
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
-images = ["https://bitbucket.org/repo/dpEe94/images/3811385080-PHNX-Neo_in_Noto_Sans_Phoenician_font.png", "https://bitbucket.org/repo/dpEe94/images/1312841647-PHNX-Neo_in_Ancient_Hebrew_6000-1700BCE_font.png", "https://bitbucket.org/repo/dpEe94/images/418159615-PHNX-Neo_in_Paleo-Hebrew_Gezer_1000-901BCE_font.png"]                                                       # used by og:images, etc.; first image is cover image
+images = ["https://codeberg.org/yelosan/unicode-keyboard-layout-phoenician/raw/branch/main/images/PHNX-Neo_in_Noto_Sans_Phoenician_font.png", "https://codeberg.org/yelosan/unicode-keyboard-layout-phoenician/raw/branch/main/images/PHNX-Neo_in_Ancient_Hebrew_6000-1700BCE_font.png", "https://codeberg.org/yelosan/unicode-keyboard-layout-phoenician/raw/branch/main/images/PHNX-Neo_in_Paleo-Hebrew_Gezer_1000-901BCE_font.png"]                                                       # used by og:images, etc.; first image is cover image
 
 type = "article"                                                           # article, sitepage, review
 
@@ -76,21 +76,21 @@ Lastly, why "Phoenician" and not "Palœo-Hebrew"? Simply because the former was 
 - Latest version: 1.0.0
 - First release: 2015-07-19
 - Official website: [https://im.youronly.one/techmagus/projects/keyboard/paleo-hebrew-phoenician-unicode-keyboard-2015200/](https://im.youronly.one/techmagus/projects/keyboard/paleo-hebrew-phoenician-unicode-keyboard-2015200/)
-- Git: [https://bitbucket.org/paninap/phnx-ukl](https://bitbucket.org/paninap/phnx-ukl)
+- Git: [https://codeberg.org/yelosan/unicode-keyboard-layout-phoenician](https://codeberg.org/yelosan/unicode-keyboard-layout-phoenician)
 - Project contact: [techmagus](https://im.youronly.one/p/contact-us/)
 
 *A project of [Yelosan Publishing](https://yelosan.youronly.one).*
 
 ## Fonts
 
-To see the glyphs that you are typing, you will need a Unicode-compliant or mixed-Unicode set of fonts. For more information and download links, visit our [wiki here](https://bitbucket.org/paninap/phnx-ukl/wiki/Fonts).
+To see the glyphs that you are typing, you will need a Unicode-compliant or mixed-Unicode set of fonts. For more information and download links, visit our [wiki here](https://codeberg.org/yelosan/unicode-keyboard-layout-phoenician/wiki/Fonts).
 
 ## License
 
 - Content License: Creative Commons-Attribution 4.0 International (CC BY-SA 4.0 International License)
 - Code Copyright and License:
   - Copyright © 2015, 2016, 2018 JC John Sese Cuneta.
-  - Copyleft 🄯 2015, 2016, 2018 JC John Sese Cuneta. [The MIT License](https://bitbucket.org/paninap/phnx-ukl/wiki/License)
+  - Copyleft 🄯 2015, 2016, 2018 JC John Sese Cuneta. [The MIT License](https://codeberg.org/yelosan/unicode-keyboard-layout-phoenician/src/branch/main/LICENSE)
 
 ## Keyboard Layout Images
 
@@ -126,8 +126,8 @@ Without these invisible markers, in the first example, the "C++" will become "++
 
   isrepresentativeofpage=false
 
-  src="https://bitbucket.org/repo/dpEe94/images/1312841647-PHNX-Neo_in_Ancient_Hebrew_6000-1700BCE_font.png"
-  link="https://bitbucket.org/repo/dpEe94/images/1312841647-PHNX-Neo_in_Ancient_Hebrew_6000-1700BCE_font.png"
+  src="https://codeberg.org/yelosan/unicode-keyboard-layout-phoenician/raw/branch/main/images/PHNX-Neo_in_Ancient_Hebrew_6000-1700BCE_font.png"
+  link="https://codeberg.org/yelosan/unicode-keyboard-layout-phoenician/raw/branch/main/images/PHNX-Neo_in_Ancient_Hebrew_6000-1700BCE_font.png"
   linkrel="noopener external"
 
   title="Neo-Paleo Layout"
@@ -153,8 +153,8 @@ Without these invisible markers, in the first example, the "C++" will become "++
 
   isrepresentativeofpage=false
 
-  src="https://bitbucket.org/repo/dpEe94/images/3811385080-PHNX-Neo_in_Noto_Sans_Phoenician_font.png"
-  link="https://bitbucket.org/repo/dpEe94/images/3811385080-PHNX-Neo_in_Noto_Sans_Phoenician_font.png"
+  src="https://codeberg.org/yelosan/unicode-keyboard-layout-phoenician/raw/branch/main/images/PHNX-Neo_in_Noto_Sans_Phoenician_font.png"
+  link="https://codeberg.org/yelosan/unicode-keyboard-layout-phoenician/raw/branch/main/images/PHNX-Neo_in_Noto_Sans_Phoenician_font.png"
   linkrel="noopener external"
 
   title="Neo-Paleo Layout"
@@ -180,8 +180,8 @@ Without these invisible markers, in the first example, the "C++" will become "++
 
   isrepresentativeofpage=false
 
-  src="https://bitbucket.org/repo/dpEe94/images/418159615-PHNX-Neo_in_Paleo-Hebrew_Gezer_1000-901BCE_font.png"
-  link="https://bitbucket.org/repo/dpEe94/images/418159615-PHNX-Neo_in_Paleo-Hebrew_Gezer_1000-901BCE_font.png"
+  src="https://codeberg.org/yelosan/unicode-keyboard-layout-phoenician/raw/branch/main/images/PHNX-Neo_in_Paleo-Hebrew_Gezer_1000-901BCE_font.png"
+  link="https://codeberg.org/yelosan/unicode-keyboard-layout-phoenician/raw/branch/main/images/PHNX-Neo_in_Paleo-Hebrew_Gezer_1000-901BCE_font.png"
   linkrel="noopener external"
 
   title="Neo-Paleo Layout"
@@ -223,15 +223,15 @@ The keyboard layout shown in the images were:
 
 ## Download and install
 
-- [Download the Keyboard installer tagged "PHNX-UKL"](https://bitbucket.org/paninap/phnx-ukl/downloads)
-- [Get Unicode fonts here](https://bitbucket.org/paninap/phnx-ukl/wiki/Fonts)
+- [Download the Keyboard installer tagged "PHNX-UKL"](https://codeberg.org/yelosan/unicode-keyboard-layout-phoenician/releases)
+- [Get Unicode fonts here](https://codeberg.org/yelosan/unicode-keyboard-layout-phoenician/wiki/Fonts)
 
 ---
 
 {{< image
   type="imagecoverattrib"
 
-  link="https://bitbucket.org/repo/dpEe94/images/3811385080-PHNX-Neo_in_Noto_Sans_Phoenician_font.png"
+  link="https://codeberg.org/yelosan/unicode-keyboard-layout-phoenician/raw/branch/main/images/PHNX-Neo_in_Noto_Sans_Phoenician_font.png"
   linkrel="noopener"
 
   title="Paleo Hebrew Unicode Keyboard"

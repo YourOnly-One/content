@@ -58,7 +58,7 @@ Without further ado, here are the steps to get you started with using our very o
 
 <!--more-->
 
-- Download the PH-UKL-Linux file (available in 7-zip and zip format) <a href="https://bitbucket.org/paninap/ph-ukl/downloads" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">here</a>
+- Download the PH-UKL-Linux file (available in 7-zip and zip format) <a href="https://codeberg.org/yelosan/unicode-keyboard-layout-philippines/releases" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">here</a>
 - Extract the content of the archive file you just downloaded
 - Install the font included so your system can display Baybayin (Alibata) glyphs
 - Then copy the file "ph" to the correct folder by typing in the terminal (be sure to adjust ~/Downloads/ to where the file is on your end)
@@ -303,7 +303,7 @@ The font included in the zip file is a Unicode-only and Website-embed compatible
 
 See the [keyboard layout images here](philippines-unicode-keyboard-layout.md "Philippines Unicode Keyboard Layout").
 
-Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitbucket.org/paninap/ph-ukl/). If you have suggestions or bugs to report, please do not hesitate to [file a ticket here](https://bitbucket.org/paninap/ph-ukl/issues).
+Official source repository: [https://codeberg.org/yelosan/unicode-keyboard-layout-philippines](https://codeberg.org/yelosan/unicode-keyboard-layout-philippines). If you have suggestions or bugs to report, please do not hesitate to [file a ticket here](https://codeberg.org/yelosan/unicode-keyboard-layout-philippines/issues).
 
 The **Philippines Unicode Keyboard Layout** is a project of *Ubuntu Philippines LoCo Team*.
 

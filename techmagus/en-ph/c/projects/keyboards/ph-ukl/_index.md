@@ -65,7 +65,7 @@ Our first release is for the Filipino Linux Community all over the world. The se
 - [Mac OS X](https://drive.google.com/drive/folders/1ShxHQJDbxwPMLxV4ZZbwlDtWQjBITYnX?usp=sharing) ([more info](https://nordenx.blogspot.com/2012/05/baybayin-unicode-keyboard-layout-for.html))
 - [Windows 8 and 10](https://nordenx.blogspot.com/2013/10/baybayin-keyboard-layout-for-windows-8.html) ([more info](https://nordenx.blogspot.com/2012/05/baybayin-unicode-keyboard-layout-for.html))
 
-Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitbucket.org/paninap/ph-ukl/). If you have suggestions or bugs to report, please do not hesitate to [file a ticket here](https://bitbucket.org/paninap/ph-ukl/issues).
+Official source repository: [https://codeberg.org/yelosan/unicode-keyboard-layout-philippines](https://codeberg.org/yelosan/unicode-keyboard-layout-philippines). If you have suggestions or bugs to report, please do not hesitate to [file a ticket here](https://codeberg.org/yelosan/unicode-keyboard-layout-philippines/issues).
 
 {{< image
   type="image"

@@ -96,12 +96,12 @@ Also see: [Philippines Unicode Keyboard Layout](philippines-unicode-keyboard-lay
     <tr>
       <td><bdi lang="phi-Tglg" class="font-Baybayin-Tagalog-ModernClub-Nordenx">ᜋᜊᜓᜑᜌ᜔</bdi></td>
       <td>3.2</td>
-      <td><a href="https://bitbucket.org/paninap/pukbl/wiki/Fonts" title="Fonts">Baybayin Modern Club</a></td>
+      <td><a href="https://codeberg.org/yelosan/unicode-keyboard-layout-philippines/wiki/Fonts" title="Fonts">Baybayin Modern Club</a></td>
     </tr>
     <tr>
       <td><bdi class="font-Baybayin-Tagalog-NotoSans" lang="phi-Tglg">ᜋᜊᜓᜑᜌ᜔</bdi></td>
       <td>3.2</td>
-      <td><a href="https://bitbucket.org/paninap/pukbl/wiki/Fonts" title="Fonts">Noto Sans Tagalog</a></td>
+      <td><a href="https://codeberg.org/yelosan/unicode-keyboard-layout-philippines/wiki/Fonts" title="Fonts">Noto Sans Tagalog</a></td>
     </tr>
   </tbody>
 </table>
@@ -121,17 +121,17 @@ Also see: [Paleo-Hebrew / Phoenician Unicode Keyboard Layout](paleo-hebrew-phoen
     <tr>
       <td><bdi dir="rtl" class="font-Hebrew-Proto-Canaanite-Unicode" lang="hbo-Hebr">𐤉𐤅𐤇𐤍𐤍</bdi></td>
       <td>5.0</td>
-      <td><a href="https://bitbucket.org/paninap/pukbl/wiki/Fonts" title="Fonts">Proto Canaanite</a></td>
+      <td><a href="https://codeberg.org/yelosan/unicode-keyboard-layout-phoenician/wiki/Fonts" title="Fonts">Proto Canaanite</a></td>
     </tr>
     <tr>
       <td><bdi dir="rtl" class="font-Hebrew-Paleo-Gezer-Unicode" lang="hbo-Hebr">𐤉𐤅𐤇𐤍𐤍</bdi></td>
       <td>5.0</td>
-      <td><a href="https://bitbucket.org/paninap/pukbl/wiki/Fonts" title="Fonts">Hebrew Paleo Gezer</a></td>
+      <td><a href="https://codeberg.org/yelosan/unicode-keyboard-layout-phoenician/wiki/Fonts" title="Fonts">Hebrew Paleo Gezer</a></td>
     </tr>
     <tr>
       <td><bdi dir="rtl" class="font-Hebrew-Phoenician-NotoSans" lang="hbo-Hebr">𐤉𐤅𐤇𐤍𐤍</bdi></td>
       <td>5.0</td>
-      <td><a href="https://bitbucket.org/paninap/pukbl/wiki/Fonts" title="Fonts">Noto Sans Phoenician</a></td>
+      <td><a href="https://codeberg.org/yelosan/unicode-keyboard-layout-phoenician/wiki/Fonts" title="Fonts">Noto Sans Phoenician</a></td>
     </tr>
   </tbody>
 </table>
