@@ -94,7 +94,7 @@ To see the glyphs that you are typing, you will need a Unicode-compliant or mixe
 
 ## Keyboard Layout Images
 
-### Neo-Paleo Layout
+### Neo-Paleo Layout Images
 
 There were some keys which were left unassigned, what I did was assign a value. These are:
 
@@ -205,7 +205,7 @@ Without these invisible markers, in the first example, the "C++" will become "++
 
 Thank you for the strength and support. You deserve all the glory, honour, praise, and worship, now and forevermore. AHMEIN! <bdi dir="rtl" lang="hbo-Hebr">𐤄𐤋𐤋𐤅𐤉𐤄</bdi> (HalleluYAH)
 
-### Neo-Paleo Layout
+### Neo-Paleo Keyboard Layout
 
 This site, [Neo-Paleo Layout](https://loveandtruth.net/neopaleo.html), was shown to me by brother [Ted Walther](https://www.facebook.com/tederific), I am very grateful, blessings to you from <bdi class="font-Hebr-ancient" dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (Yahuwah) and his son <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤏</bdi> (Yahushua).
 
