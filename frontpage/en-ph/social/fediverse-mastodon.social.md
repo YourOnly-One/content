@@ -1,13 +1,13 @@
 +++
 title = ""
-subtitle = ""
+subtitle = "Fediverse: @youronlyone@c.im"
 publishdate = "2020-03-25T06:00:00+00:00"
 lastmod = "2020-03-25T06:00:00+00:00"
-link = "https://mastodon.social/@youronlyone"
+link = "https://c.im/@youronlyone"
 #linkRel = ""
 image = "https://rsc.youronly.one/img/logos/mastodon.jpg"
-weight = "42"
+weight = "4200"
 #metarobots = "noindex"
 +++
 
-[Fediverse: mastodon.social](https://mastodon.social/@youronlyone "Fediverse: mastodon.social")
+[Fediverse: c.im](https://c.im/@youronlyone "Fediverse: c.im")
