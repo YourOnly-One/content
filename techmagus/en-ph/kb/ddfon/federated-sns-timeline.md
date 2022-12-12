@@ -2,16 +2,16 @@
 title = "The Federated SNS Timeline"
 description = "A list of key events in the history of the Federated SNS."
 
-lastmod = "2022-12-12T20:22:21+08:00"                 # last update; manually adjust to local timezone
+lastmod = "2022-12-12T22:20:12+08:00"                 # last update; manually adjust to local timezone
 publishdate = "2022-12-12T20:22:21+08:00"             # first publication; manually adjust to local timezone
 date = "2022-11-22T11:22:20+08:00"                    # first created; manually adjust to local timezone
 #expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
 
-#aliases = [""]                                        # "/post"
+aliases = ["/federated-social-network-timeline-2022326", "/federated-social-network-timeline-2022346"]                                        # "/post"; DO NOT REMOVE
 #url = ""                                              # "path/post"; override .Permalink
 slug = "federated-social-network-timeline"
-translationKey = "federated-social-network-timeline-2022326"
-relCanonical = "https://im.youronly.one/techmagus/federated-social-network-timeline-2022326/"
+translationKey = "federated-social-network-timeline-2022346"
+relCanonical = "https://im.youronly.one/techmagus/kb/ddfon/federated-social-network-timeline-2022346/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
 #disquq_identifier = ""                                # set if date of this content is different from main translation
 
