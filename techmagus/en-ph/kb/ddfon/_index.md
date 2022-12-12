@@ -53,3 +53,5 @@ toc = true
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
   #rel = "noopener"
 +++
+
+## Decentralised Distributed Federated Open Network
