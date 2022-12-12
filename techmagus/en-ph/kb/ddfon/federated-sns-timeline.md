@@ -1,6 +1,6 @@
 +++
 title = "The Federated SNS Timeline"
-description = "A list of dates for key events in the history of the Federated SNS."
+description = "A list of key events in the history of the Federated SNS."
 
 lastmod = "2022-12-12T20:22:21+08:00"                 # last update; manually adjust to local timezone
 publishdate = "2022-12-12T20:22:21+08:00"             # first publication; manually adjust to local timezone
