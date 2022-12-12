@@ -98,13 +98,13 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
 
 - 2008-07-02
   - Protocol: {{% quote type="name" lang="en" %}}OpenMicroBlogging{{% /quote %}} [^openmicroblogging-wikipedia] [^danyl-strype]
-  - Platform/software: {{% quote type="title" lang="en" %}}Laconica{{% /quote %}} was launched [^identica-ross-mayfield] [^identica-wikipedia] [^identica-louisgray]
+  - Platform/software: {{% quote type="title" lang="en" %}}Laconica{{% /quote %}} was released [^identica-ross-mayfield] [^identica-wikipedia] [^identica-louisgray]
   - Instance: {{% quote type="title" lang="en" %}}Identi.ca{{% /quote %}} [^identica-ross-mayfield] [^identica-wikipedia] [^identica-louisgray]
     - Platform: {{% quote type="title" lang="en" %}}Laconica{{% /quote %}}
 - 2008 sometime
   - Instance: {{% quote type="title" lang="en" %}}The TWiT Army Canteen{{% /quote %}}
     - Platform: {{% quote type="title" lang="en" %}}Laconica{{% /quote %}}
-  - Platform/software: {{% quote type="title" lang="en" %}}OpenMicroBlogger{{% /quote %}} was launched [^openmicroblogging-w3c]
+  - Platform/software: {{% quote type="title" lang="en" %}}OpenMicroBlogger{{% /quote %}} was released [^openmicroblogging-w3c]
   - Instance: {{% quote type="title" lang="en" %}}OpenMicroBlogger.com{{% /quote %}}
     - Platform: {{% quote type="title" lang="en" %}}OpenMicroBlogger{{% /quote %}}
 
@@ -119,13 +119,13 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
   - {{% quote type="name" lang="en" %}}OStatus{{% /quote %}} protocol replaced the {{% quote type="name" lang="en" %}}OpenMicroBlogging{{% /quote %}} protocol [^ostatus-ostatusorg] [^ostatus-statusnet] [^danyl-strype]
   - {{% quote type="title" lang="en" %}}StatusNet{{% /quote %}} 0.9.0 switched to {{% quote type="name" lang="en" %}}OStatus{{% /quote %}} protocol [^gnusocial-statusnet-switched-ostatus]
 - 2010-03-09
-  - {{% quote type="name" lang="en" %}}StatusNet Cloud Service{{% /quote %}} launched in beta. The first managed instance service. [^statusnet-cloud]
+  - {{% quote type="name" lang="en" %}}StatusNet Cloud Service{{% /quote %}} released in beta. The first managed instance service. [^statusnet-cloud]
 - 2010-03-14
   - {{% quote type="work" lang="en" %}}identiverse{{% /quote %}} first coined by {{% quote type="name" lang="en" %}}Luke Slater{{% /quote %}} [^coined-identiverse-luke-slater] [^coined-identiverse-identica]
 - 2010-07-02
-  - Protocol: {{% quote type="name" lang="en" %}}DFRN{{% /quote %}} ({{% quote type="name" lang="en" %}}Distributed Friends and Relations Network{{% /quote %}}) [^mike-macgirvin] [^friendica-mistpark-launched]
-  - Platform/software: {{% quote type="title" lang="en" %}}Mistpark{{% /quote %}} was launched [^mike-macgirvin] [^friendica-mistpark-launched]
-    - Protocol (at launch): {{% quote type="name" lang="en" %}}DFRN{{% /quote %}}
+  - Protocol: {{% quote type="name" lang="en" %}}DFRN{{% /quote %}} ({{% quote type="name" lang="en" %}}Distributed Friends and Relations Network{{% /quote %}}) [^mike-macgirvin] [^friendica-mistpark-released]
+  - Platform/software: {{% quote type="title" lang="en" %}}Mistpark{{% /quote %}} was released [^mike-macgirvin] [^friendica-mistpark-released]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}DFRN{{% /quote %}}
 - 2010-08-17
   - {{% quote type="title" lang="en" %}}Mistpark{{% /quote %}} added {{% quote type="name" lang="en" %}}DFRN{{% /quote %}} protocol federation [^mike-macgirvin] [^friendica-federation-dfrn]
 - 2010-09-09
@@ -156,11 +156,11 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
   - Protocol: {{% quote type="name" lang="en" %}}zot{{% /quote %}} [^mike-macgirvin]
     - First decentralised and identity-aware protocol [^mike-macgirvin]
   - Platform/software: {{% quote type="title" lang="en" %}}red{{% /quote %}} | {{% quote type="title" lang="en" %}}Redmatrix{{% /quote %}} [^mike-macgirvin]
-    - Protocol (at launch): {{% quote type="name" lang="en" %}}zot{{% /quote %}}, {{% quote type="name" lang="en" %}}Diaspora{{% /quote %}} [^sean-tilley-free-network]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}zot{{% /quote %}}, {{% quote type="name" lang="en" %}}Diaspora{{% /quote %}} [^sean-tilley-free-network]
 - 2012-10-04
   - Protocol: {{% quote type="name" lang="en" %}}ActivityPump{{% /quote %}} [^pumpio-released-repo] [^danyl-strype]
   - Platform/software: {{% quote type="title" lang="en" %}}pump.io{{% /quote %}} [^pumpio-released-site]
-    - Protocol (at launch): {{% quote type="name" lang="en" %}}ActivityPump{{% /quote %}}
+    - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPump{{% /quote %}}
 
 ### 2013
 
@@ -182,16 +182,16 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
 
 - 2015 early
   - {{% quote type="title" lang="en" %}}Redmatrix{{% /quote %}} was renamed {{% quote type="title" lang="en" %}}Hubzilla{{% /quote %}} [^mike-macgirvin]
-    - Protocol (at launch): {{% quote type="name" lang="en" %}}zot/6{{% /quote %}}, {{% quote type="name" lang="en" %}}Diaspora{{% /quote %}}
+    - Protocol (first release): {{% quote type="name" lang="en" %}}zot/6{{% /quote %}}, {{% quote type="name" lang="en" %}}Diaspora{{% /quote %}}
 
 ### 2016
 
 - 2016-03-16
-  - Platform/software: {{% quote type="title" lang="en" %}}Mastodon{{% /quote %}} was launched
-    - Protocol (at launch): {{% quote type="name" lang="en" %}}OStatus{{% /quote %}} [^mastodon-released] [^sean-tilley-free-network]
+  - Platform/software: {{% quote type="title" lang="en" %}}Mastodon{{% /quote %}} was released
+    - Protocol (first release): {{% quote type="name" lang="en" %}}OStatus{{% /quote %}} [^mastodon-released] [^sean-tilley-free-network]
 - 2016-10-26
-  - Platform/software: {{% quote type="title" lang="en" %}}Pleroma{{% /quote %}} was launched [^pleroma-released-repo] [^pleroma-released]
-    - Protocol (at launch): {{% quote type="name" lang="en" %}}OStatus{{% /quote %}}
+  - Platform/software: {{% quote type="title" lang="en" %}}Pleroma{{% /quote %}} was released [^pleroma-released-repo] [^pleroma-released]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}OStatus{{% /quote %}}
 
 ### 2017
 
@@ -199,7 +199,7 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
   - {{% quote type="title" lang="en" %}}Hubzilla{{% /quote %}} added {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}} protocol federation [^hubzilla-federation-activitypub-repo] [^hubzilla-federation-activitypub-hackernews]
 - 2017-07-27
   - Platform/softare: {{% quote type="title" lang="en" %}}Socialhome{{% /quote %}} [^socialhome-released]
-    - Protocol (at launch): {{% quote type="name" lang="en" %}}Diaspora{{% /quote %}} [^sean-tilley-free-network]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}Diaspora{{% /quote %}} [^sean-tilley-free-network]
 - 2017-09-03
   - {{% quote type="title" lang="en" %}}Mastodon{{% /quote %}} added {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}} protocol federation [^mastodon-federation-activitypub] [^sean-tilley-free-network]
 
@@ -208,17 +208,17 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
 - 2018-01-23
   - {{% quote type="name" lang="en" %}}AcitivityPub{{% /quote %}} became an official {{% quote type="name" lang="en" %}}W3C{{% /quote %}} Recommendation (web standard) [^activitypub-w3c-standard]
 - 2018-03-20
-  - {{% quote type="title" lang="en" %}}PeerTube{{% /quote %}} launched [^peertube-released]
-    - Protocol (at launch): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
+  - {{% quote type="title" lang="en" %}}PeerTube{{% /quote %}} released [^peertube-released]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
 - 2018-04-19
-  - {{% quote type="title" lang="en" %}}Misskey{{% /quote %}} launched [^misskey-released]
-    - Protocol (at launch): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
+  - {{% quote type="title" lang="en" %}}Misskey{{% /quote %}} released [^misskey-released]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
 - 2018-11-03
-  - {{% quote type="title" lang="en" %}}PixelFed{{% /quote %}} launched [^pixelfed-released]
-    - Protocol (at launch): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
+  - {{% quote type="title" lang="en" %}}PixelFed{{% /quote %}} released [^pixelfed-released]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
 - 2018-11-10
-  - {{% quote type="title" lang="en" %}}WriteFreely{{% /quote %}} launched [^writefreely-released]
-    - Protocol (at launch): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
+  - {{% quote type="title" lang="en" %}}WriteFreely{{% /quote %}} released [^writefreely-released]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
 - 2018-11-18
   - {{% quote type="title" lang="en" %}}Friendica{{% /quote %}} added {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}} protocol federation [^friendica-federation-activitypub] [^sean-tilley-free-network]
 
@@ -234,8 +234,8 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
 - 2020-03-08
   - {{% quote type="title" lang="en" %}}Pleroma{{% /quote %}} dropped {{% quote type="name" lang="en" %}}OStatus{{% /quote %}} protocol federation [^pleroma-federation-ostatus-dropped]
 - 2020-12-31
-  - {{% quote type="title" lang="en" %}}BookWyrm{{% /quote %}} launched [^bookwyrm-released]
-    - Protocol (at launch): {{% quote type="name" lang="en" %}}ActivityPu{{% /quote %}}
+  - {{% quote type="title" lang="en" %}}BookWyrm{{% /quote %}} released [^bookwyrm-released]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPu{{% /quote %}}
 
 ### 2021
 
@@ -246,7 +246,7 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
 
 This is a living project. I will update it depending on the new information and my available time. If you have information available, kindly provide the relevant links for verification (submit it in the comments section at the end of this document). If I can verify (rel=me; keyoxide; GPG; and other ways to verify your identity) that you are the developer of a protocol, standard, platform/software, a link is no longer needed, though still highly preferable.
 
-Corrections would have to be clarified. Like, how is the correction more accurate than the currently sourced information? Or, how can we reconcile the correction with the currently sourced information? Of course, if you are the developer, and I can verify your identity, your information holds more weight (e.g. you prefer your software launch date is later than the current information).
+Corrections would have to be clarified. Like, how is the correction more accurate than the currently sourced information? Or, how can we reconcile the correction with the currently sourced information? Of course, if you are the developer, and I can verify your identity, your information holds more weight (e.g. you prefer your software's release date is later than the current information).
 
 <!-- generic -->
 [^coined-fediverse-mark-eckenwiler]: Mark Eckenwiler: [Fully accessible from my part of the fediverse](https://twitter.com/20002ist/status/205736841578676224) (published: 2012-05-25) (archived: [1](https://web.archive.org/web/20221210090041/https://twitter.com/20002ist/status/205736841578676224) [2](https://archive.ph/AEF4N))
@@ -276,7 +276,7 @@ Corrections would have to be clarified. Like, how is the correction more accurat
 [^friendica-federation-diaspora-02]: Friendika: [pull in new 'writable' dfrn flag](https://github.com/friendica/friendica/commit/c8f32536ff77193689efe69702f91122f97c1f36) (published: 2011-04-11) (archived: [1](https://archive.ph/8DR18))
 [^friendica-federation-openmicroblogging]: Mistpark: [mistpark 2.0 infrastructure lands](https://github.com/friendica/friendica/commit/ffb1997902facb36b78a7cfa522f41f2b3d71cda) (published: 2010-09-09) (archived: [1](https://web.archive.org/web/20221211132039/https://github.com/friendica/friendica/commit/ffb1997902facb36b78a7cfa522f41f2b3d71cda) [2](https://archive.ph/E45Ia))
 [^friendica-federation-ostatus]: Mistpark: [Provide the ability to subscribe to our user from other federated sites](https://github.com/friendica/friendica/commit/3c440f70c66953735d01841453fa6a7ed244ef1c) (published: 2010-10-13) (archived: [1](https://web.archive.org/web/20221211132815/https://github.com/friendica/friendica/commit/3c440f70c66953735d01841453fa6a7ed244ef1c) [2](https://archive.ph/E3ke4))
-[^friendica-mistpark-launched]: Mistpark: [Initial checkin](https://github.com/friendica/friendica/commit/6348e70daa113e8b3203de8fbc919d08c90d972e) (published: 2010-07-02) (archived: [1](https://web.archive.org/web/20151219131607/https://github.com/friendica/friendica/commit/6348e70daa113e8b3203de8fbc919d08c90d972e) [2](https://archive.ph/WZ7hi))
+[^friendica-mistpark-released]: Mistpark: [Initial checkin](https://github.com/friendica/friendica/commit/6348e70daa113e8b3203de8fbc919d08c90d972e) (published: 2010-07-02) (archived: [1](https://web.archive.org/web/20151219131607/https://github.com/friendica/friendica/commit/6348e70daa113e8b3203de8fbc919d08c90d972e) [2](https://archive.ph/WZ7hi))
 [^friendica-rename-mistpark-friendika]: Mistpark: [project rename](https://github.com/friendica/friendica/commit/2a23a7e8405cde73ad95e1c0103fe49df3a883f9) (published: 2010-11-03) (archived: [1](https://web.archive.org/web/20221211133109/https://github.com/friendica/friendica/commit/2a23a7e8405cde73ad95e1c0103fe49df3a883f9) [2](https://archive.ph/2JOqF))
 [^friendica-rename-friendika]: Friendica: [rename](https://github.com/friendica/friendica/commit/9ec4f6e0c9b0a4b8dd53d5d43d41e35c0d6d5f5e) (published: 2011-11-12) (archived: [1](https://web.archive.org/web/20221211125714/https://github.com/friendica/friendica/commit/9ec4f6e0c9b0a4b8dd53d5d43d41e35c0d6d5f5e) [2](https://archive.ph/uH0xq))
 [^gnusocial-federation-activitypub]: GNU Social repo: [v2.0.0beta](https://notabug.org/diogo/gnu-social/src/v2.0.0beta0) (published: 2021-07-18) (archived: [1](https://web.archive.org/web/20211202164030/https://notabug.org/diogo/gnu-social/src/v2.0.0beta0) [2](https://archive.ph/pCCSZ))
