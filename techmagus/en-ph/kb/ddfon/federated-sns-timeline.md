@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/techmagus/federated-social-network-timel
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndications = [""]
+syndications = ["https://c.im/@youronlyone/109500904548169714", "https://twitter.com/YourOnlyONEofcl/status/1602288699215069185", "https://t.youronly.one/post/703438686970413056/the-federated-social-network-timeline", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02JfnLCsk1QS7Q39gbsqrHu85kt4yfh8kPhFFLfY2XX997vnTqFjoRUSUAf72JZ66il"]
 
 channels = ["techmagus"]
 categories = ["web", "internet"]
