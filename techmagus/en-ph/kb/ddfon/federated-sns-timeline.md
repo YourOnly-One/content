@@ -65,7 +65,7 @@ It proved this when I started this project. There was countless information that
 
 My desire to change that resulted in the creation of {{% quote type="work" lang="en" %}}The Federated SNS Timeline{{% /quote %}}. A list of the  {{% quote type="name" lang="en" %}}Federated Social Network{{% /quote %}} history, gathered on this page, with links to sources scattered everywhere.
 
-## What is this about
+## The Fediverse Historical Timeline
 
 The {{% quote type="name" lang="en" %}}Federated SNS{{% /quote %}} (social network service/system) timeline is a simple list of its history. To put it another way, it is a record of how the {{% quote type="name" lang="en" %}}Fediverse{{% /quote %}} came to be. This is only one part of the larger {{% quote type="name" lang="en" %}}Federated Social Web{{% /quote %}}. For this list, we defined SNS as services meant for posting updates (microblogging, macro-blogging, blogging), uploading images, leaving comments, re-sharing, and liking; or simply, the{{% quote type="name" lang="en" %}}Fediverse{{% /quote %}}.
 
