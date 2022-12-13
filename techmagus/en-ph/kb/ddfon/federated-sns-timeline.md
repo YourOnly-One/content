@@ -2,7 +2,7 @@
 title = "The Federated SNS Timeline (Fediverse History)"
 description = "Key events in the history of the Fediverse."
 
-lastmod = "2022-12-13T13:00:27+08:00"                 # last update; manually adjust to local timezone
+lastmod = "2022-12-13T16:18:30+08:00"                 # last update; manually adjust to local timezone
 publishdate = "2022-12-12T20:22:21+08:00"             # first publication; manually adjust to local timezone
 date = "2022-11-22T11:22:20+08:00"                    # first created; manually adjust to local timezone
 #expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
@@ -98,13 +98,15 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
 
 - 2008-07-02
   - Protocol: {{% quote type="name" lang="en" %}}OpenMicroBlogging{{% /quote %}} [^openmicroblogging-wikipedia] [^danyl-strype]
-  - Platform/software: {{% quote type="title" lang="en" %}}Laconica{{% /quote %}} was released [^identica-ross-mayfield] [^identica-wikipedia] [^identica-louisgray]
+  - Platform/software: {{% quote type="title" lang="en" %}}Laconica{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Evan Prodromou{{% /quote %}} [^identica-ross-mayfield] [^identica-wikipedia] [^identica-louisgray]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}OpenMicroBlogging{{% /quote %}}
   - Instance: {{% quote type="title" lang="en" %}}Identi.ca{{% /quote %}} [^identica-ross-mayfield] [^identica-wikipedia] [^identica-louisgray]
     - Platform: {{% quote type="title" lang="en" %}}Laconica{{% /quote %}}
 - 2008 sometime
   - Instance: {{% quote type="title" lang="en" %}}The TWiT Army Canteen{{% /quote %}}
     - Platform: {{% quote type="title" lang="en" %}}Laconica{{% /quote %}}
   - Platform/software: {{% quote type="title" lang="en" %}}OpenMicroBlogger{{% /quote %}} was released [^openmicroblogging-w3c]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}OpenMicroBlogging{{% /quote %}}
   - Instance: {{% quote type="title" lang="en" %}}OpenMicroBlogger.com{{% /quote %}}
     - Platform: {{% quote type="title" lang="en" %}}OpenMicroBlogger{{% /quote %}}
 
@@ -119,12 +121,12 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
   - {{% quote type="name" lang="en" %}}OStatus{{% /quote %}} protocol replaced the {{% quote type="name" lang="en" %}}OpenMicroBlogging{{% /quote %}} protocol [^ostatus-ostatusorg] [^ostatus-statusnet] [^danyl-strype]
   - {{% quote type="title" lang="en" %}}StatusNet{{% /quote %}} 0.9.0 switched to {{% quote type="name" lang="en" %}}OStatus{{% /quote %}} protocol [^gnusocial-statusnet-switched-ostatus]
 - 2010-03-09
-  - {{% quote type="name" lang="en" %}}StatusNet Cloud Service{{% /quote %}} released in beta. The first managed instance service. [^statusnet-cloud]
+  - {{% quote type="name" lang="en" %}}StatusNet Cloud Service{{% /quote %}} was released in beta. The first managed instance service. [^statusnet-cloud]
 - 2010-03-14
   - {{% quote type="work" lang="en" %}}identiverse{{% /quote %}} first coined by {{% quote type="name" lang="en" %}}Luke Slater{{% /quote %}} [^coined-identiverse-luke-slater] [^coined-identiverse-identica]
 - 2010-07-02
   - Protocol: {{% quote type="name" lang="en" %}}DFRN{{% /quote %}} ({{% quote type="name" lang="en" %}}Distributed Friends and Relations Network{{% /quote %}}) [^mike-macgirvin] [^friendica-mistpark-released]
-  - Platform/software: {{% quote type="title" lang="en" %}}Mistpark{{% /quote %}} was released [^mike-macgirvin] [^friendica-mistpark-released]
+  - Platform/software: {{% quote type="title" lang="en" %}}Mistpark{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Mike Macgirvin{{% /quote %}} [^mike-macgirvin] [^friendica-mistpark-released]
     - Protocol (first release): {{% quote type="name" lang="en" %}}DFRN{{% /quote %}}
 - 2010-08-17
   - {{% quote type="title" lang="en" %}}Mistpark{{% /quote %}} added {{% quote type="name" lang="en" %}}DFRN{{% /quote %}} protocol federation [^mike-macgirvin] [^friendica-federation-dfrn]
@@ -135,16 +137,17 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
 - 2010-11-03
   - {{% quote type="title" lang="en" %}}Mistpark{{% /quote %}} renamed to {{% quote type="title" lang="en" %}}Friendika{{% /quote %}} [^friendica-rename-mistpark-friendika]
 - 2010-11-23
-  - Protocol: {{% quote type="name" lang="en" %}}Diaspora{{% /quote %}}
+  - Protocol: {{% quote type="name" lang="en" %}}Diaspora Federation{{% /quote %}}
     - Network name: {{% quote type="name" lang="en" %}}The Federation{{% /quote %}}
-  - Platform/software: {{% quote type="title" lang="en" %}}diaspora*{{% /quote %}}
-  - Instance: {{% quote type="title" lang="en" %}}joindiaspora.com{{% /quote %}} [^diaspora-released]
+  - Platform/software: {{% quote type="title" lang="en" %}}diaspora*{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Dan Grippi{{% /quote %}}, {{% quote type="name" lang="en" %}}Ilya Zhitomirskiy{{% /quote %}}, {{% quote type="name" lang="en" %}}Raphael Sofaer{{% /quote %}}, and {{% quote type="name" lang="en" %}}Maxwell Salzberg{{% /quote %}} [^diaspora-released]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}Diaspora Federation{{% /quote %}}
+  - Instance: {{% quote type="title" lang="en" %}}joindiaspora.com{{% /quote %}}
     - Platform: {{% quote type="title" lang="en" %}}diaspora*{{% /quote %}}
 
 ### 2011
 
 - 2011-03-19
-  - {{% quote type="title" lang="en" %}}Friendika{{% /quote %}} added {{% quote type="name" lang="en" %}}Diaspora{{% /quote %}} protocol federation [^friendica-federation-diaspora] [^friendica-federation-diaspora-02] [^sean-tilley-free-network]
+  - {{% quote type="title" lang="en" %}}Friendika{{% /quote %}} added {{% quote type="name" lang="en" %}}Diaspora Federation{{% /quote %}} protocol support [^friendica-federation-diaspora] [^friendica-federation-diaspora-02] [^sean-tilley-free-network]
 - 2011-11-12
   - {{% quote type="title" lang="en" %}}Friendika{{% /quote %}} renamed to {{% quote type="title" lang="en" %}}Friendica{{% /quote %}} [^friendica-rename-friendika]
 
@@ -154,12 +157,14 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
   - {{% quote type="work" lang="en" %}}fediverse{{% /quote %}} was first coined by Mark Eckenwiler [^coined-fediverse-mark-eckenwiler] [^coined-fediverse-twitter]
 - 2012-07
   - Protocol: {{% quote type="name" lang="en" %}}zot{{% /quote %}} [^mike-macgirvin]
-    - First decentralised and identity-aware protocol [^mike-macgirvin]
-  - Platform/software: {{% quote type="title" lang="en" %}}red{{% /quote %}} | {{% quote type="title" lang="en" %}}Redmatrix{{% /quote %}} [^mike-macgirvin]
-    - Protocol (first release): {{% quote type="name" lang="en" %}}zot{{% /quote %}}, {{% quote type="name" lang="en" %}}Diaspora{{% /quote %}} [^sean-tilley-free-network]
+    - First decentralised and identity-aware (Nomadic identity) protocol [^mike-macgirvin]
+  - Platform/software: {{% quote type="title" lang="en" %}}red{{% /quote %}} | {{% quote type="title" lang="en" %}}Redmatrix{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Mike Macgirvin{{% /quote %}} [^mike-macgirvin]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}zot{{% /quote %}}, {{% quote type="name" lang="en" %}}Diaspora Federation{{% /quote %}} [^sean-tilley-free-network]
+- 2012-08-27
+  - {{% quote type="title" lang="en" %}}diaspora*{{% /quote %}} becomes a community-managed project [^diaspora-fla-developer-01]
 - 2012-10-04
   - Protocol: {{% quote type="name" lang="en" %}}ActivityPump{{% /quote %}} [^pumpio-released-repo] [^danyl-strype]
-  - Platform/software: {{% quote type="title" lang="en" %}}pump.io{{% /quote %}} [^pumpio-released-site]
+  - Platform/software: {{% quote type="title" lang="en" %}}pump.io{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Evan Prodromou{{% /quote %}} [^pumpio-released-site]
     - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPump{{% /quote %}}
 
 ### 2013
@@ -177,20 +182,23 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
 
 - 2014-09-06
   - {{% quote type="name" lang="en" %}}W3C{{% /quote %}} work on {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}} started [^activitypub-w3c-started]
+    - Based on the {{% quote type="name" lang="en" %}}ActivityPump{{% /quote %}} protocol.
 
 ### 2015
 
 - 2015 early
   - {{% quote type="title" lang="en" %}}Redmatrix{{% /quote %}} was renamed {{% quote type="title" lang="en" %}}Hubzilla{{% /quote %}} [^mike-macgirvin]
-    - Protocol (first release): {{% quote type="name" lang="en" %}}zot/6{{% /quote %}}, {{% quote type="name" lang="en" %}}Diaspora{{% /quote %}}
+    - Protocol (first release): {{% quote type="name" lang="en" %}}zot/6{{% /quote %}}, {{% quote type="name" lang="en" %}}Diaspora Federation{{% /quote %}}
 
 ### 2016
 
 - 2016-03-16
-  - Platform/software: {{% quote type="title" lang="en" %}}Mastodon{{% /quote %}} was released
-    - Protocol (first release): {{% quote type="name" lang="en" %}}OStatus{{% /quote %}} [^mastodon-released] [^sean-tilley-free-network]
+  - Platform/software: {{% quote type="title" lang="en" %}}Mastodon{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Eugen Rochko{{% /quote %}} [^mastodon-released]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}OStatus{{% /quote %}} [^sean-tilley-free-network]
+- 2016-08-16
+  - {{% quote type="name" lang="en" %}}Diaspora Federation{{% /quote %}} protocol becomes available as a Ruby library [^diaspora-fla-developer-01] [^diaspora-federation-protocol-ruby]
 - 2016-10-26
-  - Platform/software: {{% quote type="title" lang="en" %}}Pleroma{{% /quote %}} was released [^pleroma-released-repo] [^pleroma-released]
+  - Platform/software: {{% quote type="title" lang="en" %}}Pleroma{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Lain{{% /quote %}} [^pleroma-released-repo] [^pleroma-released]
     - Protocol (first release): {{% quote type="name" lang="en" %}}OStatus{{% /quote %}}
 
 ### 2017
@@ -198,8 +206,8 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
 - 2017-07-18
   - {{% quote type="title" lang="en" %}}Hubzilla{{% /quote %}} added {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}} protocol federation [^hubzilla-federation-activitypub-repo] [^hubzilla-federation-activitypub-hackernews]
 - 2017-07-27
-  - Platform/softare: {{% quote type="title" lang="en" %}}Socialhome{{% /quote %}} [^socialhome-released]
-    - Protocol (first release): {{% quote type="name" lang="en" %}}Diaspora{{% /quote %}} [^sean-tilley-free-network]
+  - Platform/software: {{% quote type="title" lang="en" %}}Socialhome{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Jason Robinson{{% /quote %}} [^socialhome-released]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}Diaspora Federation{{% /quote %}} [^sean-tilley-free-network]
 - 2017-09-03
   - {{% quote type="title" lang="en" %}}Mastodon{{% /quote %}} added {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}} protocol federation [^mastodon-federation-activitypub] [^sean-tilley-free-network]
 
@@ -208,22 +216,25 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
 - 2018-01-23
   - {{% quote type="name" lang="en" %}}AcitivityPub{{% /quote %}} became an official {{% quote type="name" lang="en" %}}W3C{{% /quote %}} Recommendation (web standard) [^activitypub-w3c-standard]
 - 2018-03-20
-  - {{% quote type="title" lang="en" %}}PeerTube{{% /quote %}} released [^peertube-released]
+  - Platform/software: {{% quote type="title" lang="en" %}}PeerTube{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Chocobozzz{{% /quote %}} [^peertube-released]
     - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
 - 2018-04-19
-  - {{% quote type="title" lang="en" %}}Misskey{{% /quote %}} released [^misskey-released]
+  - Platform/software: {{% quote type="title" lang="en" %}}Misskey{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Syuilo{{% /quote %}} [^misskey-released]
     - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
 - 2018-11-03
-  - {{% quote type="title" lang="en" %}}PixelFed{{% /quote %}} released [^pixelfed-released]
+  - Platform/software: {{% quote type="title" lang="en" %}}PixelFed{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Daniel Supernault{{% /quote %}} [^pixelfed-released]
     - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
 - 2018-11-10
-  - {{% quote type="title" lang="en" %}}WriteFreely{{% /quote %}} released [^writefreely-released]
+  - Platform/software: {{% quote type="title" lang="en" %}}WriteFreely{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Matt Baer{{% /quote %}} [^writefreely-released]
     - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
 - 2018-11-18
   - {{% quote type="title" lang="en" %}}Friendica{{% /quote %}} added {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}} protocol federation [^friendica-federation-activitypub] [^sean-tilley-free-network]
 
 ### 2019
 
+- 2019-08-20
+  - Platform/software: {{% quote type="title" lang="en" %}}Hometown{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Darius Kazemi{{% /quote %}} [^hometown-released]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
 - 2019-10-04
   - {{% quote type="title" lang="en" %}}Mastodon{{% /quote %}} dropped {{% quote type="name" lang="en" %}}OStatus{{% /quote %}} protocol federation [^mastodon-federation-ostatus-dropped]
 - 2019-10-06
@@ -234,19 +245,37 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
 - 2020-03-08
   - {{% quote type="title" lang="en" %}}Pleroma{{% /quote %}} dropped {{% quote type="name" lang="en" %}}OStatus{{% /quote %}} protocol federation [^pleroma-federation-ostatus-dropped]
 - 2020-12-31
-  - {{% quote type="title" lang="en" %}}BookWyrm{{% /quote %}} released [^bookwyrm-released]
+  - Platform/software: {{% quote type="title" lang="en" %}}BookWyrm{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Mouse Reeve{{% /quote %}} [^bookwyrm-released]
     - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPu{{% /quote %}}
 
 ### 2021
 
+- 2021-05-11
+  - Platform/software: {{% quote type="title" lang="en" %}}Rebased{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Alex Gleason{{% /quote %}} [^rebased-released]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
 - 2021-07-18
   - {{% quote type="title" lang="en" %}}GNU Social{{% /quote %}} added {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}} protocol federation [^gnusocial-federation-activitypub]
 
+### 2022
+
+- 2022-01-29
+  - Platform/software: {{% quote type="title" lang="en" %}}Akkoma{{% /quote %}} was released by {{% quote type="name" lang="en" %}}floatingghost{{% /quote %}} [^akkoma-released]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
+- 2022-07-19
+  - Platform/software: {{% quote type="title" lang="en" %}}Calckey{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Kainoa Kanter{{% /quote %}} [^calckey-released]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
+- 2022-08-05
+  - Platform/software: {{% quote type="title" lang="en" %}}Foundkey{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Norm{{% /quote %}} [^foundkey-released]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
+- 2022-12-03
+  - Platform/software: {{% quote type="title" lang="en" %}}Streams{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Mike Macgirvin{{% /quote %}} [^streams-released]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}Nomad communications{{% /quote %}}, {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}} [^streams-repo]
+
 ## On updates
 
-This is a living project. I will update it depending on the new information and my available time. If you have information available, kindly provide the relevant links for verification (submit it in the comments section at the end of this document). If I can verify (rel=me; keyoxide; GPG; and other ways to verify your identity) that you are the developer of a protocol, standard, platform/software, a link is no longer needed, though still highly preferable.
+This is a living project. I will update it depending on the new information and my available time. If you have information available, kindly provide the relevant links for verification (submit it in the comments section at the end of this document). If I can verify (rel=me; keyoxide; GPG; and other ways to verify your identity) that you are the developer of a protocol, standard, platform/software, a link is no longer needed (though still preferable).
 
-Corrections would have to be clarified. Like, how is the correction more accurate than the currently sourced information? Or, how can we reconcile the correction with the currently sourced information? Of course, if you are the developer, and I can verify your identity, your information holds more weight (e.g. you prefer your software's release date is later than the current information).
+Corrections would have to be clarified. Like, how is the correction more accurate than the currently sourced information? Or, how can we reconcile the correction with the currently sourced information? Of course, if you are the developer, and I can verify your identity, your information holds more weight (e.g. you prefer your software's release date to be later than the current information).
 
 <!-- generic -->
 [^coined-fediverse-mark-eckenwiler]: Mark Eckenwiler: [Fully accessible from my part of the fediverse](https://twitter.com/20002ist/status/205736841578676224) (published: 2012-05-25) (archived: [1](https://web.archive.org/web/20221210090041/https://twitter.com/20002ist/status/205736841578676224) [2](https://archive.ph/AEF4N))
@@ -262,14 +291,19 @@ Corrections would have to be clarified. Like, how is the correction more accurat
 <!-- protocols -->
 [^activitypub-w3c-standard]: W3C: [ActivityPub](https://www.w3.org/TR/activitypub/) (published: 2018-01-23) (archived: [1](https://web.archive.org/web/20221211140131/https://www.w3.org/TR/activitypub/) [2](https://archive.ph/3eaRq))
 [^activitypub-w3c-started]: W3C: [First draft](https://github.com/w3c/activitypub/commit/f51003288c7fbfe33942a261603fa3a361721b5a) (published: 2014-09-06) (archived: [1](https://web.archive.org/web/20221211144535/https://github.com/w3c/activitypub/commit/f51003288c7fbfe33942a261603fa3a361721b5a) [2](https://archive.ph/TyWrD))
+[^diaspora-federation-protocol-ruby]: Diaspora Federation protocol: [Ruby library](https://diaspora.github.io/diaspora_federation/) (archived: [1](https://web.archive.org/web/20221213081140/https://diaspora.github.io/diaspora_federation/) [2](https://archive.ph/0phA8))
 [^openmicroblogging-w3c]: W3C: [OpenMicroBlogging](https://www.w3.org/2008/09/msnws/papers/W3C_FOSN_Position_Paper) (published: 2008-09; 2008-11-20) (archived: [1](https://web.archive.org/web/20090118141655/https://www.w3.org/2008/09/msnws/papers/W3C_FOSN_Position_Paper) [2](https://archive.ph/LYhn8))
 [^openmicroblogging-wikipedia]: Wikipedia: [OpenMicroBlogging](https://en.wikipedia.org/wiki/OpenMicroBlogging)
 [^ostatus-ostatusorg]: ostatus.org: It's started! (published: 2010-03-04) (archived: [1](https://web.archive.org/web/20100307052403/http://ostatus.org/2010/03/04/its-started) [2](https://archive.ph/0RcK))
 [^ostatus-statusnet]: status.net: Understanding OStatus (published: 2010-03-07) (archived: [1](https://web.archive.org/web/20100310081310/http://status.net/2010/03/07/understanding-ostatus) [2](https://archive.ph/wCkT))
 
 <!-- platforms -->
+[^akkoma-released]: Akkoma repo: [akkoma as it was before rebasing onto the fork](https://akkoma.dev/AkkomaGang/akkoma/releases/tag/pre-rebase) (published: 2022-01-29) (archived: [1](https://web.archive.org/web/20221213072258/https://akkoma.dev/AkkomaGang/akkoma/releases/tag/pre-rebase) [2](https://archive.ph/XrTnD))
 [^bookwyrm-released]: PeerTube: [v0.0.1](https://github.com/bookwyrm-social/bookwyrm/releases/tag/v0.0.1) (published: 2020-12-31) (archived: [1](https://web.archive.org/web/20221212093539/https://github.com/bookwyrm-social/bookwyrm/releases/tag/v0.0.1) [2](https://archive.ph/l9sdK))
+[^calckey-released]: Calckey repo: [Calckey release!](https://codeberg.org/thatonecalculator/calckey/releases/tag/v12.117.1-calc) (published: 2022-07-19) (archived: [1](https://web.archive.org/web/20221213072804/https://codeberg.org/thatonecalculator/calckey/releases/tag/v12.117.1-calc) [2](https://archive.ph/jMZub))
+[^diaspora-fla-developer-01]: Diaspora developer: [Fla](https://mastodon.social/@fla/109505236342809127) (published: 2022-12-13) (archived: [1](https://web.archive.org/web/20221213081131/https://mastodon.social/@fla/109505236342809127) [2](https://archive.ph/hyP7j))
 [^diaspora-released]: Diaspora*: Private Alpha Invites Going Out Today (published: 2010-11-23) (archived: [1](https://web.archive.org/web/20111112210132/https://blog.diasporafoundation.org/2010/11/23/private-alpha-released.html))
+[^foundkey-released]: Foundkey repo: [13.0.0-preview1](https://akkoma.dev/FoundKeyGang/FoundKey/src/tag/v13.0.0-preview3/CHANGELOG.md#13-0-0-preview1-2022-08-05) (published: 2022-08-05) (archived: [1](https://web.archive.org/web/20221213074109/https://akkoma.dev/FoundKeyGang/FoundKey/src/tag/v13.0.0-preview3/CHANGELOG.md) [2](https://archive.ph/AS04a))
 [^friendica-federation-activitypub]: Friendica: [ActivityPub support in Friendica](https://friendi.ca/2018/11/18/activitypub-support-in-friendica/) (published: 2018-11-18) (archived: [1](https://web.archive.org/web/20181206102349/https://friendi.ca/2018/11/18/activitypub-support-in-friendica/) [2](https://archive.ph/Jgtdx))
 [^friendica-federation-dfrn]: Mistpark: [prepare for federation](https://github.com/friendica/friendica/commit/ce515ac2e815cf6c392691743393ea6ebc42c832) (published: 2010-08-17) (archived: [1](https://web.archive.org/web/20221211131729/https://github.com/friendica/friendica/commit/ce515ac2e815cf6c392691743393ea6ebc42c832) [2](https://archive.ph/CyyON))
 [^friendica-federation-diaspora]: Friendika: [stuff to make connecting to diaspora profiles easier](https://github.com/friendica/friendica/commit/7e33c1072a4a948941e2522afe0123899b0abddd) (published: 2011-03-19) (archived: [1](https://web.archive.org/web/20221211131134/https://github.com/friendica/friendica/commit/7e33c1072a4a948941e2522afe0123899b0abddd) [2](https://archive.ph/3oNvz))
@@ -283,6 +317,7 @@ Corrections would have to be clarified. Like, how is the correction more accurat
 [^gnusocial-rename-laconica-statusnet]: status.net: Laconica is now StatusNet (published: 2009-08-28) (archived: [1](https://web.archive.org/web/20090831073527/http://status.net/2009/08/28/laconica-is-now-statusnet/) [2](https://archive.ph/sdXN))
 [^gnusocial-statusnet-freesocial]: GNU.org: [Merge](https://www.gnu.org/software/social/merge.html) (published: 2013-06-08) (archived: [1](https://web.archive.org/web/20130616030020/www.gnu.org/software/social/merge.html) [2](https://archive.ph/pkDHL))
 [^gnusocial-statusnet-switched-ostatus]: status.net: StatusNet 0.9.0 Released (published: 2010-03-04) (archived: [1](https://web.archive.org/web/20100305215023/http://status.net/2010/03/04/statusnet-0-9-0-released) [2](https://archive.ph/Ksni))
+[^hometown-released]: Hometown repo: [Hometown v1.0.0 (Mastodon 2.9.3)](https://github.com/hometown-fork/hometown/releases/tag/v1.0.0%2B2.9.3) (published: 2019-08-20) (archived: [1](https://web.archive.org/web/20201111194541/https://github.com/hometown-fork/hometown/releases/tag/v1.0.0%2B2.9.3) [2](https://archive.ph/djAKX))
 [^hubzilla-federation-activitypub-repo]: Hubzilla repo: [provide content-type matching ability for activitypub](https://framagit.org/hubzilla/core/-/commit/15e836b7dd2fed3f97f134928d88e13db1d8a7f4) (published: 2017-07-18) (archived: [1](https://web.archive.org/web/20221211142832/https://framagit.org/hubzilla/core/-/commit/15e836b7dd2fed3f97f134928d88e13db1d8a7f4) [2](https://archive.ph/T3GfO))
 [^hubzilla-federation-activitypub-hackernews]: Hacker News: [zotlabs](https://news.ycombinator.com/item?id=16695616) (published: 2018-03-28) (archived: [1](https://web.archive.org/web/20221211142640/https://news.ycombinator.com/item?id=16695616) [2](https://archive.ph/JVNde))
 [^mastodon-federation-activitypub]: Mastodon repo: [v1.6.0rc1](https://github.com/mastodon/mastodon/releases/tag/v1.6.0rc1) (published: 2017-03-09) (archived: [1](https://web.archive.org/web/20220526090411/https://github.com/mastodon/mastodon/releases/tag/v1.6.0rc1) [2](https://archive.ph/jdGMe))
@@ -296,8 +331,11 @@ Corrections would have to be clarified. Like, how is the correction more accurat
 [^pleroma-released-repo]: Pleroma repo: [pleroma_fe](https://git.pleroma.social/pleroma/pleroma-fe/tree/191c02af1ebfc7e6c53dc88d97c4e3ca23fbea8b) (published: 2016-10-26) (archived: [1](https://web.archive.org/web/20191227013046/https://git.pleroma.social/pleroma/pleroma-fe/tree/191c02af1ebfc7e6c53dc88d97c4e3ca23fbea8b) [2](https://archive.ph/5S0xf))
 [^pumpio-released-repo]: pump.io repo: [v0.1.0](https://github.com/pump-io/pump.io/releases/tag/v0.1.0) (published: 2012-10-04) (archived: [1](https://web.archive.org/web/20201111230755/https://github.com/pump-io/pump.io/releases/tag/v0.1.0) [2](https://archive.ph/6INht))
 [^pumpio-released-site]: pump.io site: Version 0.1.0 (published: 2012-10-04) (archived: [1](https://web.archive.org/web/20121008010247/http://pump.io/))
+[^rebased-released]: Rebased repo: [soapbox-v1.0.0: Merge branch 'release-1.0' into 'develop'](https://github.com/soapbox-pub/rebased/releases/tag/soapbox-v1.0.0) (published: 2021-05-11) (archived: [1](https://web.archive.org/web/20221213071516/https://github.com/soapbox-pub/rebased/releases/tag/soapbox-v1.0.0) [2](https://archive.ph/dqi5u))
 [^socialhome-federation-activitypub]: socialhome repo: [0.10.0](https://gitlab.com/jaywink/socialhome/-/tags/v0.10.0) (published: 2019-10-06) (archived: [1](https://web.archive.org/web/20221211135557/https://gitlab.com/jaywink/socialhome/-/tags/v0.10.0) [2](https://archive.ph/zrZHX))
 [^socialhome-released]: socialhome repo: [0.1.0](https://gitlab.com/jaywink/socialhome/-/tags/v0.1.0) (published: 2017-07-27) (archived: [1](https://web.archive.org/web/20221211134847/https://gitlab.com/jaywink/socialhome/-/tags/v0.1.0) [2](https://archive.ph/6pIFg))
+[^streams-released]: Mike Macgirvin: [Streams](https://macgirvin.com/channel/mike?mid=https://macgirvin.com/item/d0d37b08-8522-480c-b0a1-23bf65bd26d5) (published: 2022-12-03) (archived: [1](https://web.archive.org/web/20221213061916/https://macgirvin.com/channel/mike?mid=https://macgirvin.com/item/d0d37b08-8522-480c-b0a1-23bf65bd26d5) [2](https://archive.ph/uaLKD))
+[^streams-repo]: Streams: [repo](https://codeberg.org/streams/streams) (published: 2022-12-03) (archived: [1](https://web.archive.org/web/20221213061925/https://codeberg.org/streams/streams) [2](https://archive.ph/9Tecn))
 [^writefreely-released]: WriteFreely repo: [v0.1](https://github.com/writefreely/writefreely/releases/tag/v0.1.0) (published: 2018-11-10) (archived: [1](https://web.archive.org/web/20221212090157/https://github.com/writefreely/writefreely/releases/tag/v0.1.0) [2](https://archive.ph/3bSPi))
 
 <!-- instances -->
