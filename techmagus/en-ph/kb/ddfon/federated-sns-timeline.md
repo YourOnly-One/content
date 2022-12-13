@@ -1,8 +1,8 @@
 +++
-title = "The Federated SNS Timeline"
-description = "A list of key events in the history of the Federated SNS."
+title = "The Federated SNS Timeline (Fediverse History)"
+description = "Key events in the history of the Fediverse."
 
-lastmod = "2022-12-12T22:20:12+08:00"                 # last update; manually adjust to local timezone
+lastmod = "2022-12-13T13:00:27+08:00"                 # last update; manually adjust to local timezone
 publishdate = "2022-12-12T20:22:21+08:00"             # first publication; manually adjust to local timezone
 date = "2022-11-22T11:22:20+08:00"                    # first created; manually adjust to local timezone
 #expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
@@ -63,11 +63,11 @@ In a fast-paced world like what we have today, recording events is often forgott
 
 It proved this when I started this project. There was countless information that are now gone forever, and in an age where words of individuals no longer hold any weight—unless they are a personality—a source is often expected, if not demanded.
 
-My desire to change that resulted in the creation of  {{% quote type="work" lang="en" %}}The Federated SNS Timeline{{% /quote %}}. A list of the  {{% quote type="name" lang="en" %}}Federated Social Network{{% /quote %}} history, gathered on this page, with links to sources scattered everywhere.
+My desire to change that resulted in the creation of {{% quote type="work" lang="en" %}}The Federated SNS Timeline{{% /quote %}}. A list of the  {{% quote type="name" lang="en" %}}Federated Social Network{{% /quote %}} history, gathered on this page, with links to sources scattered everywhere.
 
 ## What is this about
 
-The {{% quote type="name" lang="en" %}}Federated SNS{{% /quote %}} (social network service/system) timeline is a simple list of its history. This is only one part of the larger {{% quote type="name" lang="en" %}}Federated Social Web{{% /quote %}}. For this list, we defined SNS as services meant for posting updates (microblogging, macro-blogging, blogging), uploading images, leaving comments, re-sharing, and liking.
+The {{% quote type="name" lang="en" %}}Federated SNS{{% /quote %}} (social network service/system) timeline is a simple list of its history. To put it another way, it is a record of how the {{% quote type="name" lang="en" %}}Fediverse{{% /quote %}} came to be. This is only one part of the larger {{% quote type="name" lang="en" %}}Federated Social Web{{% /quote %}}. For this list, we defined SNS as services meant for posting updates (microblogging, macro-blogging, blogging), uploading images, leaving comments, re-sharing, and liking; or simply, the{{% quote type="name" lang="en" %}}Fediverse{{% /quote %}}.
 
 Protocols and services like {{% quote type="name" lang="en" %}}XMPP{{% /quote %}} and {{% quote type="name" lang="en" %}}Matrix{{% /quote %}} are part of the {{% quote type="name" lang="en" %}}Federated Chat{{% /quote %}} grouping. While there is an overlap with the {{% quote type="name" lang="en" %}}XMPP{{% /quote %}} protocol when it comes to SNS, these platforms/software were not (yet) included (e.g. {{% quote type="title" lang="en" %}}Juick{{% /quote %}}, {{% quote type="title" lang="en" %}}Movim{{% /quote %}}, {{% quote type="title" lang="en" %}}Buddycloud{{% /quote %}}, {{% quote type="title" lang="en" %}}Jappix{{% /quote %}}, and {{% quote type="title" lang="en" %}}OneSocialWeb{{% /quote %}}).
 
