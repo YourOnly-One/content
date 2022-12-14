@@ -2,7 +2,7 @@
 title = "The Federated SNS Timeline (Fediverse History)"
 description = "Key events in the history of the Fediverse."
 
-lastmod = "2022-12-13T16:18:30+08:00"                 # last update; manually adjust to local timezone
+lastmod = "2022-12-14T16:28:34+08:00"                 # last update; manually adjust to local timezone
 publishdate = "2022-12-12T20:22:21+08:00"             # first publication; manually adjust to local timezone
 date = "2022-11-22T11:22:20+08:00"                    # first created; manually adjust to local timezone
 #expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
@@ -255,6 +255,9 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
     - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
 - 2021-07-18
   - {{% quote type="title" lang="en" %}}GNU Social{{% /quote %}} added {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}} protocol federation [^gnusocial-federation-activitypub]
+- 2021-11-07
+  - Platform/software: {{% quote type="title" lang="en" %}}Guppe Groups{{% /quote %}} was released {{% quote type="name" lang="en" %}}Will Murphy{{% /quote %}} [^guppe-groups-released]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
 
 ### 2022
 
@@ -266,6 +269,9 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
     - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
 - 2022-08-05
   - Platform/software: {{% quote type="title" lang="en" %}}Foundkey{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Norm{{% /quote %}} [^foundkey-released]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
+- 2022-11-24
+  - Platform/software: {{% quote type="title" lang="en" %}}Takahē{{% /quote %}} was released {{% quote type="name" lang="en" %}}Andrew Godwin{{% /quote %}} [^takahe-released]
     - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
 - 2022-12-03
   - Platform/software: {{% quote type="title" lang="en" %}}Streams{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Mike Macgirvin{{% /quote %}} [^streams-released]
@@ -317,6 +323,7 @@ Corrections would have to be clarified. Like, how is the correction more accurat
 [^gnusocial-rename-laconica-statusnet]: status.net: Laconica is now StatusNet (published: 2009-08-28) (archived: [1](https://web.archive.org/web/20090831073527/http://status.net/2009/08/28/laconica-is-now-statusnet/) [2](https://archive.ph/sdXN))
 [^gnusocial-statusnet-freesocial]: GNU.org: [Merge](https://www.gnu.org/software/social/merge.html) (published: 2013-06-08) (archived: [1](https://web.archive.org/web/20130616030020/www.gnu.org/software/social/merge.html) [2](https://archive.ph/pkDHL))
 [^gnusocial-statusnet-switched-ostatus]: status.net: StatusNet 0.9.0 Released (published: 2010-03-04) (archived: [1](https://web.archive.org/web/20100305215023/http://status.net/2010/03/04/statusnet-0-9-0-released) [2](https://archive.ph/Ksni))
+[^guppe-groups-released]: Guppe Groups repo: [First Major Release](https://github.com/immers-space/guppe/releases/tag/v1.0.0) (published: 2021-11-07) (archived: [1](https://web.archive.org/web/20221214082312/https://github.com/immers-space/guppe/releases/tag/v1.0.0) [2](https://archive.ph/167Ru))
 [^hometown-released]: Hometown repo: [Hometown v1.0.0 (Mastodon 2.9.3)](https://github.com/hometown-fork/hometown/releases/tag/v1.0.0%2B2.9.3) (published: 2019-08-20) (archived: [1](https://web.archive.org/web/20201111194541/https://github.com/hometown-fork/hometown/releases/tag/v1.0.0%2B2.9.3) [2](https://archive.ph/djAKX))
 [^hubzilla-federation-activitypub-repo]: Hubzilla repo: [provide content-type matching ability for activitypub](https://framagit.org/hubzilla/core/-/commit/15e836b7dd2fed3f97f134928d88e13db1d8a7f4) (published: 2017-07-18) (archived: [1](https://web.archive.org/web/20221211142832/https://framagit.org/hubzilla/core/-/commit/15e836b7dd2fed3f97f134928d88e13db1d8a7f4) [2](https://archive.ph/T3GfO))
 [^hubzilla-federation-activitypub-hackernews]: Hacker News: [zotlabs](https://news.ycombinator.com/item?id=16695616) (published: 2018-03-28) (archived: [1](https://web.archive.org/web/20221211142640/https://news.ycombinator.com/item?id=16695616) [2](https://archive.ph/JVNde))
@@ -336,6 +343,7 @@ Corrections would have to be clarified. Like, how is the correction more accurat
 [^socialhome-released]: socialhome repo: [0.1.0](https://gitlab.com/jaywink/socialhome/-/tags/v0.1.0) (published: 2017-07-27) (archived: [1](https://web.archive.org/web/20221211134847/https://gitlab.com/jaywink/socialhome/-/tags/v0.1.0) [2](https://archive.ph/6pIFg))
 [^streams-released]: Mike Macgirvin: [Streams](https://macgirvin.com/channel/mike?mid=https://macgirvin.com/item/d0d37b08-8522-480c-b0a1-23bf65bd26d5) (published: 2022-12-03) (archived: [1](https://web.archive.org/web/20221213061916/https://macgirvin.com/channel/mike?mid=https://macgirvin.com/item/d0d37b08-8522-480c-b0a1-23bf65bd26d5) [2](https://archive.ph/uaLKD))
 [^streams-repo]: Streams: [repo](https://codeberg.org/streams/streams) (published: 2022-12-03) (archived: [1](https://web.archive.org/web/20221213061925/https://codeberg.org/streams/streams) [2](https://archive.ph/9Tecn))
+[^takahe-released]: Takahe repo: [0.3.0](https://github.com/jointakahe/takahe/releases/tag/0.3.0) (published: 2022-11-24) (archived: [1](https://web.archive.org/web/20221214082535/https://github.com/jointakahe/takahe/releases/tag/0.3.0) [2](https://archive.ph/jxDYV))
 [^writefreely-released]: WriteFreely repo: [v0.1](https://github.com/writefreely/writefreely/releases/tag/v0.1.0) (published: 2018-11-10) (archived: [1](https://web.archive.org/web/20221212090157/https://github.com/writefreely/writefreely/releases/tag/v0.1.0) [2](https://archive.ph/3bSPi))
 
 <!-- instances -->
