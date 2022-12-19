@@ -2,7 +2,7 @@
 title = "The Federated SNS Timeline (Fediverse History)"
 description = "Key events in the history of the Fediverse."
 
-lastmod = "2022-12-14T16:28:34+08:00"                 # last update; manually adjust to local timezone
+lastmod = "2022-12-19T13:08:04+08:00"                 # last update; manually adjust to local timezone
 publishdate = "2022-12-12T20:22:21+08:00"             # first publication; manually adjust to local timezone
 date = "2022-11-22T11:22:20+08:00"                    # first created; manually adjust to local timezone
 #expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
@@ -217,7 +217,7 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
 
 - 2015 early
   - {{% quote type="title" lang="en" %}}Redmatrix{{% /quote %}} was renamed {{% quote type="title" lang="en" %}}Hubzilla{{% /quote %}} [^mike-macgirvin]
-    - Protocol (first release): {{% quote type="name" lang="en" %}}Zot/6{{% /quote %}}, {{% quote type="name" lang="en" %}}Diaspora Federation{{% /quote %}}
+    - Protocol (first release): {{% quote type="name" lang="en" %}}Zot{{% /quote %}}, {{% quote type="name" lang="en" %}}Diaspora Federation{{% /quote %}}
 
 ### 2016
 
@@ -257,6 +257,16 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
   - Software: {{% quote type="title" lang="en" %}}Misskey{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Syuilo{{% /quote %}} [^misskey-released]
     - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
 
+- 2018-08-17
+  - Protocol: {{% quote type="name" lang="en" %}}Zot6{{% /quote %}} [^zap-repo-commit] [^zap-repo-commit-boot]
+
+  - Software: {{% quote type="title" lang="en" %}}Zap{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Mike Macgirvin{{% /quote %}} [^zap-repo-commit] [^zap-repo-commit-boot]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}Zot6{{% /quote %}}
+
+- 2018-08-23
+  - Software: {{% quote type="title" lang="en" %}}Osada{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Mike Macgirvin{{% /quote %}} [^osada-repo-commit] [^osada-repo-commit-boot]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}Zot6{{% /quote %}}, {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
+
 - 2018-11-03
   - Software: {{% quote type="title" lang="en" %}}PixelFed{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Daniel Supernault{{% /quote %}} [^pixelfed-released]
     - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
@@ -270,9 +280,18 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
 
 ### 2019
 
+- 2019-02-20
+  - *Hubzilla* upgraded Zot to Zot6 protocol [^hubzilla-federation-zot-6]
+
 - 2019-08-20
   - Software: {{% quote type="title" lang="en" %}}Hometown{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Darius Kazemi{{% /quote %}} [^hometown-released]
     - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
+
+- 2019-09-22
+  - *Osada* was discontinued [^osada-discontinued]
+
+- 2019-09-22
+  - *Zap* added ActivityPub protocol federation [^zap-federation-activitypub]
 
 - 2019-10-04
   - {{% quote type="title" lang="en" %}}Mastodon{{% /quote %}} dropped {{% quote type="name" lang="en" %}}OStatus{{% /quote %}} protocol federation [^mastodon-federation-ostatus-dropped]
@@ -316,6 +335,10 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
   - Software: {{% quote type="title" lang="en" %}}Foundkey{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Norm{{% /quote %}} [^foundkey-released]
     - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
 
+- 2022-11-21
+  - Software: {{% quote type="title" lang="en" %}}AP Groups{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Michael Puckett{{% /quote %}} [^apgroups-released]
+    - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
+
 - 2022-11-24
   - Software: {{% quote type="title" lang="en" %}}Takahē{{% /quote %}} was released {{% quote type="name" lang="en" %}}Andrew Godwin{{% /quote %}} [^takahe-released]
     - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
@@ -350,8 +373,9 @@ Corrections would have to be clarified. Like, how is the correction more accurat
 [^ostatus-ostatusorg]: ostatus.org: It's started! (published: 2010-03-04) (archived: [1](https://web.archive.org/web/20100307052403/http://ostatus.org/2010/03/04/its-started) [2](https://archive.ph/0RcK))
 [^ostatus-statusnet]: status.net: Understanding OStatus (published: 2010-03-07) (archived: [1](https://web.archive.org/web/20100310081310/http://status.net/2010/03/07/understanding-ostatus) [2](https://archive.ph/wCkT))
 
-<!-- platforms -->
+<!-- software -->
 [^akkoma-released]: Akkoma repo: [akkoma as it was before rebasing onto the fork](https://akkoma.dev/AkkomaGang/akkoma/releases/tag/pre-rebase) (published: 2022-01-29) (archived: [1](https://web.archive.org/web/20221213072258/https://akkoma.dev/AkkomaGang/akkoma/releases/tag/pre-rebase) [2](https://archive.ph/XrTnD))
+[^apgroups-released]: AP Groups (first mention): [developer update](https://a11y.social/@mpuckett/109382425884043829) (published: 2022-11-21) (archived: [1](https://web.archive.org/web/20221219030625/https://a11y.social/@mpuckett/109382425884043829) [2](https://a11y.social/@mpuckett/109382425884043829))
 [^bookwyrm-released]: PeerTube: [v0.0.1](https://github.com/bookwyrm-social/bookwyrm/releases/tag/v0.0.1) (published: 2020-12-31) (archived: [1](https://web.archive.org/web/20221212093539/https://github.com/bookwyrm-social/bookwyrm/releases/tag/v0.0.1) [2](https://archive.ph/l9sdK))
 [^calckey-released]: Calckey repo: [Calckey release!](https://codeberg.org/thatonecalculator/calckey/releases/tag/v12.117.1-calc) (published: 2022-07-19) (archived: [1](https://web.archive.org/web/20221213072804/https://codeberg.org/thatonecalculator/calckey/releases/tag/v12.117.1-calc) [2](https://archive.ph/jMZub))
 [^diaspora-fla-developer-01]: Diaspora developer: [Fla](https://mastodon.social/@fla/109505236342809127) (published: 2022-12-13) (archived: [1](https://web.archive.org/web/20221213081131/https://mastodon.social/@fla/109505236342809127) [2](https://archive.ph/hyP7j))
@@ -374,10 +398,14 @@ Corrections would have to be clarified. Like, how is the correction more accurat
 [^hometown-released]: Hometown repo: [Hometown v1.0.0 (Mastodon 2.9.3)](https://github.com/hometown-fork/hometown/releases/tag/v1.0.0%2B2.9.3) (published: 2019-08-20) (archived: [1](https://web.archive.org/web/20201111194541/https://github.com/hometown-fork/hometown/releases/tag/v1.0.0%2B2.9.3) [2](https://archive.ph/djAKX))
 [^hubzilla-federation-activitypub-repo]: Hubzilla repo: [provide content-type matching ability for activitypub](https://framagit.org/hubzilla/core/-/commit/15e836b7dd2fed3f97f134928d88e13db1d8a7f4) (published: 2017-07-18) (archived: [1](https://web.archive.org/web/20221211142832/https://framagit.org/hubzilla/core/-/commit/15e836b7dd2fed3f97f134928d88e13db1d8a7f4) [2](https://archive.ph/T3GfO))
 [^hubzilla-federation-activitypub-hackernews]: Hacker News: [zotlabs](https://news.ycombinator.com/item?id=16695616) (published: 2018-03-28) (archived: [1](https://web.archive.org/web/20221211142640/https://news.ycombinator.com/item?id=16695616) [2](https://archive.ph/JVNde))
+[^hubzilla-federation-zot-6]: Hubzilla: [Hubzilla 4.0](https://zotlabs.org/channel/hubzilla-announcements?f=&dend=2019-02-28) (published: 2019-02-20) (archived: [1](https://web.archive.org/web/20221219044201/https://zotlabs.org/channel/hubzilla-announcements?f=&dend=2019-02-28) [2](https://archive.ph/znqTU))
 [^mastodon-federation-activitypub]: Mastodon repo: [v1.6.0rc1](https://github.com/mastodon/mastodon/releases/tag/v1.6.0rc1) (published: 2017-03-09) (archived: [1](https://web.archive.org/web/20220526090411/https://github.com/mastodon/mastodon/releases/tag/v1.6.0rc1) [2](https://archive.ph/jdGMe))
 [^mastodon-federation-ostatus-dropped]: Mastodon repo: [v3.0.0](https://github.com/mastodon/mastodon/releases/tag/v3.0.0) (published: 2019-10-04) (archived: [1](https://web.archive.org/web/20211213175033/https://github.com/mastodon/mastodon/releases/tag/v3.0.0) [2](https://archive.ph/cTf5B))
 [^mastodon-released]: Mastodon repo: [v0.1.0](https://github.com/mastodon/mastodon/releases/tag/v0.1.0) (published: 2016-03-16) (archived: [1](https://web.archive.org/web/20220428170019/https://github.com/mastodon/mastodon/releases/tag/v0.1.0) [2](https://archive.ph/kOCxi))
 [^misskey-released]: Misskey repo: [0.0.5018](https://github.com/misskey-dev/misskey/releases/tag/0.0.5018) (published: 2018-04-19) (archived: [1](https://web.archive.org/web/20221212083319/https://github.com/misskey-dev/misskey/releases/tag/0.0.5018) [2](https://archive.ph/6JEN7))
+[^osada-discontinued]: Zotlabs.org: [Osada has been discontinued](https://zotlabs.org/page/osada/osada) (published: 2019-09-22) (archived: [1](https://web.archive.org/web/20221219031529/https://zotlabs.org/page/osada/osada) [2](https://zotlabs.org/page/osada/osada))
+[^osada-repo-commit]: Osada repo: [9ce94bd414](https://codeberg.org/zot/osada/commit/9ce94bd414441e1a7d922148603e474ed9a19fb2) (published: 2018-08-23) (archived: [1](https://web.archive.org/web/20221219041936/https://codeberg.org/zot/osada/commit/9ce94bd414441e1a7d922148603e474ed9a19fb2) [2](https://archive.ph/iKnE0))
+[^osada-repo-commit-boot]: Osada repo: [9ce94bd414: boot.php](https://codeberg.org/zot/osada/src/commit/9ce94bd414441e1a7d922148603e474ed9a19fb2/boot.php) (published: 2018-08-23) (archived: [1](https://web.archive.org/web/20221219041533/https://codeberg.org/zot/osada/src/commit/9ce94bd414441e1a7d922148603e474ed9a19fb2/boot.php) [2](https://archive.ph/RVUrk))
 [^peertube-released]: PeerTube: [v1.0.0-beta.1](https://framagit.org/framasoft/peertube/PeerTube/-/tags/v1.0.0-beta.1) (published: 2018-03-20) (archived: [1](https://web.archive.org/web/20221212091551/https://framagit.org/framasoft/peertube/PeerTube/-/tags/v1.0.0-beta.1) [2](https://archive.ph/v3UBg))
 [^pixelfed-released]: Pixelfed repo: [v0.1.9](https://github.com/pixelfed/pixelfed/releases/tag/v0.1.9) (published: 2018-11-03) (archived: [1](https://web.archive.org/web/20221212085523/https://github.com/pixelfed/pixelfed/releases/tag/v0.1.9) [2](https://archive.ph/3ERan))
 [^pleroma-federation-ostatus-dropped]: Pleroma: [Releasing Pleroma 2.0.0](https://pleroma.social/blog/2020/03/08/releasing-pleroma-2-0-0/) (published: 2020-03-08) (archived: [1](https://web.archive.org/web/20200308173159/https://pleroma.social/blog/2020/03/08/releasing-pleroma-2-0-0/) [2](https://archive.ph/o7IRa))
@@ -390,8 +418,11 @@ Corrections would have to be clarified. Like, how is the correction more accurat
 [^socialhome-released]: socialhome repo: [0.1.0](https://gitlab.com/jaywink/socialhome/-/tags/v0.1.0) (published: 2017-07-27) (archived: [1](https://web.archive.org/web/20221211134847/https://gitlab.com/jaywink/socialhome/-/tags/v0.1.0) [2](https://archive.ph/6pIFg))
 [^streams-released]: Mike Macgirvin: [Streams](https://macgirvin.com/channel/mike?mid=https://macgirvin.com/item/d0d37b08-8522-480c-b0a1-23bf65bd26d5) (published: 2022-12-03) (archived: [1](https://web.archive.org/web/20221213061916/https://macgirvin.com/channel/mike?mid=https://macgirvin.com/item/d0d37b08-8522-480c-b0a1-23bf65bd26d5) [2](https://archive.ph/uaLKD))
 [^streams-repo]: Streams: [repo](https://codeberg.org/streams/streams) (published: 2022-12-03) (archived: [1](https://web.archive.org/web/20221213061925/https://codeberg.org/streams/streams) [2](https://archive.ph/9Tecn))
-[^takahe-released]: Takahe repo: [0.3.0](https://github.com/jointakahe/takahe/releases/tag/0.3.0) (published: 2022-11-24) (archived: [1](https://web.archive.org/web/20221214082535/https://github.com/jointakahe/takahe/releases/tag/0.3.0) [2](https://archive.ph/jxDYV))
+[^takahe-released]: Takahē repo: [0.3.0](https://github.com/jointakahe/takahe/releases/tag/0.3.0) (published: 2022-11-24) (archived: [1](https://web.archive.org/web/20221214082535/https://github.com/jointakahe/takahe/releases/tag/0.3.0) [2](https://archive.ph/jxDYV))
 [^writefreely-released]: WriteFreely repo: [v0.1](https://github.com/writefreely/writefreely/releases/tag/v0.1.0) (published: 2018-11-10) (archived: [1](https://web.archive.org/web/20221212090157/https://github.com/writefreely/writefreely/releases/tag/v0.1.0) [2](https://archive.ph/3bSPi))
+[^zap-federation-activitypub]: Zotlabs.org: [Supports Zap and ActivityPub](https://zotlabs.org/page/zap/zap) (published: 2019-09-22) (archived: [1](https://web.archive.org/web/20221219031617/https://zotlabs.org/page/zap/zap) [2](https://archive.ph/xfg12))
+[^zap-repo-commit]: Zap repo: [57e75d9332](https://codeberg.org/zot/zap/commit/57e75d933281a07e9572b18142083c6f07616d7d) (published: 2018-08-17) (archived: [1](https://web.archive.org/web/20221219041144/https://codeberg.org/zot/zap/commit/57e75d933281a07e9572b18142083c6f07616d7d) [2](https://archive.ph/kqghv))
+[^zap-repo-commit-boot]: Zap repo: [57e75d9332: boot.php](https://codeberg.org/zot/zap/src/commit/57e75d933281a07e9572b18142083c6f07616d7d/boot.php) (published: 2018-08-17) (archived: [1](https://web.archive.org/web/20221219041204/https://codeberg.org/zot/zap/src/commit/57e75d933281a07e9572b18142083c6f07616d7d/boot.php) [2](https://archive.ph/ux9j5))
 
 <!-- instances -->
 [^identica-louisgray]: louisgray.com: [Identi.ca and the Power of Microbranded Communities](https://blog.louisgray.com/2008/08/identica-and-power-of-microbranded.html) (published: 2008-08-12) (archived: [1](https://web.archive.org/web/20080828030444/http://www.louisgray.com/live/2008/08/identica-and-power-of-microbranded.html) [2](https://web.archive.org/web/20091102221205/https://blog.louisgray.com/2008/08/identica-and-power-of-microbranded.html) [3](https://archive.ph/q5w7T))
