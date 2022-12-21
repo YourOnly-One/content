@@ -2,7 +2,7 @@
 title = "The Federated SNS Timeline (Fediverse History)"
 description = "Key events in the history of the Fediverse."
 
-lastmod = "2022-12-19T13:08:04+08:00"                 # last update; manually adjust to local timezone
+lastmod = "2022-12-21T21:28:17+08:00"                 # last update; manually adjust to local timezone
 publishdate = "2022-12-12T20:22:21+08:00"             # first publication; manually adjust to local timezone
 date = "2022-11-22T11:22:20+08:00"                    # first created; manually adjust to local timezone
 #expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
@@ -122,9 +122,13 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
 ### 2009
 
 - 2009-08-28
-  - {{% quote type="title" lang="en" %}}Laconica{{% /quote %}} platform/software renamed to {{% quote type="title" lang="en" %}}StatusNet{{% /quote %}} [^gnusocial-rename-laconica-statusnet]
+  - {{% quote type="title" lang="en" %}}Laconica{{% /quote %}} software was renamed to {{% quote type="title" lang="en" %}}StatusNet{{% /quote %}} [^gnusocial-rename-laconica-statusnet]
 
 ### 2010
+
+- 2010-02-22
+  - Instance: {{% quote type="title" lang="en" %}}Mozilla{{% /quote %}} was launched [^mozilla-social-statusnet]
+    - Software: {{% quote type="title" lang="en" %}}StatusNet{{% /quote %}}
 
 - 2010-03-04
   - {{% quote type="name" lang="en" %}}OStatus{{% /quote %}} protocol replaced the {{% quote type="name" lang="en" %}}OpenMicroBlogging{{% /quote %}} protocol [^ostatus-ostatusorg] [^ostatus-statusnet] [^danyl-strype]
@@ -153,7 +157,7 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
   - {{% quote type="title" lang="en" %}}Mistpark{{% /quote %}} added {{% quote type="name" lang="en" %}}OStatus{{% /quote %}} protocol federation [^friendica-federation-ostatus] [^sean-tilley-free-network]
 
 - 2010-11-03
-  - {{% quote type="title" lang="en" %}}Mistpark{{% /quote %}} renamed to {{% quote type="title" lang="en" %}}Friendika{{% /quote %}} [^friendica-rename-mistpark-friendika]
+  - {{% quote type="title" lang="en" %}}Mistpark{{% /quote %}} was renamed to {{% quote type="title" lang="en" %}}Friendika{{% /quote %}} [^friendica-rename-mistpark-friendika]
 
 - 2010-11-23
   - Protocol: {{% quote type="name" lang="en" %}}Diaspora Federation{{% /quote %}}
@@ -170,8 +174,11 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
 - 2011-03-19
   - {{% quote type="title" lang="en" %}}Friendika{{% /quote %}} added {{% quote type="name" lang="en" %}}Diaspora Federation{{% /quote %}} protocol support [^friendica-federation-diaspora] [^friendica-federation-diaspora-02] [^sean-tilley-free-network]
 
+- 2011-05-01
+  - {{% quote type="title" lang="en" %}}Mozilla{{% /quote %}} instance was renamed to {{% quote type="title" lang="en" %}}Social@Mozilla{{% /quote %}} [^mozilla-social-statusnet]
+
 - 2011-11-12
-  - {{% quote type="title" lang="en" %}}Friendika{{% /quote %}} renamed to {{% quote type="title" lang="en" %}}Friendica{{% /quote %}} [^friendica-rename-friendika]
+  - {{% quote type="title" lang="en" %}}Friendika{{% /quote %}} was renamed to {{% quote type="title" lang="en" %}}Friendica{{% /quote %}} [^friendica-rename-friendika]
 
 ### 2012
 
@@ -202,10 +209,13 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
 
 - 2013-06-08
   - {{% quote type="title" lang="en" %}}StatusNet{{% /quote %}} and {{% quote type="title" lang="en" %}}Free Social{{% /quote %}} were merged with {{% quote type="title" lang="en" %}}GNU Social{{% /quote %}} [^gnusocial-statusnet-freesocial] [^sean-tilley-free-network] [^danyl-strype]
-    - {{% quote type="title" lang="en" %}}GNU Social{{% /quote %}} is the surviving platform/software name.
+    - {{% quote type="title" lang="en" %}}GNU Social{{% /quote %}} is the surviving software name.
 
 - 2013-07-12
-  - {{% quote type="title" lang="en" %}}Identi.ca{{% /quote %}} switched from {{% quote type="title" lang="en" %}}StatusNet{{% /quote %}} to {{% quote type="title" lang="en" %}}pump.io{{% /quote %}} platform/software. [^identica-wikipedia] [^danyl-strype]
+  - {{% quote type="title" lang="en" %}}Identi.ca{{% /quote %}} switched from {{% quote type="title" lang="en" %}}StatusNet{{% /quote %}} to {{% quote type="title" lang="en" %}}pump.io{{% /quote %}} software. [^identica-wikipedia] [^danyl-strype]
+
+- 2013-11-20
+  - {{% quote type="title" lang="en" %}}Social@Mozilla{{% /quote %}} instance was shutdown [^mozilla-social-statusnet]
 
 ### 2014
 
@@ -335,6 +345,10 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
   - Software: {{% quote type="title" lang="en" %}}Foundkey{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Norm{{% /quote %}} [^foundkey-released]
     - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
 
+- 2022-11-13
+  - Instance: {{% quote type="title" lang="en" %}}Vivaldi Social{{% /quote %}} was launched [^vivaldi-social-launched]
+    - Softare: {{% quote type="title" lang="en" %}}Mastodon{{% /quote %}}
+
 - 2022-11-21
   - Software: {{% quote type="title" lang="en" %}}AP Groups{{% /quote %}} was released by {{% quote type="name" lang="en" %}}Michael Puckett{{% /quote %}} [^apgroups-released]
     - Protocol (first release): {{% quote type="name" lang="en" %}}ActivityPub{{% /quote %}}
@@ -428,6 +442,8 @@ Corrections would have to be clarified. Like, how is the correction more accurat
 [^identica-louisgray]: louisgray.com: [Identi.ca and the Power of Microbranded Communities](https://blog.louisgray.com/2008/08/identica-and-power-of-microbranded.html) (published: 2008-08-12) (archived: [1](https://web.archive.org/web/20080828030444/http://www.louisgray.com/live/2008/08/identica-and-power-of-microbranded.html) [2](https://web.archive.org/web/20091102221205/https://blog.louisgray.com/2008/08/identica-and-power-of-microbranded.html) [3](https://archive.ph/q5w7T))
 [^identica-ross-mayfield]: Ross Mayfield's Weblog: [Identi.ca Launches, an Open Source Twitter](https://ross.typepad.com/blog/2008/07/identica-launch.html) (published: 2008-07-02) (archived: [1](https://web.archive.org/web/20080703231414/https://ross.typepad.com/blog/2008/07/identica-launch.html) [2](https://archive.ph/HUrA))
 [^identica-wikipedia]: Wikipedia: [identi.ca](https://en.wikipedia.org/wiki/Identi.ca)
+[^mozilla-social-statusnet]: DDFON: [Ticket #3](https://codeberg.org/ddfon/federated-sns/issues/3)
+[^vivaldi-social-launched]: DDFON: [Ticket #5](https://codeberg.org/ddfon/federated-sns/issues/5)
 
 ---
 
