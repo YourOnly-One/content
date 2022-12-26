@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/ja/reborn-rich-2022-explained-2
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndications = [""]
+syndications = ["https://c.im/@youronlyone/109582160494010983", "https://t.youronly.one/post/704737164022431744/reborn-rich-2022-explained", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02xnkQMMWFCLxjhGnnb92zcTyW6iBcGV8eM6MEMh6ijHFbTxXD5EsNFrPftjAdeR6fl", "https://www.reddit.com/user/Laibcoms/comments/zvxb2y/reborn_rich_2022_explained/", "https://twitter.com/YourOnlyONEofcl/status/1607483578669056006"]
 
 channels = ["snoworld"]
 categories = ["tv"]
