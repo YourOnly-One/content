@@ -2,7 +2,7 @@
 title = "«Reborn Rich» (2022) Explained"
 description = "The ending of «Reborn Rich» explained."
 
-lastmod = "2022-12-27T04:25:27+08:00"                 # last update; manually adjust to local timezone
+lastmod = "2022-12-27T13:40:37+08:00"                 # last update; manually adjust to local timezone
 publishdate = "2022-12-27T04:25:27+08:00"             # first publication; manually adjust to local timezone
 date = "2022-12-26T07:00:00+08:00"                    # first created; manually adjust to local timezone
 #expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
@@ -143,6 +143,22 @@ The same can be said with {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{
 However, there is no restriction on when a soul is reincarnated. A person born in 2000 and died in 2022 can be reborn in the year 3300, the year 1100 B.C.E., or even reborn in the year 2000 again. This is not the first time this was used in fiction.
 
 Since {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}) did not die, it is impossible he was reincarnated as {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}). But it is possible {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}) was reincarnated as {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}). {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})'s close encounter with death possibly allowed him to remember some of his past life's memories, as {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}).
+{{< /accordion >}}
+
+{{< accordion border="style01" summary="Why was it nobody recognised Yoon Hyun Woo (윤현우) is a spitting image of Jin Do Jun (진도준)?" class="faq" >}}
+A very good question! I can only think of two possible answers:
+
+1. The {{% quote type="title" lang="en" %}}{{% quote type="title" lang="en" %}}Superman{{% /quote %}} trope{{% /quote %}}. Most of the time, {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}) was wearing eyeglasses which magically made him no longer a look alike of {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}). Similar to how {{% quote type="title" lang="en" %}}Superman{{% /quote %}} and {{% quote type="name" lang="en" %}}Clark Kent{{% /quote %}} magically become unrecognisable.
+
+1. Every other character ignored that {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}) is a spitting image of {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}), because their age gap was somewhere between ten and twenty years. It is possibly a natural reaction.
+
+Regardless, yes, I do agree it is unexplainable why no one mentioned they look alike one hundred percent. Specially when {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})'s driver mistook {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}) as {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}) during the national hearing.
+
+Even the lady Prosecutor did not recognise {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}) is a spitting image of her ex-fiancé, {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}), when she saw him not wearing eyeglasses. She only made the connection when {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}) said the exact same sentences as her ex-fiancé.
+
+On this one, there is no other way than to consider it was a {{% quote type="title" lang="en" %}}{{% quote type="title" lang="en" %}}Superman{{% /quote %}} trope{{% /quote %}}, or our human brain naturally dismissed it, or a combination of both.
+
+(This question was asked by {{% quote type="name" lang="en" %}}Emily Clayman{{% /quote %}} via our [Facebook Page](https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0uF7DSBstM8XdjXxPGrW4959CqmpjBg5umhTZ1T4pg6FDozK7psGqNPoLBKoofq9vl?comment_id=555572226120667).)
 {{< /accordion >}}
 
 ---

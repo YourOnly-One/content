@@ -2,9 +2,9 @@
 title = "《財閥の末息子 (재벌집 막내아들)》（2022）説明"
 description = "《財閥の末息子 (재벌집 막내아들)》のエンディングが説明した。"
 
-lastmod = "2022-12-27T05:25:27+09:00"                 # last update; manually adjust to local timezone
+lastmod = "2022-12-27T14:40:37+09:00"                 # last update; manually adjust to local timezone
 publishdate = "2022-12-27T05:25:27+09:00"             # first publication; manually adjust to local timezone
-date = "2022-12-26T07:00:00+08:00"                    # first created; manually adjust to local timezone
+date = "2022-12-26T08:00:00+09:00"                    # first created; manually adjust to local timezone
 #expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
 
 #aliases = [""]                                        # "/post"
@@ -145,6 +145,22 @@ type = "article"                                             # article, sitepage
 {{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})は死ななかったので、彼が{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})に転生することは不可能です。 しかし、{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})が{{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})に生まれ変わった可能性もあります。 {{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})の死との密接な出会いによって、彼はおそらく彼の前世の記憶のいくつかを{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})として記憶することができました。
 {{< /accordion >}}
 
+{{< accordion border="style01" summary="なぜ誰もユン·ヒョヌ(윤현우)がチン·ドジュン(진도준)の唾を吐くようなイメージだと気づかなかったのでしょうか？" class="faq" >}}
+いい質問ですね！ 考えられる答えは、次の2つだけです。
+
+1. {{% quote type="title" lang="ja" %}}{{% quote type="title" lang="ja" %}}スーパーマン{{% /quote %}}·トロープ{{% /quote %}}です。 ほとんどの場合、{{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})は眼鏡をかけていたので、魔法のように彼はもはや{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})には似ていませんでした。 {{% quote type="title" lang="ja" %}}スーパーマン{{% /quote %}}と{{% quote type="name" lang="ja" %}}クラーク·ケント{{% /quote %}}が魔法のように認識できなくなるのと似ています。
+
+1. 他のキャラクターはみんな{{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})が{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})の唾液のようなイメージであることを無視していました年齢の差は10歳から20歳だったからです 自然な反応かもしれません。
+
+それでも、はい、なぜ誰も彼らが100%似ていると言わなかったのか説明できないことに同意します。 特に、{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})の運転手が全国公聴会で{{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})を{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})と間違えたときです。
+
+検察官の女性でさえ、{{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})が彼女の元婚約者である{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})の唾を吐くようなイメージであることを認識していませんでした。彼女は彼が眼鏡をかけていないのを見ていました。 {{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})が前の婚約者と全く同じ文章を言ったときだけ、彼女は関係を結びました。
+
+これに関しては、それが{{% quote type="title" lang="ja" %}}{{% quote type="title" lang="ja" %}}スーパーマン{{% /quote %}}·トロープ{{% /quote %}}であったと考えるしか方法がありません。あるいは、人間の脳が自然にそれを却下したと考えるか、あるいはその両方を組み合わせたと考えるしかありません。
+
+(この質問は、{{% quote type="name" lang="en" %}}Emily Clayman{{% /quote %}}が当社の[Facebook Page](https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0uF7DSBstM8XdjXxPGrW4959CqmpjBg5umhTZ1T4pg6FDozK7psGqNPoLBKoofq9vl?comment_id=555572226120667)経由で行ったものです。)
+{{< /accordion >}}
+
 ---
 
 {{< image
@@ -171,4 +187,3 @@ type = "article"                                             # article, sitepage
 ---
 
 注意:ネイバーPapago神経翻訳
-주의사항 : 네이버 파파고 신경번역

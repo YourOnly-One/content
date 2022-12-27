@@ -2,9 +2,9 @@
 title = "《재벌집 막내아들》 (2022) 설명"
 description = "《재벌집 막내아들》의 결말은 설명했다."
 
-lastmod = "2022-12-27T05:25:27+09:00"                 # last update; manually adjust to local timezone
+lastmod = "2022-12-27T14:40:37+09:00"                 # last update; manually adjust to local timezone
 publishdate = "2022-12-27T05:25:27+09:00"             # first publication; manually adjust to local timezone
-date = "2022-12-26T07:00:00+08:00"                    # first created; manually adjust to local timezone
+date = "2022-12-26T08:00:00+09:00"                    # first created; manually adjust to local timezone
 #expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
 
 #aliases = [""]                                        # "/post"
@@ -145,6 +145,22 @@ type = "article"                                             # article, sitepage
 {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}가 죽지 않았기 때문에, 그가 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}로 환생했다는 것은 불가능합니다. 하지만 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}가 {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}로 환생했을 가능성이 있습니다. {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}의 죽음과의 근접한 만남은 아마도 그가 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}로서 그의 전생의 기억들 중 일부를 기억하도록 해주었습니다.
 {{< /accordion >}}
 
+{{< accordion border="style01" summary="왜 아무도 윤현우가 진도준의 침 뱉는 이미지라는 것을 인식하지 못했을까요?" class="faq" >}}
+아주 좋은 질문이네요! 저는 두 가지 가능한 답만 생각해 낼 수 있습니다.
+
+1. {{% quote type="title" lang="ko" %}}{{% quote type="title" lang="ko" %}}슈퍼맨{{% /quote %}} 트로프{{% /quote %}}입니다. 대부분의 시간 동안, {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}는 마법처럼 그를 더 이상 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}와 닮지 않게 만든 안경을 쓰고 있었습니다. {{% quote type="title" lang="ko" %}}슈퍼맨{{% /quote %}}와 {{% quote type="name" lang="ko" %}}클라크 켄트{{% /quote %}}가 마법처럼 인식할 수 없게 되는 것과 유사합니다.
+
+1. 다른 모든 등장인물들은 {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}가 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}의 침 뱉는 이미지라는 것을 무시했습니다. 왜냐하면 그들의 나이 차이가 10살에서 20살 사이였기 때문입니다. 그것은 아마도 자연스러운 반응일 것입니다.
+
+그럼에도 불구하고, 네, 저는 왜 아무도 그들이 100% 닮았다고 언급하지 않았는지 설명할 수 없다는 것에 동의합니다. 특히 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}씨의 운전기사가 국가 청문회에서 {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}씨를 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}자로 오인했을 때는 더욱 그렇습니다.
+
+심지어 검사 부인도 {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}가 안경을 쓰지 않은 것을 보았을 때 그녀의 전 약혼자인 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}의 침 뱉는 이미지라는 것을 인식하지 못했습니다. 그녀는 {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}가 그녀의 전 약혼자가 말한 것과 정확히 같은 문장을 말했을 때만 연관성을 만들었습니다.
+
+이것에 대해서는, 그것이 {{% quote type="title" lang="ko" %}}{{% quote type="title" lang="ko" %}}슈퍼맨{{% /quote %}} 트로프{{% /quote %}}였다고 생각하거나, 우리 인간의 뇌가 자연스럽게 그것을 무시하거나, 둘 다의 조합이었다고 생각하는 것 외에는 다른 방법이 없습니다.
+
+(이 질문은 {{% quote type="name" lang="en" %}}Emily Clayman{{% /quote %}}가 우리 [Facebook Page](https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0uF7DSBstM8XdjXxPGrW4959CqmpjBg5umhTZ1T4pg6FDozK7psGqNPoLBKoofq9vl?comment_id=555572226120667)을 통해 한 것입니다.)
+{{< /accordion >}}
+
 ---
 
 {{< image
@@ -170,5 +186,4 @@ type = "article"                                             # article, sitepage
 
 ---
 
-注意:ネイバーPapago神経翻訳
 주의사항 : 네이버 파파고 신경번역
