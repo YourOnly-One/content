@@ -104,7 +104,8 @@ type = "article"                                             # article, sitepage
 
 모든 것을 고려해 볼 때, 그 제목이 문자 그대로 받아들여져서는 안 된다는 것에는 의심의 여지가 없습니다. {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}는 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}로 다시 태어난 것이 아니다. {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}로 다시 태어난 사람은 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}였습니다. 제목은 풍요로운 삶을 사는 것에 대한 자신의 원칙과 가치를 말합니다. 비록 {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}가 결국 부자가 되었지만, 그것은 재정적으로 부자가 되는 것에 관한 것이 아니었습니다.
 
-**보너스:** 영어 제목인 R{{% quote type="title" lang="en" %}}Reborn Rich{{% /quote %}}는 원래 한국어 제목과 아무 관련이 없습니다. 원래 한국어 제목은 다음과 같습니다. {{% quote type="title" lang="en" %}}The youngest son of a rich family{{% /quote %}} ({{% quote type="title" lang="ko" %}}재벌집 막내아들{{% /quote %}})입니다. 이것은 영어 제목이 {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}가 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}로 부유하게 다시 태어났다는 증거가 아니라는 것을 의미합니다. (참고: 이것은 TV 시리즈에 관한 것이지 소설에 관한 것이 아니다. TV 각색이 원래 소재와 다릅니다.)
+**보너스:** 영어 제목인 {{% quote type="title" lang="en" %}}Reborn Rich{{% /quote %}}는 원래 한국어 제목과 아무 관련이 없습니다. 원래 한국어 제목은 다음과 같습니다. {{% quote type="title" lang="en" %}}The youngest son of a rich family{{% /quote %}} ({{% quote type="title" lang="ko" %}}재벌집 막내아들{{% /quote %}})입니다. 이것은 영어 제목이 {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}가 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}로 부유하게 다시 태어났다는 증거가 아니라는 것을 의미합니다. (참고: 이것은 TV 시리즈에 관한 것이지 소설에 관한 것이 아니다. TV 각색이 원래 소재와 다릅니다.)
+
 {{< /accordion >}}
 
 {{< accordion border="style01" summary="윤현우와 진도준은 별도의 일정에 있습니다." class="faq" >}}
