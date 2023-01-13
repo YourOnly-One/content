@@ -61,7 +61,7 @@ type = "article"                                             # article, sitepage
 
 <!--more-->
 
-{{% quote type="title" lang="en" %}}Extraordinary Attorney Woo{{% /quote %}} ({{% quote type="title" lang="ko" %}}이상한 변호사 우영우{{% /quote %}}) was generally received by real-life autistic persons. The show and the team, in particular the lead actor {{% quote type="name" lang="ko-Latn" %}}Park Eun Bin{{% /quote %}} ({{% quote type="name" lang="ko" %}}박은빈{{% /quote %}}), positive reactions from both autistics and neurotypicals. I am autistic myself and my opinions about the show only represents my own, this prompted me to contact autistic people and asked them some of questions about the show and autism.
+{{% quote type="title" lang="en" %}}Extraordinary Attorney Woo{{% /quote %}} ({{% quote type="title" lang="ko" %}}이상한 변호사 우영우{{% /quote %}}) was generally received by real-life autistic persons. The show and the team, in particular the lead actor {{% quote type="name" lang="ko-Latn" %}}Park Eun Bin{{% /quote %}} ({{% quote type="name" lang="ko" %}}박은빈{{% /quote %}}), positive reactions from both autistics and neurotypicals. I am autistic myself and my opinions about the show only represents my own, this prompted me to contact autistic people and asked them some questions about the show and autism.
 
 Without further ado, let's dive in!
 
