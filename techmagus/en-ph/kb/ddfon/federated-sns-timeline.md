@@ -61,7 +61,7 @@ In a fast-paced world like what we have today, recording events is often forgott
 
 <!--more-->
 
-It proved this when I started this project. There was countless information that are now gone forever, and in an age where words of individuals no longer hold any weight—unless they are a personality—a source is often expected, if not demanded.
+It proved this when I started this project. There were countless information which are now gone forever, and in an age where words of individuals no longer hold any weight—unless they are a personality—a source is often expected, if not demanded.
 
 My desire to change that resulted in the creation of {{% quote type="work" lang="en" %}}The Federated SNS Timeline{{% /quote %}}. A list of the  {{% quote type="name" lang="en" %}}Federated Social Network{{% /quote %}} history, gathered on this page, with links to sources scattered everywhere.
 
