@@ -1,6 +1,6 @@
 +++
-title = "《The Last of Us》 에피소드 1 리뷰"
-description = "《The Last of Us》 에피소드 1의 첫 번째 에피소드에 대한 짧은 리뷰."
+title = "《라스트 오브 어스》 에피소드 1 리뷰"
+description = "《라스트 오브 어스》 에피소드 1의 첫 번째 에피소드에 대한 짧은 리뷰."
 
 lastmod = "2023-01-16T20:36:00+09:00"                 # last update; manually adjust to local timezone
 publishdate = "2023-01-16T20:36:00+09:00"             # first publication; manually adjust to local timezone
@@ -18,11 +18,11 @@ relCanonical = "https://im.youronly.one/snoworld/ko/the-last-of-us-episode-01-20
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndications = [""]
+syndications = ["https://blog.naver.com/youronlyone-ofcl/222986340660", "https://c.im/@youronlyone/109698885931708321", "https://youronlyone.medium.com/the-last-of-us-episode-01-review-dbf73bbc20e7", "https://t.youronly.one/post/706605891756146688/the-last-of-us-episode-01-review", "https://twitter.com/YourOnlyONEofcl/status/1614955849532710912", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0ohpgY45Yv1mr312qtJTMDC6nCDTnvwxjCXv5R81tYdHu5XSMRLoJ5WdEau676FeUl"]
 
 channels = ["snoworld"]
 categories = ["tv"]
-keywords = ["The Last of Us"]
+keywords = ["The Last of Us", "라스트 오브 어스", "ラストオブアス"]
 #series = [""]
 tags = ["adaptations", "reviews"]
 
@@ -53,7 +53,7 @@ contenttypes = ["CriticReview"]                                                 
 # For adaptations
 [semweb.product.isbasedon]
   name = "The Last of Us"
-  #alternatenames = [""]
+  alternatenames = ["라스트 오브 어스", "ラストオブアス"]
   sameas = ["https://en.wikipedia.org/wiki/The_Last_of_Us"]
 
 [semweb.product.isbasedon.author]
@@ -67,7 +67,7 @@ contenttypes = ["CriticReview"]                                                 
 
 [semweb.product]
   name = "The Last of Us"
-  #alternatenames = [""]
+  alternatenames = ["라스트 오브 어스", "ラストオブアス"]
   sameas = ["https://en.wikipedia.org/wiki/The_Last_of_Us_(TV_series)"]
   countryoforigin = "USA"
   description = "2003년, 희생자들을 피에 굶주리게 하고 그들이 공격하는 사람들을 감염시키는 곰팡이 바이러스가 전세계적인 전염병을 촉발시켰다."
@@ -133,11 +133,11 @@ contenttypes = ["CriticReview"]                                                 
   #rel = "noopener"
 +++
 
-{{% quote type="title" lang="en" %}}The Last of Us{{% /quote %}}는 이번 주 {{% quote type="name" lang="en" %}}HBO Max{{% /quote %}}에서 초연되었습니다. 이 새로운 TV 시리즈는 {{% quote type="name" lang="en" %}}Naughty Dog{{% /quote %}}가 개발한 동명의 게임을 각색한 것입니다.
+{{% quote type="title" lang="ko" %}}라스트 오브 어스{{% /quote %}}는 이번 주 {{% quote type="name" lang="en" %}}HBO Max{{% /quote %}}에서 초연되었습니다. 이 새로운 TV 시리즈는 {{% quote type="name" lang="en" %}}Naughty Dog{{% /quote %}}가 개발한 동명의 게임을 각색한 것입니다.
 
 <!--more-->
 
-게임 프랜차이즈의 좋은 실사 각색을 보는 것은 드문 일입니다. {{% quote type="name" lang="en" %}}Craig Mazin{{% /quote %}}와 {{% quote type="name" lang="en" %}}Neil Druckmann{{% /quote %}}가 제작하고 쓴 {{% quote type="title" lang="en" %}}The Last of Us{{% /quote %}}는 그 희귀한 각색에 포함된다고 말할 수 있습니다.
+게임 프랜차이즈의 좋은 실사 각색을 보는 것은 드문 일입니다. {{% quote type="name" lang="en" %}}Craig Mazin{{% /quote %}}와 {{% quote type="name" lang="en" %}}Neil Druckmann{{% /quote %}}가 제작하고 쓴 {{% quote type="title" lang="ko" %}}라스트 오브 어스{{% /quote %}}는 그 희귀한 각색에 포함된다고 말할 수 있습니다.
 
 ## 개요
 

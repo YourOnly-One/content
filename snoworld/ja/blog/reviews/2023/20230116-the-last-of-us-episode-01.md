@@ -1,6 +1,6 @@
 +++
-title = "《The Last of Us》1話レビュー"
-description = "《The Last of Us》1話の初放送の短いレビュー。"
+title = "《ラストオブアス》1話レビュー"
+description = "《ラストオブアス》1話の初放送の短いレビュー。"
 
 lastmod = "2023-01-16T20:36:00+09:00"                 # last update; manually adjust to local timezone
 publishdate = "2023-01-16T20:36:00+09:00"             # first publication; manually adjust to local timezone
@@ -18,11 +18,11 @@ relCanonical = "https://im.youronly.one/snoworld/ja/the-last-of-us-episode-01-20
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndications = [""]
+syndications = ["https://blog.naver.com/youronlyone-ofcl/222986340660", "https://c.im/@youronlyone/109698883796768855", "https://youronlyone.medium.com/the-last-of-us-episode-01-review-dbf73bbc20e7", "https://t.youronly.one/post/706605891756146688/the-last-of-us-episode-01-review", "https://twitter.com/YourOnlyONEofcl/status/1614955845707497474", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0ohpgY45Yv1mr312qtJTMDC6nCDTnvwxjCXv5R81tYdHu5XSMRLoJ5WdEau676FeUl"]
 
 channels = ["snoworld"]
 categories = ["tv"]
-keywords = ["The Last of Us"]
+keywords = ["The Last of Us", "라스트 오브 어스", "ラストオブアス"]
 #series = [""]
 tags = ["adaptations", "reviews"]
 
@@ -53,7 +53,7 @@ contenttypes = ["CriticReview"]                                                 
 # For adaptations
 [semweb.product.isbasedon]
   name = "The Last of Us"
-  #alternatenames = [""]
+  alternatenames = ["라스트 오브 어스", "ラストオブアス"]
   sameas = ["https://en.wikipedia.org/wiki/The_Last_of_Us"]
 
 [semweb.product.isbasedon.author]
@@ -67,7 +67,7 @@ contenttypes = ["CriticReview"]                                                 
 
 [semweb.product]
   name = "The Last of Us"
-  #alternatenames = [""]
+  alternatenames = ["라스트 오브 어스", "ラストオブアス"]
   sameas = ["https://en.wikipedia.org/wiki/The_Last_of_Us_(TV_series)"]
   countryoforigin = "USA"
   description = "2003年、真菌ウイルスが被害者を血に飢えた状態にし、彼らが攻撃した人々に感染させることで、世界的な大流行が引き起こされます。"
@@ -133,11 +133,11 @@ contenttypes = ["CriticReview"]                                                 
   #rel = "noopener"
 +++
 
-{{% quote type="title" lang="en" %}}The Last of Us{{% /quote %}}は今週、{{% quote type="name" lang="en" %}}HBO Max{{% /quote %}}で初演されました。 この新しいテレビシリーズは、{{% quote type="name" lang="en" %}}Naughty Dog{{% /quote %}}によって開発された同名のゲームを脚色したものです。
+{{% quote type="title" lang="ja" %}}ラストオブアス{{% /quote %}}は今週、{{% quote type="name" lang="en" %}}HBO Max{{% /quote %}}で初演されました。 この新しいテレビシリーズは、{{% quote type="name" lang="en" %}}Naughty Dog{{% /quote %}}によって開発された同名のゲームを脚色したものです。
 
 <!--more-->
 
-ゲームフランチャイズの良い実写化は珍しいです。 {{% quote type="name" lang="en" %}}Craig Mazin{{% /quote %}}と{{% quote type="name" lang="en" %}}Neil Druckmann{{% /quote %}}によって制作され、書かれたもので、{{% quote type="title" lang="en" %}}The Last of Us{{% /quote %}}はその珍しい翻案に数えられていると言えます。
+ゲームフランチャイズの良い実写化は珍しいです。 {{% quote type="name" lang="en" %}}Craig Mazin{{% /quote %}}と{{% quote type="name" lang="en" %}}Neil Druckmann{{% /quote %}}によって制作され、書かれたもので、{{% quote type="title" lang="ja" %}}ラストオブアス{{% /quote %}}はその珍しい翻案に数えられていると言えます。
 
 ## あらすじ
 
