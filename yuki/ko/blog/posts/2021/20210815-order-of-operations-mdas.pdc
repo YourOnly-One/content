@@ -18,7 +18,7 @@ channels = ["yookichronicles"]
 categories = ["literature"]														# taxonomy
 keywords = ["MDAS", "PEMDAS", "BEDMAS", "BODMAS", "BIDMAS", "GEMDAS", "Order of Operations", "Operator Precedence", "YOOki Chronicles", "YourOnlyOne", "YourOnly.One"]															# meta keywords
 #series = [""]																# subset of series taxonomy
-tags = ["mathematics"]																	# taxonomy
+tags = ["mathematics", "explained"]																	# taxonomy
 
 comments = true
 #weight = ""
