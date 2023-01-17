@@ -9,7 +9,7 @@ title = "26virtual"
 
 #aliases = [""]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-#slug = ""
+slug = "26virtual"
 translationKey = "series-26virtual"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing

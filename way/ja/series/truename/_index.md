@@ -9,7 +9,7 @@ title = "本当の名前"
 
 aliases = ["/ja/series/true-name"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-#slug = ""
+slug = "本当の名前"
 translationKey = "series-true-name"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing

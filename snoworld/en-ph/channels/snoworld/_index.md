@@ -7,9 +7,9 @@ title = "Snoworld ❄️"
 #date = "{{ .Date }}"                    # first created; manually adjust to local timezone
 #expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
 
-#aliases = [""]                                        # "/post"
+aliases = ["/channels/snoworld-️"]                                        # "/post"; careful with editing the first value
 #url = ""                                              # "path/post"; override .Permalink
-#slug = ""
+slug = "snoworld"
 translationKey = "channel-snoworld"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing

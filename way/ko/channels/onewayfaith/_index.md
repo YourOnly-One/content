@@ -9,7 +9,7 @@ title = "편도 신앙 🛐"
 
 aliases = ["/ko/channels/one-way-faith", "/ko/channels/신자들의-길"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-#slug = ""
+slug = "편도 신앙"
 translationKey = "channel-onewayfaith"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing

@@ -9,7 +9,7 @@ title = "YOOki 연대기 📜"
 
 aliases = ["/ko/channels/yooki-chronicles"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-#slug = ""
+slug = "yooki-연대기"
 translationKey = "channel-yooki-chronicles"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing

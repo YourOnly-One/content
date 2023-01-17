@@ -9,7 +9,7 @@ title = "聖書"
 
 aliases = ["/ja/series/torah"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-#slug = ""
+slug = "聖書"
 translationKey = "series-torah"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing

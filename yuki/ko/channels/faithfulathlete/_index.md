@@ -9,7 +9,7 @@ title = "충실한 운동 선수 🎽"
 
 aliases = ["/ko/channels/faithful-athlete"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-#slug = ""
+slug = "충실한-운동-선수"
 translationKey = "channel-faithful-athlete"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing

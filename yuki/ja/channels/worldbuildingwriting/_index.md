@@ -9,7 +9,7 @@ title = "世界構築と執筆 ✨"
 
 aliases = ["/ja/channels/verses.space", "/ja/channels/verses-space"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-#slug = ""
+slug = "世界構築と執筆"
 translationKey = "channel-kwwp"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing

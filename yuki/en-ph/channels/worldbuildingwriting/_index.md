@@ -9,7 +9,7 @@ title = "Worldbuilding and Writing ✨"
 
 aliases = ["/channels/verses.space", "/channels/verses-space"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-#slug = ""
+slug = "worldbuilding-and-writing"
 translationKey = "channel-kwwp"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing

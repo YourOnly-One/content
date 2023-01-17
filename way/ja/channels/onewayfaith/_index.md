@@ -9,7 +9,7 @@ title = "一方向の信仰 🛐"
 
 aliases = ["/ja/channels/one-way-faith", "/ja/channels/信者の道"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-#slug = ""
+slug = "一方向の信仰"
 translationKey = "channel-onewayfaith"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing

@@ -9,7 +9,7 @@ title = "Asian Pop and Idols"
 
 #aliases = [""]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-#slug = ""
+slug = "asian-pop-and-idols"
 translationKey = "series-asianpopandidols"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing

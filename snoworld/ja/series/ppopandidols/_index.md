@@ -9,7 +9,7 @@ title = "P-POPとアイドル"
 
 aliases = ["/ja/series/p-pop-and-idols"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-#slug = ""
+slug = "p-popとアイドル"
 translationKey = "series-ppopandidols"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing

@@ -9,7 +9,7 @@ title = "기도하고, 기도하고, 기도하라"
 
 aliases = ["/ko/series/pray-prayers-and-praying"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-#slug = ""
+slug = "기도하고-기도하고-기도하라"
 translationKey = "series-pray"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing

@@ -9,7 +9,7 @@ title = "Faithful Athlete 🎽"
 
 #aliases = [""]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-#slug = ""
+slug = "faithful-athlete"
 translationKey = "channel-faithful-athlete"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing

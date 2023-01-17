@@ -9,7 +9,7 @@ title = "저작권"
 
 aliases = ["/ko/series/copyright"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-#slug = ""
+slug = "저작권"
 translationKey = "series-copyright"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing

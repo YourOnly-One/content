@@ -9,7 +9,7 @@ title = "自信のある旅行者 🧭"
 
 aliases = ["/ja/channels/confident-traveler"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-#slug = ""
+slug = "自信のある旅行者"
 translationKey = "channel-confident-traveler"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing

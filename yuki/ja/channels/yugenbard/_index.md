@@ -9,7 +9,7 @@ title = "幽玄吟遊詩人 🎻"
 
 aliases = ["/ja/channels/yūgen-bard", "/ja/channels/yugen-bard"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-#slug = ""
+slug = "幽玄吟遊詩人"
 translationKey = "channel-yūgen-bard"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing

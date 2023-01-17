@@ -9,7 +9,7 @@ title = "케이팝과 아이돌"
 
 aliases = ["/ko/series/k-pop-and-idols"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-#slug = ""
+slug = "케이팝과-아이돌"
 translationKey = "series-kpopandidols"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing

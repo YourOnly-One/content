@@ -9,7 +9,7 @@ title = "祈る、祈る、そして祈る"
 
 aliases = ["/ja/series/pray-prayers-and-praying"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-#slug = ""
+slug = "祈る祈るそして祈る"
 translationKey = "series-pray"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing

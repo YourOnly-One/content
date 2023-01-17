@@ -9,7 +9,7 @@ title = "자유로운 문화"
 
 aliases = ["/ko/series/free-culture"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-#slug = ""
+slug = "자유로운-문화"
 translationKey = "series-free-culture"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing

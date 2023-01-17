@@ -9,7 +9,7 @@ title = "피이팝 세대"
 
 aliases = ["/ko/series/p-pop-generations"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-#slug = ""
+slug = "피이팝-세대"
 translationKey = "series-ppopgenerations"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing

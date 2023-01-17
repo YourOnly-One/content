@@ -9,7 +9,7 @@ title = "사랑과 관계 💞"
 
 aliases = ["/ko/channels/love-and-relationships"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-#slug = ""
+slug = "사랑과-관계"
 translationKey = "channel-loverelationships"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing

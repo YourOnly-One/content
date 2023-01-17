@@ -9,7 +9,7 @@ title = "Keybase"
 
 aliases = ["/p/keybase-series.html"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-#slug = ""
+slug = "keybase"
 translationKey = "cat-keybase"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
