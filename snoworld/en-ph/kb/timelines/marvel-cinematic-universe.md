@@ -25,7 +25,7 @@ channels = ["snoworld"]
 categories = ["films", "tv"]
 keywords = ["MCU", "Marvel Cinematic Universe", "timeline", "watching order", "watch order"]
 #series = [""]
-#tags = [""]
+tags = ["notes"]
 
 comments = true
 #weight = ""
@@ -59,7 +59,7 @@ type = "article"                                             # article, sitepage
 
 +++
 
-A list of {{% quote type="name" lang="" %}}Marvel Cinematic Universe{{% /quote %}} productions in sequential order as it happened *in-universe*.
+A list of {{% quote type="name" lang="en" %}}Marvel Cinematic Universe{{% /quote %}} productions in sequential order as it happened *in-universe*.
 
 <!--more-->
 
