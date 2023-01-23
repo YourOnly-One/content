@@ -81,7 +81,7 @@ This is a living page or article, updated when new information is available and 
 01. 1990: {{% quote type="title" lang="en" %}}Ultima VI: The False Prophet{{% /quote %}}
 01. 1990: {{% quote type="title" lang="en" %}}Worlds of Ultima: The Savage Empire{{% /quote %}}
     - a.k.a.: {{% quote type="title" lang="en" %}}Ultima Worlds of Adventure: The Savage Empire{{% /quote %}}
-    - note: not part of the core continuity
+    - note: First appearance of Spark. The only known Britannian to reference the Avatar's adventure. [^ultimacodex-spark]
 01. 1991: {{% quote type="title" lang="en" %}}Ultima Worlds of Adventure II: Martian Dreams{{% /quote %}}
     - a.k.a.: {{% quote type="title" lang="en" %}}Worlds of Ultima II: Martian Dreams{{% /quote %}}
     - note: not part of the core continuity
@@ -146,6 +146,7 @@ This is a living page or article, updated when new information is available and 
   - a.k.a.: {{% quote type="title" lang="en" %}}Ultima Online 2{{% /quote %}}
 - 2004: {{% quote type="title" lang="en" %}}Ultima X: Odyssey{{% /quote %}} [^wikipedia-ultima-online] [^wikipedia-ultima-x-odyssey]
 
+[^ultimacodex-spark]: The Codex of Ultima Wisdom: [Spark](https://wiki.ultimacodex.com/wiki/Spark) (archived: [1](https://web.archive.org/web/20230123041449/https://wiki.ultimacodex.com/wiki/Spark) [2](https://archive.md/hLYMW))
 [^wikipedia-lord-of-ultima]: Wikipedia: [Lord of Ultima](https://en.wikipedia.org/wiki/Lord_of_Ultima) (archived: [1](https://web.archive.org/web/20230122220106/https://en.wikipedia.org/wiki/Lord_of_Ultima) [2](https://archive.md/6j36U))
 [^wikipedia-ultima-akalabeth]: Wikipedia: [Akalabeth: World of Doom](https://en.wikipedia.org/wiki/Akalabeth:_World_of_Doom) (archived: [1](https://web.archive.org/web/20230122220238/https://en.wikipedia.org/wiki/Akalabeth:_World_of_Doom) [2](https://archive.md/X81h5))
 [^wikipedia-ultima-escape-from-mt-drash]: Wikipedia: [Ultima: Escape from Mt. Drash](https://en.wikipedia.org/wiki/Ultima:_Escape_from_Mt._Drash) (archived: [1](https://web.archive.org/web/20230122220443/https://en.wikipedia.org/wiki/Ultima:_Escape_from_Mt._Drash) [2](https://archive.md/gUVuz))
