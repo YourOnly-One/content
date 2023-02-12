@@ -2,8 +2,8 @@
 title = "Philippine ISPs caught hijacking connections"
 description = "Philippine ISPs ordered to hijack connections to certain websites."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-publishdate = "2021-07-25T11:37:38+08:00"                                        # manually adjust to local timezone
-lastmod = "2021-07-25T11:37:38+08:00"                                        # manually adjust to local timezone
+publishdate = 2021-07-25T11:37:38+08:00                                        # manually adjust to local timezone
+lastmod = 2021-07-25T11:37:38+08:00                                        # manually adjust to local timezone
 
 aliases = ["/2021/07/philippine-isps-caught-hijacking.html"]
 slug = "philippines-isp-hijack-connection"

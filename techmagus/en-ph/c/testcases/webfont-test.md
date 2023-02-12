@@ -4,8 +4,8 @@ description = "Does your browser support CSS2 @font-face rule? You can test it h
 
 # DATE checked and correct
 
-publishdate = "2010-01-22T15:37:00+08:00"                                        # manually adjust to local timezone
-lastmod = "2010-01-22T15:37:00+08:00"                                        # manually adjust to local timezone
+publishdate = 2010-01-22T15:37:00+08:00                                        # manually adjust to local timezone
+lastmod = 2010-01-22T15:37:00+08:00                                        # manually adjust to local timezone
 
 aliases = ["/p/font-face-test-page.html"]
 slug = "font-face-browser-test"

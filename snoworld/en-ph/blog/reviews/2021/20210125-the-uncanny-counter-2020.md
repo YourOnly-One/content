@@ -2,8 +2,8 @@
 title = "«The Uncanny Counter» review"
 description = "A story about family, friendships, forgiveness, and second chances."	# For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2021-01-25T16:20:30+08:00"
-lastmod = "2021-01-25T16:20:30+08:00"
+publishdate = 2021-01-25T16:20:30+08:00
+lastmod = 2021-01-25T16:20:30+08:00
 
 #aliases = [""]
 slug = "경이로운 소문 The Uncanny Counter (2020)"

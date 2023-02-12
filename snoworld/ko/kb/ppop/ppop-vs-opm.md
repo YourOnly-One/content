@@ -2,8 +2,8 @@
 title = "피이팝 OPM의 차이점은 무엇입니까?"
 description = "피이팝 OPM은 다르다는 사실, 알고 계셨나요?"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-publishdate = "2022-02-27T19:35:00+09:00"                                        # manually adjust to local timezone
-lastmod = "2022-05-14T17:32:55+09:00"                                     # manually adjust to local timezone
+publishdate = 2022-02-27T19:35:00+09:00                                        # manually adjust to local timezone
+lastmod = 2022-05-14T17:32:55+09:00                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = "difference-ppop-opm"

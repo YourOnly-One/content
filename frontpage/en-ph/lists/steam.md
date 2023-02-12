@@ -1,8 +1,8 @@
 +++
 title = ""
 subtitle = ""
-publishdate = "2020-03-25T06:00:00+00:00"
-lastmod = "2020-03-25T06:00:00+00:00"
+publishdate = 2020-03-25T06:00:00+00:00
+lastmod = 2020-03-25T06:00:00+00:00
 link = "https://store.steampowered.com/wishlist/profiles/76561197997196684/#sort=order&discount_any=1"
 #linkRel = ""
 image = "https://rsc.youronly.one/img/logos/steam.svg"

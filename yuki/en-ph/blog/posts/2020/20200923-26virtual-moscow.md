@@ -7,8 +7,8 @@ images = ["https://img.youtube.com/vi/cShMNxRJ27o/0.jpg"]																							
 videos = ["https://www.youtube.com/watch?v=cShMNxRJ27o"]                                                      # og:video
 #audio = [""]																												# og:audio
 
-publishdate = "2020-09-23T20:15:00+08:00"
-lastmod = "2020-09-23T20:15:00+08:00"
+publishdate = 2020-09-23T20:15:00+08:00
+lastmod = 2020-09-23T20:15:00+08:00
 
 #aliases = [""]
 slug = "26virtual Moscow, My First Half-marathon"

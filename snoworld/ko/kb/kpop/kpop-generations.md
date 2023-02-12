@@ -2,8 +2,8 @@
 title = "가장 일관된 K-pop 세대 목록"
 description = "밴드, 그룹 및 솔로 활동을 위한 한국 대중 음악 세대에 대한 객관적인 접근."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-publishdate = "2022-02-08T19:40:00+09:00"                                        # manually adjust to local timezone
-lastmod = "2022-05-14T17:32:55+09:00"                                     # manually adjust to local timezone
+publishdate = 2022-02-08T19:40:00+09:00                                        # manually adjust to local timezone
+lastmod = 2022-05-14T17:32:55+09:00                                     # manually adjust to local timezone
 
 aliases = ["kpop-generations-202218"]
 slug = "kpop-generations"

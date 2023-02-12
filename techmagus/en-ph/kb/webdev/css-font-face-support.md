@@ -4,8 +4,8 @@ description = "Do you want to make your site's font to show up the same across b
 
 # DATE checked and correct
 
-publishdate = "2010-01-22T14:55:48+08:00"                                        # manually adjust to local timezone
-lastmod = "2010-01-22T14:55:48+08:00"                                        # manually adjust to local timezone
+publishdate = 2010-01-22T14:55:48+08:00                                        # manually adjust to local timezone
+lastmod = 2010-01-22T14:55:48+08:00                                        # manually adjust to local timezone
 
 aliases = ["/2010/01/how-to-implement-cross-browser-font.html"]
 slug = "css-font-face-support"

@@ -2,8 +2,8 @@
 title = "𐤉𐤄𐤅𐤄 (YAHUAH) Yireh, Elohim will Provide "
 description = "Whenever I think about the future depression sets in. The sad reality of our society drains me: low salary and high expenses."  # For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2014-11-13T16:30:27+08:00"                          # manually adjust to local timezone
-lastmod = "2014-11-13T16:30:27+08:00"                          # manually adjust to local timezone
+publishdate = 2014-11-13T16:30:27+08:00                          # manually adjust to local timezone
+lastmod = 2014-11-13T16:30:27+08:00                          # manually adjust to local timezone
 
 aliases = ["/2014/11/yahuah-yireh-elohim-will-provide.html"]
 slug = " 𐤉𐤄𐤅𐤄 (YAHUAH) Yireh, Elohim will Provide "

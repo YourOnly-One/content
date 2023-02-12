@@ -2,10 +2,10 @@
 title = "Hugo：Markdown リンクをカスタマイズする"
 description = "Hugo Markdownリンクに相互参照サポート、リンクアイコンなどを追加する方法。"
 
-#lastmod = "{{ .Date }}"                 # last update; manually adjust to local timezone
-#publishdate = "{{ .Date }}"             # first publication; manually adjust to local timezone
-#date = "{{ .Date }}"                    # first created; manually adjust to local timezone
-#expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
+#lastmod = {{ .Date }}                 # last update; manually adjust to local timezone
+#publishdate = {{ .Date }}             # first publication; manually adjust to local timezone
+#date = {{ .Date }}                    # first created; manually adjust to local timezone
+#expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
 aliases = ["/ja/codebits/how-to-customize-markdown-links-hugo-2022135", "/ja/c/codebits/hugo-render-link"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink

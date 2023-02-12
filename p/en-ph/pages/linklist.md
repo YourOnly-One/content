@@ -2,8 +2,8 @@
 title = "YourOnly.One Linklist"
 description = "YourOnly.One recommended websites."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-publishdate = "2021-12-18T15:37:21+08:00"                                        # manually adjust to local timezone
-lastmod = "2022-04-28T08:11:26+08:00"                                        # manually adjust to local timezone
+publishdate = 2021-12-18T15:37:21+08:00                                        # manually adjust to local timezone
+lastmod = 2022-04-28T08:11:26+08:00                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "linklist"

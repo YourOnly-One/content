@@ -2,8 +2,8 @@
 title = "YourOnly.One Top Movies of 2021"
 description = "YourOnly.One Top 10 Movies of 2021"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-publishdate = "2021-12-14T22:17:08+08:00"                                        # manually adjust to local timezone
-lastmod = "2021-12-14T22:17:08+08:00"                                        # manually adjust to local timezone
+publishdate = 2021-12-14T22:17:08+08:00                                        # manually adjust to local timezone
+lastmod = 2021-12-14T22:17:08+08:00                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "youronlyone-top-movies-2021"

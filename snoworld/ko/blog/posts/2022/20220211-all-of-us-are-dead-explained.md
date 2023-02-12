@@ -2,8 +2,8 @@
 title = "(업데이트됨) 《지금 우리 학교는》 설명"
 description = "Netflix의 《지금 우리 학교는》 시즌 2가 있습니까? 《지금 우리 학교는》 설명에서 알아보십시오!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-publishdate = "2022-02-11T18:30:12+09:00"                                        # manually adjust to local timezone
-lastmod = "2022-06-07T02:07:17+09:00"                                     # manually adjust to local timezone
+publishdate = 2022-02-11T18:30:12+09:00                                        # manually adjust to local timezone
+lastmod = 2022-06-07T02:07:17+09:00                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = "all-of-us-are-dead-explained"

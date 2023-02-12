@@ -2,8 +2,8 @@
 title = "Yo-yo Is Proudly Pinoy"
 description = "Did you know the word 'Yo-yo' and the modern design was invented by a Filipino?"	# For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2021-04-09T13:57:34+08:00"
-lastmod = "2021-04-09T13:57:34+08:00"
+publishdate = 2021-04-09T13:57:34+08:00
+lastmod = 2021-04-09T13:57:34+08:00
 
 #aliases = [""]
 slug = "Yoyo Is Proudly Pinoy"

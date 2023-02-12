@@ -2,8 +2,8 @@
 title = "르세라핌이라는 이름에 무엇이 들어있나요?"
 description = "르세라핌이라는 이름의 비밀."
 
-publishdate = "2022-03-29T23:34:32+09:00"                                          # manually adjust to local timezone
-lastmod = "2022-05-17T15:26:15+09:00"                                       # manually adjust to local timezone
+publishdate = 2022-03-29T23:34:32+09:00                                          # manually adjust to local timezone
+lastmod = 2022-05-17T15:26:15+09:00                                       # manually adjust to local timezone
 
 #aliases = [""]
 slug = "le-sserafim-the-name"

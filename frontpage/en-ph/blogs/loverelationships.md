@@ -1,8 +1,8 @@
 +++
 #title = "Love & Relationships 💞"
 subtitle = "im.youronly.one/love"
-publishdate = "2020-03-25T06:00:00+00:00"
-lastmod = "2020-03-25T06:00:00+00:00"
+publishdate = 2020-03-25T06:00:00+00:00
+lastmod = 2020-03-25T06:00:00+00:00
 link = "https://im.youronly.one/love/"
 linkRel = "me noopener"
 image = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"

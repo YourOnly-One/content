@@ -2,10 +2,10 @@
 title = "«The Law Cafe» Episode 4: Child Abuse"
 description = "Episode 4 of The Law Cafe tackled the seriousness of child abuse experienced by children right from their own homes."
 
-lastmod = "2022-09-14T16:40:00+08:00"                 # last update; manually adjust to local timezone
-publishdate = "2022-09-14T16:40:00+08:00"             # first publication; manually adjust to local timezone
-date = "2022-09-14T12:30:33+08:00"                    # first created; manually adjust to local timezone
-#expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
+lastmod = 2022-09-14T16:40:00+08:00                 # last update; manually adjust to local timezone
+publishdate = 2022-09-14T16:40:00+08:00             # first publication; manually adjust to local timezone
+date = 2022-09-14T12:30:33+08:00                    # first created; manually adjust to local timezone
+#expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
 #aliases = [""]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink

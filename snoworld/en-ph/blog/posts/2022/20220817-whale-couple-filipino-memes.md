@@ -2,10 +2,10 @@
 title = "Whale Couple Filipino Memes"
 description = "Fun and witty Filipino memes about the Whale Couple from Extraordinary Attorney Woo."
 
-lastmod = "2022-08-17T21:50:00+08:00"                 # last update; manually adjust to local timezone
-publishdate = "2022-08-17T21:50:00+08:00"             # first publication; manually adjust to local timezone
-date = "2022-08-17T16:30:20+08:00"                    # first created; manually adjust to local timezone
-#expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
+lastmod = 2022-08-17T21:50:00+08:00                 # last update; manually adjust to local timezone
+publishdate = 2022-08-17T21:50:00+08:00             # first publication; manually adjust to local timezone
+date = 2022-08-17T16:30:20+08:00                    # first created; manually adjust to local timezone
+#expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
 #aliases = [""]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink

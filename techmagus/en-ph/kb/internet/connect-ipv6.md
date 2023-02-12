@@ -4,8 +4,8 @@ description = "IPv6 or Internet Protocol version 6 is the answer to our IPv4 pro
 
 # DATE checked and correct
 
-publishdate = "2009-12-03T10:36:58+08:00"                                        # manually adjust to local timezone
-lastmod = "2010-03-29T17:53:01+08:00"                                     # manually adjust to local timezone
+publishdate = 2009-12-03T10:36:58+08:00                                        # manually adjust to local timezone
+lastmod = 2010-03-29T17:53:01+08:00                                     # manually adjust to local timezone
 
 aliases = ["/2011/09/how-to-ipv6-is-not-scary-connect-now.html"]
 slug = "ipv6-connect-today"

@@ -2,10 +2,10 @@
 title = "必見のこと：魂の錬金術"
 description = "愛、政治、ダークマジックについての韓国のハイファンタジー。"
 
-lastmod = "2022-08-30T10:53:00+09:00"                 # last update; manually adjust to local timezone
-publishdate = "2022-06-21T11:05:00+09:00"             # first publication; manually adjust to local timezone
-date = "2022-06-19T18:17:17+09:00"                    # first created; manually adjust to local timezone
-#expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
+lastmod = 2022-08-30T10:53:00+09:00                 # last update; manually adjust to local timezone
+publishdate = 2022-06-21T11:05:00+09:00             # first publication; manually adjust to local timezone
+date = 2022-06-19T18:17:17+09:00                    # first created; manually adjust to local timezone
+#expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
 #aliases = [""]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink

@@ -4,8 +4,8 @@ description = "Google DNS vs. Open DNS, which is faster anyway? From where I am,
 
 # DATE checked and correct
 
-publishdate = "2009-12-07T17:43:23+08:00"                                        # manually adjust to local timezone
-lastmod = "2009-12-07T17:43:23+08:00"                                        # manually adjust to local timezone
+publishdate = 2009-12-07T17:43:23+08:00                                        # manually adjust to local timezone
+lastmod = 2009-12-07T17:43:23+08:00                                        # manually adjust to local timezone
 
 aliases = ["/2009/12/google-public-dns-vs-opendns.html"]
 slug = "google-open-dns"

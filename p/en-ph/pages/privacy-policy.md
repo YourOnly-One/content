@@ -2,8 +2,8 @@
 title = "Privacy Policy"
 description = "YourOnly.One™ Privacy Policy"
 
-publishdate = "2016-06-14T06:02:00+00:00"
-lastmod = "2022-08-21T03:52:17+08:00"
+publishdate = 2016-06-14T06:02:00+00:00
+lastmod = 2022-08-21T03:52:17+08:00
 
 #aliases = ["", ""]
 #slug = ""

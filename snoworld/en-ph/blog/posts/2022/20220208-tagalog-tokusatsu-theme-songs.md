@@ -2,8 +2,8 @@
 title = "Bioman, Maskman, & Shaider Full Theme Songs in Tagalog"
 description = "Here are six full theme songs from Bioman, Maskman, and Shaider in Tagalog."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-publishdate = "2022-02-08T19:20:00+08:00"                                        # manually adjust to local timezone
-lastmod = "2022-05-03T13:07:19+08:00"                                     # manually adjust to local timezone
+publishdate = 2022-02-08T19:20:00+08:00                                        # manually adjust to local timezone
+lastmod = 2022-05-03T13:07:19+08:00                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = "bioman-maskman-shaider-tagalog-theme-songs-full"

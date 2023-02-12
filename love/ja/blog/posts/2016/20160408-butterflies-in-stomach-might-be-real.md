@@ -2,8 +2,8 @@
 title = "胸キュンは本物かもしれない"
 description = "胃の中の蝶は本物ですか？ 研究によるかもしれません。"	# For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2016-04-08T16:15:41+09:00"
-lastmod = "2016-04-08T16:15:41+09:00"
+publishdate = 2016-04-08T16:15:41+09:00
+lastmod = 2016-04-08T16:15:41+09:00
 
 #aliases = [""]
 slug = "Butterflies in Stomach Might Be Real"

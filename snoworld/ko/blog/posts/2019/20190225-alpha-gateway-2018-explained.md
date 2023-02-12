@@ -2,8 +2,8 @@
 title = "《알파 게이트웨이》 병렬 세계 설명"
 description = "《알파 게이트웨이》의 평행 세계가 헷갈 리나요?" # For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2019-02-25T17:46:12+09:00"
-lastmod = "2022-05-14T17:32:55+09:00"
+publishdate = 2019-02-25T17:46:12+09:00
+lastmod = 2022-05-14T17:32:55+09:00
 
 #aliases = [""]
 slug = "Alpha Gateway (2018) Parallel Worlds Explained"

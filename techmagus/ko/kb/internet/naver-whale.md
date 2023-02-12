@@ -2,10 +2,10 @@
 title = "크롬 기반의 더 나은 브라우저인 네이버 웨일"
 description = "마이웨이 서핑. 다음 수준 브라우저."
 
-lastmod = "2022-07-28T18:01:17+09:00"                 # last update; manually adjust to local timezone
-publishdate = "2022-07-28T18:01:17+09:00"             # first publication; manually adjust to local timezone
-date = "2022-07-18T21:21:14+09:00"                    # first created; manually adjust to local timezone
-#expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
+lastmod = 2022-07-28T18:01:17+09:00                 # last update; manually adjust to local timezone
+publishdate = 2022-07-28T18:01:17+09:00             # first publication; manually adjust to local timezone
+date = 2022-07-18T21:21:14+09:00                    # first created; manually adjust to local timezone
+#expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
 #aliases = [""]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink

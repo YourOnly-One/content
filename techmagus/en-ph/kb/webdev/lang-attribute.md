@@ -4,8 +4,8 @@ description = "The LANG attribute is a powerful piece of code when designing web
 
 # DATE checked and correct
 
-publishdate = "2009-06-21T00:20:37+08:00"                                        # manually adjust to local timezone
-lastmod = "2009-06-21T00:20:37+08:00"                                        # manually adjust to local timezone
+publishdate = 2009-06-21T00:20:37+08:00                                        # manually adjust to local timezone
+lastmod = 2009-06-21T00:20:37+08:00                                        # manually adjust to local timezone
 
 aliases = ["/2009/06/the-lang-attribute.html"]
 slug = "lang-attribute"

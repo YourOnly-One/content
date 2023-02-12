@@ -2,8 +2,8 @@
 title = "Tsitsit, Tassles, Fringes, Should We Wear It?"
 description = "Tsitsit, tassles, or fringes, was commanded to be worn. But in the Renewed/New Covenant, is it still valid or done away with? Let's study the Scripture!"  # For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2017-10-21T13:57:27+08:00"                          # manually adjust to local timezone
-lastmod = "2017-10-21T13:57:27+08:00"                          # manually adjust to local timezone
+publishdate = 2017-10-21T13:57:27+08:00                          # manually adjust to local timezone
+lastmod = 2017-10-21T13:57:27+08:00                          # manually adjust to local timezone
 
 aliases = ["/2017/10/tsitsit-tassles-fringes-should-we-wear.html"]
 slug = "Tsitsit, Tassles, Fringes, Should We Wear It?"

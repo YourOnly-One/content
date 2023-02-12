@@ -2,8 +2,8 @@
 title = "[How-To] Type the Philippine Peso Currency Sign"
 description = "In this post, I am going to show you how you can type the Philippine Peso sign - the real way. The Peso sign has been available for a long-time!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-publishdate = "2009-05-12T14:36:38+08:00"                                        # manually adjust to local timezone
-lastmod = "2009-05-12T14:36:38+08:00"                                        # manually adjust to local timezone
+publishdate = 2009-05-12T14:36:38+08:00                                        # manually adjust to local timezone
+lastmod = 2009-05-12T14:36:38+08:00                                        # manually adjust to local timezone
 
 aliases = ["/2009/05/how-to-type-the-peso-sign.html"]
 slug = "type-philippines-peso-sign"

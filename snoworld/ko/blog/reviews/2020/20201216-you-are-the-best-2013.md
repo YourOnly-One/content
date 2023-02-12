@@ -2,8 +2,8 @@
 title = "《최고다 이순신》 비평"
 description = "《최고 다 이순신》 (2013) 리뷰"	# For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2020-12-16T20:04:36+09:00"
-lastmod = "2020-12-16T20:04:36+09:00"
+publishdate = 2020-12-16T20:04:36+09:00
+lastmod = 2020-12-16T20:04:36+09:00
 
 #aliases = [""]
 slug = "최고다 이순신 You Are The Best (2013)"

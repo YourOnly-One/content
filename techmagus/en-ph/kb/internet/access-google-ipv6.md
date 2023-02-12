@@ -4,8 +4,8 @@ description = "IPv6 is here but how do we access Google services via IPv6 anyway
 
 # DATE checked and correct
 
-publishdate = "2009-12-03T21:31:19+08:00"                                        # manually adjust to local timezone
-lastmod = "2010-09-20T17:53:01+08:00"                                     # manually adjust to local timezone
+publishdate = 2009-12-03T21:31:19+08:00                                        # manually adjust to local timezone
+lastmod = 2010-09-20T17:53:01+08:00                                     # manually adjust to local timezone
 
 aliases = ["/2009/12/how-to-access-google-sites-and-services.html"]
 slug = "access-google-ipv6"

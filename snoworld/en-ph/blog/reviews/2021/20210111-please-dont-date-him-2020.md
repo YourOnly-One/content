@@ -2,8 +2,8 @@
 title = "«Please Don't Date Him» review"
 description = "Romantic comedy done right."	# For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2021-01-11T23:38:36+08:00"
-lastmod = "2021-01-11T23:38:36+08:00"
+publishdate = 2021-01-11T23:38:36+08:00
+lastmod = 2021-01-11T23:38:36+08:00
 
 #aliases = [""]
 slug = "제발 그 남자 만나지 마요 Please Don't Date Him (2020)"

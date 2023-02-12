@@ -2,8 +2,8 @@
 title = "How To Add Cross Reference in Hugo Markdown Links"
 description = "How to add cross reference support for Markdown links in Hugo"
 
-publishdate = "2022-05-20T19:24:27+08:00"                                          # manually adjust to local timezone
-lastmod = "2022-06-17T14:07:00+08:00"                                       # manually adjust to local timezone
+publishdate = 2022-05-20T19:24:27+08:00                                          # manually adjust to local timezone
+lastmod = 2022-06-17T14:07:00+08:00                                       # manually adjust to local timezone
 
 aliases = ["/codebits/how-to-add-cross-reference-hugo-markdown-links-2022140", "/codebits/hugo-render-link/how-to-add-cross-reference-hugo-markdown-links-2022140"]
 slug = "how-to-add-cross-reference-hugo-markdown-links"

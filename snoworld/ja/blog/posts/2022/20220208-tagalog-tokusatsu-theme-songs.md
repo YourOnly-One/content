@@ -2,8 +2,8 @@
 title = "超電子バイオマン、光戦隊マスクマン、宇宙刑事シャイダーのタガログ語フルテーマソング"
 description = "タガログ語の超電子バイオマン、光戦隊マスクマン、宇宙刑事シャイダーの6曲のフルテーマ曲です。"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-publishdate = "2022-02-08T20:20:00+09:00"                                        # manually adjust to local timezone
-lastmod = "2022-05-03T14:07:19+09:00"                                     # manually adjust to local timezone
+publishdate = 2022-02-08T20:20:00+09:00                                        # manually adjust to local timezone
+lastmod = 2022-05-03T14:07:19+09:00                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = "bioman-maskman-shaider-tagalog-theme-songs-full"

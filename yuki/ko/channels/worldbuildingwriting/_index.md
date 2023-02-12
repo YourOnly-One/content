@@ -2,10 +2,10 @@
 title = "세계 구축과 글쓰기 ✨"
 #description = ""
 
-#lastmod = "{{ .Date }}"                 # last update; manually adjust to local timezone
-#publishdate = "{{ .Date }}"             # first publication; manually adjust to local timezone
-#date = "{{ .Date }}"                    # first created; manually adjust to local timezone
-#expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
+#lastmod = {{ .Date }}                 # last update; manually adjust to local timezone
+#publishdate = {{ .Date }}             # first publication; manually adjust to local timezone
+#date = {{ .Date }}                    # first created; manually adjust to local timezone
+#expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
 aliases = ["/ko/channels/verses.space", "/ko/channels/verses-space"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink

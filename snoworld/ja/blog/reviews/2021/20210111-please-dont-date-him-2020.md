@@ -2,8 +2,8 @@
 title = "《なお、男会わないで》 批評"
 description = "ロマンチックコメディは正しく行われました。"	# For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2021-01-12T00:38:36+09:00"
-lastmod = "2021-01-12T00:38:36+09:00"
+publishdate = 2021-01-12T00:38:36+09:00
+lastmod = 2021-01-12T00:38:36+09:00
 
 aliases = ["/ja/제발-그-남자-만나지-마요-please-dont-date-him-2020-202111"] # Permanent timezone
 slug = "제발 그 남자 만나지 마요 Please Don't Date Him (2020)"

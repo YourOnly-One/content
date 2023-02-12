@@ -2,8 +2,8 @@
 title = "Blogroll이 돌아왔습니다"
 description = "링크 목록과 블로그 롤을 다시 가져옵니다!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-publishdate = "2021-12-19T15:14:41+09:00"                                        # manually adjust to local timezone
-lastmod = "2021-12-19T15:14:41+09:00"                                        # manually adjust to local timezone
+publishdate = 2021-12-19T15:14:41+09:00                                        # manually adjust to local timezone
+lastmod = 2021-12-19T15:14:41+09:00                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "linklists-are-back"

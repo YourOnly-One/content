@@ -2,8 +2,8 @@
 title = "《フォンダンフォンダンLOVE》 批評"
 description = "一生忘れられない物語"  # For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2021-03-20T12:10:37+09:00"
-lastmod = "2021-03-20T12:10:37+09:00"
+publishdate = 2021-03-20T12:10:37+09:00
+lastmod = 2021-03-20T12:10:37+09:00
 
 #aliases = [""]
 slug = "퐁당퐁당 LOVE Splash Splash LOVE (2015)"

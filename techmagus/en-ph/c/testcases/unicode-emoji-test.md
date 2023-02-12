@@ -2,8 +2,8 @@
 title = "Unicode 14 and Emoji 14 Test Page"
 description = "A Unicode and Emoji test page. You can use this to test if your browser can display Unicode and Emoji characters."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-publishdate = "2015-08-12T10:23:28+08:00"                                        # manually adjust to local timezone
-lastmod = "2022-05-14T16:32:55+08:00"                                        # manually adjust to local timezone
+publishdate = 2015-08-12T10:23:28+08:00                                        # manually adjust to local timezone
+lastmod = 2022-05-14T16:32:55+08:00                                        # manually adjust to local timezone
 
 aliases = ["/p/unicode-emoji-test.html"]
 slug = "unicode-emoji-test"

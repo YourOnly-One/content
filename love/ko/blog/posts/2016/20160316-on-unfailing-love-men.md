@@ -2,8 +2,8 @@
 title = "[이미지] 변함없는 사랑과 남자에 대하여"
 description = "잠언 20:6-7"	# For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2016-03-16T02:22:39+09:00"
-lastmod = "2016-03-16T02:22:39+09:00"
+publishdate = 2016-03-16T02:22:39+09:00
+lastmod = 2016-03-16T02:22:39+09:00
 
 #aliases = [""]
 slug = "On Unfailing Love and Men"

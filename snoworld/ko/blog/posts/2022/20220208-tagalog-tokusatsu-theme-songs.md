@@ -2,8 +2,8 @@
 title = "초전자 바이오맨, 광전대 마스크맨, 우주 형사 샤이더의 타갈로그어 풀 테마 송"
 description = "타갈로그어의 초전자 바이오맨, 광전대 마스크맨, 우주형사 샤이더의 6곡의 풀 테마곡입니다."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-publishdate = "2022-02-08T20:20:00+09:00"                                        # manually adjust to local timezone
-lastmod = "2022-05-03T14:07:19+09:00"                                     # manually adjust to local timezone
+publishdate = 2022-02-08T20:20:00+09:00                                        # manually adjust to local timezone
+lastmod = 2022-05-03T14:07:19+09:00                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = "bioman-maskman-shaider-tagalog-theme-songs-full"

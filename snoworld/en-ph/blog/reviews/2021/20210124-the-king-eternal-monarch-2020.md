@@ -3,8 +3,8 @@ title = "The King: Eternal Monarch review"
 description = "A review 2020's number one Korean Drama, 더 킹: 영원의 군주 The King: Eternal Monarch."													# IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
 summary = "A review 2020's number one Korean Drama, 더 킹: 영원의 군주 The King: Eternal Monarch."																											# for summary text in list displays
 
-publishdate = "2021-01-24T23:17:10+08:00"
-lastmod = "2021-01-24T23:17:10+08:00"
+publishdate = 2021-01-24T23:17:10+08:00
+lastmod = 2021-01-24T23:17:10+08:00
 
 #aliases = [""]
 slug = "더 킹: 영원의 군주 The King: Eternal Monarch (2020)"

@@ -2,8 +2,8 @@
 title = "요요는 자랑스럽게 Pinoy입니다"
 description = "'요요'라는 단어를 알고 계 셨나요? 현대적인 디자인은 필리핀 사람이 발명 한 것인가요?" # For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2021-04-09T14:57:34+09:00"
-lastmod = "2021-04-09T14:57:34+09:00"
+publishdate = 2021-04-09T14:57:34+09:00
+lastmod = 2021-04-09T14:57:34+09:00
 
 #aliases = [""]
 slug = "Yoyo Is Proudly Pinoy"

@@ -2,10 +2,10 @@
 title = "A Must Watch: Alchemy of Souls"
 description = "A Korean high fantasy about love, politics, and dark magic."
 
-lastmod = "2022-08-30T09:53:00+08:00"                 # last update; manually adjust to local timezone
-publishdate = "2022-06-21T10:05:00+08:00"             # first publication; manually adjust to local timezone
-date = "2022-06-19T17:17:17+08:00"                    # first created; manually adjust to local timezone
-#expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
+lastmod = 2022-08-30T09:53:00+08:00                 # last update; manually adjust to local timezone
+publishdate = 2022-06-21T10:05:00+08:00             # first publication; manually adjust to local timezone
+date = 2022-06-19T17:17:17+08:00                    # first created; manually adjust to local timezone
+#expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
 #aliases = [""]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink

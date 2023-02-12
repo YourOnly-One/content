@@ -2,8 +2,8 @@
 title = "모든 피이팝 아이돌이지"
 description = "피이팝과 아이돌 또는 P-idol이라는 용어를 분리합니다."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-publishdate = "2022-03-10T14:25:55+09:00"                                        # manually adjust to local timezone
-lastmod = "2022-05-14T17:32:55+09:00"                                     # manually adjust to local timezone
+publishdate = 2022-03-10T14:25:55+09:00                                        # manually adjust to local timezone
+lastmod = 2022-05-14T17:32:55+09:00                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = "ppop-versus-idols"

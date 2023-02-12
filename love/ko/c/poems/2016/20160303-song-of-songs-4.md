@@ -2,8 +2,8 @@
 title = "아가 4"
 description = "솔로몬 왕의 편지" # For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2016-03-03T22:48:15+09:00"
-lastmod = "2016-03-03T22:48:15+09:00"
+publishdate = 2016-03-03T22:48:15+09:00
+lastmod = 2016-03-03T22:48:15+09:00
 
 #aliases = [""]
 slug = "Song of Songs 4"

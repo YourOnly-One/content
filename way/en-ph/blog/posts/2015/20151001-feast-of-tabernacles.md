@@ -2,8 +2,8 @@
 title = "Feast of Tabernacles Verses"
 description = "Three very important verses reminding us that we should observe and celebrate the Feast of Tabernacles (Sukkot/Succot)."  # For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2015-10-01T02:32:24+08:00"                          # manually adjust to local timezone
-lastmod = "2015-10-01T02:32:24+08:00"                          # manually adjust to local timezone
+publishdate = 2015-10-01T02:32:24+08:00                          # manually adjust to local timezone
+lastmod = 2015-10-01T02:32:24+08:00                          # manually adjust to local timezone
 
 aliases = ["/2015/10/feast-of-tabernacles.html"]
 slug = "Feast of Tabernacles Verses"

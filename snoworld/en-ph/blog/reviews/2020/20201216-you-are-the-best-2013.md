@@ -2,8 +2,8 @@
 title = "«You Are The Best!» review"
 description = "A review of «You Are The Best!»"	# For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2020-12-16T19:04:36+08:00"
-lastmod = "2020-12-16T19:04:36+08:00"
+publishdate = 2020-12-16T19:04:36+08:00
+lastmod = 2020-12-16T19:04:36+08:00
 
 #aliases = [""]
 slug = "최고다 이순신 You Are The Best (2013)"

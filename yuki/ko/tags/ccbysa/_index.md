@@ -2,10 +2,10 @@
 title = "크리에이티브 커먼즈 저작자표시-동일조건변경허락 라이선스"
 #description = ""
 
-#lastmod = "{{ .Date }}"                 # last update; manually adjust to local timezone
-#publishdate = "{{ .Date }}"             # first publication; manually adjust to local timezone
-#date = "{{ .Date }}"                    # first created; manually adjust to local timezone
-#expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
+#lastmod = {{ .Date }}                 # last update; manually adjust to local timezone
+#publishdate = {{ .Date }}             # first publication; manually adjust to local timezone
+#date = {{ .Date }}                    # first created; manually adjust to local timezone
+#expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
 aliases = ["/ko/tag/creative-commons-attribution-sharealike-license", "/ko/tag/ccbysa", "/ko/tag/cc-by-sa"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink

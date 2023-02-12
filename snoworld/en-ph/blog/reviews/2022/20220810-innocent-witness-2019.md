@@ -2,10 +2,10 @@
 title = "«Innocent Witness» review"
 description = "A story of an autistic girl who witnessed a crime and fights to be a witness despite people dismissing her credibility."
 
-lastmod = "2022-08-16T20:01:52+08:00"                 # last update; manually adjust to local timezone
-publishdate = "2022-08-16T20:01:52+08:00"             # first publication; manually adjust to local timezone
-date = "2022-08-10T11:55:57+08:00"                    # first created; manually adjust to local timezone
-#expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
+lastmod = 2022-08-16T20:01:52+08:00                 # last update; manually adjust to local timezone
+publishdate = 2022-08-16T20:01:52+08:00             # first publication; manually adjust to local timezone
+date = 2022-08-10T11:55:57+08:00                    # first created; manually adjust to local timezone
+#expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
 #aliases = [""]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink

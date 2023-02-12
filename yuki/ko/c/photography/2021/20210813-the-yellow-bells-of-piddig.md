@@ -2,8 +2,8 @@
 title = "Piddig의 노란 종"
 description = "Piddig, Ilocos Norte에 있는 아름다운 노란 종 꽃."  # For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2021-08-13T08:17:25+09:00"
-lastmod = "2021-08-13T08:17:25+09:00"
+publishdate = 2021-08-13T08:17:25+09:00
+lastmod = 2021-08-13T08:17:25+09:00
 
 aliases = ["/ko/c/photography/the-yellow-bells-of-piddig-2021225"]       # Permanent, old share links
 slug = "The Yellow Bells of Piddig"

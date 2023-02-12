@@ -2,10 +2,10 @@
 title = "祈る、祈る、そして祈る"
 #description = ""
 
-#lastmod = "{{ .Date }}"                 # last update; manually adjust to local timezone
-#publishdate = "{{ .Date }}"             # first publication; manually adjust to local timezone
-#date = "{{ .Date }}"                    # first created; manually adjust to local timezone
-#expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
+#lastmod = {{ .Date }}                 # last update; manually adjust to local timezone
+#publishdate = {{ .Date }}             # first publication; manually adjust to local timezone
+#date = {{ .Date }}                    # first created; manually adjust to local timezone
+#expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
 aliases = ["/ja/series/pray-prayers-and-praying"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink

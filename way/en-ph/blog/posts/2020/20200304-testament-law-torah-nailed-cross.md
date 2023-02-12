@@ -2,8 +2,8 @@
 title = "The Old Testament Law, or Torah, was Nailed On The Cross"
 description = "We often hear from preachers that the Old Testament Law, or Torah, was nailed on the cross but is it Scriptural?"  # For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2020-03-04T17:39:27+08:00"                          # manually adjust to local timezone
-lastmod = "2020-03-04T17:39:27+08:00"                          # manually adjust to local timezone
+publishdate = 2020-03-04T17:39:27+08:00                          # manually adjust to local timezone
+lastmod = 2020-03-04T17:39:27+08:00                          # manually adjust to local timezone
 
 aliases = ["/2020/03/testament-law-torah-nailed-cross.html"]
 slug = "The Old Testament Law, or Torah, was Nailed On The Cross"

@@ -2,8 +2,8 @@
 title = "《도시남녀의 사랑법》 비평"
 description = "재미 있고, 공감하며, 교훈으로 가득합니다."	# For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2021-01-17T09:17:39+09:00"
-lastmod = "2021-01-17T09:17:39+09:00"
+publishdate = 2021-01-17T09:17:39+09:00
+lastmod = 2021-01-17T09:17:39+09:00
 
 #aliases = [""]
 slug = "도시남녀의 사랑법 Lovestruck in the City (2020)"

@@ -2,8 +2,8 @@
 title = "[Video] Earth with Rings"
 description = "Imagine Earth with rings as beautiful as Saturn's. Do you think it will be cool? Or would it be scary? Is it a beautiful sight or an annoyance?"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-publishdate = "2009-11-26T23:09:28+08:00"                                        # manually adjust to local timezone
-lastmod = "2009-11-26T23:09:28+08:00"                                        # manually adjust to local timezone
+publishdate = 2009-11-26T23:09:28+08:00                                        # manually adjust to local timezone
+lastmod = 2009-11-26T23:09:28+08:00                                        # manually adjust to local timezone
 
 aliases = ["/2009/11/video-earth-with-rings.html"]
 slug = "earth-rings"

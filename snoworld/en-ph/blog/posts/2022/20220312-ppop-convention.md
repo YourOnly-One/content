@@ -2,8 +2,8 @@
 title = "(Updated) The First PPOPCON Is Happening"
 description = "Are you excited for the first P-pop Convention?"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-publishdate = "2022-03-12T13:08:45+08:00"                                        # manually adjust to local timezone
-lastmod = "2022-05-14T16:32:55+08:00"                                     # manually adjust to local timezone
+publishdate = 2022-03-12T13:08:45+08:00                                        # manually adjust to local timezone
+lastmod = 2022-05-14T16:32:55+08:00                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = "ppop-convention"

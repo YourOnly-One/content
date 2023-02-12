@@ -2,8 +2,8 @@
 title = "P-pop idols, when did it all start?"
 description = "Pinning down the date the P-pop IDOL industry started."
 
-publishdate = "2022-03-21T15:07:24+08:00"                                          # manually adjust to local timezone
-lastmod = "2022-05-14T16:32:55+08:00"                                     # manually adjust to local timezone
+publishdate = 2022-03-21T15:07:24+08:00                                          # manually adjust to local timezone
+lastmod = 2022-05-14T16:32:55+08:00                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = "ppop-idol-year"

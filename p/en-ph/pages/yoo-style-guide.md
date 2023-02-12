@@ -2,8 +2,8 @@
 title = "YourOnly.One Style Guide"
 description = "The official YourOnly.One Writing Style Guide."
 
-publishdate = "2020-03-25T06:08:00+00:00"                                          # manually adjust to local timezone
-lastmod = "2022-04-07T17:53:01+00:00"                                       # manually adjust to local timezone
+publishdate = 2020-03-25T06:08:00+00:00                                          # manually adjust to local timezone
+lastmod = 2022-04-07T17:53:01+00:00                                       # manually adjust to local timezone
 
 #aliases = [""]
 slug = ""

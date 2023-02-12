@@ -2,8 +2,8 @@
 title = "《イミテーション》によるとK-POPアイドルが通過するもの"
 description = "K-POPアイドルになるまでの道のりは、ほとんどの人が思っているほど簡単ではありません。"	# For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2021-05-08T14:54:00+09:00"
-lastmod = "2021-05-08T14:54:00+09:00"
+publishdate = 2021-05-08T14:54:00+09:00
+lastmod = 2021-05-08T14:54:00+09:00
 
 #aliases = [""]
 slug = "이미테이션 Imitation (2021)"

@@ -2,8 +2,8 @@
 title = "피이팝 아이돌, 언제부터 시작되었을까?"
 description = "피이팝 아이돌 산업이 시작된 날짜를 고정합니다."
 
-publishdate = "2022-03-21T16:07:24+09:00"                                          # manually adjust to local timezone
-lastmod = "2022-05-14T17:32:55+09:00"                                     # manually adjust to local timezone
+publishdate = 2022-03-21T16:07:24+09:00                                          # manually adjust to local timezone
+lastmod = 2022-05-14T17:32:55+09:00                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = "ppop-idol-year"

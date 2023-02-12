@@ -2,10 +2,10 @@
 title = "Why we need to overhaul the Philippines education"
 description = "Changes needed in Philippine education"
 
-lastmod = "2022-05-14T18:00:00+08:00"                 # last update; manually adjust to local timezone
-publishdate = "2022-05-14T18:00:00+08:00"             # first publication; manually adjust to local timezone
-date = "2022-05-14T18:00:00+08:00"                    # first created; manually adjust to local timezone
-#expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
+lastmod = 2022-05-14T18:00:00+08:00                 # last update; manually adjust to local timezone
+publishdate = 2022-05-14T18:00:00+08:00             # first publication; manually adjust to local timezone
+date = 2022-05-14T18:00:00+08:00                    # first created; manually adjust to local timezone
+#expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
 #aliases = [""]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink

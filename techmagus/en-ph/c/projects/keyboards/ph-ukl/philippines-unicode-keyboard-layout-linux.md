@@ -4,8 +4,8 @@ description = "Filipino Linux users around the world can now download and use th
 
 # DATE checked and correct
 
-publishdate = "2010-10-23T19:40:10+08:00"                                        # manually adjust to local timezone
-lastmod = "2022-11-16T17:17:00+08:00"                                        # manually adjust to local timezone
+publishdate = 2010-10-23T19:40:10+08:00                                        # manually adjust to local timezone
+lastmod = 2022-11-16T17:17:00+08:00                                        # manually adjust to local timezone
 
 aliases = ["/p/philippines-unicode-keyboard-linux.html", "/projects/keyboard/philippines-baybayin-unicode-linux-2010296"]
 url = "/projects/keyboards/philippines-keyboard-unicode-baybayin-linux-2010296"

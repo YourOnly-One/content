@@ -4,8 +4,8 @@ description = "Philippine Typhoon Signals and the American Hurricane Categories 
 
 # DATE checked and correct
 
-publishdate = "2009-10-02T00:03:23+08:00"                                        # manually adjust to local timezone
-lastmod = "2009-10-02T00:03:23+08:00"                                        # manually adjust to local timezone
+publishdate = 2009-10-02T00:03:23+08:00                                        # manually adjust to local timezone
+lastmod = 2009-10-02T00:03:23+08:00                                        # manually adjust to local timezone
 
 aliases = ["/2009/10/comparison-typhoon-signals-hurricane-category.html"]
 slug = "comparison-typhoon-signals-hurricane-categories"

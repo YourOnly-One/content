@@ -2,8 +2,8 @@
 title = "Disclosure"
 description = "YourOnly.One™ Disclosure"
 
-publishdate = "2016-06-14T06:04:00+00:00"
-lastmod = "2020-03-25T06:04:00+08:00"
+publishdate = 2016-06-14T06:04:00+00:00
+lastmod = 2020-03-25T06:04:00+08:00
 
 #aliases = ["", ""]
 #slug = ""

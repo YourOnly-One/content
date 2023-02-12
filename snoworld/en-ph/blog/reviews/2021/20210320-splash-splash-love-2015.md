@@ -2,8 +2,8 @@
 title = "«Splash Splash LOVE» review"
 description = "A story you will never forget for the rest of your life"  # For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2021-03-20T11:10:37+08:00"
-lastmod = "2021-03-20T11:10:37+08:00"
+publishdate = 2021-03-20T11:10:37+08:00
+lastmod = 2021-03-20T11:10:37+08:00
 
 #aliases = [""]
 slug = "퐁당퐁당 LOVE Splash Splash LOVE (2015)"

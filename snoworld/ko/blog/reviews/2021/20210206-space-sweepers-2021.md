@@ -3,8 +3,8 @@ title = "승리호 비평"
 description = "한국 최초의 우주 쇼 리뷰, 승리호 Space Sweepers (2021)."													# IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
 summary = "한국 최초의 우주 쇼 리뷰, 승리호 Space Sweepers (2021)."																											# for summary text in list displays
 
-publishdate = "2021-02-06T17:53:16+09:00"
-lastmod = "2021-02-06T17:53:16+09:00"
+publishdate = 2021-02-06T17:53:16+09:00
+lastmod = 2021-02-06T17:53:16+09:00
 
 aliases = ["/ko/review-space-sweepers-2021-202137"] # Permanent (twt)
 slug = "승리호 Space Sweepers (2021)"

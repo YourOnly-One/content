@@ -7,8 +7,8 @@ images = ["https://1.bp.blogspot.com/-6RVBTHA7oQ4/X8r3rBADTSI/AAAAAAAAoKk/dES600
 #videos = [""]																											# og:video
 #audio = [""]																												# og:audio
 
-publishdate = "2020-12-05T11:12:14+08:00"
-lastmod = "2020-12-05T11:12:14+08:00"
+publishdate = 2020-12-05T11:12:14+08:00
+lastmod = 2020-12-05T11:12:14+08:00
 
 aliases = ["/mix-secret-admirer-2020340", "/c/albums/secret-admirer-2020340"]	# Permanent (old FB posts)
 slug = "Secret Admirer"

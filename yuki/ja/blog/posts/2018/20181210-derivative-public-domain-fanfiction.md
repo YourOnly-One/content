@@ -2,8 +2,8 @@
 title = "パブリックドメインの派生物は作品、ファンフィクションですか？"
 description = "パブリックドメインの著作物に基づく二次的著作物は、ファンフィクションではありません。"  # For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2018-12-10T10:25:01+09:00"
-lastmod = "2022-05-16T12:01:05+09:00"
+publishdate = 2018-12-10T10:25:01+09:00
+lastmod = 2022-05-16T12:01:05+09:00
 
 aliases = ["derivative-public-domain-fanfiction-202197"]
 slug = "derivative-public-domain-fan-fiction"

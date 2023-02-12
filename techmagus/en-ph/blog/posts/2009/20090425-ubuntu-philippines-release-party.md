@@ -2,8 +2,8 @@
 title = "[Event] Philippine Ubuntu 9.04 Release Party"
 description = "The official Philippine LoCo Ubuntu 9.04 Release Party was a fun and huge success. The highlight of the event was getting to know fellow Ubuntu Linux users"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-publishdate = "2009-04-25T11:00:00+08:00"                                        # manually adjust to local timezone
-lastmod = "2009-04-25T11:00:00+08:00"                                        # manually adjust to local timezone
+publishdate = 2009-04-25T11:00:00+08:00                                        # manually adjust to local timezone
+lastmod = 2009-04-25T11:00:00+08:00                                        # manually adjust to local timezone
 
 aliases = ["/2009/04/philippine-ubuntu-9-04-release-party.html"]
 slug = "ubuntu-philippines-release-party"

@@ -2,8 +2,8 @@
 title = "Messiah's name: Yahushua or Yahusha?"
 description = "Discussions about the transliteration & pronunciation of our Messiah's name יְהוֹשׁוּעַ (full) / יְהוֹשֻׁעַ (defective) abounds. Which one is accurate?"  # For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2016-02-03T02:13:44+08:00"                          # manually adjust to local timezone
-lastmod = "2016-02-03T02:13:44+08:00"                          # manually adjust to local timezone
+publishdate = 2016-02-03T02:13:44+08:00                          # manually adjust to local timezone
+lastmod = 2016-02-03T02:13:44+08:00                          # manually adjust to local timezone
 
 aliases = ["/2016/02/messiah-yahushua-yahusha.html"]
 slug = "Messiah's name: Yahushua or Yahusha?"

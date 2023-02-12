@@ -2,8 +2,8 @@
 title = "《驚異的な噂》 批評"
 description = "家族、友情、許し、そして二度目のチャンスについての物語。"	# For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2021-01-25T17:20:30+09:00"
-lastmod = "2021-01-25T17:20:30+09:00"
+publishdate = 2021-01-25T17:20:30+09:00
+lastmod = 2021-01-25T17:20:30+09:00
 
 #aliases = [""]
 slug = "경이로운 소문 The Uncanny Counter (2020)"

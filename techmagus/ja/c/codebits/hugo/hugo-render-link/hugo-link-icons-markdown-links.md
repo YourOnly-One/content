@@ -2,8 +2,8 @@
 title = "Hugo Markdownリンクにリンクアイコンを追加する方法"
 description = "HugoでMarkdownリンクのリンクアイコンを追加する方法"
 
-publishdate = "2022-05-20T20:24:30+09:00"                                          # manually adjust to local timezone
-lastmod = "2022-06-17T15:07:01+09:00"                                       # manually adjust to local timezone
+publishdate = 2022-05-20T20:24:30+09:00                                          # manually adjust to local timezone
+lastmod = 2022-06-17T15:07:01+09:00                                       # manually adjust to local timezone
 
 aliases = ["/ja/codebits/how-to-add-link-icons-hugo-markdown-links-2022140", "/ja/codebits/hugo-render-link/how-to-add-link-icons-hugo-markdown-links-2022140"]
 slug = "how-to-add-link-icons-hugo-markdown-links"

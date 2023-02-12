@@ -2,10 +2,10 @@
 title = "《財閥の末息子 (재벌집 막내아들)》（2022）説明"
 description = "《財閥の末息子 (재벌집 막내아들)》のエンディングが説明した。"
 
-lastmod = "2022-12-27T14:40:37+09:00"                 # last update; manually adjust to local timezone
-publishdate = "2022-12-27T05:25:27+09:00"             # first publication; manually adjust to local timezone
-date = "2022-12-26T08:00:00+09:00"                    # first created; manually adjust to local timezone
-#expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
+lastmod = 2022-12-27T14:40:37+09:00                 # last update; manually adjust to local timezone
+publishdate = 2022-12-27T05:25:27+09:00             # first publication; manually adjust to local timezone
+date = 2022-12-26T08:00:00+09:00                    # first created; manually adjust to local timezone
+#expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
 #aliases = [""]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink

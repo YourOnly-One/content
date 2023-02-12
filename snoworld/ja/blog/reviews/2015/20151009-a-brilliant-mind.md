@@ -2,10 +2,10 @@
 title = "ブリリアントヤングマインド 批評"
 description = "自閉症の数学の天才が自分自身と自分自身でより広い世界についてもっと発見することについての物語。"
 
-lastmod = "2022-08-17T01:24:40+09:00"                 # last update; manually adjust to local timezone
-publishdate = "2015-10-09T14:09:20+00:00"             # first publication; manually adjust to local timezone
-date = "2015-10-09T14:09:20+00:00"                    # first created; manually adjust to local timezone
-#expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
+lastmod = 2022-08-17T01:24:40+09:00                 # last update; manually adjust to local timezone
+publishdate = 2015-10-09T14:09:20+00:00             # first publication; manually adjust to local timezone
+date = 2015-10-09T14:09:20+00:00                    # first created; manually adjust to local timezone
+#expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
 #aliases = [""]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink

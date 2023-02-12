@@ -2,8 +2,8 @@
 title = "愛の真の定義"
 description = "愛とは正確には何ですか？"  # For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2016-02-22T00:07:30+09:00"
-lastmod = "2016-02-22T00:07:30+09:00"
+publishdate = 2016-02-22T00:07:30+09:00
+lastmod = 2016-02-22T00:07:30+09:00
 
 aliases = ["/ja/true-definition-of-love-201652"]  # Permanent timezone
 slug = "True Definition of Love"

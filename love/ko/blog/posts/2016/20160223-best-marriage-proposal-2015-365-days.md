@@ -2,8 +2,8 @@
 title = "[동영상] 2015 년 최고의 결혼 제안-365 일 제안"
 description = "2015 년 최고의 결혼 제안은 365 일 제안"	# For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2016-02-23T15:53:50+09:00"
-lastmod = "2016-02-23T15:53:50+09:00"
+publishdate = 2016-02-23T15:53:50+09:00
+lastmod = 2016-02-23T15:53:50+09:00
 
 #aliases = [""]
 slug = "Best Marriage Proposal of 2015 - 365 Day Proposal"

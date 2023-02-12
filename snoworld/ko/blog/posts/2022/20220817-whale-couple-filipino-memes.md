@@ -2,10 +2,10 @@
 title = "고래 커플 필리핀 밈"
 description = "우변호사 고래부부 재밌고 재치있는 필리핀 밈"
 
-lastmod = "2022-08-17T22:50:00+09:00"                 # last update; manually adjust to local timezone
-publishdate = "2022-08-17T22:50:00+09:00"             # first publication; manually adjust to local timezone
-date = "2022-08-17T17:30:20+09:00"                    # first created; manually adjust to local timezone
-#expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
+lastmod = 2022-08-17T22:50:00+09:00                 # last update; manually adjust to local timezone
+publishdate = 2022-08-17T22:50:00+09:00             # first publication; manually adjust to local timezone
+date = 2022-08-17T17:30:20+09:00                    # first created; manually adjust to local timezone
+#expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
 #aliases = [""]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink

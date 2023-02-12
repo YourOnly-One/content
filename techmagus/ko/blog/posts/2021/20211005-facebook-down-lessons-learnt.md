@@ -2,8 +2,8 @@
 title = "FacebookDown에서 배운 교훈"
 description = "Facebook, Instagram, Messenger 및 WhatsApp의 가장 긴 다운타임에서 우리는 어떤 교훈을 배워야 할까요?"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-publishdate = "2021-10-06T07:21:07+09:00"                                        # manually adjust to local timezone
-lastmod = "2021-10-06T07:21:07+09:00"                                        # manually adjust to local timezone
+publishdate = 2021-10-06T07:21:07+09:00                                        # manually adjust to local timezone
+lastmod = 2021-10-06T07:21:07+09:00                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "lessons-learned-facebook-down"

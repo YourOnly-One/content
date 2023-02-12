@@ -2,8 +2,8 @@
 title = "Your Christian Bible and Christmas Trees"
 description = "People say Christmas Trees are pagan. But what does the Christian Bible really say about it?"  # For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = "2018-12-12T07:57:02+08:00"                          # manually adjust to local timezone
-lastmod = "2018-12-12T07:57:02+08:00"                          # manually adjust to local timezone
+publishdate = 2018-12-12T07:57:02+08:00                          # manually adjust to local timezone
+lastmod = 2018-12-12T07:57:02+08:00                          # manually adjust to local timezone
 
 aliases = ["/2018/12/christian-bible-christmas-trees.html"]
 slug = "Your Christian Bible and Christmas Trees"

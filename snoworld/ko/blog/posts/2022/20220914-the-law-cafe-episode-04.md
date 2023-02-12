@@ -2,10 +2,10 @@
 title = "《법대로 사랑하라》 에피소드 4: 아동학대"
 description = "《법대로 사랑하라》 에피소드 4는 아이들이 집에서 직접 겪는 아동학대의 심각성을 다뤘다."
 
-lastmod = "2022-09-14T17:40:00+09:00"                 # last update; manually adjust to local timezone
-publishdate = "2022-09-14T17:40:00+09:00"             # first publication; manually adjust to local timezone
-date = "2022-09-14T13:30:33+09:00"                    # first created; manually adjust to local timezone
-#expirydate = "2022-04-07T17:53:01+08:00"              # expiry; manually adjust to local timezone
+lastmod = 2022-09-14T17:40:00+09:00                 # last update; manually adjust to local timezone
+publishdate = 2022-09-14T17:40:00+09:00             # first publication; manually adjust to local timezone
+date = 2022-09-14T13:30:33+09:00                    # first created; manually adjust to local timezone
+#expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
 #aliases = [""]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink

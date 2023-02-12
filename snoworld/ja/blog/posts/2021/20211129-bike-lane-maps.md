@@ -2,8 +2,8 @@
 title = "更新された自転車レーンマップとそれらを見つける場所"
 description = "コミュニティ主導で頻繁に更新されるフィリピンの自転車マップ"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-publishdate = "2021-11-29T08:40:32+09:00"                                        # manually adjust to local timezone
-lastmod = "2021-11-29T08:40:32+09:00"                                        # manually adjust to local timezone
+publishdate = 2021-11-29T08:40:32+09:00                                        # manually adjust to local timezone
+lastmod = 2021-11-29T08:40:32+09:00                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "bike-lane-maps"
