@@ -2,7 +2,7 @@
 title = ""
 description = ""
 
-publishdate = {{ .Date }}                                          # manually adjust to local timezone
+#publishdate = {{ .Date }}                                          # manually adjust to local timezone
 lastmod = 2022-04-07T17:53:01+08:00                                       # manually adjust to local timezone
 
 #aliases = [""]
