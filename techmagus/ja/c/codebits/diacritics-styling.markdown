@@ -106,6 +106,8 @@ trab<span class="diacritics">͟</span>aho
 - <span lang="fil">pu<span class="text-red diacritics">̱</span>sa<span class="diacritics">̀</span> [pu<span class="diacritics">̱</span>·sa<span class="diacritics">̀</span>]</span>
 - <span lang="fil">trab<span class="text-red diacritics">͟</span>aho [tra·b<span class="diacritics">͟</span>a·ho]</span>
 
+[CodePen](https://codepen.io/techmagus/pen/NWLqoLd)経由でも利用できます。 または、私の[test-repo: Noto Diacriticals](https://github.com/techmagus/test-repo/tree/noto-diacriticals) Gitブランチから簡単なテストページを複製することもできます。
+
 ---
 
 {{< image
