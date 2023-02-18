@@ -86,7 +86,7 @@ Here are examples:
 bata<span class="diacritics">̀</span>
 panibugho<span class="diacritics">̂</span>
 ara<span class="diacritics">́</span>w–a<span class="diacritics">́</span>raw
-ke<span class="diacritics">̈</span>tke<span class="diacritics">́</span>t
+ke<span class="diacritics">̈</span>tke<span class="diacritics">̈</span>t
 sag<span class="diacritics">̃</span>nay or sagn<span class="diacritics">̃</span>ay
 pan<span class="diacritics">͠</span>gulo
 a<span class="diacritics">̄</span>so
@@ -98,7 +98,7 @@ trab<span class="diacritics">͟</span>aho
 - <span lang="fil">bata<span class="text-red diacritics">̀</span> [ba·ta<span class="diacritics">̀</span>]</span>
 - <span lang="fil">panibugho<span class="text-red diacritics">̂</span> [pa·ni·bu<span class="diacritics">̄</span>g·ho<span class="diacritics">̂</span>]</span>
 - <span lang="fil">ara<span class="text-red diacritics">́</span>w–a<span class="text-red diacritics">́</span>raw [a·ra<span class="diacritics">́</span>w–a<span class="diacritics">́</span>·raw]</span>
-- <span lang="fil">ke<span class="text-red diacritics">̈</span>tke<span class="text-red diacritics">́</span>t [ke<span class="diacritics">̈</span>t·ke<span class="diacritics">̈</span>t]</span>
+- <span lang="fil">ke<span class="text-red diacritics">̈</span>tke<span class="text-red diacritics">̈</span>t [ke<span class="diacritics">̈</span>t·ke<span class="diacritics">̈</span>t]</span>
 - <span lang="fil">sag<span class="text-red diacritics">̃</span>nay or sagn<span class="text-red diacritics">̃</span>ay [sa·n<span class="diacritics">̃</span>gay]</span>
 - <span lang="fil">pan<span class="text-red diacritics">͠</span>gulo [pa·n<span class="diacritics">͠</span>gu·lo]</span>
 - <span lang="fil">a<span class="text-red diacritics">̄</span>so [a<span class="diacritics">̄</span>·so]</span>
