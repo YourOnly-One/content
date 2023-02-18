@@ -134,8 +134,3 @@ trab<span class="diacritics">͟</span>aho
   cc0countrycode="ph"
   cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
 >}}
-
----
-
-注意:ネイバーPapago神経翻訳
-주의사항 : 네이버 파파고 신경번역
