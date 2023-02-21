@@ -1,6 +1,6 @@
 +++
-title = "Styling fix-diacritics-sans-dejavu"
-description = "Bold, add colours, and change font, of the fix-diacritics-sans-dejavu!"
+title = "Styling Diacritics"
+description = "Bold, add colours, and change font, of the diacritics!"
 
 lastmod = 2023-02-18T12:50:27+08:00                 # last update; manually adjust to local timezone
 publishdate = 2023-02-18T12:50:27+08:00             # first publication; manually adjust to local timezone
@@ -9,9 +9,9 @@ date = 2023-02-18T07:07:07+08:00                    # first created; manually ad
 
 #aliases = [""]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-slug = "styling-fix-diacritics-sans-dejavu"
-translationKey = "styling-fix-diacritics-sans-dejavu-202349"
-relCanonical = "https://im.youronly.one/techmagus/codebits/styling-fix-diacritics-sans-dejavu-202349/"
+slug = "styling-diacritics"
+translationKey = "styling-diacritics-202349"
+relCanonical = "https://im.youronly.one/techmagus/codebits/styling-diacritics-202349/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
 #disquq_identifier = ""                                # set if date of this content is different from main translation
 
@@ -23,7 +23,7 @@ syndications = ["https://c.im/@youronlyone/109884872748192850", "https://twitter
 channels = ["techmagus"]
 categories = ["howto", "web"]
 #keywords = [""]
-series = ["fix-diacritics-sans-dejavu", "diacritical marks", "how to add colors to accent symbols", "how to add colours to diacritical signs"]
+series = ["diacritics", "diacritical marks", "how to add colors to accent symbols", "how to add colours to diacritical signs"]
 tags = ["css", "html"]
 
 comments = true
@@ -37,7 +37,7 @@ translation = false
 translationby = ""
 
 #audio = [""]
-images = ["images/d/fix-diacritics-sans-dejavu.png"]
+images = ["images/d/diacritics.png"]
 #videos = ["https://www.youtube.com/watch?v="]
 
 type = "article"                                             # article, sitepage, review
@@ -64,7 +64,7 @@ If you are wondering if there is a way to add a colour to diacritical marks, als
 1. Create a CSS style like this:
 
     ```css
-    .fix-diacritics-sans-dejavu {
+    .diacritics {
       color: hsla(0deg, 100%, 50%, 1);
       color: hwb(0deg 0% 0% / 100%);
       font-family: "DejaVu Sans"; /* Currently, DejaVu Sans has the highest accuracy in diacritical mark positioning. */
@@ -72,10 +72,10 @@ If you are wondering if there is a way to add a colour to diacritical marks, als
     }
     ```
 
-1. Place the fix-diacritics-sans-dejavu within the `fix-diacritics-sans-dejavu` class
+1. Place the diacritics within the `diacritics` class
 
     ```html
-    <span class="fix-diacritics-sans-dejavu"></span>
+    <span class="diacritics"></span>
     ```
 
 Done!
@@ -83,16 +83,16 @@ Done!
 Here are examples:
 
 ```html
-bata<span class="fix-diacritics-sans-dejavu">̀</span>
-panibugho<span class="fix-diacritics-sans-dejavu">̂</span>
-ara<span class="fix-diacritics-sans-dejavu">́</span>w–a<span class="fix-diacritics-sans-dejavu">́</span>raw
-ke<span class="fix-diacritics-sans-dejavu">̈</span>tke<span class="fix-diacritics-sans-dejavu">̈</span>t
-sag<span class="fix-diacritics-sans-dejavu">̃</span>nay or sagn<span class="fix-diacritics-sans-dejavu">̃</span>ay
-pan<span class="fix-diacritics-sans-dejavu">͠</span>gulo
-a<span class="fix-diacritics-sans-dejavu">̄</span>so
-h<span class="fix-diacritics-sans-dejavu">͞</span>oy
-pu<span class="fix-diacritics-sans-dejavu">̱</span>sà
-trab<span class="fix-diacritics-sans-dejavu">͟</span>aho
+bata<span class="diacritics">̀</span>
+panibugho<span class="diacritics">̂</span>
+ara<span class="diacritics">́</span>w–a<span class="diacritics">́</span>raw
+ke<span class="diacritics">̈</span>tke<span class="diacritics">̈</span>t
+sag<span class="diacritics">̃</span>nay or sagn<span class="diacritics">̃</span>ay
+pan<span class="diacritics">͠</span>gulo
+a<span class="diacritics">̄</span>so
+h<span class="diacritics">͞</span>oy
+pu<span class="diacritics">̱</span>sà
+trab<span class="diacritics">͟</span>aho
 ```
 
 - <span lang="fil">bata<span class="text-guide fix-diacritics-sans-dejavu">̀</span> [ba·ta<span class="fix-diacritics-sans-dejavu">̀</span>]</span>
@@ -115,12 +115,12 @@ It is also available via [CodePen](https://codepen.io/techmagus/pen/NWLqoLd). Or
 
   isrepresentativeofpage=true
 
-  link="images/d/fix-diacritics-sans-dejavu.png"
+  link="images/d/diacritics.png"
   linkrel="noopener"
 
-  title="Filipino fix-diacritics-sans-dejavu"
+  title="Filipino Diacritics"
   caption=""
-  alt="Filipino fix-diacritics-sans-dejavu"
+  alt="Filipino Diacritics"
   embeddedtextcaption="yá yū ba͟·n͠ga yë Ligñon yò sang̃ay yî"
   inlanguage="fil"
 
