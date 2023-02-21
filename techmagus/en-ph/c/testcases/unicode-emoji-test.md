@@ -129,7 +129,7 @@ Also see: [Paleo-Hebrew / Phoenician Unicode Keyboard Layout](paleo-hebrew-phoen
       <td><a href="https://codeberg.org/yelosan/unicode-keyboard-layout-phoenician/wiki/Fonts" title="Fonts">Hebrew Paleo Gezer</a></td>
     </tr>
     <tr>
-      <td><bdi dir="rtl" class="font-noto-sans-hebrew" lang="hbo-Hebr">𐤉𐤅𐤇𐤍𐤍</bdi></td>
+      <td><bdi dir="rtl" class="font-hebrew-sans-noto" lang="hbo-Hebr">𐤉𐤅𐤇𐤍𐤍</bdi></td>
       <td>5.0</td>
       <td><a href="https://codeberg.org/yelosan/unicode-keyboard-layout-phoenician/wiki/Fonts" title="Fonts">Noto Sans Phoenician</a></td>
     </tr>
