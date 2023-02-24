@@ -3,7 +3,7 @@ title = "The Philippines Unicode & Font Test with Barabara Font"
 description = "Unicode and font test page for Philippines related scripts. Test your browser and operating system today!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2018-03-03T00:17:36+08:00                                        # manually adjust to local timezone
-lastmod = 2023-02-20T18:20:20+08:00                                        # manually adjust to local timezone
+lastmod = 2023-02-23T22:15:17+08:00                                        # manually adjust to local timezone
 
 aliases = ["/p/philippines-unicode-font-test.html"]
 slug = "the-philippines-unicode-font-test-with-barabara-font"
@@ -93,9 +93,9 @@ The <bdi class="font-barabara-fantasy" lang="phi">Barabara</bdi> font is a typog
   }
 </style>
 
-## Baybayin-Tagalog script
+## <ruby class="ruby-under"><ruby class="ruby-over" lang="fil-Tglg">ᜀᜅ᜕<rp>(</rp><rt lang="fil">ang</rt><rp>)</rp> ᜐᜓ<rp>(</rp><rt lang="fil">su</rt><rp>)</rp>ᜎᜆ᜔<rp>(</rp><rt lang="fil">lat</rt><rp>)</rp> ᜆ<rp>(</rp><rt lang="fil">ta</rt><rp>)</rp>ᜄ<rp>(</rp><rt lang="fil">ga</rt><rp>)</rp>ᜎᜓᜄ᜕<rp>(</rp><rt lang="fil">log</rt><rp>)</rp></ruby><rp>(</rp><rt><span lang="fil">Baybayin Tagalog</span> script</rt><rp>)</rp></ruby>
 
-### Tagalog vowels
+### <ruby class="ruby-under"><ruby class="ruby-over" lang="fil-Tglg">ᜋ<rp>(</rp><rt lang="fil">ma</rt><rp>)</rp>ᜅ<rp>(</rp><rt lang="fil">nga</rt><rp>)</rp> ᜉ<rp>(</rp><rt lang="fil">pa</rt><rp>)</rp>ᜆᜒ<rp>(</rp><rt lang="fil">ti</rt><rp>)</rp>ᜈᜒᜄ᜔<rp>(</rp><rt lang="fil">nig</rt><rp>)</rp> ᜐ<rp>(</rp><rt lang="fil">sa</rt><rp>)</rp> ᜆ<rp>(</rp><rt lang="fil">ta</rt><rp>)</rp>ᜄ<rp>(</rp><rt lang="fil">ga</rt><rp>)</rp>ᜎᜓᜄ᜕<rp>(</rp><rt lang="fil">log</rt><rp>)</rp></ruby><rp>(</rp><rt><span lang="fil">Tagalog</span> vowels</rt><rp>)</rp></ruby>
 
 <div class="table-wrapper table-5col">
 
@@ -105,7 +105,7 @@ The <bdi class="font-barabara-fantasy" lang="phi">Barabara</bdi> font is a typog
 
 </div>
 
-### Tagalog consonant
+### <ruby class="ruby-under"><ruby class="ruby-over" lang="fil-Tglg">ᜋ<rp>(</rp><rt lang="fil">ma</rt><rp>)</rp>ᜅ<rp>(</rp><rt lang="fil">nga</rt><rp>)</rp> ᜃ<rp>(</rp><rt lang="fil">ka</rt><rp>)</rp>ᜆᜒ<rp>(</rp><rt lang="fil">ti</rt><rp>)</rp>ᜈᜒᜄ᜔<rp>(</rp><rt lang="fil">nig</rt><rp>)</rp> ᜐ<rp>(</rp><rt lang="fil">sa</rt><rp>)</rp> ᜆ<rp>(</rp><rt lang="fil">ta</rt><rp>)</rp>ᜄ<rp>(</rp><rt lang="fil">ga</rt><rp>)</rp>ᜎᜓᜄ᜕<rp>(</rp><rt lang="fil">log</rt><rp>)</rp></ruby><rp>(</rp><rt><span lang="fil">Tagalog</span> consonants</rt><rp>)</rp></ruby>
 
 <div class="table-wrapper table-5col">
 
@@ -138,11 +138,36 @@ The <bdi class="font-barabara-fantasy" lang="phi">Barabara</bdi> font is a typog
 | <span lang="fil-Tglg">ᜟ</span> | <span lang="fil-Tglg">᜕</span> | <span lang="fil-Tglg">᜔</span> | <span lang="fil-Tglg">᜵</span> | <span lang="fil-Tglg">᜶</span> |
 
 </div>
-<br/>
+
+### Tagalog examples
+
+#### Noto Sans Tagalog font
+
+<ruby class="ruby-under" style="font-size: larger;">
+  <ruby class="ruby-over font-baybayin-sans-noto" lang="fil-Tglg">
+    ᜀᜃᜓ ᜀᜌ᜕ ᜈᜋᜋᜎᜄᜒ ᜋᜎᜉᜒᜆ᜕ ᜐ ᜁᜐᜅ᜕ ᜉᜋ᜔ᜉᜅ᜕᜶<rp>(</rp><rt lang="fil">Ako ay namamalagi malapit sa isang pampang.</rt><rp>)</rp>
+  </ruby>
+  <rp>(</rp><rt>I am residing near a shore.</rt><rp>)</rp>
+</ruby>
+<p></p>
+
+The above font can be downloaded from Noto Dashboard: [Noto Tagalog](https://notofonts.github.io/#tagalog).
+
+#### Nordenx's Baybayin Modern Club font
+
+<ruby class="ruby-under" style="font-size: larger;">
+  <ruby class="ruby-over font-baybayin-nordenx" lang="fil-Tglg">
+    ᜀᜃᜓ ᜀᜌ᜕ ᜈᜋᜋᜎᜄᜒ ᜋᜎᜉᜒᜆ᜕ ᜐ ᜁᜐᜅ᜕ ᜉᜋ᜔ᜉᜅ᜕᜶<rp>(</rp><rt lang="fil">Ako ay namamalagi malapit sa isang pampang.</rt><rp>)</rp>
+  </ruby>
+  <rp>(</rp><rt>I am residing near a shore.</rt><rp>)</rp>
+</ruby>
+<p></p>
+
+The above font was a subset of Nordenx's [Baybayin Modern Club Font](https://www.deviantart.com/nordenx/art/Baybayin-Modern-Club-Font-231829356) before Unicode 14.0 (Tagalog pamudpod), used with permission for web embed.
 
 ---
 
-## Baybayin-Hanunoo script
+## <ruby class="ruby-under"><ruby class="ruby-over" lang="fil-Tglg">ᜠᜥ᜔<rp>(</rp><rt lang="fil">ang</rt><rp>)</rp> ᜰᜳ<rp>(</rp><rt lang="fil">su</rt><rp>)</rp>ᜭᜦ᜴<rp>(</rp><rt lang="fil">rat</rt><rp>)</rp> ᜱ<rp>(</rp><rt lang="fil">ha</rt><rp>)</rp>ᜨᜳ<rp>(</rp><rt lang="fil">nu</rt><rp>)</rp>ᜨᜳ<rp>(</rp><rt lang="fil">no</rt><rp>)</rp>ᜢ<rp>(</rp><rt lang="fil">o</rt><rp>)</rp></ruby><rp>(</rp><rt><span lang="fil">Baybayin Hanunoo</span> script</rt><rp>)</rp></ruby>
 
 ### Hanunoo Vowels
 
@@ -187,11 +212,36 @@ The <bdi class="font-barabara-fantasy" lang="phi">Barabara</bdi> font is a typog
 | <span lang="fil-Tglg">◌᜴</span> | <span lang="fil-Tglg">᜵</span> | <span lang="fil-Tglg">᜶</span> |
 
 </div>
-<br/>
+
+### Hanunoo examples
+
+#### Noto Sans Hanunoo font
+
+<ruby class="ruby-under" style="font-size: larger;">
+  <ruby class="ruby-over font-baybayin-sans-noto" lang="fil-Hano">
+    ᜠᜣᜳ ᜠᜬ᜴ ᜨᜫᜫᜮᜤᜲ ᜫᜮᜩᜲᜦ᜴ ᜰ ᜡᜰᜥ᜴ ᜩᜫ᜔ᜩᜥ᜴᜶<rp>(</rp><rt lang="fil">Ako ay namamalagi malapit sa isang pampang.</rt><rp>)</rp>
+  </ruby>
+  <rp>(</rp><rt>I am residing near a shore.</rt><rp>)</rp>
+</ruby>
+<p></p>
+
+The above font can be downloaded from Noto Dashboard: [Noto Hanunoo](https://notofonts.github.io/#hanunoo).
+
+#### Nordenx's Baybayin Mangyan Hanunóo Brush font
+
+<ruby class="ruby-under" style="font-size: larger;">
+  <ruby class="ruby-over font-baybayin-nordenx" lang="fil-Hano">
+    ᜠᜣᜳ ᜠᜬ᜴ ᜨᜫᜫᜮᜤᜲ ᜫᜮᜩᜲᜦ᜴ ᜰ ᜡᜰᜥ᜴ ᜩᜫ᜔ᜩᜥ᜴᜶<rp>(</rp><rt lang="fil">Ako ay namamalagi malapit sa isang pampang.</rt><rp>)</rp>
+  </ruby>
+  <rp>(</rp><rt>I am residing near a shore.</rt><rp>)</rp>
+</ruby>
+<p></p>
+
+The above font was a subset of Nordenx's [Baybayin Mangyan Hanunóo Brush Font](http://nordenx.deviantart.com/art/Mangyan-Hanunoo-Brush-Font-169880405) before Unicode 14.0, used with permission for web embed.
 
 ---
 
-## Baybayin-Buhid script
+## <ruby class="ruby-under"><ruby class="ruby-over" lang="fil-Tglg">ᝀᝅ᜔<rp>(</rp><rt lang="fil">ang</rt><rp>)</rp> ᝐᝓ<rp>(</rp><rt lang="fil">su</rt><rp>)</rp>ᝍᝆ᜴<rp>(</rp><rt lang="fil">rat</rt><rp>)</rp> ᝊᝓ<rp>(</rp><rt lang="fil">bu</rt><rp>)</rp>ᝑᝒᝇ᜴<rp>(</rp><rt lang="fil">hid</rt><rp>)</rp></ruby><rp>(</rp><rt><span lang="fil">Baybayin Buhid</span> script</rt><rp>)</rp></ruby>
 
 ### Buhid Vowels
 
@@ -236,11 +286,36 @@ The <bdi class="font-barabara-fantasy" lang="phi">Barabara</bdi> font is a typog
 | <span lang="fil-Buhd">◌᜴</span> | <span lang="fil-Buhd">᜵</span> | <span lang="fil-Buhd">᜶</span> |
 
 </div>
-<br/>
+
+### Buhid examples
+
+#### Noto Sans Buhid font
+
+<ruby class="ruby-under" style="font-size: larger;">
+  <ruby class="ruby-over font-baybayin-sans-noto" lang="fil-Buhd">
+    ᝀᝃᝓ ᝀᝌ᜴ ᝈᝋᝋᝎᝄᝒ ᝋᝎᝉᝒᝆ᜴ ᝐ ᝁᝐᝅ᜴ ᝉᝋ᜔ᝉᝅ᜴᜶<rp>(</rp><rt lang="fil">Ako ay namamalagi malapit sa isang pampang.</rt><rp>)</rp>
+  </ruby>
+  <rp>(</rp><rt>I am residing near a shore.</rt><rp>)</rp>
+</ruby>
+<p></p>
+
+The above font can be downloaded from Noto Dashboard: [Noto Buhid](https://notofonts.github.io/#buhid).
+
+#### Nordenx's Baybayin Mangyan Buhid font
+
+<ruby class="ruby-under" style="font-size: larger;">
+  <ruby class="ruby-over font-baybayin-nordenx" lang="fil-Buhd">
+    ᝀᝃᝓ ᝀᝌ᜴ ᝈᝋᝋᝎᝄᝒ ᝋᝎᝉᝒᝆ᜴ ᝐ ᝁᝐᝅ᜴ ᝉᝋ᜔ᝉᝅ᜴᜶<rp>(</rp><rt lang="fil">Ako ay namamalagi malapit sa isang pampang.</rt><rp>)</rp>
+  </ruby>
+  <rp>(</rp><rt>I am residing near a shore.</rt><rp>)</rp>
+</ruby>
+<p></p>
+
+The above font was a subset of Nordenx's [Baybayin Mangyan Buhid Font](http://nordenx.deviantart.com/art/Mangyan-Buhid-Font-306046314) before Unicode 14.0, used with permission for web embed.
 
 ---
 
-## Baybayin-Tagbanwa script
+## <ruby class="ruby-under"><ruby class="ruby-over" lang="fil-Tglg">ᝠᝥ᜕<rp>(</rp><rt lang="fil">ang</rt><rp>)</rp> ᝰᝳ<rp>(</rp><rt lang="fil">su</rt><rp>)</rp>ᝮᝦ᜕<rp>(</rp><rt lang="fil">lat</rt><rp>)</rp> ᝦᝤ᜔<rp>(</rp><rt lang="fil">tag</rt><rp>)</rp>ᝪᝨ᜔<rp>(</rp><rt lang="fil">ban</rt><rp>)</rp>ᝯ<rp>(</rp><rt lang="fil">wa</rt><rp>)</rp></ruby><rp>(</rp><rt><span lang="fil">Baybayin Tagbanwa</span> script</rt><rp>)</rp></ruby>
 
 ### Tagbanwa Vowels
 
@@ -275,7 +350,20 @@ The <bdi class="font-barabara-fantasy" lang="phi">Barabara</bdi> font is a typog
 | <span lang="fil-Tagb"></span> | <span lang="fil-Tagb">ᝰ</span> | <span lang="fil-Tagb">ᝦ</span> | <span lang="fil-Tagb">ᝯ</span> | <span lang="fil-Tagb">ᝬ</span> |
 
 </div>
-<br/>
+
+### Tagbanwa example
+
+#### Noto Sans Tagbanwa font
+
+<ruby class="ruby-under" style="font-size: larger;">
+  <ruby class="ruby-over font-baybayin-sans-noto" lang="fil-Tagb">
+    ᝠᝣᝳ ᝠᝬ᜕ ᝨᝫᝫᝮᝤᝲ ᝫᝮᝩᝲᝦ᜕ ᝰ ᝡᝰᝥ᜕ ᝩᝫ᜔ᝩᝥ᜕᜶<rp>(</rp><rt lang="fil">Ako ay namamalagi malapit sa isang pampang.</rt><rp>)</rp>
+  </ruby>
+  <rp>(</rp><rt>I am residing near a shore.</rt><rp>)</rp>
+</ruby>
+<p></p>
+
+The above font can be downloaded from Noto Dashboard: [Noto Tagbanwa](https://notofonts.github.io/#tagbanwa).
 
 ---
 
