@@ -5,7 +5,7 @@ description = "Does your browser support CSS2 @font-face rule? You can test it h
 # DATE checked and correct
 
 publishdate = 2010-01-22T15:37:00+08:00                                        # manually adjust to local timezone
-lastmod = 2010-01-22T15:37:00+08:00                                        # manually adjust to local timezone
+lastmod = 2023-02-23T19:29:30+08:00                                        # manually adjust to local timezone
 
 aliases = ["/p/font-face-test-page.html"]
 slug = "font-face-browser-test"
@@ -57,22 +57,16 @@ If you can see the Filipino greeting *<bdi lang="fil">Mabuhay</bdi>* above in **
 
 If you can see the following, then your browser supports the CSS Level 2 @font-face rule.
 
-- Creative Commons circle: <i class="cc">c</i>
-- Attribution logo: <i class="cc">b</i>
-- Creative Commons full logo: <i class="cc">C</i>
-- Share-Alike logo: <i class="cc">a</i>
-- No-Derivatives logo: <i class="cc">d</i>
-- Sampling: <i class="cc">m</i>
-- Non-Commercial logo: <i class="cc">n</i>
-- Public Domain logo: <i class="cc">p</i>
-- Remix: <i class="cc">r</i>
-- Share: <i class="cc">s</i>
+- No Rights Reserved: &#x1F10D;
+- Share-Alike logo: &#x1F10E;
+- Non-Commercial logo: &#x1F10F;
+- Creative Commons circle: &#x1F16D;
+- Public Domain logo: &#x1F16E;
+- Attribution logo: &#x1F16F;
 
 For example, all my sites are licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. CC BY-SA is:
 
-- <i class="cc" style="color: red;" title="CC BY-SA">c</i><i class="cc" style="color: green;" title="CC BY-SA">b</i><i class="cc" style="color: blue;" title="CC BY-SA">a</i>
-- <i class="cc cc-by-sa" style="color: blue" title="CC BY-SA"></i>
-- <i class="cc cc-THREE" style="color: red" title="CC BY-SA"></i>
+<span class="ccicons xxlarge text-red" title="Creative Commons Attribution-ShareAlike 4.0 International License">&#x1F16D;</span> <span class="ccicons xxlarge text-green" title="Creative Commons Attribution-ShareAlike 4.0 International License">&#x1F16F;</span> <span class="ccicons xxlarge text-blue" title="Creative Commons Attribution-ShareAlike 4.0 International License">&#x1F10E;</span>
 
 If you can not see anything, then your browser does not support the CSS2 @font-face rule. Time to upgrade your browser or switch to a better one.
 
