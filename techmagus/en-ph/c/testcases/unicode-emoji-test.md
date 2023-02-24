@@ -1,9 +1,9 @@
 +++
-title = "Unicode 14 and Emoji 14 Test Page"
+title = "Unicode 15 and Emoji 15 Test Page"
 description = "A Unicode and Emoji test page. You can use this to test if your browser can display Unicode and Emoji characters."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2015-08-12T10:23:28+08:00                                        # manually adjust to local timezone
-lastmod = 2022-05-14T16:32:55+08:00                                        # manually adjust to local timezone
+lastmod = 2023-02-23T19:56:21+08:00                                        # manually adjust to local timezone
 
 aliases = ["/p/unicode-emoji-test.html"]
 slug = "unicode-emoji-test"
@@ -55,7 +55,7 @@ This is a Unicode and Emoji test page. You can use this to test if your browser 
   The Emoji list below is displaying the Twitter Emoji embed automatically, thus it will appear that your computer have an updated font but in reality it only support a small set of Unicode Emoji.
 {{% /sembox %}}
 
-- [Current version of Unicode and Emoji: v14.0](https://home.unicode.org/announcing-the-unicode-standard-version-14-0/)
+- [Current version of Unicode and Emoji: v15.0](https://unicode.org/versions/Unicode15.0.0/)
 - [Emoji Recently Added in the Latest Version](https://www.unicode.org/emoji/charts/emoji-released.html)
 
 <!-- ***** If you are viewing this in mobile mode, you may not see the intended fonts as AMP pages are very limited in nature. Please switch to desktop mode when viewing this page. -->
@@ -78,12 +78,49 @@ This is a Unicode and Emoji test page. You can use this to test if your browser 
       <td>Copyleft</td>
       <td>11.0</td>
     </tr>
+    <tr>
+      <td>🄍</td>
+      <td>&#x1F10D;</td>
+      <td>No Rights Reserved</td>
+      <td>13.0</td>
+    </tr>
+    <tr>
+      <td>🄎</td>
+      <td>&#x1F10E;</td>
+      <td>ShareAlike</td>
+      <td>13.0</td>
+    </tr>
+    <tr>
+      <td>🄏</td>
+      <td>&#x1F10F;</td>
+      <td>Non-commercial</td>
+      <td>13.0</td>
+    </tr>
+    <tr>
+      <td>🅭</td>
+      <td>&#x1F16D;</td>
+      <td>Creative Commons</td>
+      <td>13.0</td>
+    </tr>
+    <tr>
+      <td>🅮</td>
+      <td>&#x1F16E;</td>
+      <td>Public Domain</td>
+      <td>13.0</td>
+    </tr>
+    <tr>
+      <td>🅯</td>
+      <td>&#x1F16F;</td>
+      <td>Attribution</td>
+      <td>13.0</td>
+    </tr>
   </tbody>
 </table>
 
 ## Tagalog Unicode
 
 Also see: [Philippines Unicode Keyboard Layout](philippines-unicode-keyboard-layout.md "Philippines Unicode Keyboard Layout")
+
 <table style="width: 100%;">
   <thead>
     <tr>
@@ -94,7 +131,7 @@ Also see: [Philippines Unicode Keyboard Layout](philippines-unicode-keyboard-lay
   </thead>
   <tbody>
     <tr>
-      <td><bdi lang="phi-Tglg" class="font-baybayin-nordenx">ᜋᜊᜓᜑᜌ᜔</bdi></td>
+      <td><bdi class="font-baybayin-nordenx" lang="phi-Tglg">ᜋᜊᜓᜑᜌ᜔</bdi></td>
       <td>3.2</td>
       <td><a href="https://codeberg.org/yelosan/unicode-keyboard-layout-philippines/wiki/Fonts" title="Fonts">Baybayin Modern Club</a></td>
     </tr>
@@ -109,6 +146,7 @@ Also see: [Philippines Unicode Keyboard Layout](philippines-unicode-keyboard-lay
 ## Paleo-Hebrew / Phoenician Unicode
 
 Also see: [Paleo-Hebrew / Phoenician Unicode Keyboard Layout](paleo-hebrew-phoenician-unicode-keyboard-layout.md "Paleo-Hebrew / Phoenician Unicode Keyboard Layout")
+
 <table style="width: 100%;">
   <thead>
     <tr>
@@ -119,17 +157,17 @@ Also see: [Paleo-Hebrew / Phoenician Unicode Keyboard Layout](paleo-hebrew-phoen
   </thead>
   <tbody>
     <tr>
-      <td><bdi dir="rtl" class="font-hebrew-sans-proto-canaanite" lang="hbo-Hebr">𐤉𐤅𐤇𐤍𐤍</bdi></td>
+      <td><bdi class="font-hebrew-sans-proto-canaanite" lang="hbo-Hebr">𐤉𐤅𐤇𐤍𐤍</bdi></td>
       <td>5.0</td>
       <td><a href="https://codeberg.org/yelosan/unicode-keyboard-layout-phoenician/wiki/Fonts" title="Fonts">Proto Canaanite</a></td>
     </tr>
     <tr>
-      <td><bdi dir="rtl" class="font-hebrew-sans-paleo-gezer" lang="hbo-Hebr">𐤉𐤅𐤇𐤍𐤍</bdi></td>
+      <td><bdi class="font-hebrew-sans-paleo-gezer" lang="hbo-Hebr">𐤉𐤅𐤇𐤍𐤍</bdi></td>
       <td>5.0</td>
       <td><a href="https://codeberg.org/yelosan/unicode-keyboard-layout-phoenician/wiki/Fonts" title="Fonts">Hebrew Paleo Gezer</a></td>
     </tr>
     <tr>
-      <td><bdi dir="rtl" class="font-hebrew-sans-noto" lang="hbo-Hebr">𐤉𐤅𐤇𐤍𐤍</bdi></td>
+      <td><bdi class="font-hebrew-sans-noto" lang="hbo-Hebr">𐤉𐤅𐤇𐤍𐤍</bdi></td>
       <td>5.0</td>
       <td><a href="https://codeberg.org/yelosan/unicode-keyboard-layout-phoenician/wiki/Fonts" title="Fonts">Noto Sans Phoenician</a></td>
     </tr>
@@ -148,124 +186,11 @@ Also see: [Paleo-Hebrew / Phoenician Unicode Keyboard Layout](paleo-hebrew-phoen
     </tr>
   </thead>
   <tbody>
-    <!-- BGN: old versions -->
-      <tr>
-        <td><span class="unicode_emoji_test">5️⃣</span></td>
-        <td><span class="unicode_emoji_test">&#x35;&#xFE0F;&#x20E3;</span></td>
-        <td>5 inside a box</td>
-        <td>3.0j</td>
-      </tr>
-      <tr>
-        <td><span class="unicode_emoji_test">🌀</span></td>
-        <td><span class="unicode_emoji_test">&#x1F300;</span></td>
-        <td>cyclone, typhoon, hurricane</td>
-        <td>6.0j</td>
-      </tr>
-      <tr>
-        <td><span class="unicode_emoji_test">🇵🇭</span></td>
-        <td><span class="unicode_emoji_test">&#x1F1F5;&#x1F1ED;</span></td>
-        <td>Philippine flag</td>
-        <td>6.0x</td>
-      </tr>
-      <tr>
-        <td><span class="unicode_emoji_test" style="color: gold;">🕎</span></td>
-        <td><span class="unicode_emoji_test" style="color: gold;">&#x1F54E;</span></td>
-        <td>menorah with nine branches</td>
-        <td>8.0x</td>
-      </tr>
-    <!-- END: old versions -->
-    <!-- BGN: v10.x -->
-      <tr>
-        <td><span class="unicode_emoji_test">🤯</span></td>
-        <td><span class="unicode_emoji_test">&#x1F92F;</span></td>
-        <td>exploding head (a.k.a. mind blown)</td>
-        <td>10.0</td>
-      </tr>
-      <tr>
-        <td><span class="unicode_emoji_test">🧕🏽</span></td>
-        <td><span class="unicode_emoji_test">&#x1F9D5;&#x1F3FD;</span></td>
-        <td>woman with headscarf: medium (brown) skin tone</td>
-        <td>10.0</td>
-      </tr>
-      <!-- BGN: Elf: medium (brown) skin tone -->
-        <tr>
-          <td><span class="unicode_emoji_test">🧝🏽</span></td>
-          <td><span class="unicode_emoji_test">&#x1F9DD;&#x1F3FD;</span></td>
-          <td>elf: medium (brown) skin tone<br />
-          (without gender indicator)</td>
-          <td>10.0</td>
-        </tr>
-        <tr>
-          <td><span class="unicode_emoji_test">🧝🏽‍♂️</span></td>
-          <td><span class="unicode_emoji_test">&#x1F9DD;&#x1F3FD;&#x200D;&#x2642;&#xFE0F;</span></td>
-          <td>male elf: medium (brown) skin tone<br />
-          (with male sign indicator)</td>
-          <td>10.0</td>
-        </tr>
-        <tr>
-          <td><span class="unicode_emoji_test">🧝🏽‍♀️</span></td>
-          <td><span class="unicode_emoji_test">&#x1F9DD;&#x1F3FD;&#x200D;&#x2640;&#xFE0F;</span></td>
-          <td>female elf: medium (brown) skin tone<br />
-          (with female sign indicator)</td>
-          <td>10.0</td>
-        </tr>
-      <!-- END: Elf: medium (brown) skin tone -->
-    <!-- END: v10.x -->
-    <!-- BGN: v11.x -->
-      <tr>
-        <td><span class="unicode_emoji_test">🥵</span></td>
-        <td><span class="unicode_emoji_test">&#x1F975;</span></td>
-        <td>hot face</td>
-        <td>11.0</td>
-      </tr>
-      <tr>
-        <td><span class="unicode_emoji_test">🥶</span></td>
-        <td><span class="unicode_emoji_test">&#x1F976;</span></td>
-        <td>cold face</td>
-        <td>11.0</td>
-      </tr>
-      <tr>
-        <td><span class="unicode_emoji_test">👨🏽‍🦰</span></td>
-        <td><span class="unicode_emoji_test">&#x1F468;&#x1F3FD;&#x200D;&#x1F9B0;</span></td>
-        <td>man: medium (brown) skin tone, red hair</td>
-        <td>11.0</td>
-      </tr>
-      <tr>
-        <td><span class="unicode_emoji_test">👩🏾‍🦱</span></td>
-        <td><span class="unicode_emoji_test">&#x1F469;&#x1F3FE;&#x200D;&#x1F9B1;</span></td>
-        <td>woman: medium-dark (dark-brown) skin tone, curly hair</td>
-        <td>11.0</td>
-      </tr>
-      <tr>
-        <td><span class="unicode_emoji_test">🧭</span></td>
-        <td><span class="unicode_emoji_test">&#x1F9ED;</span></td>
-        <td>compass</td>
-        <td>11.0</td>
-      </tr>
-      <tr>
-        <td><span class="unicode_emoji_test">🧬</span></td>
-        <td><span class="unicode_emoji_test">&#x1F9EC;</span></td>
-        <td>double helix dna</td>
-        <td>11.0</td>
-      </tr>
-    <!-- END: v11.x -->
     <!-- BGN: v12.x -->
       <tr>
         <td><span class="unicode_emoji_test">🐕‍🦺</span></td>
         <td><span class="unicode_emoji_test">&#x1F415;&#x200D;&#x1F9BA;</span></td>
         <td>service dog</td>
-        <td>12.0</td>
-      </tr>
-      <tr>
-        <td><span class="unicode_emoji_test">🪐</span></td>
-        <td><span class="unicode_emoji_test">&#x1FA90;</span></td>
-        <td>ringed planet</td>
-        <td>12.0</td>
-      </tr>
-      <tr>
-        <td><span class="unicode_emoji_test">🤎</span></td>
-        <td><span class="unicode_emoji_test">&#x1F90E;</span></td>
-        <td>brown heart</td>
         <td>12.0</td>
       </tr>
       <tr>
@@ -280,26 +205,8 @@ Also see: [Paleo-Hebrew / Phoenician Unicode Keyboard Layout](paleo-hebrew-phoen
         <td>[Filipino] Family: man medium (brown) + woman medium-dark (dark-brown) + girl medium (brown) + boy medium-dark (dark-brown)</td>
         <td>12.0</td>
       </tr>
-      <tr>
-        <td><span class="unicode_emoji_test">🧊</span></td>
-        <td><span class="unicode_emoji_test">&#x1F9CA;</span></td>
-        <td>ice cube</td>
-        <td>12.0</td>
-      </tr>
     <!-- END: v12.x -->
     <!-- BGN: v13.x -->
-      <tr>
-        <td><span class="unicode_emoji_test">🦣</span></td>
-        <td><span class="unicode_emoji_test">&#x1F9A3;</span></td>
-        <td>mammoth</td>
-        <td>13.0</td>
-      </tr>
-      <tr>
-        <td><span class="unicode_emoji_test">🪙</span></td>
-        <td><span class="unicode_emoji_test">&#x1FA99;</span></td>
-        <td>coin</td>
-        <td>13.0</td>
-      </tr>
       <tr>
         <td><span class="unicode_emoji_test">🧋</span></td>
         <td><span class="unicode_emoji_test">&#x1F9CB;</span></td>
@@ -333,18 +240,6 @@ Also see: [Paleo-Hebrew / Phoenician Unicode Keyboard Layout](paleo-hebrew-phoen
         <td>14.0</td>
       </tr>
       <tr>
-        <td><span class="unicode_emoji_test">🫡</span></td>
-        <td><span class="unicode_emoji_test">&#x1FAE1;</span></td>
-        <td>saluting face</td>
-        <td>14.0</td>
-      </tr>
-      <tr>
-        <td><span class="unicode_emoji_test">🫵🏽</span></td>
-        <td><span class="unicode_emoji_test">&#x1FAF5;&#x1F3FD;</span></td>
-        <td>index pointing at the viewer: medium (brown) skin tone</td>
-        <td>14.0</td>
-      </tr>
-      <tr>
         <td><span class="unicode_emoji_test">🥹</span></td>
         <td><span class="unicode_emoji_test">&#x1F979;</span></td>
         <td>face holding back tears</td>
@@ -357,6 +252,38 @@ Also see: [Paleo-Hebrew / Phoenician Unicode Keyboard Layout](paleo-hebrew-phoen
         <td>14.0</td>
       </tr>
     <!-- END: v14.x -->
+    <!-- BGN: v15.x -->
+      <tr>
+        <td><span class="unicode_emoji_test">🩷</span></td>
+        <td><span class="unicode_emoji_test">&#x1FA77;</span></td>
+        <td>pink heart</td>
+        <td>15.0</td>
+      </tr>
+      <tr>
+        <td><span class="unicode_emoji_test">🪈</span></td>
+        <td><span class="unicode_emoji_test">&#x1FA88;</span></td>
+        <td>flute</td>
+        <td>15.0</td>
+      </tr>
+      <tr>
+        <td><span class="unicode_emoji_test">🛜</span></td>
+        <td><span class="unicode_emoji_test">&#x1F6DC;</span></td>
+        <td>wireless</td>
+        <td>15.0</td>
+      </tr>
+      <tr>
+        <td><span class="unicode_emoji_test">🪭</span></td>
+        <td><span class="unicode_emoji_test">&#x1FAAD;</span></td>
+        <td>folding hand fan</td>
+        <td>15.0</td>
+      </tr>
+      <tr>
+        <td><span class="unicode_emoji_test">🪻</span></td>
+        <td><span class="unicode_emoji_test">&#x1FABB;</span></td>
+        <td>hyacinth</td>
+        <td>15.0</td>
+      </tr>
+    <!-- END: v15.x -->
   </tbody>
 </table>
 
@@ -365,6 +292,7 @@ Also see: [Paleo-Hebrew / Phoenician Unicode Keyboard Layout](paleo-hebrew-phoen
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_magenta" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external nofollow" attribto="" attriblink="" attribrel="noopener external nofollow" %}}
   Did you know? Most emoji sets display July 17<sup>th</sup> for the calendar and desk calendar emojis because it is the official **World Emoji Day**?
 {{% /sembox %}}
+
 <p class="txt_center" style="font-size: 2rem;"><span class="unicode_emoji" style="display: inline-block;">📅</span> <span class="unicode_emoji" style="display: inline-block;">📆</span></p>
 
 ## Recommendations
@@ -376,12 +304,11 @@ To see a uniform Unicode-compliant Emoji, I highly recommend installing **Twemoj
 ## Good reads about Emojis
 
 - [Full Emoji List](https://unicode.org/emoji/charts-beta/full-emoji-list.html) (beta chart)
-
 - [Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html)
 - [Adopt-a-Character](https://home.unicode.org/adopt-a-character/about-adopt-a-character/)
 - [Submitting Emoji Proposals](https://www.unicode.org/emoji/proposals.html)
 - [Emoji Recently Added in the Latest Version](https://www.unicode.org/emoji/charts/emoji-released.html)
-- [Emoji: v14.0](https://home.unicode.org/announcing-the-unicode-standard-version-14-0/)
+- [Unicode / Emoji: v15.0](https://blog.unicode.org/2022/09/announcing-unicode-standard-version-150.html)
 - [emoji/latest/emoji-test.txt](https://www.unicode.org/Public/emoji/latest/emoji-test.txt)
 
 **Twemoji** was used in the above examples. To know more about Twemoji, visit [https://github.com/twitter/twemoji](https://github.com/twitter/twemoji).
