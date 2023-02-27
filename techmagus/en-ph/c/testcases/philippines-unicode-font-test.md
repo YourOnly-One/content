@@ -56,7 +56,7 @@ However, if you attempt to copy-and-paste these examples elsewhere, say in a soc
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external nofollow" attribto="" attriblink="" attribrel="noopener external nofollow" %}}
   If you are viewing this via AMP, Instant Articles, or overriding this with your own mobile template, you will *not* see this page as it should be presented.
 
-  It is advisable to open this page in the latest Firefox browser for desktop, Android (desktop mode), and iOS (desktop mode). Chromium/Chrome-based browsers may or may not work (sometimes there are bugs marked as "working-as-intended" or "won't fix"; other times it was left behind in the past).
+  It is advisable to open this page in the latest Firefox browser for desktop, Android (desktop mode), and iOS (desktop mode). Chromium/Chrome–based browsers may or may not work (sometimes there are bugs marked as "working-as-intended" or "won't fix"; other times it was left behind in the past).
 {{% /sembox %}}
 
 ## <bdi class="font-barabara-fantasy" lang="phi">Barabara Webfont Test</bdi>
@@ -93,9 +93,12 @@ The <bdi class="font-barabara-fantasy" lang="phi">Barabara</bdi> font is a typog
   }
 </style>
 
-## <ruby class="ruby-under"><ruby class="ruby-over" lang="fil-Tglg">ᜀᜅ᜕<rp>(</rp><rt lang="fil">ang</rt><rp>)</rp> ᜐᜓ<rp>(</rp><rt lang="fil">su</rt><rp>)</rp>ᜎᜆ᜔<rp>(</rp><rt lang="fil">lat</rt><rp>)</rp> ᜆ<rp>(</rp><rt lang="fil">ta</rt><rp>)</rp>ᜄ<rp>(</rp><rt lang="fil">ga</rt><rp>)</rp>ᜎᜓᜄ᜕<rp>(</rp><rt lang="fil">log</rt><rp>)</rp></ruby><rp>(</rp><rt><span lang="fil">Baybayin Tagalog</span> script</rt><rp>)</rp></ruby>
+## <ruby class="ruby-under" lang="fil" translate="no"><ruby class="ruby-over"><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜀᜅ᜔</rb><rp>(</rp><rt>Ang</rt><rp>)</rp></ruby> <ruby class="ruby-over"><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜐᜓ</rb><rp>(</rp><rt>su</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜎᜆ᜔</rb><rp>(</rp><rt>lat</rt><rp>)</rp></ruby> <ruby class="ruby-over"><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜆ</rb><rp>(</rp><rt>Ta</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜄ</rb><rp>(</rp><rt>ga</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜎᜓᜄ᜕</rb><rp>(</rp><rt>log</rt><rp>)</rp></ruby><rp>(</rp><rt>Baybayin Tagalog <span lang="en-PH">script</span></rt><rp>)</rp></ruby>
 
-### <ruby class="ruby-under"><ruby class="ruby-over" lang="fil-Tglg">ᜋ<rp>(</rp><rt lang="fil">ma</rt><rp>)</rp>ᜅ<rp>(</rp><rt lang="fil">nga</rt><rp>)</rp> ᜉ<rp>(</rp><rt lang="fil">pa</rt><rp>)</rp>ᜆᜒ<rp>(</rp><rt lang="fil">ti</rt><rp>)</rp>ᜈᜒᜄ᜔<rp>(</rp><rt lang="fil">nig</rt><rp>)</rp> ᜐ<rp>(</rp><rt lang="fil">sa</rt><rp>)</rp> ᜆ<rp>(</rp><rt lang="fil">ta</rt><rp>)</rp>ᜄ<rp>(</rp><rt lang="fil">ga</rt><rp>)</rp>ᜎᜓᜄ᜕<rp>(</rp><rt lang="fil">log</rt><rp>)</rp></ruby><rp>(</rp><rt><span lang="fil">Tagalog</span> vowels</rt><rp>)</rp></ruby>
+The above Noto Sans Tagalog font displays correctly in {{% quote type="title" lang="en" %}}Gecko{{% /quote %}}–based browsers—like {{% quote type="name" lang="en" %}}Mozilla{{% /quote %}} {{% quote type="name" lang="en" %}}Firefox{{% /quote %}}—and {{% quote type="title" lang="en" %}}Blink{{% /quote %}}–based browsers—like {{% quote type="name" lang="en" %}}Naver{{% /quote %}} {{% quote type="name" lang="en" %}}Whale{{% /quote %}} and {{% quote type="name" lang="en" %}}Microsoft {{% /quote %}} {{% quote type="name" lang="en" %}}Edge{{% /quote %}}.
+{.note}
+
+### Tagalog vowels
 
 <div class="table-wrapper table-5col">
 
@@ -105,7 +108,7 @@ The <bdi class="font-barabara-fantasy" lang="phi">Barabara</bdi> font is a typog
 
 </div>
 
-### <ruby class="ruby-under"><ruby class="ruby-over" lang="fil-Tglg">ᜋ<rp>(</rp><rt lang="fil">ma</rt><rp>)</rp>ᜅ<rp>(</rp><rt lang="fil">nga</rt><rp>)</rp> ᜃ<rp>(</rp><rt lang="fil">ka</rt><rp>)</rp>ᜆᜒ<rp>(</rp><rt lang="fil">ti</rt><rp>)</rp>ᜈᜒᜄ᜔<rp>(</rp><rt lang="fil">nig</rt><rp>)</rp> ᜐ<rp>(</rp><rt lang="fil">sa</rt><rp>)</rp> ᜆ<rp>(</rp><rt lang="fil">ta</rt><rp>)</rp>ᜄ<rp>(</rp><rt lang="fil">ga</rt><rp>)</rp>ᜎᜓᜄ᜕<rp>(</rp><rt lang="fil">log</rt><rp>)</rp></ruby><rp>(</rp><rt><span lang="fil">Tagalog</span> consonants</rt><rp>)</rp></ruby>
+### Tagalog consonants
 
 <div class="table-wrapper table-5col">
 
@@ -143,31 +146,154 @@ The <bdi class="font-barabara-fantasy" lang="phi">Barabara</bdi> font is a typog
 
 #### Noto Sans Tagalog font
 
-<ruby class="ruby-under" style="font-size: larger;">
-  <ruby class="ruby-over font-baybayin-sans-noto" lang="fil-Tglg">
-    ᜀᜃᜓ ᜀᜌ᜕ ᜈᜋᜋᜎᜄᜒ ᜋᜎᜉᜒᜆ᜕ ᜐ ᜁᜐᜅ᜕ ᜉᜋ᜔ᜉᜅ᜕᜶<rp>(</rp><rt lang="fil">Ako ay namamalagi malapit sa isang pampang.</rt><rp>)</rp>
-  </ruby>
-  <rp>(</rp><rt>I am residing near a shore.</rt><rp>)</rp>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜂ</rb><rp>(</rp><rt>O</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜂ᜶</rb><rp>(</rp><rt>o.</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">Yes.</rt><rp>)</rp>
 </ruby>
-<p></p>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜃ</rb><rp>(</rp><rt>Ka</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜉᜄ᜔</rb><rp>(</rp><rt>pag</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜁ</rb><rp>(</rp><rt>i</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜌᜓᜅ᜔</rb><rp>(</rp><rt>yong</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜉᜒ</rb><rp>(</rp><rt>pi</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜈᜄ᜔</rb><rp>(</rp><rt>nag</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜑᜈ</rb><rp>(</rp><rt>han</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜇ</rb><rp>(</rp><rt>da</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜀᜈ᜔</rb><rp>(</rp><rt>an</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">If you prepare</rt><rp>)</rp>
+</ruby>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜀᜅ᜔</rb><rp>(</rp><rt>ang</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜃᜒ</rb><rp>(</rp><rt>ki</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜈ</rb><rp>(</rp><rt>na</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜊᜓ</rb><rp>(</rp><rt>bu</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜃ</rb><rp>(</rp><rt>ka</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜐᜈ᜔᜵</rb><rp>(</rp><rt>san,</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">for the future,</rt><rp>)</rp>
+</ruby>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜏ</rb><rp>(</rp><rt>wa</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜎᜅ᜔</rb><rp>(</rp><rt>lang</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜋ</rb><rp>(</rp><rt>ma</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜃ</rb><rp>(</rp><rt>ka</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜉᜒ</rb><rp>(</rp><rt>pi</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜉᜒ</rb><rp>(</rp><rt>pi</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜄᜒᜎ᜔</rb><rp>(</rp><rt>gil</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">no one can stop you</rt><rp>)</rp>
+</ruby>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜈ</rb><rp>(</rp><rt>na</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜋ</rb><rp>(</rp><rt>ma</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜍ</rb><rp>(</rp><rt>ra</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜆᜒᜅ᜔</rb><rp>(</rp><rt>ting</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜋᜓ</rb><rp>(</rp><rt>mo</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">from reaching</rt><rp>)</rp>
+</ruby>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜀᜅ᜔</rb><rp>(</rp><rt>ang</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜁ</rb><rp>(</rp><rt>i</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜌᜓᜅ᜔</rb><rp>(</rp><rt>yong</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜋ</rb><rp>(</rp><rt><ruby><rb>m</rb><rp>(</rp><rt>ma</rt><rp>)</rp></ruby></rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜅ</rb><rp>(</rp><rt><ruby><rb>ga</rb><rp>(</rp><rt>n͠ga</rt><rp>)</rp></ruby></rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜉ</rb><rp>(</rp><rt>pa</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜅ</rb><rp>(</rp><rt>nga</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tglg">ᜍᜉ᜕</rb><rp>(</rp><rt>rap.</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">your dreams.</rt><rp>)</rp>
+</ruby>
+<br/><br/>
 
-The above font can be downloaded from Noto Dashboard: [Noto Tagalog](https://notofonts.github.io/#tagalog).
+The font above can be downloaded from Noto Dashboard: [Noto Tagalog](https://notofonts.github.io/#tagalog).
+{.notecounter}
+
+The above Noto Sans Tagalog font displays correctly in {{% quote type="title" lang="en" %}}Gecko{{% /quote %}}–based browsers—like {{% quote type="name" lang="en" %}}Mozilla{{% /quote %}} {{% quote type="name" lang="en" %}}Firefox{{% /quote %}}—and {{% quote type="title" lang="en" %}}Blink{{% /quote %}}–based browsers—like {{% quote type="name" lang="en" %}}Naver{{% /quote %}} {{% quote type="name" lang="en" %}}Whale{{% /quote %}} and {{% quote type="name" lang="en" %}}Microsoft {{% /quote %}} {{% quote type="name" lang="en" %}}Edge{{% /quote %}}.
+{.note}
 
 #### Nordenx's Baybayin Modern Club font
 
-<ruby class="ruby-under" style="font-size: larger;">
-  <ruby class="ruby-over font-baybayin-nordenx" lang="fil-Tglg">
-    ᜀᜃᜓ ᜀᜌ᜕ ᜈᜋᜋᜎᜄᜒ ᜋᜎᜉᜒᜆ᜕ ᜐ ᜁᜐᜅ᜕ ᜉᜋ᜔ᜉᜅ᜕᜶<rp>(</rp><rt lang="fil">Ako ay namamalagi malapit sa isang pampang.</rt><rp>)</rp>
-  </ruby>
-  <rp>(</rp><rt>I am residing near a shore.</rt><rp>)</rp>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜂ</rb><rp>(</rp><rt>O</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜂ᜶</rb><rp>(</rp><rt>o.</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">Yes.</rt><rp>)</rp>
 </ruby>
-<p></p>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜃ</rb><rp>(</rp><rt>Ka</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜉᜄ᜔</rb><rp>(</rp><rt>pag</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜁ</rb><rp>(</rp><rt>i</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜌᜓᜅ᜔</rb><rp>(</rp><rt>yong</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜉᜒ</rb><rp>(</rp><rt>pi</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜈᜄ᜔</rb><rp>(</rp><rt>nag</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜑᜈ</rb><rp>(</rp><rt>han</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜇ</rb><rp>(</rp><rt>da</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜀᜈ᜔</rb><rp>(</rp><rt>an</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">If you prepare</rt><rp>)</rp>
+</ruby>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜀᜅ᜔</rb><rp>(</rp><rt>ang</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜃᜒ</rb><rp>(</rp><rt>ki</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜈ</rb><rp>(</rp><rt>na</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜊᜓ</rb><rp>(</rp><rt>bu</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜃ</rb><rp>(</rp><rt>ka</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜐᜈ᜔᜵</rb><rp>(</rp><rt>san,</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">for the future,</rt><rp>)</rp>
+</ruby>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜏ</rb><rp>(</rp><rt>wa</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜎᜅ᜔</rb><rp>(</rp><rt>lang</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜋ</rb><rp>(</rp><rt>ma</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜃ</rb><rp>(</rp><rt>ka</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜉᜒ</rb><rp>(</rp><rt>pi</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜉᜒ</rb><rp>(</rp><rt>pi</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜄᜒᜎ᜔</rb><rp>(</rp><rt>gil</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">no one can stop you</rt><rp>)</rp>
+</ruby>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜈ</rb><rp>(</rp><rt>na</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜋ</rb><rp>(</rp><rt>ma</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜍ</rb><rp>(</rp><rt>ra</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜆᜒᜅ᜔</rb><rp>(</rp><rt>ting</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜋᜓ</rb><rp>(</rp><rt>mo</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">from reaching</rt><rp>)</rp>
+</ruby>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜀᜅ᜔</rb><rp>(</rp><rt>ang</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜁ</rb><rp>(</rp><rt>i</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜌᜓᜅ᜔</rb><rp>(</rp><rt>yong</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜋ</rb><rp>(</rp><rt><ruby><rb>m</rb><rp>(</rp><rt>ma</rt><rp>)</rp></ruby></rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜅ</rb><rp>(</rp><rt><ruby><rb>ga</rb><rp>(</rp><rt>n͠ga</rt><rp>)</rp></ruby></rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜉ</rb><rp>(</rp><rt>pa</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜅ</rb><rp>(</rp><rt>nga</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Tglg">ᜍᜉ᜕</rb><rp>(</rp><rt>rap.</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">your dreams.</rt><rp>)</rp>
+</ruby>
+<br/><br/>
 
-The above font was a subset of Nordenx's [Baybayin Modern Club Font](https://www.deviantart.com/nordenx/art/Baybayin-Modern-Club-Font-231829356) before Unicode 14.0 (Tagalog pamudpod), used with permission for web embed.
+The font above is a subset of Nordenx's [Baybayin Modern Club Font](https://www.deviantart.com/nordenx/art/Baybayin-Modern-Club-Font-231829356) before Unicode 14.0 (Tagalog pamudpod), used with permission for web embed.
+{.notecounter}
+
+The new Tagalog pamudpod is currently not working correctly in {{% quote type="title" lang="en" %}}Gecko{{% /quote %}}–based browsers—like {{% quote type="name" lang="en" %}}Mozilla{{% /quote %}} {{% quote type="name" lang="en" %}}Firefox{{% /quote %}}. It is a bug in the webfont subset itself used on this website.
+{.note}
 
 ---
 
-## <ruby class="ruby-under"><ruby class="ruby-over" lang="fil-Tglg">ᜠᜥ᜔<rp>(</rp><rt lang="fil">ang</rt><rp>)</rp> ᜰᜳ<rp>(</rp><rt lang="fil">su</rt><rp>)</rp>ᜭᜦ᜴<rp>(</rp><rt lang="fil">rat</rt><rp>)</rp> ᜱ<rp>(</rp><rt lang="fil">ha</rt><rp>)</rp>ᜨᜳ<rp>(</rp><rt lang="fil">nu</rt><rp>)</rp>ᜨᜳ<rp>(</rp><rt lang="fil">no</rt><rp>)</rp>ᜢ<rp>(</rp><rt lang="fil">o</rt><rp>)</rp></ruby><rp>(</rp><rt><span lang="fil">Baybayin Hanunoo</span> script</rt><rp>)</rp></ruby>
+## <ruby class="ruby-under" lang="fil" translate="no"><ruby class="ruby-over"><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜠᜥ᜴</rb><rp>(</rp><rt>Ang</rt><rp>)</rp></ruby> <ruby class="ruby-over"><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜰᜳ</rb><rp>(</rp><rt>su</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜭᜦ᜔</rb><rp>(</rp><rt>rat</rt><rp>)</rp></ruby> <ruby class="ruby-over"><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜱ</rb><rp>(</rp><rt>Ha</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜨᜳ</rb><rp>(</rp><rt>nu</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜨᜳ</rb><rp>(</rp><rt>nó</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜢ</rb><rp>(</rp><rt>o</rt><rp>)</rp></ruby><rp>(</rp><rt>Baybayin Hanunóo <span lang="en-PH">script</span></rt><rp>)</rp></ruby>
+
+The above font by Nordenx displays correctly in {{% quote type="title" lang="en" %}}Gecko{{% /quote %}}–based browsers—like {{% quote type="name" lang="en" %}}Mozilla{{% /quote %}} {{% quote type="name" lang="en" %}}Firefox{{% /quote %}}—and {{% quote type="title" lang="en" %}}Blink{{% /quote %}}–based browsers—like {{% quote type="name" lang="en" %}}Naver{{% /quote %}} {{% quote type="name" lang="en" %}}Whale{{% /quote %}} and {{% quote type="name" lang="en" %}}Microsoft {{% /quote %}} {{% quote type="name" lang="en" %}}Edge{{% /quote %}}.
+{.note}
 
 ### Hanunoo Vowels
 
@@ -209,7 +335,7 @@ The above font was a subset of Nordenx's [Baybayin Modern Club Font](https://www
 
 | Pamudpod<br/>(diacritic) | Pause<br/>(comma) | Full-stop<br/>(period) |
 |:---:|:---:|:---:|
-| <span lang="fil-Tglg">◌᜴</span> | <span lang="fil-Tglg">᜵</span> | <span lang="fil-Tglg">᜶</span> |
+| <span lang="fil-Hano">◌᜴</span> | <span lang="fil-Hano">᜵</span> | <span lang="fil-Hano">᜶</span> |
 
 </div>
 
@@ -217,31 +343,154 @@ The above font was a subset of Nordenx's [Baybayin Modern Club Font](https://www
 
 #### Noto Sans Hanunoo font
 
-<ruby class="ruby-under" style="font-size: larger;">
-  <ruby class="ruby-over font-baybayin-sans-noto" lang="fil-Hano">
-    ᜠᜣᜳ ᜠᜬ᜴ ᜨᜫᜫᜮᜤᜲ ᜫᜮᜩᜲᜦ᜴ ᜰ ᜡᜰᜥ᜴ ᜩᜫ᜔ᜩᜥ᜴᜶<rp>(</rp><rt lang="fil">Ako ay namamalagi malapit sa isang pampang.</rt><rp>)</rp>
-  </ruby>
-  <rp>(</rp><rt>I am residing near a shore.</rt><rp>)</rp>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜢ</rb><rp>(</rp><rt>O</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜢ᜶</rb><rp>(</rp><rt>o.</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">Yes.</rt><rp>)</rp>
 </ruby>
-<p></p>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜣ</rb><rp>(</rp><rt>Ka</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜩᜤ᜔</rb><rp>(</rp><rt>pag</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜡ</rb><rp>(</rp><rt>i</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜬᜳᜥ᜔</rb><rp>(</rp><rt>yong</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜩᜲ</rb><rp>(</rp><rt>pi</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜨᜠᜤ᜔</rb><rp>(</rp><rt>nag</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜱᜠᜨ᜔</rb><rp>(</rp><rt>han</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜧ</rb><rp>(</rp><rt>da</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜠᜨ᜔</rb><rp>(</rp><rt>an</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">If you prepare</rt><rp>)</rp>
+</ruby>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜠᜥ᜔</rb><rp>(</rp><rt>ang</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜣᜲ</rb><rp>(</rp><rt>ki</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜨ</rb><rp>(</rp><rt>na</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜪᜳ</rb><rp>(</rp><rt>bu</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜣ</rb><rp>(</rp><rt>ka</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜰᜨ᜔᜵</rb><rp>(</rp><rt>san,</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">for the future,</rt><rp>)</rp>
+</ruby>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜯ</rb><rp>(</rp><rt>wa</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜮᜥ᜔</rb><rp>(</rp><rt>lang</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜫ</rb><rp>(</rp><rt>ma</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜣ</rb><rp>(</rp><rt>ka</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜩᜲ</rb><rp>(</rp><rt>pi</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜩᜲ</rb><rp>(</rp><rt>pi</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜤᜲᜮ᜔</rb><rp>(</rp><rt>gil</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">no one can stop you</rt><rp>)</rp>
+</ruby>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜨ</rb><rp>(</rp><rt>na</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜫ</rb><rp>(</rp><rt>ma</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜭ</rb><rp>(</rp><rt>ra</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜦᜲᜥ᜔</rb><rp>(</rp><rt>ting</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜫᜳ</rb><rp>(</rp><rt>mo</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">from reaching</rt><rp>)</rp>
+</ruby>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜠᜥ᜔</rb><rp>(</rp><rt>ang</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜡ</rb><rp>(</rp><rt>i</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜬᜳᜥ᜔</rb><rp>(</rp><rt>yong</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜫ</rb><rp>(</rp><rt><ruby><rb>m</rb><rp>(</rp><rt>ma</rt><rp>)</rp></ruby></rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜥ</rb><rp>(</rp><rt><ruby><rb>ga</rb><rp>(</rp><rt>n͠ga</rt><rp>)</rp></ruby></rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜩ</rb><rp>(</rp><rt>pa</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜥ</rb><rp>(</rp><rt>nga</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Hano">ᜭᜩ᜴</rb><rp>(</rp><rt>rap.</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">your dreams.</rt><rp>)</rp>
+</ruby>
+<br/><br/>
 
-The above font can be downloaded from Noto Dashboard: [Noto Hanunoo](https://notofonts.github.io/#hanunoo).
+The font above can be downloaded from Noto Dashboard: [Noto Hanunoo](https://notofonts.github.io/#hanunoo).
+{.notecounter}
+
+If the Baybayin diacritics are not appearing correctly, there is a bug in your browser or in the font itself. For the record, it works perfectly in {{% quote type="title" lang="en" %}}Gecko{{% /quote %}}–based browsers—like {{% quote type="name" lang="en" %}}Mozilla{{% /quote %}} {{% quote type="name" lang="en" %}}Firefox{{% /quote %}}.
+{.note}
 
 #### Nordenx's Baybayin Mangyan Hanunóo Brush font
 
-<ruby class="ruby-under" style="font-size: larger;">
-  <ruby class="ruby-over font-baybayin-nordenx" lang="fil-Hano">
-    ᜠᜣᜳ ᜠᜬ᜴ ᜨᜫᜫᜮᜤᜲ ᜫᜮᜩᜲᜦ᜴ ᜰ ᜡᜰᜥ᜴ ᜩᜫ᜔ᜩᜥ᜴᜶<rp>(</rp><rt lang="fil">Ako ay namamalagi malapit sa isang pampang.</rt><rp>)</rp>
-  </ruby>
-  <rp>(</rp><rt>I am residing near a shore.</rt><rp>)</rp>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Hano">ᜢ</rb><rp>(</rp><rt>O</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜢ᜶</rb><rp>(</rp><rt>o.</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">Yes.</rt><rp>)</rp>
 </ruby>
-<p></p>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Hano">ᜣ</rb><rp>(</rp><rt>Ka</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜩᜤ᜔</rb><rp>(</rp><rt>pag</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Hano">ᜡ</rb><rp>(</rp><rt>i</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜬᜳᜥ᜔</rb><rp>(</rp><rt>yong</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Hano">ᜩᜲ</rb><rp>(</rp><rt>pi</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜨᜠᜤ᜔</rb><rp>(</rp><rt>nag</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜱᜠᜨ᜔</rb><rp>(</rp><rt>han</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜧ</rb><rp>(</rp><rt>da</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜠᜨ᜔</rb><rp>(</rp><rt>an</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">If you prepare</rt><rp>)</rp>
+</ruby>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Hano">ᜠᜥ᜔</rb><rp>(</rp><rt>ang</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Hano">ᜣᜲ</rb><rp>(</rp><rt>ki</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜨ</rb><rp>(</rp><rt>na</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜪᜳ</rb><rp>(</rp><rt>bu</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜣ</rb><rp>(</rp><rt>ka</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜰᜨ᜔᜵</rb><rp>(</rp><rt>san,</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">for the future,</rt><rp>)</rp>
+</ruby>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Hano">ᜯ</rb><rp>(</rp><rt>wa</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜮᜥ᜔</rb><rp>(</rp><rt>lang</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Hano">ᜫ</rb><rp>(</rp><rt>ma</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜣ</rb><rp>(</rp><rt>ka</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜩᜲ</rb><rp>(</rp><rt>pi</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜩᜲ</rb><rp>(</rp><rt>pi</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜤᜲᜮ᜔</rb><rp>(</rp><rt>gil</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">no one can stop you</rt><rp>)</rp>
+</ruby>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Hano">ᜨ</rb><rp>(</rp><rt>na</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Hano">ᜫ</rb><rp>(</rp><rt>ma</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜭ</rb><rp>(</rp><rt>ra</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜦᜲᜥ᜔</rb><rp>(</rp><rt>ting</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Hano">ᜫᜳ</rb><rp>(</rp><rt>mo</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">from reaching</rt><rp>)</rp>
+</ruby>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Hano">ᜠᜥ᜔</rb><rp>(</rp><rt>ang</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Hano">ᜡ</rb><rp>(</rp><rt>i</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜬᜳᜥ᜔</rb><rp>(</rp><rt>yong</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Hano">ᜫ</rb><rp>(</rp><rt><ruby><rb>m</rb><rp>(</rp><rt>ma</rt><rp>)</rp></ruby></rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜥ</rb><rp>(</rp><rt><ruby><rb>ga</rb><rp>(</rp><rt>n͠ga</rt><rp>)</rp></ruby></rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Hano">ᜩ</rb><rp>(</rp><rt>pa</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜥ</rb><rp>(</rp><rt>nga</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Hano">ᜭᜩ᜴</rb><rp>(</rp><rt>rap.</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">your dreams.</rt><rp>)</rp>
+</ruby>
+<br/><br/>
 
-The above font was a subset of Nordenx's [Baybayin Mangyan Hanunóo Brush Font](http://nordenx.deviantart.com/art/Mangyan-Hanunoo-Brush-Font-169880405) before Unicode 14.0, used with permission for web embed.
+The font above is a subset of Nordenx's [Baybayin Mangyan Hanunóo Brush Font](http://nordenx.deviantart.com/art/Mangyan-Hanunoo-Brush-Font-169880405) before Unicode 14.0, used with permission for web embed.
+{.notecounter}
+
+The above font by Nordenx displays correctly in {{% quote type="title" lang="en" %}}Gecko{{% /quote %}}–based browsers—like {{% quote type="name" lang="en" %}}Mozilla{{% /quote %}} {{% quote type="name" lang="en" %}}Firefox{{% /quote %}}—and {{% quote type="title" lang="en" %}}Blink{{% /quote %}}–based browsers—like {{% quote type="name" lang="en" %}}Naver{{% /quote %}} {{% quote type="name" lang="en" %}}Whale{{% /quote %}} and {{% quote type="name" lang="en" %}}Microsoft {{% /quote %}} {{% quote type="name" lang="en" %}}Edge{{% /quote %}}.
+{.note}
 
 ---
 
-## <ruby class="ruby-under"><ruby class="ruby-over" lang="fil-Tglg">ᝀᝅ᜔<rp>(</rp><rt lang="fil">ang</rt><rp>)</rp> ᝐᝓ<rp>(</rp><rt lang="fil">su</rt><rp>)</rp>ᝍᝆ᜴<rp>(</rp><rt lang="fil">rat</rt><rp>)</rp> ᝊᝓ<rp>(</rp><rt lang="fil">bu</rt><rp>)</rp>ᝑᝒᝇ᜴<rp>(</rp><rt lang="fil">hid</rt><rp>)</rp></ruby><rp>(</rp><rt><span lang="fil">Baybayin Buhid</span> script</rt><rp>)</rp></ruby>
+## <ruby class="ruby-under" lang="fil" translate="no"><ruby class="ruby-over"><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝀᝅ᜔</rb><rp>(</rp><rt>Ang</rt><rp>)</rp></ruby> <ruby class="ruby-over"><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝐᝓ</rb><rp>(</rp><rt>su</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝍᝆ᜔</rb><rp>(</rp><rt>rat</rt><rp>)</rp></ruby> <ruby class="ruby-over"><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝊᝓ</rb><rp>(</rp><rt>Bu</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝑᝒᝇ᜴</rb><rp>(</rp><rt>hid</rt><rp>)</rp></ruby><rp>(</rp><rt>Baybayin Buhid <span lang="en-PH">script</span></rt><rp>)</rp></ruby>
+
+The above font by Nordenx displays correctly in {{% quote type="title" lang="en" %}}Gecko{{% /quote %}}–based browsers—like {{% quote type="name" lang="en" %}}Mozilla{{% /quote %}} {{% quote type="name" lang="en" %}}Firefox{{% /quote %}}—and {{% quote type="title" lang="en" %}}Blink{{% /quote %}}–based browsers—like {{% quote type="name" lang="en" %}}Naver{{% /quote %}} {{% quote type="name" lang="en" %}}Whale{{% /quote %}} and {{% quote type="name" lang="en" %}}Microsoft {{% /quote %}} {{% quote type="name" lang="en" %}}Edge{{% /quote %}}.
+{.note}
 
 ### Buhid Vowels
 
@@ -291,31 +540,154 @@ The above font was a subset of Nordenx's [Baybayin Mangyan Hanunóo Brush Font]
 
 #### Noto Sans Buhid font
 
-<ruby class="ruby-under" style="font-size: larger;">
-  <ruby class="ruby-over font-baybayin-sans-noto" lang="fil-Buhd">
-    ᝀᝃᝓ ᝀᝌ᜴ ᝈᝋᝋᝎᝄᝒ ᝋᝎᝉᝒᝆ᜴ ᝐ ᝁᝐᝅ᜴ ᝉᝋ᜔ᝉᝅ᜴᜶<rp>(</rp><rt lang="fil">Ako ay namamalagi malapit sa isang pampang.</rt><rp>)</rp>
-  </ruby>
-  <rp>(</rp><rt>I am residing near a shore.</rt><rp>)</rp>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝂ</rb><rp>(</rp><rt>O</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝂ᜶</rb><rp>(</rp><rt>o.</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">Yes.</rt><rp>)</rp>
 </ruby>
-<p></p>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝃ</rb><rp>(</rp><rt>Ka</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝉᝄ᜔</rb><rp>(</rp><rt>pag</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝁ</rb><rp>(</rp><rt>i</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝌᝓᝅ᜔</rb><rp>(</rp><rt>yong</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝉᝒ</rb><rp>(</rp><rt>pi</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝈᝄ᜔</rb><rp>(</rp><rt>nag</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝑᝈ᜔</rb><rp>(</rp><rt>han</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝇ</rb><rp>(</rp><rt>da</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝀᝈ᜔</rb><rp>(</rp><rt>an</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">If you prepare</rt><rp>)</rp>
+</ruby>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝀᝅ᜔</rb><rp>(</rp><rt>ang</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝃᝒ</rb><rp>(</rp><rt>ki</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝈ</rb><rp>(</rp><rt>na</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝊᝓ</rb><rp>(</rp><rt>bu</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝃ</rb><rp>(</rp><rt>ka</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝐᝈ᜔᜵</rb><rp>(</rp><rt>san,</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">for the future,</rt><rp>)</rp>
+</ruby>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝏ</rb><rp>(</rp><rt>wa</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝎᝅ᜔</rb><rp>(</rp><rt>lang</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝋ</rb><rp>(</rp><rt>ma</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝃ</rb><rp>(</rp><rt>ka</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝉᝒ</rb><rp>(</rp><rt>pi</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝉᝒ</rb><rp>(</rp><rt>pi</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝄᝒᝎ᜔</rb><rp>(</rp><rt>gil</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">no one can stop you</rt><rp>)</rp>
+</ruby>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝈ</rb><rp>(</rp><rt>na</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝋ</rb><rp>(</rp><rt>ma</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝍ</rb><rp>(</rp><rt>ra</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝆᝒᝅ᜔</rb><rp>(</rp><rt>ting</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝋᝓ</rb><rp>(</rp><rt>mo</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">from reaching</rt><rp>)</rp>
+</ruby>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝀᝅ᜔</rb><rp>(</rp><rt>ang</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝁ</rb><rp>(</rp><rt>i</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝌᝓᝅ᜔</rb><rp>(</rp><rt>yong</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝋ</rb><rp>(</rp><rt><ruby><rb>m</rb><rp>(</rp><rt>ma</rt><rp>)</rp></ruby></rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝅ</rb><rp>(</rp><rt><ruby><rb>ga</rb><rp>(</rp><rt>n͠ga</rt><rp>)</rp></ruby></rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝉ</rb><rp>(</rp><rt>pa</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝅ</rb><rp>(</rp><rt>nga</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Buhd">ᝍᝉ᜴</rb><rp>(</rp><rt>rap.</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">your dreams.</rt><rp>)</rp>
+</ruby>
+<br/><br/>
 
-The above font can be downloaded from Noto Dashboard: [Noto Buhid](https://notofonts.github.io/#buhid).
+The font above can be downloaded from Noto Dashboard: [Noto Buhid](https://notofonts.github.io/#buhid).
+{.notecounter}
+
+If the Baybayin diacritics are not appearing correctly, there is a bug in your browser or in the font itself. For the record, it works perfectly in {{% quote type="title" lang="en" %}}Gecko{{% /quote %}}–based browsers—like {{% quote type="name" lang="en" %}}Mozilla{{% /quote %}} {{% quote type="name" lang="en" %}}Firefox{{% /quote %}}.
+{.note}
 
 #### Nordenx's Baybayin Mangyan Buhid font
 
-<ruby class="ruby-under" style="font-size: larger;">
-  <ruby class="ruby-over font-baybayin-nordenx" lang="fil-Buhd">
-    ᝀᝃᝓ ᝀᝌ᜴ ᝈᝋᝋᝎᝄᝒ ᝋᝎᝉᝒᝆ᜴ ᝐ ᝁᝐᝅ᜴ ᝉᝋ᜔ᝉᝅ᜴᜶<rp>(</rp><rt lang="fil">Ako ay namamalagi malapit sa isang pampang.</rt><rp>)</rp>
-  </ruby>
-  <rp>(</rp><rt>I am residing near a shore.</rt><rp>)</rp>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝂ</rb><rp>(</rp><rt>O</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝂ᜶</rb><rp>(</rp><rt>o.</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">Yes.</rt><rp>)</rp>
 </ruby>
-<p></p>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝃ</rb><rp>(</rp><rt>Ka</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝉᝄ᜔</rb><rp>(</rp><rt>pag</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝁ</rb><rp>(</rp><rt>i</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝌᝓᝅ᜔</rb><rp>(</rp><rt>yong</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝉᝒ</rb><rp>(</rp><rt>pi</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝈᝄ᜔</rb><rp>(</rp><rt>nag</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝑᝈ᜔</rb><rp>(</rp><rt>han</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝇ</rb><rp>(</rp><rt>da</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝀᝈ᜔</rb><rp>(</rp><rt>an</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">If you prepare</rt><rp>)</rp>
+</ruby>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝀᝅ᜔</rb><rp>(</rp><rt>ang</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝃᝒ</rb><rp>(</rp><rt>ki</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝈ</rb><rp>(</rp><rt>na</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝊᝓ</rb><rp>(</rp><rt>bu</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝃ</rb><rp>(</rp><rt>ka</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝐᝈ᜔᜵</rb><rp>(</rp><rt>san,</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">for the future,</rt><rp>)</rp>
+</ruby>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝏ</rb><rp>(</rp><rt>wa</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝎᝅ᜔</rb><rp>(</rp><rt>lang</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝋ</rb><rp>(</rp><rt>ma</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝃ</rb><rp>(</rp><rt>ka</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝉᝒ</rb><rp>(</rp><rt>pi</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝉᝒ</rb><rp>(</rp><rt>pi</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝄᝒᝎ᜔</rb><rp>(</rp><rt>gil</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">no one can stop you</rt><rp>)</rp>
+</ruby>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝈ</rb><rp>(</rp><rt>na</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝋ</rb><rp>(</rp><rt>ma</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝍ</rb><rp>(</rp><rt>ra</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝆᝒᝅ᜔</rb><rp>(</rp><rt>ting</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝋᝓ</rb><rp>(</rp><rt>mo</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">from reaching</rt><rp>)</rp>
+</ruby>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝀᝅ᜔</rb><rp>(</rp><rt>ang</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝁ</rb><rp>(</rp><rt>i</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝌᝓᝅ᜔</rb><rp>(</rp><rt>yong</rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝋ</rb><rp>(</rp><rt><ruby><rb>m</rb><rp>(</rp><rt>ma</rt><rp>)</rp></ruby></rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝅ</rb><rp>(</rp><rt><ruby><rb>ga</rb><rp>(</rp><rt>n͠ga</rt><rp>)</rp></ruby></rt><rp>)</rp>
+  </ruby>
+  <ruby class="ruby-over">
+    <rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝉ</rb><rp>(</rp><rt>pa</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝅ</rb><rp>(</rp><rt>nga</rt><rp>)</rp><rb class="font-baybayin-nordenx" lang="fil-Buhd">ᝍᝉ᜴</rb><rp>(</rp><rt>rap.</rt><rp>)</rp>
+  </ruby><rp>(</rp><rt lang="en-PH">your dreams.</rt><rp>)</rp>
+</ruby>
+<br/><br/>
 
-The above font was a subset of Nordenx's [Baybayin Mangyan Buhid Font](http://nordenx.deviantart.com/art/Mangyan-Buhid-Font-306046314) before Unicode 14.0, used with permission for web embed.
+The font above is a subset of Nordenx's [Baybayin Mangyan Buhid Font](http://nordenx.deviantart.com/art/Mangyan-Buhid-Font-306046314) before Unicode 14.0, used with permission for web embed.
+{.notecounter}
+
+The above font by Nordenx displays correctly in {{% quote type="title" lang="en" %}}Gecko{{% /quote %}}–based browsers—like {{% quote type="name" lang="en" %}}Mozilla{{% /quote %}} {{% quote type="name" lang="en" %}}Firefox{{% /quote %}}—and {{% quote type="title" lang="en" %}}Blink{{% /quote %}}–based browsers—like {{% quote type="name" lang="en" %}}Naver{{% /quote %}} {{% quote type="name" lang="en" %}}Whale{{% /quote %}} and {{% quote type="name" lang="en" %}}Microsoft {{% /quote %}} {{% quote type="name" lang="en" %}}Edge{{% /quote %}}.
+{.note}
 
 ---
 
-## <ruby class="ruby-under"><ruby class="ruby-over" lang="fil-Tglg">ᝠᝥ᜕<rp>(</rp><rt lang="fil">ang</rt><rp>)</rp> ᝰᝳ<rp>(</rp><rt lang="fil">su</rt><rp>)</rp>ᝮᝦ᜕<rp>(</rp><rt lang="fil">lat</rt><rp>)</rp> ᝦᝤ᜔<rp>(</rp><rt lang="fil">tag</rt><rp>)</rp>ᝪᝨ᜔<rp>(</rp><rt lang="fil">ban</rt><rp>)</rp>ᝯ<rp>(</rp><rt lang="fil">wa</rt><rp>)</rp></ruby><rp>(</rp><rt><span lang="fil">Baybayin Tagbanwa</span> script</rt><rp>)</rp></ruby>
+## <ruby class="ruby-under" lang="fil" translate="no"><ruby class="ruby-over"><rb class="font-baybayin-sans-noto" lang="fil-Tagb">ᝠᝥ᜕</rb><rp>(</rp><rt>Ang</rt><rp>)</rp></ruby> <ruby class="ruby-over"><rb class="font-baybayin-sans-noto" lang="fil-Tagb">ᝰᝳ</rb><rp>(</rp><rt>su</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tagb">ᝮᝦ᜔</rb><rp>(</rp><rt>lat</rt><rp>)</rp></ruby> <ruby class="ruby-over"><rb class="font-baybayin-sans-noto" lang="fil-Tagb">ᝦᝤ᜔</rb><rp>(</rp><rt>Tag</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tagb">ᝪᝨ᜔</rb><rp>(</rp><rt>ban</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tagb">ᝯ</rb><rp>(</rp><rt>wa</rt><rp>)</rp></ruby><rp>(</rp><rt>Baybayin Tagbanwa <span lang="en-PH">script</span></rt><rp>)</rp></ruby>
+
+If the Baybayin diacritics are not appearing correctly, there is a bug in your browser or in the font itself. For the record, it works perfectly in {{% quote type="title" lang="en" %}}Gecko{{% /quote %}}–based browsers—like {{% quote type="name" lang="en" %}}Mozilla{{% /quote %}} {{% quote type="name" lang="en" %}}Firefox{{% /quote %}}.
+{.note}
 
 ### Tagbanwa Vowels
 
@@ -355,15 +727,30 @@ The above font was a subset of Nordenx's [Baybayin Mangyan Buhid Font](http://no
 
 #### Noto Sans Tagbanwa font
 
-<ruby class="ruby-under" style="font-size: larger;">
-  <ruby class="ruby-over font-baybayin-sans-noto" lang="fil-Tagb">
-    ᝠᝣᝳ ᝠᝬ᜕ ᝨᝫᝫᝮᝤᝲ ᝫᝮᝩᝲᝦ᜕ ᝰ ᝡᝰᝥ᜕ ᝩᝫ᜔ᝩᝥ᜕᜶<rp>(</rp><rt lang="fil">Ako ay namamalagi malapit sa isang pampang.</rt><rp>)</rp>
-  </ruby>
-  <rp>(</rp><rt>I am residing near a shore.</rt><rp>)</rp>
+<br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over"><rb class="font-baybayin-sans-noto" lang="fil-Tagb">ᝠ</rb><rp>(</rp><rt><ruby><rb>a</rb><rp>(</rp><rt>[ɐ]</rt><rp>)</rp></ruby></rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tagb">ᝣᝳ</rb><rp>(</rp><rt>ko</rt><rp>)</rp></ruby> <ruby class="ruby-over"><rb lang="fil-Tagb">ᝠᝬ᜔</rb><rp>(</rp><rt><ruby><rb>a</rb><rp>(</rp><rt>[ɐ]</rt><rp>)</rp></ruby>y</rt><rp>)</rp></ruby><rp>(</rp><rt lang="en-PH">I am</rt><rp>)</rp>
 </ruby>
-<p></p>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over"><rb class="font-baybayin-sans-noto" lang="fil-Tagb">ᝨ</rb><rp>(</rp><rt>na</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tagb">ᝫ</rb><rp>(</rp><rt>ma</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tagb">ᝫ</rb><rp>(</rp><rt>ma</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tagb">ᝮ</rb><rp>(</rp><rt>la</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tagb">ᝤᝲ</rb><rp>(</rp><rt>gi</rt><rp>)</rp></ruby><rp>(</rp><rt lang="en-PH">residing</rt><rp>)</rp>
+</ruby>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over"><rb class="font-baybayin-sans-noto" lang="fil-Tagb">ᝫ</rb><rp>(</rp><rt>ma</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tagb">ᝮ</rb><rp>(</rp><rt>lá</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tagb">ᝩᝲᝦ᜔</rb><rp>(</rp><rt>pit</rt><rp>)</rp></ruby><rp>(</rp><rt lang="en-PH">near</rt><rp>)</rp>
+</ruby>
+<br/><br/>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over"><rb class="font-baybayin-sans-noto" lang="fil-Tagb">ᝰ</rb><rp>(</rp><rt>sa</rt><rp>)</rp></ruby> <ruby class="ruby-over"><rb class="font-baybayin-sans-noto" lang="fil-Tagb">ᝡ</rb><rp>(</rp><rt><ruby><rb>i</rb><rp>(</rp><rt>[ɪ]</rt><rp>)</rp></ruby></rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tagb">ᝰᝥ᜔</rb><rp>(</rp><rt>san͠g</rt><rp>)</rp></ruby><rp>(</rp><rt lang="en-PH">a</rt><rp>)</rp>
+</ruby>
+<ruby class="ruby-under" lang="fil" translate="no" style="font-size: xx-large;">
+  <ruby class="ruby-over"><rb class="font-baybayin-sans-noto" lang="fil-Tagb">ᝩᝫ᜔</rb><rp>(</rp><rt>pam</rt><rp>)</rp><rb class="font-baybayin-sans-noto" lang="fil-Tagb">ᝩᝥ᜕</rb><rp>(</rp><rt>pan͠g.</rt><rp>)</rp></ruby><rp>(</rp><rt lang="en-PH">shore.</rt><rp>)</rp>
+</ruby>
+<br/><br/>
 
-The above font can be downloaded from Noto Dashboard: [Noto Tagbanwa](https://notofonts.github.io/#tagbanwa).
+The font above can be downloaded from Noto Dashboard: [Noto Tagbanwa](https://notofonts.github.io/#tagbanwa).
+{.notecounter}
+
+If the Baybayin diacritics are not appearing correctly, there is a bug in your browser or in the font itself. For the record, it works perfectly in {{% quote type="title" lang="en" %}}Gecko{{% /quote %}}–based browsers—like {{% quote type="name" lang="en" %}}Mozilla{{% /quote %}} {{% quote type="name" lang="en" %}}Firefox{{% /quote %}}.
+{.note}
 
 ---
 
