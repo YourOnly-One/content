@@ -370,7 +370,7 @@ contenttypes = ["CriticReview"]
 >}}
 
 1. {{% quote type="name" lang="ko-Latn" %}}Heo Yeom{{% /quote %}}
-    - 現在の{{% quote type="name" lang="ko-Latn" %}}（{{% quote type="name" lang="ko" %}}세주원{{% /quote %}}）の頭。
+    - 現在の{{% quote type="name" lang="ko-Latn" %}}Sejukwon{{% /quote %}}（{{% quote type="name" lang="ko" %}}세주원{{% /quote %}}）の頭。
 1. 女王{{% quote type="name" lang="ko-Latn" %}}Seo Ha Sun{{% /quote %}}
     - {{% quote type="name" lang="ko-Latn" %}}Seo Yool{{% /quote %}}のおばさん。
 1. {{% quote type="name" lang="ko-Latn" %}}Seo Yool{{% /quote %}}
