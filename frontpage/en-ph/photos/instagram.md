@@ -8,6 +8,9 @@ link = "https://instagram.com/YourOnly.One"
 image = "https://rsc.youronly.one/img/logos/instagram.webp"
 weight = "6100"
 #metarobots = "noindex"
+
+draft = true
+private = true
 +++
 
 [Instagram](https://instagram.com/YourOnly.One "Instagram")
