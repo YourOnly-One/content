@@ -95,16 +95,16 @@ pu<span class="diacritics">̱</span>sà
 trab<span class="diacritics">͟</span>aho
 ```
 
-- <span lang="fil">bata<span class="text-red diacritics">̀</span> [ba·ta<span class="diacritics">̀</span>]</span>
-- <span lang="fil">panibugho<span class="text-red diacritics">̂</span> [pa·ni·bu<span class="diacritics">̄</span>g·ho<span class="diacritics">̂</span>]</span>
-- <span lang="fil">ara<span class="text-red diacritics">́</span>w–a<span class="text-red diacritics">́</span>raw [a·ra<span class="diacritics">́</span>w–a<span class="diacritics">́</span>·raw]</span>
-- <span lang="fil">ke<span class="text-red diacritics">̈</span>tke<span class="text-red diacritics">̈</span>t [ke<span class="diacritics">̈</span>t·ke<span class="diacritics">̈</span>t]</span>
-- <span lang="fil">sag<span class="text-red diacritics">̃</span>nay or sagn<span class="text-red diacritics">̃</span>ay [sa·n<span class="diacritics">̃</span>gay]</span>
-- <span lang="fil">pan<span class="text-red diacritics">͠</span>gulo [pa·n<span class="diacritics">͠</span>gu·lo]</span>
-- <span lang="fil">a<span class="text-red diacritics">̄</span>so [a<span class="diacritics">̄</span>·so]</span>
-- <span lang="fil">h<span class="text-red diacritics">͞</span>oy [h<span class="diacritics">͞</span>oy]</span>
-- <span lang="fil">pu<span class="text-red diacritics">̱</span>sa<span class="diacritics">̀</span> [pu<span class="diacritics">̱</span>·sa<span class="diacritics">̀</span>]</span>
-- <span lang="fil">trab<span class="text-red diacritics">͟</span>aho [tra·b<span class="diacritics">͟</span>a·ho]</span>
+- <span lang="fil">bata<span class="text-guide diacritics-sans-dejavu">̀</span> [ba·ta<span class="diacritics-sans-dejavu">̀</span>]</span>
+- <span lang="fil">panibugho<span class="text-guide diacritics-sans-dejavu">̂</span> [pa·ni·bu<span class="diacritics-sans-dejavu">̄</span>g·ho<span class="diacritics-sans-dejavu">̂</span>]</span>
+- <span lang="fil">ara<span class="text-guide diacritics-sans-dejavu">́</span>w–a<span class="text-guide diacritics-sans-dejavu">́</span>raw [a·ra<span class="diacritics-sans-dejavu">́</span>w–a<span class="diacritics-sans-dejavu">́</span>·raw]</span>
+- <span lang="fil">ke<span class="text-guide diacritics-sans-dejavu">̈</span>tke<span class="text-guide diacritics-sans-dejavu">̈</span>t [ke<span class="diacritics-sans-dejavu">̈</span>t·ke<span class="diacritics-sans-dejavu">̈</span>t]</span>
+- <span lang="fil">sag<span class="text-guide diacritics-sans-dejavu">̃</span>nay or sagn<span class="text-guide diacritics-sans-dejavu">̃</span>ay [sa·n<span class="diacritics-sans-dejavu">̃</span>gay]</span>
+- <span lang="fil">pan<span class="text-guide diacritics-sans-dejavu">͠</span>gulo [pa·n<span class="diacritics-sans-dejavu">͠</span>gu·lo]</span>
+- <span lang="fil">a<span class="text-guide diacritics-sans-dejavu">̄</span>so [a<span class="diacritics-sans-dejavu">̄</span>·so]</span>
+- <span lang="fil">h<span class="text-guide diacritics-sans-dejavu">͞</span>oy [h<span class="diacritics-sans-dejavu">͞</span>oy]</span>
+- <span lang="fil">pu<span class="text-guide diacritics-sans-dejavu">̱</span>sa<span class="diacritics-sans-dejavu">̀</span> [pu<span class="diacritics-sans-dejavu">̱</span>·sa<span class="diacritics-sans-dejavu">̀</span>]</span>
+- <span lang="fil">trab<span class="text-guide diacritics-sans-dejavu">͟</span>aho [tra·b<span class="diacritics-sans-dejavu">͟</span>a·ho]</span>
 
 [CodePen](https://codepen.io/techmagus/pen/NWLqoLd)를 통해서도 이용할 수 있습니다. 또는 [test-repo: Noto Diacriticals](https://github.com/techmagus/test-repo/tree/noto-diacriticals) Git 지점에서 간단한 테스트 페이지를 복제할 수 있습니다.
 
@@ -115,7 +115,7 @@ trab<span class="diacritics">͟</span>aho
 
   isrepresentativeofpage=true
 
-  link="images/d/diacritics.png"
+  link=""
   linkrel="noopener"
 
   title="필리핀어 발음 구별 기호"
