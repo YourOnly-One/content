@@ -140,7 +140,7 @@ Autism spectrum films that truly connect and show our thought process and world 
   isrepresentativeofpage=false
 
   src="images/a/a-brilliant-young-mind-02.apng"
-  link="images/a/a-brilliant-young-mind-02.apng"
+  link=""
   linkrel="noopener"
 
   title="A Brilliant Young Mind (2014)"
@@ -166,7 +166,7 @@ Later, they went back to the United Kingdom for the competition. It was then he 
   isrepresentativeofpage=false
 
   src="images/a/a-brilliant-young-mind-07.apng"
-  link="images/a/a-brilliant-young-mind-07.apng"
+  link=""
   linkrel="noopener"
 
   title="A Brilliant Young Mind (2014)"
@@ -194,7 +194,7 @@ I like how the Chinese culture, and Asia-Pacific in general, was presented. In s
   isrepresentativeofpage=false
 
   src="images/a/a-brilliant-young-mind-01.apng"
-  link="images/a/a-brilliant-young-mind-01.apng"
+  link=""
   linkrel="noopener"
 
   title="A Brilliant Young Mind (2014)"
@@ -220,7 +220,7 @@ Another thing often not depicted in other similar movies is how an autistic usua
   isrepresentativeofpage=false
 
   src="images/a/a-brilliant-young-mind-05.png"
-  link="images/a/a-brilliant-young-mind-05.png"
+  link=""
   linkrel="noopener"
 
   title="A Brilliant Young Mind (2014)"
@@ -244,7 +244,7 @@ Overall, the acting of the actors were perfect, not exaggerated, not lacking, th
   isrepresentativeofpage=false
 
   src="images/a/a-brilliant-young-mind-04.apng"
-  link="images/a/a-brilliant-young-mind-04.apng"
+  link=""
   linkrel="noopener"
 
   title="A Brilliant Young Mind (2014)"
@@ -268,7 +268,7 @@ I give {{% quote type="title" lang="en" %}}X+Y{{% /quote %}} or {{% quote type="
   isrepresentativeofpage=false
 
   src="images/a/a-brilliant-young-mind-06.apng"
-  link="images/a/a-brilliant-young-mind-06.apng"
+  link=""
   linkrel="noopener"
 
   title="A Brilliant Young Mind (2014)"
@@ -315,7 +315,7 @@ A little trivia: did you know the street scenes were not scripted?
 
   isrepresentativeofpage=true
 
-  link="images/a/a-brilliant-young-mind-03.png"
+  link=""
   linkrel="noopener"
 
   title="A Brilliant Young Mind (2014)"

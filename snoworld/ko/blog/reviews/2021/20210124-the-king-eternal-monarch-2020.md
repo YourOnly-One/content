@@ -274,7 +274,7 @@ alternatenames = ["Yoo Je Won", "Yu Je Won"]
 {{< image
   type="imagecoverattrib"
 
-  link="images/t/the-king-eternal-monarch-(2020)-01.jpg"
+  link=""
   linkrel="noopener external nofollow"
 
   title="더 킹: 영원의 군주 (2020)"

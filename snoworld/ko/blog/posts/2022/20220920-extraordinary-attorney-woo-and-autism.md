@@ -69,7 +69,7 @@ type = "article"                                             # article, sitepage
   isrepresentativeofpage=false
 
   src="images/e/extraordinary-attorney-woo-01.webp"
-  link="images/e/extraordinary-attorney-woo-01.webp"
+  link=""
   linkrel="noopener"
 
   title="이상한 변호사 우영우"
@@ -167,7 +167,7 @@ type = "article"                                             # article, sitepage
   isrepresentativeofpage=false
 
   src="images/e/extraordinary-attorney-woo-02.webp"
-  link="images/e/extraordinary-attorney-woo-02.webp"
+  link=""
   linkrel="noopener"
 
   title="이상한 변호사 우영우"
@@ -281,7 +281,7 @@ type = "article"                                             # article, sitepage
   isrepresentativeofpage=false
 
   src="images/e/extraordinary-attorney-woo-04.webp"
-  link="images/e/extraordinary-attorney-woo-04.webp"
+  link=""
   linkrel="noopener"
 
   title="이상한 변호사 우영우"
@@ -360,7 +360,7 @@ type = "article"                                             # article, sitepage
   isrepresentativeofpage=false
 
   src="images/e/extraordinary-attorney-woo-05.webp"
-  link="images/e/extraordinary-attorney-woo-05.webp"
+  link=""
   linkrel="noopener"
 
   title="이상한 변호사 우영우"
@@ -423,7 +423,7 @@ type = "article"                                             # article, sitepage
 
   isrepresentativeofpage=true
 
-  link="images/e/extraordinary-attorney-woo-03.png"
+  link=""
   linkrel="noopener"
 
   title="이상한 변호사 우영우"

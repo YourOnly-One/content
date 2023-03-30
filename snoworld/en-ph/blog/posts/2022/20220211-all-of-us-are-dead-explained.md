@@ -73,7 +73,7 @@ If you can not honestly answer those questions, then you better watch *All Of Us
   isrepresentativeofpage=false
 
   src="images/a/all-of-us-are-dead-s01-what-is-a-hambie.awebp"
-  link="images/a/all-of-us-are-dead-s01-what-is-a-hambie.awebp"
+  link=""
 
   title="What's a hambie?"
   caption=""
@@ -112,7 +112,7 @@ There were also those who posted a call for help and uploaded videos in social m
   isrepresentativeofpage=false
 
   src="images/a/all-of-us-are-dead-s01-orangibberish.awebp"
-  link="images/a/all-of-us-are-dead-s01-orangibberish.awebp"
+  link=""
 
   title="Orangibberish"
   caption=""
@@ -147,7 +147,7 @@ Did the commander make the right decision? 👇🏽 Share your thoughts below! �
   isrepresentativeofpage=false
 
   src="images/a/all-of-us-are-dead-s01-hyosan-high-bomb.awebp"
-  link="images/a/all-of-us-are-dead-s01-hyosan-high-bomb.awebp"
+  link=""
 
   title="Hyosan High School"
   caption="Bombed"
@@ -202,7 +202,7 @@ It was also reported in the news that the even after four months, the national h
   isrepresentativeofpage=false
 
   src="images/a/all-of-us-are-dead-s01-rooftop.awebp"
-  link="images/a/all-of-us-are-dead-s01-rooftop.awebp"
+  link=""
 
   title="Hyosan High School"
   caption="Rooftop"
@@ -237,7 +237,7 @@ Then the camera panned and settled on On Jo, who was without any emotions, but I
   isrepresentativeofpage=false
 
   src="images/a/all-of-us-are-dead-s01-chung-san-gwi-nam.awebp"
-  link="images/a/all-of-us-are-dead-s01-chung-san-gwi-nam.awebp"
+  link=""
 
   title="Lee Chung San and Yoon Gwi Nam"
   caption="Died at the Hyosan High School bombing"
@@ -264,7 +264,7 @@ Also consider this: when the bomb was about to land, they showed the faces of ea
   isrepresentativeofpage=false
 
   src="images/a/all-of-us-are-dead-s01-lee-byung-chan.awebp"
-  link="images/a/all-of-us-are-dead-s01-lee-byung-chan.awebp"
+  link=""
 
   title="Lee Byung Chan Transformation"
   caption="From human to immortal type zombie"
@@ -326,7 +326,7 @@ The ending of *All Of Us Are Dead*, and the other clues in the other episodes, p
   isrepresentativeofpage=false
 
   src="images/a/all-of-us-are-dead-s01-prez-nam-ra.awebp"
-  link="images/a/all-of-us-are-dead-s01-prez-nam-ra.awebp"
+  link=""
 
   title="Choi Nam Ra for President"
   caption="Nam Ra likes it"
@@ -371,7 +371,7 @@ The title of the next season could be *The Rise of Hambies* or *The Army of Hamb
   type="imagecoverattrib"
   isrepresentativeofpage=true
 
-  link="images/a/all-of-us-are-dead-s01-prez-nam-ra.awebp"
+  link=""
   title="All Of Us Are Dead"
   licensecode="allrightsreserved"
 

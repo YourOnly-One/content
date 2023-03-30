@@ -161,7 +161,7 @@ We know it is your *Sweet Dream* that you are our *Only One*, and ladies, in *Ev
 
   isrepresentativeofpage=true
 
-  link="images/k/kpop-generations-01.webp"
+  link=""
   linkrel="noopener"
 
   title="K-pop Generations"

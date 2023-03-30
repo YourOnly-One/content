@@ -207,7 +207,7 @@ I love it, 8 out of 10 stars! Now, where is episode 02?
 
   isrepresentativeofpage=true
 
-  link="images/t/the-last-of-us-(2023)-poster.jpg"
+  link=""
   linkrel="noopener"
 
   title="The Last of Us"

@@ -168,7 +168,7 @@ On this one, there is no other way than to consider it was a {{% quote type="tit
 
   isrepresentativeofpage=true
 
-  link="images/r/reborn-rich-01.png"
+  link=""
   linkrel="noopener"
 
   title="재벌집 막내아들"

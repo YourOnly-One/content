@@ -97,7 +97,7 @@ If you think that this is new, surprise! Federation has been around since 2008, 
   width="80%"
 
   src="images/f/friendica-01-frio-profile.webp"
-  link="images/f/friendica-01-frio-profile.webp"
+  link=""
   linkrel="noopener"
 
   title="Frio Theme"
@@ -141,7 +141,7 @@ If you want to give it a spin, choose one of the servers available [here](https:
   width="80%"
 
   src="images/h/hubzilla-01.webp"
-  link="images/h/hubzilla-01.webp"
+  link=""
   linkrel="noopener"
 
   title="Hubzilla"
@@ -182,7 +182,7 @@ You can sign-up for a Hubzilla channel (or account if you will) in any of the av
   width="48%"
 
   src="images/z/zap-01-logo.svg"
-  link="images/z/zap-01-logo.svg"
+  link=""
   linkrel="noopener"
 
   title="Zap"
@@ -226,7 +226,7 @@ If you are ready to jump in and create your online social web identity, choose a
   width="80%"
 
   src="images/m/misskey-01-hashtag.webp"
-  link="images/m/misskey-01-hashtag.webp"
+  link=""
   linkrel="noopener"
 
   title="Misskey"
@@ -275,7 +275,7 @@ You can find a Misskey community which perfectly fits you [here](https://join.mi
   width="80%"
 
   src="images/p/pixelfed-01-trending.webp"
-  link="images/p/pixelfed-01-trending.webp"
+  link=""
   linkrel="noopener"
 
   title="Pixelfed"
@@ -326,7 +326,7 @@ You can start uploading your photos into the fediverse today by joining any [Pix
   width="80%"
 
   src="images/m/mastodon-01-dashboard.webp"
-  link="images/m/mastodon-01-dashboard.webp"
+  link=""
   linkrel="noopener"
 
   title="Mastodon"
@@ -369,7 +369,7 @@ If you are regularly use Twitter and you like its flow, Mastodon is the right pl
   width="80%"
 
   src="images/p/peertube-01-discover.webp"
-  link="images/p/peertube-01-discover.webp"
+  link=""
   linkrel="noopener"
 
   title="PeerTube"
@@ -421,7 +421,7 @@ Ready to upload your videos and be seen by countless of fediverse citizens? Find
   width="80%"
 
   src="images/k/keybase-01-chat.webp"
-  link="images/k/keybase-01-chat.webp"
+  link=""
   linkrel="noopener"
 
   title="Keybase"
@@ -487,7 +487,7 @@ Keybase Teams which offers 100 GB of storage per team and if you choose to host 
   width="80%"
 
   src="images/m/matrix-01-element-client.webp"
-  link="images/m/matrix-01-element-client.webp"
+  link=""
   linkrel="noopener"
 
   title="Matrix"
@@ -532,7 +532,7 @@ Try Matrix [today](https://matrix.org/docs/projects/try-matrix-now/)!
   width="80%"
 
   src="images/s/session-01.webp"
-  link="images/s/session-01.webp"
+  link=""
   linkrel="noopener"
 
   title="Session"
@@ -580,7 +580,7 @@ Enjoy and Shalom!
 {{< image
   type="imagecoverattrib"
 
-  link="images/d/decentralisation-01.webp"
+  link=""
   linkrel="noopener"
 
   title="Decentralisation"

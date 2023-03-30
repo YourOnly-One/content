@@ -334,7 +334,7 @@ URI(Uniform Resource Identifier) 체계의 공식 목록은 IANA 공식 웹사�
 
   isrepresentativeofpage=true
 
-  link="images/h/hugo-markdown-link-render.webp"
+  link=""
   linkrel="noopener"
 
   title="Hugo에서 Markdown 링크를 사용자 지정하는 방법"

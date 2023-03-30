@@ -152,7 +152,7 @@ videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                        
   width=""
 
   src="images/s/sisyphus-the-myth-03.webp"
-  link="images/s/sisyphus-the-myth-03.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="シーシュポス: The Myth"
@@ -213,7 +213,7 @@ videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                        
   width=""
 
   src="images/s/sisyphus-the-myth-02.webp"
-  link="images/s/sisyphus-the-myth-02.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="シーシュポス: The Myth"
@@ -266,7 +266,7 @@ videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                        
   width=""
 
   src="images/s/sisyphus-the-myth-04.webp"
-  link="images/s/sisyphus-the-myth-04.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="シーシュポス: The Myth"
@@ -333,7 +333,7 @@ videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                        
   width=""
 
   src="images/s/sisyphus-the-myth-05.webp"
-  link="images/s/sisyphus-the-myth-05.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="シーシュポス: The Myth"
@@ -425,7 +425,7 @@ Animetricはショーのエンディングについて素晴らしい説明を�
 {{< image
   type="imagecoverattrib"
 
- link="images/s/sisyphus-the-myth-01.webp"
+ link=""
   linkrel="noopener external nofollow"
 
   title="シーシュポス: The Myth"

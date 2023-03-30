@@ -87,7 +87,7 @@ type = "review"                                             # article, sitepage,
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-02-home.png"
-  link="images/n/naver-whale-02-home.png"
+  link=""
   linkrel="noopener"
 
   title="네이버 웨일 (네이버 웨일) 집입니다"
@@ -133,7 +133,7 @@ type = "review"                                             # article, sitepage,
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-16-dual-pane-01.png"
-  link="images/n/naver-whale-16-dual-pane-01.png"
+  link=""
   linkrel="noopener"
 
   title="네이버 웨일 (네이버 웨일) 이중 패널"
@@ -163,7 +163,7 @@ type = "review"                                             # article, sitepage,
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-04-notice.png"
-  link="images/n/naver-whale-04-notice.png"
+  link=""
   linkrel="noopener"
 
   title="네이버 웨일 (네이버 웨일) 공지"
@@ -191,7 +191,7 @@ type = "review"                                             # article, sitepage,
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-05-toolbox.png"
-  link="images/n/naver-whale-05-toolbox.png"
+  link=""
   linkrel="noopener"
 
   title="네이버 웨일 (네이버 웨일) 연장통"
@@ -228,7 +228,7 @@ type = "review"                                             # article, sitepage,
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-06-scrapbook.png"
-  link="images/n/naver-whale-06-scrapbook.png"
+  link=""
   linkrel="noopener"
 
   title="네이버 웨일 (네이버 웨일) Scrapbook"
@@ -256,7 +256,7 @@ type = "review"                                             # article, sitepage,
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-08-papago.png"
-  link="images/n/naver-whale-08-papago.png"
+  link=""
   linkrel="noopener"
 
   title="네이버 웨일 (네이버 웨일) 파파고 신경 번역"
@@ -284,7 +284,7 @@ type = "review"                                             # article, sitepage,
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-09-music.png"
-  link="images/n/naver-whale-09-music.png"
+  link=""
   linkrel="noopener"
 
   title="네이버 웨일 (네이버 웨일) Music Player V2 사이드바 앱"
@@ -312,7 +312,7 @@ type = "review"                                             # article, sitepage,
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-10-webtoon.png"
-  link="images/n/naver-whale-10-webtoon.png"
+  link=""
   linkrel="noopener"
 
   title="네이버 웨일 (네이버 웨일) 웹툰 사이드바 앱"
@@ -338,7 +338,7 @@ type = "review"                                             # article, sitepage,
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-11-memo.png"
-  link="images/n/naver-whale-11-memo.png"
+  link=""
   linkrel="noopener"
 
   title="네이버 웨일 (네이버 웨일) 메모 사이드바 앱"
@@ -364,7 +364,7 @@ type = "review"                                             # article, sitepage,
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-12-now.png"
-  link="images/n/naver-whale-12-now.png"
+  link=""
   linkrel="noopener"
 
   title="네이버 웨일 (네이버 웨일) Now 사이드바 앱"
@@ -392,7 +392,7 @@ type = "review"                                             # article, sitepage,
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-13-vlive.png"
-  link="images/n/naver-whale-13-vlive.png"
+  link=""
   linkrel="noopener"
 
   title="네이버 웨일 (네이버 웨일) VLive 사이드바 앱"
@@ -420,7 +420,7 @@ type = "review"                                             # article, sitepage,
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-14-vibe.png"
-  link="images/n/naver-whale-14-vibe.png"
+  link=""
   linkrel="noopener"
 
   title="네이버 웨일 (네이버 웨일) 바이브 사이드바 앱"
@@ -446,7 +446,7 @@ type = "review"                                             # article, sitepage,
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-15-media.png"
-  link="images/n/naver-whale-15-media.png"
+  link=""
   linkrel="noopener"
 
   title="네이버 웨일 (네이버 웨일) 미디어 컨트롤 센터"
@@ -479,7 +479,7 @@ type = "review"                                             # article, sitepage,
 
   isrepresentativeofpage=true
 
-  link="images/n/naver-whale-01-welcome.png"
+  link=""
   linkrel="noopener"
 
   title="네이버 웨일 (네이버 웨일)"

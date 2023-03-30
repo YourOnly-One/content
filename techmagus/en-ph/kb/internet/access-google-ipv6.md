@@ -59,11 +59,11 @@ Why? Their current IPv6 implementation is currently in its testing phase. All IP
     <p>Google over IPv6 uses the IPv4 address of your DNS resolver to determine whether a network is IPv6-capable. If you enable Google over IPv6 for your resolver, IPv6 users of that resolver will receive AAAA records for IPv6-enabled Google services …</p>
     <p>Normally, if a DNS resolver requests an IPv6 address for a Google web site, it will not receive one…</p>
   </div>
-  <div class="center"><img src="//web.archive.org/web/20120524193018/https://www.google.com/intl/en/ipv6/images/howitworks1.png" alt="" /></div>
+  <div class="center"><img src="https://web.archive.org/web/20120524193018/https://www.google.com/intl/en/ipv6/images/howitworks1.png" alt="" /></div>
   <div>
     <p>… but a DNS resolver with Google over IPv6 will receive an IPv6 address, and its users will be able to connect to Google web sites using IPv6.</p>
   </div>
-  <div class="center"><img class="center" src="//web.archive.org/web/20120524193018/https://www.google.com/intl/en/ipv6/images/howitworks2.png" alt="" /></div>
+  <div class="center"><img class="center" src="https://web.archive.org/web/20120524193018/https://www.google.com/intl/en/ipv6/images/howitworks2.png" alt="" /></div>
   <figcaption class="attribution_name txt_right">
     <cite><a href="https://www.google.com/intl/en/ipv6/" rel="noopener external nofollow">Google over IPv6</a></cite>
   </figcaption>

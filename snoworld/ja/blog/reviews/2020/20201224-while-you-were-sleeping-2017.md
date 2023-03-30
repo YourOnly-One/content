@@ -225,7 +225,7 @@ sameas = ["https://www.imdb.com/name/nm8589259"]
   width=""
 
   src="images/w/while-you-were-sleeping-(2017)-02.gif"
-  link="images/w/while-you-were-sleeping-(2017)-02.gif"
+  link=""
   linkrel="noopener external nofollow"
 
   title="あなたが寝ている間に (2017)"
@@ -311,7 +311,7 @@ sameas = ["https://www.imdb.com/name/nm8589259"]
 {{< image
   type="imagecoverattrib"
 
-  link="images/w/while-you-were-sleeping-(2017)-01.jpg"
+  link=""
   linkrel="noopener external nofollow"
 
   title="あなたが寝ている間に (2017)"

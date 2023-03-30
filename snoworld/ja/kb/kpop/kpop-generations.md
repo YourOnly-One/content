@@ -161,7 +161,7 @@ K-POP音楽の各世代を10暦年に設定すると、美しい物語が浮か�
 
   isrepresentativeofpage=true
 
-  link="images/k/kpop-generations-01.webp"
+  link=""
   linkrel="noopener"
 
   title="K-pop Generations"

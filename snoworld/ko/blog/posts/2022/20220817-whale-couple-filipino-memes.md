@@ -74,7 +74,7 @@ type = "article"                                             # article, sitepage
   isrepresentativeofpage=false
 
   src="images/e/extraordinary-attorney-woo-meme-the-whales-on-the-bus.jpg"
-  link="images/e/extraordinary-attorney-woo-meme-the-whales-on-the-bus.jpg"
+  link=""
   linkrel="noopener"
 
   title="이상한 변호사 우영우"
@@ -98,7 +98,7 @@ type = "article"                                             # article, sitepage
   isrepresentativeofpage=false
 
   src="images/e/extraordinary-attorney-woo-meme-my-heart-whale-go-on.jpg"
-  link="images/e/extraordinary-attorney-woo-meme-my-heart-whale-go-on.jpg"
+  link=""
   linkrel="noopener"
 
   title="이상한 변호사 우영우"
@@ -122,7 +122,7 @@ type = "article"                                             # article, sitepage
   isrepresentativeofpage=false
 
   src="images/e/extraordinary-attorney-woo-meme-whale-do-broken-hearts-go.jpg"
-  link="images/e/extraordinary-attorney-woo-meme-whale-do-broken-hearts-go.jpg"
+  link=""
   linkrel="noopener"
 
   title="이상한 변호사 우영우"
@@ -146,7 +146,7 @@ type = "article"                                             # article, sitepage
   isrepresentativeofpage=false
 
   src="images/e/extraordinary-attorney-woo-meme-just-give-me-a-reason.jpg"
-  link="images/e/extraordinary-attorney-woo-meme-just-give-me-a-reason.jpg"
+  link=""
   linkrel="noopener"
 
   title="이상한 변호사 우영우"
@@ -178,7 +178,7 @@ type = "article"                                             # article, sitepage
   isrepresentativeofpage=false
 
   src="images/e/extraordinary-attorney-woo-meme-whale-soundtrack.jpg"
-  link="images/e/extraordinary-attorney-woo-meme-whale-soundtrack.jpg"
+  link=""
   linkrel="noopener"
 
   title="이상한 변호사 우영우"
@@ -208,7 +208,7 @@ type = "article"                                             # article, sitepage
   isrepresentativeofpage=false
 
   src="images/e/extraordinary-attorney-woo-meme-all-too-whale-short-film.png"
-  link="images/e/extraordinary-attorney-woo-meme-all-too-whale-short-film.png"
+  link=""
   linkrel="noopener"
 
   title="이상한 변호사 우영우"
@@ -235,7 +235,7 @@ type = "article"                                             # article, sitepage
 
   isrepresentativeofpage=true
 
-  link="images/e/extraordinary-attorney-woo-meme-it-must-have-been-whale.png"
+  link=""
   linkrel="noopener"
 
   title="이상한 변호사 우영우 밈: 영우, 록셋 라이브 Wish '고래였을 거야' 공연…"

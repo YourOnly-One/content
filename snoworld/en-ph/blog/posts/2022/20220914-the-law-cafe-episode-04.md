@@ -118,7 +118,7 @@ Those who should love them the most are hurting them. Any child would struggle t
   isrepresentativeofpage=false
 
   src="images/t/the-law-cafe-(2022)-01.webp"
-  link="images/t/the-law-cafe-(2022)-01.webp"
+  link=""
   linkrel="noopener"
 
   title="The Law Cafe (법대로 사랑하라)"
@@ -140,7 +140,7 @@ If a person causes someone who believes in me to sin, even if it is someone who 
   isrepresentativeofpage=false
 
   src="images/t/the-law-cafe-(2022)-02.webp"
-  link="images/t/the-law-cafe-(2022)-02.webp"
+  link=""
   linkrel="noopener"
 
   title="The Law Cafe (법대로 사랑하라)"
@@ -166,7 +166,7 @@ There are times when you must seek your own happiness no matter how much you lov
   isrepresentativeofpage=false
 
   src="images/t/the-law-cafe-(2022)-03.webp"
-  link="images/t/the-law-cafe-(2022)-03.webp"
+  link=""
   linkrel="noopener"
 
   title="The Law Cafe (법대로 사랑하라)"
@@ -189,7 +189,7 @@ This episode is a must watch. It was a heartfelt true-to-life story which hopefu
 
   isrepresentativeofpage=true
 
-  link="images/t/the-law-cafe-(2022)-cover.jpg"
+  link=""
   linkrel="noopener"
 
   title="The Law Cafe (법대로 사랑하라)"

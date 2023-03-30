@@ -61,7 +61,7 @@ Let's take a look at an example.
   width=""
 
   src="images/m/mediafire-no-vpn-ph-gov-isp-ssl-hijack-01.png"
-  link="images/m/mediafire-no-vpn-ph-gov-isp-ssl-hijack-01.png"
+  link=""
   linkrel="noopener"
 
   title=""
@@ -96,7 +96,7 @@ We all know that we can never trust ISPs, government order or not, so let this b
   width=""
 
   src="images/m/mediafire-ssl-cert-comparison-01.png"
-  link="images/m/mediafire-ssl-cert-comparison-01.png"
+  link=""
   linkrel="noopener"
 
   title=""
@@ -125,7 +125,7 @@ We all know that we can never trust ISPs, government order or not, so let this b
 {{< image
   type="imagecoverattrib"
 
-  link="images/m/mediafire-no-vpn-ph-gov-isp-ssl-hijack-03.png"
+  link=""
   linkrel="noopener"
 
   title=""

@@ -212,7 +212,7 @@ sameas = ["https://en.wikipedia.org/wiki/Yoon_Sung-sik", "https://www.imdb.com/n
   width=""
 
   src="images/y/you-are-the-best-(2013)-02.webp"
-  link="images/y/you-are-the-best-(2013)-02.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Y최고다 이순신! (2013)"
@@ -298,7 +298,7 @@ sameas = ["https://en.wikipedia.org/wiki/Yoon_Sung-sik", "https://www.imdb.com/n
 {{< image
   type="imagecoverattrib"
 
-  link="images/y/you-are-the-best-(2013)-01.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="최고다 이순신! (2013)"

@@ -168,7 +168,7 @@ type = "article"                                             # article, sitepage
 
   isrepresentativeofpage=true
 
-  link="images/r/reborn-rich-01.png"
+  link=""
   linkrel="noopener"
 
   title="재벌집 막내아들"

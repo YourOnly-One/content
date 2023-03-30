@@ -73,7 +73,7 @@ type = "article"                                                           # art
   isrepresentativeofpage=false
 
   src="images/a/all-of-us-are-dead-s01-what-is-a-hambie.awebp"
-  link="images/a/all-of-us-are-dead-s01-what-is-a-hambie.awebp"
+  link=""
 
   title="ハンビーとは何ですか？"
   caption=""
@@ -112,7 +112,7 @@ type = "article"                                                           # art
   isrepresentativeofpage=false
 
   src="images/a/all-of-us-are-dead-s01-orangibberish.awebp"
-  link="images/a/all-of-us-are-dead-s01-orangibberish.awebp"
+  link=""
 
   title="Orangibberish"
   caption=""
@@ -147,7 +147,7 @@ type = "article"                                                           # art
   isrepresentativeofpage=false
 
   src="images/a/all-of-us-are-dead-s01-hyosan-high-bomb.awebp"
-  link="images/a/all-of-us-are-dead-s01-hyosan-high-bomb.awebp"
+  link=""
 
   title="ひょうさん高校"
   caption="爆撃"
@@ -202,7 +202,7 @@ type = "article"                                                           # art
   isrepresentativeofpage=false
 
   src="images/a/all-of-us-are-dead-s01-rooftop.awebp"
-  link="images/a/all-of-us-are-dead-s01-rooftop.awebp"
+  link=""
 
   title="ひょうさん高校"
   caption="屋上"
@@ -237,7 +237,7 @@ type = "article"                                                           # art
   isrepresentativeofpage=false
 
   src="images/a/all-of-us-are-dead-s01-chung-san-gwi-nam.awebp"
-  link="images/a/all-of-us-are-dead-s01-chung-san-gwi-nam.awebp"
+  link=""
 
   title="イ・チョンサンとユン・グウィ・ナム"
   caption="ひょうさん高校爆撃で亡くなりました"
@@ -264,7 +264,7 @@ type = "article"                                                           # art
   isrepresentativeofpage=false
 
   src="images/a/all-of-us-are-dead-s01-lee-byung-chan.awebp"
-  link="images/a/all-of-us-are-dead-s01-lee-byung-chan.awebp"
+  link=""
 
   title="イ・ビョンチャン変身"
   caption="人間から不滅のタイプのゾンビまで"
@@ -326,7 +326,7 @@ type = "article"                                                           # art
   isrepresentativeofpage=false
 
   src="images/a/all-of-us-are-dead-s01-prez-nam-ra.awebp"
-  link="images/a/all-of-us-are-dead-s01-prez-nam-ra.awebp"
+  link=""
 
   title="チェ・ナム・ラ大統領"
   caption="ナムラはそれが好き"
@@ -371,7 +371,7 @@ type = "article"                                                           # art
   type="imagecoverattrib"
   isrepresentativeofpage=true
 
-  link="images/a/all-of-us-are-dead-s01-prez-nam-ra.awebp"
+  link=""
   title="今、私たちの学校"
   licensecode="allrightsreserved"
 

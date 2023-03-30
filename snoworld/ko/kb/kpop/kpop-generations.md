@@ -161,7 +161,7 @@ K팝 음악의 각 세대를 10년으로 설정하면 아름다운 이야기가 
 
   isrepresentativeofpage=true
 
-  link="images/k/kpop-generations-01.webp"
+  link=""
   linkrel="noopener"
 
   title="K-pop Generations"

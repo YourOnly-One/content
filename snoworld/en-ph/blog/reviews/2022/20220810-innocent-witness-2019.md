@@ -164,7 +164,7 @@ The production was good. They showed the room of our autistic teenage girl witne
   isrepresentativeofpage=false
 
   src="images/i/innocent-witness-2019-01a.png"
-  link="images/i/innocent-witness-2019-01a.png"
+  link=""
   linkrel="noopener"
 
   title="Innocent Witness (증인)"
@@ -186,7 +186,7 @@ The production was good. They showed the room of our autistic teenage girl witne
   isrepresentativeofpage=false
 
   src="images/i/innocent-witness-2019-01b.png"
-  link="images/i/innocent-witness-2019-01b.png"
+  link=""
   linkrel="noopener"
 
   title="Innocent Witness (증인)"
@@ -208,7 +208,7 @@ The production was good. They showed the room of our autistic teenage girl witne
   isrepresentativeofpage=false
 
   src="images/i/innocent-witness-2019-01c.png"
-  link="images/i/innocent-witness-2019-01c.png"
+  link=""
   linkrel="noopener"
 
   title="Innocent Witness (증인)"
@@ -281,7 +281,7 @@ All things considered, it deserves a perfect ten (10) from me, {{% quote type="t
 
   isrepresentativeofpage=true
 
-  link="images/i/innocent-witness-2019-cover.jpg"
+  link=""
   linkrel="noopener"
 
   title="Innocent Witness (증인)"

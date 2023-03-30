@@ -824,7 +824,7 @@ How about you? What is ***YourOnly.One Top 10 Movies of 2021***?
 
   isrepresentativeofpage=true
 
-  link="images/t/top-10-movies.webp"
+  link=""
   linkrel="noopener"
 
   title="YourOnly.One Top 10 Movies"

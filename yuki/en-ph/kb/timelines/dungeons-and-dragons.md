@@ -180,7 +180,7 @@ This is a living page or article, updated when new information is available and 
 
   isrepresentativeofpage=true
 
-  link="images/d/dungeons-and-dragons-logo.png"
+  link=""
   linkrel="noopener"
   thumbnailurl=""
 

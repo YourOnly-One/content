@@ -195,7 +195,7 @@ We are halfway through 2022. Let's change this. If you are a neurotypical readin
 
   isrepresentativeofpage=true
 
-  link="images/a/autism-acceptance-01.png"
+  link=""
   linkrel="noopener"
   thumbnailurl=""
 

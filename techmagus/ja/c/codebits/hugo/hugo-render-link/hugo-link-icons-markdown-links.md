@@ -334,7 +334,7 @@ URI（Uniform Resource Identifier）スキームの公式リストは、IANAの�
 
   isrepresentativeofpage=true
 
-  link="images/h/hugo-markdown-link-render.webp"
+  link=""
   linkrel="noopener"
 
   title="HugoでMarkdownリンクをカスタマイズする方法"

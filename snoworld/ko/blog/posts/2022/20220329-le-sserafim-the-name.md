@@ -147,7 +147,7 @@ HYBE와 쏘스뮤직은 2022년 3월 25일 <q lang="en-PH">IM Fearless</q>라는
 
   isrepresentativeofpage=true
 
-  link="images/l/le-sserafim-logo.webp"
+  link=""
   linkrel="noopener"
 
   title="Le Sserafim"

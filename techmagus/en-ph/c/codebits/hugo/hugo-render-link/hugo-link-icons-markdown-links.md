@@ -334,7 +334,7 @@ I hope you find it useful!
 
   isrepresentativeofpage=true
 
-  link="images/h/hugo-markdown-link-render.webp"
+  link=""
   linkrel="noopener"
 
   title="How To Customize Markdown Links in Hugo"

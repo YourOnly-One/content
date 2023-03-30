@@ -780,7 +780,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 
   isrepresentativeofpage=true
 
-  link="images/k/kpop-1st-generation-01.webp"
+  link=""
   linkrel="noopener"
 
   title="K-pop 1st Generation"

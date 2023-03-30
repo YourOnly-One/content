@@ -145,7 +145,7 @@ HYBEとSourceMusicは、2022年3月25日に<q>IM Fearless</q>をモットーに�
 
   isrepresentativeofpage=true
 
-  link="images/l/le-sserafim-logo.webp"
+  link=""
   linkrel="noopener"
 
   title="Le Sserafim"

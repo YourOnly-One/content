@@ -164,7 +164,7 @@ contenttypes = ["CriticReview"]                                                 
   isrepresentativeofpage=false
 
   src="images/i/innocent-witness-2019-01a.png"
-  link="images/i/innocent-witness-2019-01a.png"
+  link=""
   linkrel="noopener"
 
   title="증인"
@@ -186,7 +186,7 @@ contenttypes = ["CriticReview"]                                                 
   isrepresentativeofpage=false
 
   src="images/i/innocent-witness-2019-01b.png"
-  link="images/i/innocent-witness-2019-01b.png"
+  link=""
   linkrel="noopener"
 
   title="증인"
@@ -208,7 +208,7 @@ contenttypes = ["CriticReview"]                                                 
   isrepresentativeofpage=false
 
   src="images/i/innocent-witness-2019-01c.png"
-  link="images/i/innocent-witness-2019-01c.png"
+  link=""
   linkrel="noopener"
 
   title="증인"
@@ -281,7 +281,7 @@ contenttypes = ["CriticReview"]                                                 
 
   isrepresentativeofpage=true
 
-  link="images/i/innocent-witness-2019-cover.jpg"
+  link=""
   linkrel="noopener"
 
   title="증인"

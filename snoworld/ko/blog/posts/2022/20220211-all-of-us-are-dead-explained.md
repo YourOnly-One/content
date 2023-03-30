@@ -73,7 +73,7 @@ type = "article"                                                           # art
   isrepresentativeofpage=false
 
   src="images/a/all-of-us-are-dead-s01-what-is-a-hambie.awebp"
-  link="images/a/all-of-us-are-dead-s01-what-is-a-hambie.awebp"
+  link=""
 
   title="햄비가 뭔가요?"
   caption=""
@@ -112,7 +112,7 @@ type = "article"                                                           # art
   isrepresentativeofpage=false
 
   src="images/a/all-of-us-are-dead-s01-orangibberish.awebp"
-  link="images/a/all-of-us-are-dead-s01-orangibberish.awebp"
+  link=""
 
   title="주황색"
   caption=""
@@ -147,7 +147,7 @@ type = "article"                                                           # art
   isrepresentativeofpage=false
 
   src="images/a/all-of-us-are-dead-s01-hyosan-high-bomb.awebp"
-  link="images/a/all-of-us-are-dead-s01-hyosan-high-bomb.awebp"
+  link=""
 
   title="효산고등학교"
   caption="폭격"
@@ -202,7 +202,7 @@ type = "article"                                                           # art
   isrepresentativeofpage=false
 
   src="images/a/all-of-us-are-dead-s01-rooftop.awebp"
-  link="images/a/all-of-us-are-dead-s01-rooftop.awebp"
+  link=""
 
   title="효산고등학교"
   caption="옥상"
@@ -237,7 +237,7 @@ Nam Ra가 "그들이 돌아왔다"라고 말한 것을 눈치채셨나요? 그�
   isrepresentativeofpage=false
 
   src="images/a/all-of-us-are-dead-s01-chung-san-gwi-nam.awebp"
-  link="images/a/all-of-us-are-dead-s01-chung-san-gwi-nam.awebp"
+  link=""
 
   title="이청산과 윤귀남"
   caption="효산고 폭탄테러로 사망"
@@ -264,7 +264,7 @@ Nam Ra가 "그들이 돌아왔다"라고 말한 것을 눈치채셨나요? 그�
   isrepresentativeofpage=false
 
   src="images/a/all-of-us-are-dead-s01-lee-byung-chan.awebp"
-  link="images/a/all-of-us-are-dead-s01-lee-byung-chan.awebp"
+  link=""
 
   title="이병찬 변신"
   caption="인간에서 불사신형 좀비로"
@@ -326,7 +326,7 @@ Nam Ra가 "그들이 돌아왔다"라고 말한 것을 눈치채셨나요? 그�
   isrepresentativeofpage=false
 
   src="images/a/all-of-us-are-dead-s01-prez-nam-ra.awebp"
-  link="images/a/all-of-us-are-dead-s01-prez-nam-ra.awebp"
+  link=""
 
   title="최남라 대표이사"
   caption="남라가 좋아"
@@ -371,7 +371,7 @@ Nam Ra가 "그들이 돌아왔다"라고 말한 것을 눈치채셨나요? 그�
   type="imagecoverattrib"
   isrepresentativeofpage=true
 
-  link="images/a/all-of-us-are-dead-s01-prez-nam-ra.awebp"
+  link=""
   title="지금 우리 학교는"
   licensecode="allrightsreserved"
 

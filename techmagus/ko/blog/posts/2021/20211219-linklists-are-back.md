@@ -138,7 +138,7 @@ If we actually want these small websites to flourish as a healthy community, we 
 
   isrepresentativeofpage=true
 
-  link="images/l/linklist-01.png"
+  link=""
   linkrel="noopener"
 
   title="Linklist"

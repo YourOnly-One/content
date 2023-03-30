@@ -1387,7 +1387,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 
   isrepresentativeofpage=true
 
-  link="images/k/kpop-2nd-generation-01.webp"
+  link=""
   linkrel="noopener"
 
   title="K-pop 2nd Generation"

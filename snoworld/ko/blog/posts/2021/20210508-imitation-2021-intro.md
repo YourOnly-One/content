@@ -189,7 +189,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   width=""
 
   src="images/i/imitation-(2021)-dream-01.webp"
-  link="images/i/imitation-(2021)-dream-01.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="《이미테이션》 (2021)"
@@ -214,7 +214,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   width=""
 
   src="images/i/imitation-(2021)-dream-02.webp"
-  link="images/i/imitation-(2021)-dream-02.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="《이미테이션》 (2021)"
@@ -239,7 +239,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   width=""
 
   src="images/i/imitation-(2021)-lee-ma-ha-01.webp"
-  link="images/i/imitation-(2021)-lee-ma-ha-01.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="《이미테이션》 (2021)"
@@ -264,7 +264,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   width=""
 
   src="images/i/imitation-(2021)-lee-ma-ha-02.webp"
-  link="images/i/imitation-(2021)-lee-ma-ha-02.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="《이미테이션》 (2021)"
@@ -289,7 +289,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   width=""
 
   src="images/i/imitation-(2021)-lee-ma-ha-03.webp"
-  link="images/i/imitation-(2021)-lee-ma-ha-03.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="《이미테이션》 (2021)"
@@ -318,7 +318,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   width=""
 
   src="images/i/imitation-(2021)-shax-01.webp"
-  link="images/i/imitation-(2021)-shax-01.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="《이미테이션》 (2021)"
@@ -345,7 +345,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   width=""
 
   src="images/i/imitation-(2021)-quitting-01.webp"
-  link="images/i/imitation-(2021)-quitting-01.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="《이미테이션》 (2021)"
@@ -370,7 +370,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   width=""
 
   src="images/i/imitation-(2021)-quitting-02.webp"
-  link="images/i/imitation-(2021)-quitting-02.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="《이미테이션》 (2021)"
@@ -395,7 +395,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   width=""
 
   src="images/i/imitation-(2021)-agency-accommodation-01.webp"
-  link="images/i/imitation-(2021)-agency-accommodation-01.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="《이미테이션》 (2021)"
@@ -422,7 +422,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   width=""
 
   src="images/i/imitation-(2021)-away-from-family-01.webp"
-  link="images/i/imitation-(2021)-away-from-family-01.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="《이미테이션》 (2021)"
@@ -449,7 +449,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   width=""
 
   src="images/i/imitation-(2021)-sold-to-another-agency-01.webp"
-  link="images/i/imitation-(2021)-sold-to-another-agency-01.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="《이미테이션》 (2021)"
@@ -474,7 +474,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   width=""
 
   src="images/i/imitation-(2021)-sold-to-another-agency-02.webp"
-  link="images/i/imitation-(2021)-sold-to-another-agency-02.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="《이미테이션》 (2021)"
@@ -503,7 +503,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   width=""
 
   src="images/i/imitation-(2021)-omega-iii-01.webp"
-  link="images/i/imitation-(2021)-omega-iii-01.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="《이미테이션》 (2021)"
@@ -528,7 +528,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   width=""
 
   src="images/i/imitation-(2021)-omega-iii-02.webp"
-  link="images/i/imitation-(2021)-omega-iii-02.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="《이미테이션》 (2021)"
@@ -553,7 +553,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   width=""
 
   src="images/i/imitation-(2021)-omega-iii-03.webp"
-  link="images/i/imitation-(2021)-omega-iii-03.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="《이미테이션》 (2021)"
@@ -578,7 +578,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   width=""
 
   src="images/i/imitation-(2021)-omega-iii-04.webp"
-  link="images/i/imitation-(2021)-omega-iii-04.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="《이미테이션》 (2021)"
@@ -656,7 +656,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 {{< image
   type="imagecoverattrib"
 
-  link="images/i/imitation-(2021)-title.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="이미테이션"

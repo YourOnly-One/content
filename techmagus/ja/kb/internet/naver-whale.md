@@ -87,7 +87,7 @@ type = "review"                                             # article, sitepage,
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-02-home.png"
-  link="images/n/naver-whale-02-home.png"
+  link=""
   linkrel="noopener"
 
   title="ネイバーウェール (네이버 웨일) 自宅"
@@ -133,7 +133,7 @@ type = "review"                                             # article, sitepage,
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-16-dual-pane-01.png"
-  link="images/n/naver-whale-16-dual-pane-01.png"
+  link=""
   linkrel="noopener"
 
   title="ネイバーウェール (네이버 웨일) デュアルパネルタブ"
@@ -163,7 +163,7 @@ LinkedModeの場合、左側のペインでアクティブリンクをクリッ�
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-04-notice.png"
-  link="images/n/naver-whale-04-notice.png"
+  link=""
   linkrel="noopener"
 
   title="ネイバーウェール (네이버 웨일) お知らせ"
@@ -191,7 +191,7 @@ LinkedModeの場合、左側のペインでアクティブリンクをクリッ�
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-05-toolbox.png"
-  link="images/n/naver-whale-05-toolbox.png"
+  link=""
   linkrel="noopener"
 
   title="ネイバーウェール (네이버 웨일) ツールボックス"
@@ -228,7 +228,7 @@ LinkedModeの場合、左側のペインでアクティブリンクをクリッ�
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-06-scrapbook.png"
-  link="images/n/naver-whale-06-scrapbook.png"
+  link=""
   linkrel="noopener"
 
   title="ネイバーウェール (네이버 웨일) Scrapbook"
@@ -256,7 +256,7 @@ LinkedModeの場合、左側のペインでアクティブリンクをクリッ�
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-08-papago.png"
-  link="images/n/naver-whale-08-papago.png"
+  link=""
   linkrel="noopener"
 
   title="ネイバーウェール (네이버 웨일) パパゴ神経翻訳"
@@ -284,7 +284,7 @@ LinkedModeの場合、左側のペインでアクティブリンクをクリッ�
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-09-music.png"
-  link="images/n/naver-whale-09-music.png"
+  link=""
   linkrel="noopener"
 
   title="ネイバーウェール (네이버 웨일) Music Player V2 サイドバーアプリ"
@@ -312,7 +312,7 @@ LinkedModeの場合、左側のペインでアクティブリンクをクリッ�
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-10-webtoon.png"
-  link="images/n/naver-whale-10-webtoon.png"
+  link=""
   linkrel="noopener"
 
   title="ネイバーウェール (네이버 웨일) Webtoon サイドバーアプリ"
@@ -338,7 +338,7 @@ LinkedModeの場合、左側のペインでアクティブリンクをクリッ�
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-11-memo.png"
-  link="images/n/naver-whale-11-memo.png"
+  link=""
   linkrel="noopener"
 
   title="ネイバーウェール (네이버 웨일) Memo サイドバーアプリ"
@@ -364,7 +364,7 @@ LinkedModeの場合、左側のペインでアクティブリンクをクリッ�
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-12-now.png"
-  link="images/n/naver-whale-12-now.png"
+  link=""
   linkrel="noopener"
 
   title="ネイバーウェール (네이버 웨일) Now サイドバーアプリ"
@@ -392,7 +392,7 @@ LinkedModeの場合、左側のペインでアクティブリンクをクリッ�
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-13-vlive.png"
-  link="images/n/naver-whale-13-vlive.png"
+  link=""
   linkrel="noopener"
 
   title="ネイバーウェール (네이버 웨일) V Live サイドバーアプリ"
@@ -420,7 +420,7 @@ LinkedModeの場合、左側のペインでアクティブリンクをクリッ�
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-14-vibe.png"
-  link="images/n/naver-whale-14-vibe.png"
+  link=""
   linkrel="noopener"
 
   title="ネイバーウェール (네이버 웨일) Vibe サイドバーアプリ"
@@ -446,7 +446,7 @@ LinkedModeの場合、左側のペインでアクティブリンクをクリッ�
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-15-media.png"
-  link="images/n/naver-whale-15-media.png"
+  link=""
   linkrel="noopener"
 
   title="ネイバーウェール (네이버 웨일) メディアコントロールセンター"
@@ -479,7 +479,7 @@ LinkedModeの場合、左側のペインでアクティブリンクをクリッ�
 
   isrepresentativeofpage=true
 
-  link="images/n/naver-whale-01-welcome.png"
+  link=""
   linkrel="noopener"
 
   title="ネイバーウェール (네이버 웨일)"

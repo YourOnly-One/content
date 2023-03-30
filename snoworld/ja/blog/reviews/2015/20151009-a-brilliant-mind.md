@@ -140,7 +140,7 @@ contenttypes = ["CriticReview"]                                                 
   isrepresentativeofpage=false
 
   src="images/a/a-brilliant-young-mind-02.apng"
-  link="images/a/a-brilliant-young-mind-02.apng"
+  link=""
   linkrel="noopener"
 
   title="ブリリアントヤングマインド（2014）"
@@ -166,7 +166,7 @@ contenttypes = ["CriticReview"]                                                 
   isrepresentativeofpage=false
 
   src="images/a/a-brilliant-young-mind-07.apng"
-  link="images/a/a-brilliant-young-mind-07.apng"
+  link=""
   linkrel="noopener"
 
   title="ブリリアントヤングマインド（2014）"
@@ -194,7 +194,7 @@ contenttypes = ["CriticReview"]                                                 
   isrepresentativeofpage=false
 
   src="images/a/a-brilliant-young-mind-01.apng"
-  link="images/a/a-brilliant-young-mind-01.apng"
+  link=""
   linkrel="noopener"
 
   title="ブリリアントヤングマインド（2014）"
@@ -220,7 +220,7 @@ contenttypes = ["CriticReview"]                                                 
   isrepresentativeofpage=false
 
   src="images/a/a-brilliant-young-mind-05.png"
-  link="images/a/a-brilliant-young-mind-05.png"
+  link=""
   linkrel="noopener"
 
   title="ブリリアントヤングマインド（2014）"
@@ -244,7 +244,7 @@ contenttypes = ["CriticReview"]                                                 
   isrepresentativeofpage=false
 
   src="images/a/a-brilliant-young-mind-04.apng"
-  link="images/a/a-brilliant-young-mind-04.apng"
+  link=""
   linkrel="noopener"
 
   title="ブリリアントヤングマインド（2014）"
@@ -268,7 +268,7 @@ contenttypes = ["CriticReview"]                                                 
   isrepresentativeofpage=false
 
   src="images/a/a-brilliant-young-mind-06.apng"
-  link="images/a/a-brilliant-young-mind-06.apng"
+  link=""
   linkrel="noopener"
 
   title="ブリリアントヤングマインド（2014）"
@@ -315,7 +315,7 @@ contenttypes = ["CriticReview"]                                                 
 
   isrepresentativeofpage=true
 
-  link="images/a/a-brilliant-young-mind-03.png"
+  link=""
   linkrel="noopener"
 
   title="ブリリアントヤングマインド（2014）"

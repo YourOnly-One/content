@@ -225,7 +225,7 @@ In <cite>[All P-pop are idols, Not](ppop-vs-idols.md "All P-pop are idols, Not")
 
   isrepresentativeofpage=true
 
-  link="images/p/ppop-opm.webp"
+  link=""
   linkrel="noopener"
   thumbnailurl=""
 

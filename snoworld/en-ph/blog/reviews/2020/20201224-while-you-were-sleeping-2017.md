@@ -224,7 +224,7 @@ The supporting actors did well too and made their characters memorable especiall
   width=""
 
   src="images/w/while-you-were-sleeping-(2017)-02.gif"
-  link="images/w/while-you-were-sleeping-(2017)-02.gif"
+  link=""
   linkrel="noopener external nofollow"
 
   title="While You Were Sleeping (2017)"
@@ -310,7 +310,7 @@ I give 《While You Were Sleeping》 an overall score of 9.0 out of 10 stars.
 {{< image
   type="imagecoverattrib"
 
-  link="images/w/while-you-were-sleeping-(2017)-01.jpg"
+  link=""
   linkrel="noopener external nofollow"
 
   title="While You Were Sleeping (2017)"

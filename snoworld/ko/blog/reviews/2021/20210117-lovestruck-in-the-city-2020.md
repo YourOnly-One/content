@@ -180,7 +180,7 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
   width=""
 
   src="images/l/lovestruck-in-the-city-(2020)-02.webp"
-  link="images/l/lovestruck-in-the-city-(2020)-02.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="도시남녀의 사랑법 (2020)"
@@ -215,7 +215,7 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
   width=""
 
   src="images/l/lovestruck-in-the-city-(2020)-03.webp"
-  link="images/l/lovestruck-in-the-city-(2020)-03.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="도시남녀의 사랑법 (2020)"
@@ -336,7 +336,7 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
 {{< image
   type="imagecoverattrib"
 
-  link="images/l/lovestruck-in-the-city-(2020)-01.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="도시남녀의 사랑법 (2020)"

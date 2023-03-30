@@ -69,7 +69,7 @@ Without further ado, let's dive in!
   isrepresentativeofpage=false
 
   src="images/e/extraordinary-attorney-woo-01.webp"
-  link="images/e/extraordinary-attorney-woo-01.webp"
+  link=""
   linkrel="noopener"
 
   title="Extraordinary Attorney Woo (이상한 변호사 우영우)"
@@ -147,7 +147,7 @@ Pretty strong answer from {{% quote type="name" lang="en" %}}Autistic A{{% /quot
   isrepresentativeofpage=false
 
   src="images/e/extraordinary-attorney-woo-02.webp"
-  link="images/e/extraordinary-attorney-woo-02.webp"
+  link=""
   linkrel="noopener"
 
   title="Extraordinary Attorney Woo (이상한 변호사 우영우)"
@@ -231,7 +231,7 @@ I totally agree with them. Not explaining the reasons for a break up is not an a
   isrepresentativeofpage=false
 
   src="images/e/extraordinary-attorney-woo-04.webp"
-  link="images/e/extraordinary-attorney-woo-04.webp"
+  link=""
   linkrel="noopener"
 
   title="Extraordinary Attorney Woo (이상한 변호사 우영우)"
@@ -294,7 +294,7 @@ Check out my [](20151009-a-brilliant-mind.md) and [](20220810-innocent-witness-2
   isrepresentativeofpage=false
 
   src="images/e/extraordinary-attorney-woo-05.webp"
-  link="images/e/extraordinary-attorney-woo-05.webp"
+  link=""
   linkrel="noopener"
 
   title="Extraordinary Attorney Woo (이상한 변호사 우영우)"
@@ -345,7 +345,7 @@ Thank you to everyone who responded and participated!
 
   isrepresentativeofpage=true
 
-  link="images/e/extraordinary-attorney-woo-03.png"
+  link=""
   linkrel="noopener"
 
   title="Extraordinary Attorney Woo (이상한 변호사 우영우)"

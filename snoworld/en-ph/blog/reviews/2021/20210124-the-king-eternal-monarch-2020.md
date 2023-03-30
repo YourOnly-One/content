@@ -274,7 +274,7 @@ Overall score of 9.5 out of 10 stars.
 {{< image
   type="imagecoverattrib"
 
-  link="images/t/the-king-eternal-monarch-(2020)-01.jpg"
+  link=""
   linkrel="noopener external nofollow"
 
   title="The King: Eternal Monarch (2020)"

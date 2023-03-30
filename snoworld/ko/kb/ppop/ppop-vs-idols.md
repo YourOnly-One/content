@@ -159,7 +159,7 @@ type = "article"                                                           # art
 
   isrepresentativeofpage=true
 
-  link="images/p/ppop-idols.webp"
+  link=""
   linkrel="noopener"
 
   title="P-pop and IDOLS"

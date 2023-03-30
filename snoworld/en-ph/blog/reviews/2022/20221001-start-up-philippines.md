@@ -208,7 +208,7 @@ contenttypes = ["CriticReview"]                                                 
   isrepresentativeofpage=false
 
   src="images/s/start-up-ph-meme-01.jpeg"
-  link="images/s/start-up-ph-meme-01.jpeg"
+  link=""
   linkrel="noopener"
 
   title="Start-Up PH"
@@ -243,7 +243,7 @@ The boy next door {{% quote type="name" lang="en-PH" %}}Alden Richards{{% /quote
   isrepresentativeofpage=false
 
   src="images/s/start-up-ph-meme-02.jpeg"
-  link="images/s/start-up-ph-meme-02.jpeg"
+  link=""
   linkrel="noopener"
 
   title="Start-Up PH"
@@ -274,7 +274,7 @@ When it comes to adapting a story to a local setting, it is critical to have bal
   isrepresentativeofpage=false
 
   src="images/s/start-up-ph-poster-01.jpeg"
-  link="images/s/start-up-ph-poster-01.jpeg"
+  link=""
   linkrel="noopener"
 
   title="Start-Up PH"
@@ -340,7 +340,7 @@ Check out my [](20201225-start-up-2020.md).
 
   isrepresentativeofpage=true
 
-  link="images/s/start-up-ph-banner.jpg"
+  link=""
   linkrel="noopener"
 
   title="Start-Up PH"

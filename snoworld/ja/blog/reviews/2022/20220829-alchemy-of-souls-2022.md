@@ -193,7 +193,7 @@ contenttypes = ["CriticReview"]                                                 
   isrepresentativeofpage=false
 
   src="images/a/alchemy-of-souls-daeho-nation-01-1280x.webp"
-  link="images/a/alchemy-of-souls-daeho-nation-01-1280x.webp"
+  link=""
   linkrel="noopener"
 
   title="還魂 (환혼)"
@@ -238,7 +238,7 @@ contenttypes = ["CriticReview"]                                                 
   isrepresentativeofpage=false
 
   src="images/a/alchemy-of-souls-mu-deok-01-1280x.webp"
-  link="images/a/alchemy-of-souls-mu-deok-01-1280x.webp"
+  link=""
   linkrel="noopener"
 
   title="還魂 (환혼)"
@@ -261,7 +261,7 @@ contenttypes = ["CriticReview"]                                                 
   isrepresentativeofpage=false
 
   src="images/a/alchemy-of-souls-jin-bu-yeon-01-1280x.webp"
-  link="images/a/alchemy-of-souls-jin-bu-yeon-01-1280x.webp"
+  link=""
   linkrel="noopener"
 
   title="還魂 (환혼)"
@@ -284,7 +284,7 @@ contenttypes = ["CriticReview"]                                                 
   isrepresentativeofpage=false
 
   src="images/a/alchemy-of-souls-nak-su-awakened-01-1280x.webp"
-  link="images/a/alchemy-of-souls-nak-su-awakened-01-1280x.webp"
+  link=""
   linkrel="noopener"
 
   title="還魂 (환혼)"
@@ -318,7 +318,7 @@ contenttypes = ["CriticReview"]                                                 
   isrepresentativeofpage=false
 
   src="images/a/alchemy-of-souls-seo-yul-01-1280x.webp"
-  link="images/a/alchemy-of-souls-seo-yul-01-1280x.webp"
+  link=""
   linkrel="noopener"
 
   title="還魂 (환혼)"
@@ -340,7 +340,7 @@ contenttypes = ["CriticReview"]                                                 
   isrepresentativeofpage=false
 
   src="images/a/alchemy-of-souls-park-jin-kim-do-ju-03-1280x.webp"
-  link="images/a/alchemy-of-souls-park-jin-kim-do-ju-03-1280x.webp"
+  link=""
   linkrel="noopener"
 
   title="還魂 (환혼)"
@@ -362,7 +362,7 @@ contenttypes = ["CriticReview"]                                                 
   isrepresentativeofpage=false
 
   src="images/a/alchemy-of-souls-kim-do-ju-03-1280x.webp"
-  link="images/a/alchemy-of-souls-kim-do-ju-03-1280x.webp"
+  link=""
   linkrel="noopener"
 
   title="還魂 (환혼)"
@@ -424,7 +424,7 @@ contenttypes = ["CriticReview"]                                                 
 
   isrepresentativeofpage=true
 
-  link="images/a/alchemy-of-souls-jang-uk-mu-deok-06-1280x.png"
+  link=""
   linkrel="noopener"
 
   title="還魂 (환혼)"

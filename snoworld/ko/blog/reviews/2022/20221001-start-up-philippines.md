@@ -208,7 +208,7 @@ contenttypes = ["CriticReview"]                                                 
   isrepresentativeofpage=false
 
   src="images/s/start-up-ph-meme-01.jpeg"
-  link="images/s/start-up-ph-meme-01.jpeg"
+  link=""
   linkrel="noopener"
 
   title="Start-Up PH"
@@ -243,7 +243,7 @@ contenttypes = ["CriticReview"]                                                 
   isrepresentativeofpage=false
 
   src="images/s/start-up-ph-meme-02.jpeg"
-  link="images/s/start-up-ph-meme-02.jpeg"
+  link=""
   linkrel="noopener"
 
   title="Start-Up PH"
@@ -274,7 +274,7 @@ contenttypes = ["CriticReview"]                                                 
   isrepresentativeofpage=false
 
   src="images/s/start-up-ph-poster-01.jpeg"
-  link="images/s/start-up-ph-poster-01.jpeg"
+  link=""
   linkrel="noopener"
 
   title="Start-Up PH"
@@ -340,7 +340,7 @@ contenttypes = ["CriticReview"]                                                 
 
   isrepresentativeofpage=true
 
-  link="images/s/start-up-ph-banner.jpg"
+  link=""
   linkrel="noopener"
 
   title="Start-Up PH"

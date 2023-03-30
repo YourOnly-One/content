@@ -74,7 +74,7 @@ Here are the memes based on the popular {{% quote type="name" lang="en" %}}Wish 
   isrepresentativeofpage=false
 
   src="images/e/extraordinary-attorney-woo-meme-the-whales-on-the-bus.jpg"
-  link="images/e/extraordinary-attorney-woo-meme-the-whales-on-the-bus.jpg"
+  link=""
   linkrel="noopener"
 
   title="Extraordinary Attorney Woo (이상한 변호사 우영우)"
@@ -98,7 +98,7 @@ When your ex-boyfriend or ex-girlfriend moves on …
   isrepresentativeofpage=false
 
   src="images/e/extraordinary-attorney-woo-meme-my-heart-whale-go-on.jpg"
-  link="images/e/extraordinary-attorney-woo-meme-my-heart-whale-go-on.jpg"
+  link=""
   linkrel="noopener"
 
   title="Extraordinary Attorney Woo (이상한 변호사 우영우)"
@@ -122,7 +122,7 @@ Where do broken hearts go?
   isrepresentativeofpage=false
 
   src="images/e/extraordinary-attorney-woo-meme-whale-do-broken-hearts-go.jpg"
-  link="images/e/extraordinary-attorney-woo-meme-whale-do-broken-hearts-go.jpg"
+  link=""
   linkrel="noopener"
 
   title="Extraordinary Attorney Woo (이상한 변호사 우영우)"
@@ -146,7 +146,7 @@ Is there really no chance to get back together?
   isrepresentativeofpage=false
 
   src="images/e/extraordinary-attorney-woo-meme-just-give-me-a-reason.jpg"
-  link="images/e/extraordinary-attorney-woo-meme-just-give-me-a-reason.jpg"
+  link=""
   linkrel="noopener"
 
   title="Extraordinary Attorney Woo (이상한 변호사 우영우)"
@@ -178,7 +178,7 @@ Is there really no chance to get back together?
   isrepresentativeofpage=false
 
   src="images/e/extraordinary-attorney-woo-meme-whale-soundtrack.jpg"
-  link="images/e/extraordinary-attorney-woo-meme-whale-soundtrack.jpg"
+  link=""
   linkrel="noopener"
 
   title="Extraordinary Attorney Woo (이상한 변호사 우영우)"
@@ -208,7 +208,7 @@ That was it, right? No. There is also a film entitled {{% quote type="title" lan
   isrepresentativeofpage=false
 
   src="images/e/extraordinary-attorney-woo-meme-all-too-whale-short-film.png"
-  link="images/e/extraordinary-attorney-woo-meme-all-too-whale-short-film.png"
+  link=""
   linkrel="noopener"
 
   title="Extraordinary Attorney Woo (이상한 변호사 우영우)"
@@ -235,7 +235,7 @@ Always smile and laugh! It is the best medicine. Have a wonderful day!
 
   isrepresentativeofpage=true
 
-  link="images/e/extraordinary-attorney-woo-meme-it-must-have-been-whale.png"
+  link=""
   linkrel="noopener"
 
   title="Extraordinary Attorney Woo (이상한 변호사 우영우) Meme: Young Woo performs 'It Must Have Been Whale' by Roxette LIVE on Wish …"

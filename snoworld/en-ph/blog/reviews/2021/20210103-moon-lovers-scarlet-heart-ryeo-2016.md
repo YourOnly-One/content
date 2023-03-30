@@ -175,7 +175,7 @@ The music, unfortunately, did not make an impact. There were scenes where a powe
   width=""
 
   src="images/m/moon-lovers-scarlet-heart-ryeo-(2016)-02.webp"
-  link="images/m/moon-lovers-scarlet-heart-ryeo-(2016)-02.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Moon Lovers: Scarlet Heart Ryeo (2016)"
@@ -257,7 +257,7 @@ I give this show 8 out of 10 stars.
 {{< image
   type="imagecoverattrib"
 
-  link="images/m/moon-lovers-scarlet-heart-ryeo-(2016)-01.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Moon Lovers: Scarlet Heart Ryeo (2016)"

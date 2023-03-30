@@ -137,7 +137,7 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
   width=""
 
   src="images/s/splash-splash-love-(2015)-02-twofie.gif"
-  link="images/s/splash-splash-love-(2015)-02-twofie.gif"
+  link=""
   linkrel="noopener external nofollow"
 
   title="퐁당퐁당 LOVE (2015)"
@@ -170,7 +170,7 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
   width=""
 
   src="images/s/splash-splash-love-(2015)-03.jpeg"
-  link="images/s/splash-splash-love-(2015)-03.jpeg"
+  link=""
   linkrel="noopener external nofollow"
 
   title="퐁당퐁당 LOVE (2015)"
@@ -308,7 +308,7 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
 {{< image
   type="imagecoverattrib"
 
-  link="images/s/splash-splash-love-(2015)-01-banner.jpeg"
+  link=""
   linkrel="noopener external nofollow"
 
   title="퐁당퐁당 LOVE (2015)"

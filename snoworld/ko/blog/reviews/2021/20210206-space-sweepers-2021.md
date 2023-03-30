@@ -179,7 +179,7 @@ sameas = ["https://en.wikipedia.org/wiki/Jo_Sung-hee", "https://www.imdb.com/nam
   width=""
 
   src="images/s/space-sweepers-(2021)-02.webp"
-  link="images/s/space-sweepers-(2021)-02.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="승리호 (2021)"
@@ -267,7 +267,7 @@ sameas = ["https://en.wikipedia.org/wiki/Jo_Sung-hee", "https://www.imdb.com/nam
 {{< image
   type="imagecoverattrib"
 
-  link="images/s/space-sweepers-(2021)-01.jpg"
+  link=""
   linkrel="noopener external nofollow"
 
   title="승리호 (2021)"

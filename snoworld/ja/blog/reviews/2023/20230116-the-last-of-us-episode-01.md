@@ -207,7 +207,7 @@ contenttypes = ["CriticReview"]                                                 
 
   isrepresentativeofpage=true
 
-  link="images/t/the-last-of-us-(2023)-poster.jpg"
+  link=""
   linkrel="noopener"
 
   title="The Last of Us"

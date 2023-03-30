@@ -118,7 +118,7 @@ contenttypes = ["CriticReview"]                                                 
   isrepresentativeofpage=false
 
   src="images/t/the-law-cafe-(2022)-01.webp"
-  link="images/t/the-law-cafe-(2022)-01.webp"
+  link=""
   linkrel="noopener"
 
   title="법대로 사랑하라"
@@ -140,7 +140,7 @@ contenttypes = ["CriticReview"]                                                 
   isrepresentativeofpage=false
 
   src="images/t/the-law-cafe-(2022)-02.webp"
-  link="images/t/the-law-cafe-(2022)-02.webp"
+  link=""
   linkrel="noopener"
 
   title="법대로 사랑하라"
@@ -166,7 +166,7 @@ contenttypes = ["CriticReview"]                                                 
   isrepresentativeofpage=false
 
   src="images/t/the-law-cafe-(2022)-03.webp"
-  link="images/t/the-law-cafe-(2022)-03.webp"
+  link=""
   linkrel="noopener"
 
   title="법대로 사랑하라"
@@ -189,7 +189,7 @@ contenttypes = ["CriticReview"]                                                 
 
   isrepresentativeofpage=true
 
-  link="images/t/the-law-cafe-(2022)-cover.jpg"
+  link=""
   linkrel="noopener"
 
   title="법대로 사랑하라"

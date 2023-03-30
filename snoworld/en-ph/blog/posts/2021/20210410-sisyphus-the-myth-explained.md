@@ -150,7 +150,7 @@ Anyone for *ending #1* will probably not like the rest of this post but are stil
   width=""
 
   src="images/s/sisyphus-the-myth-03.webp"
-  link="images/s/sisyphus-the-myth-03.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Sisyphus: The Myth"
@@ -211,7 +211,7 @@ Yes, an FAQ. I think this is the best format to use this way it is easier to und
   width=""
 
   src="images/s/sisyphus-the-myth-02.webp"
-  link="images/s/sisyphus-the-myth-02.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Sisyphus: The Myth"
@@ -264,7 +264,7 @@ Which brings us to the next question.
   width=""
 
   src="images/s/sisyphus-the-myth-04.webp"
-  link="images/s/sisyphus-the-myth-04.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Sisyphus: The Myth"
@@ -331,7 +331,7 @@ And we are back to that airplane scene. The new Seo Hae arrived. Han Tae Sul saw
   width=""
 
   src="images/s/sisyphus-the-myth-05.webp"
-  link="images/s/sisyphus-the-myth-05.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Sisyphus: The Myth"
@@ -423,7 +423,7 @@ Animetric presented an excellent explanation on the show's ending, I highly reco
 {{< image
   type="imagecoverattrib"
 
-  link="images/s/sisyphus-the-myth-01.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Sisyphus: The Myth"

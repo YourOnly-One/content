@@ -170,7 +170,7 @@ The multiple story arcs were well thought out and I was amazed with how these di
   width=""
 
   src="images/t/the-uncanny-counter-(2020)-02.jpeg"
-  link="images/t/the-uncanny-counter-(2020)-02.jpeg"
+  link=""
   linkrel="noopener external nofollow"
 
   title="The Uncanny Counter (2020)"
@@ -256,7 +256,7 @@ Since it was already announced that season 2 was given a green light, it further
 {{< image
   type="imagecoverattrib"
 
-  link="images/t/the-uncanny-counter-(2020)-01.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="The Uncanny Counter (2020)"

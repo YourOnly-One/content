@@ -358,7 +358,7 @@ The notion of generation is widely used in the everyday world to make sense of d
 
   isrepresentativeofpage=true
 
-  link="images/p/ppop-idols-02.webp"
+  link=""
   linkrel="noopener"
 
   title="P-pop idols"

@@ -169,7 +169,7 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
   width=""
 
   src="images/p/please-dont-date-him-(2020)-02.webp"
-  link="images/p/please-dont-date-him-(2020)-02.webp"
+  link=""
   linkrel="noopener"
 
   title="なお、男会わないで (2020)"
@@ -251,7 +251,7 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
 {{< image
   type="imagecoverattrib"
 
-  link="images/p/please-dont-date-him-(2020)-01.webp"
+  link=""
   linkrel="noopener"
 
   title="なお、男会わないで (2020)"

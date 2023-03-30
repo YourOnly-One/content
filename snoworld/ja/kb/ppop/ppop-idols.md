@@ -358,7 +358,7 @@ P-POPアイドル世代を現代のP-POP世代と混同しないでください�
 
   isrepresentativeofpage=true
 
-  link="images/p/ppop-idols-02.webp"
+  link=""
   linkrel="noopener"
 
   title="P-pop idols"

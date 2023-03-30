@@ -175,7 +175,7 @@ sameas = ["https://en.wikipedia.org/wiki/Kim_Kyu-tae", "https://www.imdb.com/nam
   width=""
 
   src="images/m/moon-lovers-scarlet-heart-ryeo-(2016)-02.webp"
-  link="images/m/moon-lovers-scarlet-heart-ryeo-(2016)-02.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="달의 연인 - 보보경심 려 (2016)"
@@ -257,7 +257,7 @@ sameas = ["https://en.wikipedia.org/wiki/Kim_Kyu-tae", "https://www.imdb.com/nam
 {{< image
   type="imagecoverattrib"
 
-  link="images/m/moon-lovers-scarlet-heart-ryeo-(2016)-01.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="달의 연인 - 보보경심 려 (2016)"

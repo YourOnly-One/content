@@ -193,7 +193,7 @@ contenttypes = ["CriticReview"]
   isrepresentativeofpage=false
 
   src="images/a/alchemy-of-souls-02.webp"
-  link="images/a/alchemy-of-souls-02.webp"
+  link=""
   linkrel="noopener"
 
   title="환혼"
@@ -216,7 +216,7 @@ contenttypes = ["CriticReview"]
   isrepresentativeofpage=false
 
   src="images/a/alchemy-of-souls-06.webp"
-  link="images/a/alchemy-of-souls-06.webp"
+  link=""
   linkrel="noopener"
 
   title="환혼"
@@ -251,7 +251,7 @@ contenttypes = ["CriticReview"]
   isrepresentativeofpage=false
 
   src="images/a/alchemy-of-souls-05.webp"
-  link="images/a/alchemy-of-souls-05.webp"
+  link=""
   linkrel="noopener"
 
   title="환혼"
@@ -274,7 +274,7 @@ contenttypes = ["CriticReview"]
   isrepresentativeofpage=false
 
   src="images/a/alchemy-of-souls-04.webp"
-  link="images/a/alchemy-of-souls-04.webp"
+  link=""
   linkrel="noopener"
 
   title="환혼"
@@ -318,7 +318,7 @@ contenttypes = ["CriticReview"]
   isrepresentativeofpage=false
 
   src="images/a/alchemy-of-souls-01.webp"
-  link="images/a/alchemy-of-souls-01.webp"
+  link=""
   linkrel="noopener"
 
   title="환혼"
@@ -353,7 +353,7 @@ contenttypes = ["CriticReview"]
   isrepresentativeofpage=false
 
   src="images/a/alchemy-of-souls-07.webp"
-  link="images/a/alchemy-of-souls-07.webp"
+  link=""
   linkrel="noopener"
 
   title="환혼"
@@ -397,7 +397,7 @@ contenttypes = ["CriticReview"]
   isrepresentativeofpage=false
 
   src="images/a/alchemy-of-souls-03.webp"
-  link="images/a/alchemy-of-souls-03.webp"
+  link=""
   linkrel="noopener"
 
   title="환혼"
@@ -436,7 +436,7 @@ contenttypes = ["CriticReview"]
   isrepresentativeofpage=false
 
   src="images/a/alchemy-of-souls-08.webp"
-  link="images/a/alchemy-of-souls-08.webp"
+  link=""
   linkrel="noopener"
 
   title="환혼"
@@ -488,7 +488,7 @@ contenttypes = ["CriticReview"]
 
   isrepresentativeofpage=true
 
-  link="images/a/alchemy-of-souls-00-cover.png"
+  link=""
   linkrel="noopener"
 
   title="환혼"

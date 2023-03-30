@@ -1225,7 +1225,7 @@ As of 2022-02-14, embed for the official music video is disabled. If this has be
 
   isrepresentativeofpage=true
 
-  link="images/p/ppop-3rd-generation-01.webp"
+  link=""
   linkrel="noopener"
 
   title="P-pop 3rd Generation"

@@ -201,7 +201,7 @@ type = "article"                                                             # a
 
     {{< image
       src="images/g/grid-device-the-ghost-02.webp"
-      link="images/g/grid-device-the-ghost-02.webp"
+      link=""
       linkrel="noopener"
 
       title="그리드"
@@ -274,7 +274,7 @@ type = "article"                                                             # a
 
 {{< image
   src="images/g/grid-sae-ha-death.webp"
-  link="images/g/grid-sae-ha-death.webp"
+  link=""
   linkrel="noopener"
 
   title="그리드"
@@ -298,7 +298,7 @@ type = "article"                                                             # a
 
 {{< image
   src="images/g/grid-the-ghost-remembering-sae-ha.webp"
-  link="images/g/grid-the-ghost-remembering-sae-ha.webp"
+  link=""
   linkrel="noopener"
 
   title="그리드"
@@ -333,7 +333,7 @@ type = "article"                                                             # a
 
 {{< image
   src="images/g/grid-the-ghost-vs-foe-blue-01.webp"
-  link="images/g/grid-the-ghost-vs-foe-blue-01.webp"
+  link=""
   linkrel="noopener"
 
   title="그리드"
@@ -424,7 +424,7 @@ Sae Ha는 그리드를 존재에서 지우지 않고는 사건을 변경할 다�
 
 {{< image
   src="images/g/grid-storehouse-sae-ha-2022.webp"
-  link="images/g/grid-storehouse-sae-ha-2022.webp"
+  link=""
   linkrel="noopener"
 
   title="그리드"
@@ -486,7 +486,7 @@ Sae Ha는 그리드를 존재에서 지우지 않고는 사건을 변경할 다�
 
 {{< image
   src="images/g/grid-the-ghost-vs-foe-blue-04.webp"
-  link="images/g/grid-the-ghost-vs-foe-blue-04.webp"
+  link=""
   linkrel="noopener"
 
   title="그리드"
@@ -591,7 +591,7 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
 
 {{< image
   src="images/g/grid-device-blue-time-traveler-friendly-01.webp"
-  link="images/g/grid-device-blue-time-traveler-friendly-01.webp"
+  link=""
   linkrel="noopener"
 
   title="그리드"
@@ -617,7 +617,7 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
   style=""
 
   src="images/g/grid-device-blue-time-traveler-foe-01.webp"
-  link="images/g/grid-device-blue-time-traveler-foe-01.webp"
+  link=""
   linkrel="noopener"
 
   title="그리드"
@@ -638,7 +638,7 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
   style=""
 
   src="images/g/grid-device-blue-time-traveler-foe-02.webp"
-  link="images/g/grid-device-blue-time-traveler-foe-02.webp"
+  link=""
   linkrel="noopener"
 
   title="그리드"
@@ -659,7 +659,7 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
   style=""
 
   src="images/g/grid-device-blue-time-traveler-foe-03.webp"
-  link="images/g/grid-device-blue-time-traveler-foe-03.webp"
+  link=""
   linkrel="noopener"
 
   title="그리드"
@@ -679,7 +679,7 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
 
 {{< image
   src="images/g/grid-the-ghost-blue-time-traveler-sae-ha.awebp"
-  link="images/g/grid-the-ghost-blue-time-traveler-sae-ha.awebp"
+  link=""
   linkrel="noopener"
 
   title="그리드"
@@ -748,7 +748,7 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
 
 {{< image
   src="images/g/grid-irr-destroyed-2022.awebp"
-  link="images/g/grid-irr-destroyed-2022.awebp"
+  link=""
   linkrel="noopener"
 
   title="그리드"
@@ -786,7 +786,7 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
 
 {{< image
   src="images/g/grid-faction-scene.webp"
-  link="images/g/grid-faction-scene.webp"
+  link=""
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -836,7 +836,7 @@ Ghost라는 레이블은 행정부, 특히 최 이사의 비서실 부서에서 
 
 {{< image
   src="images/g/grid-destroyed-2022-01.webp"
-  link="images/g/grid-destroyed-2022-01.webp"
+  link=""
   linkrel="noopener"
 
   title="그리드"
@@ -910,7 +910,7 @@ Z축 또는 높이, 또는 위아래로 움직이는 것은 내가 "존재의 �
 
 {{< image
   src="images/g/grid-microtesla-blue-time-traveler-friendly-230µT-01.webp"
-  link="images/g/grid-microtesla-blue-time-traveler-friendly-230µT-01.webp"
+  link=""
   linkrel="noopener"
 
   title="그리드"
@@ -926,7 +926,7 @@ Z축 또는 높이, 또는 위아래로 움직이는 것은 내가 "존재의 �
 
 {{< image
   src="images/g/grid-microtesla-blue-time-traveler-friendly-230µT-02.webp"
-  link="images/g/grid-microtesla-blue-time-traveler-friendly-230µT-02.webp"
+  link=""
   linkrel="noopener"
 
   title="그리드"
@@ -942,7 +942,7 @@ Z축 또는 높이, 또는 위아래로 움직이는 것은 내가 "존재의 �
 
 {{< image
   src="images/g/grid-microtesla-ghost-408µT-and-blue-237µT-01.webp"
-  link="images/g/grid-microtesla-ghost-408µT-and-blue-237µT-01.webp"
+  link=""
   linkrel="noopener"
 
   title="그리드"
@@ -986,7 +986,7 @@ Z축 또는 높이, 또는 위아래로 움직이는 것은 내가 "존재의 �
 
 {{< image
   src="images/g/grid-vanishing-time-travelers.awebp"
-  link="images/g/grid-vanishing-time-travelers.awebp"
+  link=""
   linkrel="noopener"
 
   title="그리드"
@@ -1007,7 +1007,7 @@ Z축 또는 높이, 또는 위아래로 움직이는 것은 내가 "존재의 �
 
   isrepresentativeofpage=true
 
-  link="images/g/grid-red-logo.webp"
+  link=""
   linkrel="noopener"
 
   title="그리드"

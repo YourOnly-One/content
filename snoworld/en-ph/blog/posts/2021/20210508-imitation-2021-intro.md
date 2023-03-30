@@ -188,7 +188,7 @@ This new 2021 Korean Drama entitled 《Imitation》 should appeal to all fans of
   type="image"
 
   src="images/i/imitation-(2021)-dream-01.webp"
-  link="images/i/imitation-(2021)-dream-01.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -212,7 +212,7 @@ This new 2021 Korean Drama entitled 《Imitation》 should appeal to all fans of
   type="image"
 
   src="images/i/imitation-(2021)-dream-02.webp"
-  link="images/i/imitation-(2021)-dream-02.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -238,7 +238,7 @@ This new 2021 Korean Drama entitled 《Imitation》 should appeal to all fans of
   type="image"
 
   src="images/i/imitation-(2021)-lee-ma-ha-01.webp"
-  link="images/i/imitation-(2021)-lee-ma-ha-01.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -262,7 +262,7 @@ This new 2021 Korean Drama entitled 《Imitation》 should appeal to all fans of
   type="image"
 
   src="images/i/imitation-(2021)-lee-ma-ha-02.webp"
-  link="images/i/imitation-(2021)-lee-ma-ha-02.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -286,7 +286,7 @@ This new 2021 Korean Drama entitled 《Imitation》 should appeal to all fans of
   type="image"
 
   src="images/i/imitation-(2021)-lee-ma-ha-03.webp"
-  link="images/i/imitation-(2021)-lee-ma-ha-03.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -315,7 +315,7 @@ In the era of millions of K-Pop idol trainees, only 0.1% are selected to debut. 
   width=""
 
   src="images/i/imitation-(2021)-shax-01.webp"
-  link="images/i/imitation-(2021)-shax-01.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -341,7 +341,7 @@ And being selected does not mean a trainee will debut as was depicted in the fir
   type="image"
 
   src="images/i/imitation-(2021)-quitting-01.webp"
-  link="images/i/imitation-(2021)-quitting-01.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -365,7 +365,7 @@ And being selected does not mean a trainee will debut as was depicted in the fir
   type="image"
 
   src="images/i/imitation-(2021)-quitting-02.webp"
-  link="images/i/imitation-(2021)-quitting-02.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -392,7 +392,7 @@ And being selected does not mean a trainee will debut as was depicted in the fir
   width=""
 
   src="images/i/imitation-(2021)-agency-accommodation-01.webp"
-  link="images/i/imitation-(2021)-agency-accommodation-01.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -419,7 +419,7 @@ Being away from your family, especially in special occasions, is very depressing
   width=""
 
   src="images/i/imitation-(2021)-away-from-family-01.webp"
-  link="images/i/imitation-(2021)-away-from-family-01.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -445,7 +445,7 @@ If that was not enough, 《Lee Ma Ha》's agency sold her to a less popular comp
   type="image"
 
   src="images/i/imitation-(2021)-sold-to-another-agency-01.webp"
-  link="images/i/imitation-(2021)-sold-to-another-agency-01.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -469,7 +469,7 @@ If that was not enough, 《Lee Ma Ha》's agency sold her to a less popular comp
   type="image"
 
   src="images/i/imitation-(2021)-sold-to-another-agency-02.webp"
-  link="images/i/imitation-(2021)-sold-to-another-agency-02.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -499,7 +499,7 @@ Regardless if one is a solo act or a group, they have to market themselves withi
   type="image"
 
   src="images/i/imitation-(2021)-omega-iii-01.webp"
-  link="images/i/imitation-(2021)-omega-iii-01.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -523,7 +523,7 @@ Regardless if one is a solo act or a group, they have to market themselves withi
   type="image"
 
   src="images/i/imitation-(2021)-omega-iii-02.webp"
-  link="images/i/imitation-(2021)-omega-iii-02.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -549,7 +549,7 @@ Regardless if one is a solo act or a group, they have to market themselves withi
   type="image"
 
   src="images/i/imitation-(2021)-omega-iii-03.webp"
-  link="images/i/imitation-(2021)-omega-iii-03.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -573,7 +573,7 @@ Regardless if one is a solo act or a group, they have to market themselves withi
   type="image"
 
   src="images/i/imitation-(2021)-omega-iii-04.webp"
-  link="images/i/imitation-(2021)-omega-iii-04.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
@@ -617,7 +617,7 @@ Respect them. Stop bullying them.
 {{< image
   type="imagecoverattrib"
 
-  link="images/i/imitation-(2021)-title.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Imitation"

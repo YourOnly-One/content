@@ -193,7 +193,7 @@ Here is a short rundown and quick feedback about the premier of this live-action
   isrepresentativeofpage=false
 
   src="images/a/alchemy-of-souls-02.webp"
-  link="images/a/alchemy-of-souls-02.webp"
+  link=""
   linkrel="noopener"
 
   title="Alchemy of Souls (환혼)"
@@ -216,7 +216,7 @@ Here is a short rundown and quick feedback about the premier of this live-action
   isrepresentativeofpage=false
 
   src="images/a/alchemy-of-souls-06.webp"
-  link="images/a/alchemy-of-souls-06.webp"
+  link=""
   linkrel="noopener"
 
   title="Alchemy of Souls (환혼)"
@@ -251,7 +251,7 @@ Together, they embark on a fantastical journey of magic, romance, and survival i
   isrepresentativeofpage=false
 
   src="images/a/alchemy-of-souls-05.webp"
-  link="images/a/alchemy-of-souls-05.webp"
+  link=""
   linkrel="noopener"
 
   title="Alchemy of Souls (환혼)"
@@ -274,7 +274,7 @@ Together, they embark on a fantastical journey of magic, romance, and survival i
   isrepresentativeofpage=false
 
   src="images/a/alchemy-of-souls-04.webp"
-  link="images/a/alchemy-of-souls-04.webp"
+  link=""
   linkrel="noopener"
 
   title="Alchemy of Souls (환혼)"
@@ -318,7 +318,7 @@ There are four powerful mage clans in {{% quote type="name" lang="ko-Latn" %}}Da
   isrepresentativeofpage=false
 
   src="images/a/alchemy-of-souls-01.webp"
-  link="images/a/alchemy-of-souls-01.webp"
+  link=""
   linkrel="noopener"
 
   title="Alchemy of Souls (환혼)"
@@ -353,7 +353,7 @@ There are four powerful mage clans in {{% quote type="name" lang="ko-Latn" %}}Da
   isrepresentativeofpage=false
 
   src="images/a/alchemy-of-souls-07.webp"
-  link="images/a/alchemy-of-souls-07.webp"
+  link=""
   linkrel="noopener"
 
   title="Alchemy of Souls (환혼)"
@@ -397,7 +397,7 @@ There are four powerful mage clans in {{% quote type="name" lang="ko-Latn" %}}Da
   isrepresentativeofpage=false
 
   src="images/a/alchemy-of-souls-03.webp"
-  link="images/a/alchemy-of-souls-03.webp"
+  link=""
   linkrel="noopener"
 
   title="Alchemy of Souls (환혼)"
@@ -436,7 +436,7 @@ There are four powerful mage clans in {{% quote type="name" lang="ko-Latn" %}}Da
   isrepresentativeofpage=false
 
   src="images/a/alchemy-of-souls-08.webp"
-  link="images/a/alchemy-of-souls-08.webp"
+  link=""
   linkrel="noopener"
 
   title="Alchemy of Souls (환혼)"
@@ -488,7 +488,7 @@ Looking for a true live-action high fantasy? Look no further, {{% quote type="ti
 
   isrepresentativeofpage=true
 
-  link="images/a/alchemy-of-souls-00-cover.png"
+  link=""
   linkrel="noopener"
 
   title="Alchemy of Souls (환혼)"

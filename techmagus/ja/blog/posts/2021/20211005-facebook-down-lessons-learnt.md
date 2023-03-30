@@ -97,7 +97,7 @@ Facebookとそのサービスの最長のダウンタイムに貢献した多く
   width="80%"
 
   src="images/f/friendica-01-frio-profile.webp"
-  link="images/f/friendica-01-frio-profile.webp"
+  link=""
   linkrel="noopener"
 
   title="Frio Theme"
@@ -141,7 +141,7 @@ Facebookとそのサービスの最長のダウンタイムに貢献した多く
   width="80%"
 
   src="images/h/hubzilla-01.webp"
-  link="images/h/hubzilla-01.webp"
+  link=""
   linkrel="noopener"
 
   title="Hubzilla"
@@ -182,7 +182,7 @@ example.comにチャネルを作成し、example.netにクローンを作成で�
   width="48%"
 
   src="images/z/z/zap-01-logo.svg"
-  link="images/z/z/zap-01-logo.svg"
+  link=""
   linkrel="noopener"
 
   title="Zap"
@@ -226,7 +226,7 @@ example.comにチャネルを作成し、example.netにクローンを作成で�
   width="80%"
 
   src="images/m/misskey-01-hashtag.webp"
-  link="images/m/misskey-01-hashtag.webp"
+  link=""
   linkrel="noopener"
 
   title="Misskey"
@@ -275,7 +275,7 @@ example.comにチャネルを作成し、example.netにクローンを作成で�
   width="80%"
 
   src="images/p/pixelfed-01-trending.webp"
-  link="images/p/pixelfed-01-trending.webp"
+  link=""
   linkrel="noopener"
 
   title="Pixelfed"
@@ -326,7 +326,7 @@ example.comにチャネルを作成し、example.netにクローンを作成で�
   width="80%"
 
   src="images/m/mastodon-01-dashboard.webp"
-  link="images/m/mastodon-01-dashboard.webp"
+  link=""
   linkrel="noopener"
 
   title="Mastodon"
@@ -369,7 +369,7 @@ Twitterを定期的に使用していて、そのフローが気に入ってい�
   width="80%"
 
   src="images/p/peertube-01-discover.webp"
-  link="images/p/peertube-01-discover.webp"
+  link=""
   linkrel="noopener"
 
   title="PeerTube"
@@ -421,7 +421,7 @@ PeerTubeは、世界中のビデオを一元化する巨大なプラットフォ
   width="80%"
 
   src="images/k/keybase-01-chat.webp"
-  link="images/k/keybase-01-chat.webp"
+  link=""
   linkrel="noopener"
 
   title="Keybase"
@@ -487,7 +487,7 @@ PeerTubeは、世界中のビデオを一元化する巨大なプラットフォ
   width="80%"
 
   src="images/m/matrix-01-element-client.webp"
-  link="images/m/matrix-01-element-client.webp"
+  link=""
   linkrel="noopener"
 
   title="Matrix"
@@ -532,7 +532,7 @@ Matrix [今日](https://matrix.org/docs/projects/try-matrix-now/)をお試しく
   width="80%"
 
   src="images/s/session-01.webp"
-  link="images/s/session-01.webp"
+  link=""
   linkrel="noopener"
 
   title="Session"
@@ -580,7 +580,7 @@ Matrix [今日](https://matrix.org/docs/projects/try-matrix-now/)をお試しく
 {{< image
   type="imagecoverattrib"
 
-  link="images/d/decentralisation-01.gif"
+  link=""
   linkrel="noopener"
 
   title="Decentralisation"

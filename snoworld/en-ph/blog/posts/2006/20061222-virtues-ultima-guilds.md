@@ -214,7 +214,7 @@ Article history:
 
   isrepresentativeofpage=true
 
-  link="images/u/ultima-codex-of-ultimate-wisdom.png"
+  link=""
   linkrel="noopener"
 
   title="Codex of Ultimate Wisdom (with background)"

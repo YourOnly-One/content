@@ -171,7 +171,7 @@ sameas = ["https://www.imdb.com/name/nm1602570"]
   width=""
 
   src="images/t/the-uncanny-counter-(2020)-02.jpeg"
-  link="images/t/the-uncanny-counter-(2020)-02.jpeg"
+  link=""
   linkrel="noopener external nofollow"
 
   title="驚異的な噂 (2020)"
@@ -257,7 +257,7 @@ sameas = ["https://www.imdb.com/name/nm1602570"]
 {{< image
   type="imagecoverattrib"
 
-  link="images/t/the-uncanny-counter-(2020)-01.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="驚異的な噂 (2020)"

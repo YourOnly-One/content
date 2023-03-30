@@ -824,7 +824,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 
   isrepresentativeofpage=true
 
-  link="images/t/top-10-movies.webp"
+  link=""
   linkrel="noopener"
 
   title="YourOnly.One Top 10 Movies"

@@ -147,7 +147,7 @@ The group's theme will revolve around their name <bdi lang="ko-Latn">Le Sserafim
 
   isrepresentativeofpage=true
 
-  link="images/l/le-sserafim-logo.webp"
+  link=""
   linkrel="noopener"
 
   title="Le Sserafim"

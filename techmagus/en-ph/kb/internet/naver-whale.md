@@ -87,7 +87,7 @@ Installation is very simple, [download {{% quote type="title" lang="en" %}}Whale
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-02-home.png"
-  link="images/n/naver-whale-02-home.png"
+  link=""
   linkrel="noopener"
 
   title="Naver Whale (네이버 웨일) Home"
@@ -133,7 +133,7 @@ Dual-pane tab is a cool feature in {{% quote type="title" lang="en" %}}{{% quote
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-16-dual-pane-01.png"
-  link="images/n/naver-whale-16-dual-pane-01.png"
+  link=""
   linkrel="noopener"
 
   title="Naver Whale (네이버 웨일) Dual-pane tab"
@@ -163,7 +163,7 @@ It is also possible to merge two tabs into a single dual-pane tab. This is usefu
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-04-notice.png"
-  link="images/n/naver-whale-04-notice.png"
+  link=""
   linkrel="noopener"
 
   title="Naver Whale (네이버 웨일) Notice"
@@ -191,7 +191,7 @@ This is a very useful sidebar section {{% quote type="title" lang="en" %}}{{% qu
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-05-toolbox.png"
-  link="images/n/naver-whale-05-toolbox.png"
+  link=""
   linkrel="noopener"
 
   title="Naver Whale (네이버 웨일) Toolbox"
@@ -228,7 +228,7 @@ The toolbox currently offers the following tools:
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-06-scrapbook.png"
-  link="images/n/naver-whale-06-scrapbook.png"
+  link=""
   linkrel="noopener"
 
   title="Naver Whale (네이버 웨일) Scrapbook"
@@ -256,7 +256,7 @@ It is also possible to further place information into more specific topics by cr
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-08-papago.png"
-  link="images/n/naver-whale-08-papago.png"
+  link=""
   linkrel="noopener"
 
   title="Naver Whale (네이버 웨일) Papago neural translation"
@@ -284,7 +284,7 @@ This built-in feature also offers website translations. A flag icon will show up
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-09-music.png"
-  link="images/n/naver-whale-09-music.png"
+  link=""
   linkrel="noopener"
 
   title="Naver Whale (네이버 웨일) Music Player V2 sidebar app"
@@ -312,7 +312,7 @@ A fan of Korea's webtoons, in particular the {{% quote type="title" lang="en" %}
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-10-webtoon.png"
-  link="images/n/naver-whale-10-webtoon.png"
+  link=""
   linkrel="noopener"
 
   title="Naver Whale (네이버 웨일) Webtoon sidebar app"
@@ -338,7 +338,7 @@ With the {{% quote type="title" lang="en" %}}{{% quote type="name" lang="en" %}}
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-11-memo.png"
-  link="images/n/naver-whale-11-memo.png"
+  link=""
   linkrel="noopener"
 
   title="Naver Whale (네이버 웨일) Memo sidebar app"
@@ -364,7 +364,7 @@ The {{% quote type="title" lang="en" %}}Memo{{% /quote %}} sidebar app is useful
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-12-now.png"
-  link="images/n/naver-whale-12-now.png"
+  link=""
   linkrel="noopener"
 
   title="Naver Whale (네이버 웨일) Now sidebar app"
@@ -392,7 +392,7 @@ If {{% quote type="title" lang="en" %}}{{% quote type="name" lang="en" %}}Naver{
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-13-vlive.png"
-  link="images/n/naver-whale-13-vlive.png"
+  link=""
   linkrel="noopener"
 
   title="Naver Whale (네이버 웨일) VLive sidebar app"
@@ -420,7 +420,7 @@ If {{% quote type="title" lang="en" %}}{{% quote type="name" lang="en" %}}Naver{
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-14-vibe.png"
-  link="images/n/naver-whale-14-vibe.png"
+  link=""
   linkrel="noopener"
 
   title="Naver Whale (네이버 웨일) Vibe sidebar app"
@@ -446,7 +446,7 @@ A good feature of {{% quote type="title" lang="en" %}}{{% quote type="name" lang
   isrepresentativeofpage=false
 
   src="images/n/naver-whale-15-media.png"
-  link="images/n/naver-whale-15-media.png"
+  link=""
   linkrel="noopener"
 
   title="Naver Whale (네이버 웨일) Media control center"
@@ -479,7 +479,7 @@ It is currently my default {{% quote type="title" lang="en" %}}Chromium{{% /quot
 
   isrepresentativeofpage=true
 
-  link="images/n/naver-whale-01-welcome.png"
+  link=""
   linkrel="noopener"
 
   title="Naver Whale (네이버 웨일)"

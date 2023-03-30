@@ -212,7 +212,7 @@ I'm giving it an 8 out of 10 stars.
   width=""
 
   src="images/y/you-are-the-best-(2013)-02.webp"
-  link="images/y/you-are-the-best-(2013)-02.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="You Are The Best! (2013)"
@@ -298,7 +298,7 @@ Overall, I'm giving the series 8 out of 10 stars. It was a great show and it was
 {{< image
   type="imagecoverattrib"
 
-  link="images/y/you-are-the-best-(2013)-01.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="You Are The Best! (2013)"

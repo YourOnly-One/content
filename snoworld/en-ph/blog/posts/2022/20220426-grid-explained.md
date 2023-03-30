@@ -199,7 +199,7 @@ Before we begin we need to be on the same page on how to approach the questions 
 
     {{< image
       src="images/g/grid-device-the-ghost-02.webp"
-      link="images/g/grid-device-the-ghost-02.webp"
+      link=""
       linkrel="noopener"
 
       title="Grid (그리드)"
@@ -272,7 +272,7 @@ Realities and versions are technically the same. *Reality* is used to refer to c
 
 {{< image
   src="images/g/grid-sae-ha-death.webp"
-  link="images/g/grid-sae-ha-death.webp"
+  link=""
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -296,7 +296,7 @@ The Ghost, herself, is another clue.
 
 {{< image
   src="images/g/grid-the-ghost-remembering-sae-ha.webp"
-  link="images/g/grid-the-ghost-remembering-sae-ha.webp"
+  link=""
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -331,7 +331,7 @@ Here is how it happened:
 
 {{< image
   src="images/g/grid-the-ghost-vs-foe-blue-01.webp"
-  link="images/g/grid-the-ghost-vs-foe-blue-01.webp"
+  link=""
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -422,7 +422,7 @@ He is the Sae Ha the Friendly Blue Time Traveler saved. However, he can not reve
 
 {{< image
   src="images/g/grid-storehouse-sae-ha-2022.webp"
-  link="images/g/grid-storehouse-sae-ha-2022.webp"
+  link=""
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -484,7 +484,7 @@ This is the only way for events, mentioned in <q>[What is the relation of Sae Ha
 
 {{< image
   src="images/g/grid-the-ghost-vs-foe-blue-04.webp"
-  link="images/g/grid-the-ghost-vs-foe-blue-04.webp"
+  link=""
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -589,7 +589,7 @@ Good question! Unfortunately there is no way to know who is the Blue Time Travel
 
 {{< image
   src="images/g/grid-device-blue-time-traveler-friendly-01.webp"
-  link="images/g/grid-device-blue-time-traveler-friendly-01.webp"
+  link=""
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -615,7 +615,7 @@ Good question! Unfortunately there is no way to know who is the Blue Time Travel
   style=""
 
   src="images/g/grid-device-blue-time-traveler-foe-01.webp"
-  link="images/g/grid-device-blue-time-traveler-foe-01.webp"
+  link=""
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -636,7 +636,7 @@ Good question! Unfortunately there is no way to know who is the Blue Time Travel
   style=""
 
   src="images/g/grid-device-blue-time-traveler-foe-02.webp"
-  link="images/g/grid-device-blue-time-traveler-foe-02.webp"
+  link=""
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -657,7 +657,7 @@ Good question! Unfortunately there is no way to know who is the Blue Time Travel
   style=""
 
   src="images/g/grid-device-blue-time-traveler-foe-03.webp"
-  link="images/g/grid-device-blue-time-traveler-foe-03.webp"
+  link=""
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -677,7 +677,7 @@ As the Friendly Blue Time Traveler said in English, <q>It's not me. Can't you se
 
 {{< image
   src="images/g/grid-the-ghost-blue-time-traveler-sae-ha.awebp"
-  link="images/g/grid-the-ghost-blue-time-traveler-sae-ha.awebp"
+  link=""
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -746,7 +746,7 @@ The Grid that was destroyed is in 2022, not the 1997 Grid.
 
 {{< image
   src="images/g/grid-irr-destroyed-2022.awebp"
-  link="images/g/grid-irr-destroyed-2022.awebp"
+  link=""
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -784,7 +784,7 @@ He made this report to who appears to be his superior, <q>The Grid is all gone. 
 
 {{< image
   src="images/g/grid-faction-scene.webp"
-  link="images/g/grid-faction-scene.webp"
+  link=""
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -834,7 +834,7 @@ Maybe, maybe not. Since the Ghost said she was born in 2091, Byeori would be 69 
 
 {{< image
   src="images/g/grid-destroyed-2022-01.webp"
-  link="images/g/grid-destroyed-2022-01.webp"
+  link=""
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -908,7 +908,7 @@ For a human being to produce over 100 µT meant they were exposed to extremely p
 
 {{< image
   src="images/g/grid-microtesla-blue-time-traveler-friendly-230µT-01.webp"
-  link="images/g/grid-microtesla-blue-time-traveler-friendly-230µT-01.webp"
+  link=""
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -924,7 +924,7 @@ For a human being to produce over 100 µT meant they were exposed to extremely p
 
 {{< image
   src="images/g/grid-microtesla-blue-time-traveler-friendly-230µT-02.webp"
-  link="images/g/grid-microtesla-blue-time-traveler-friendly-230µT-02.webp"
+  link=""
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -940,7 +940,7 @@ For a human being to produce over 100 µT meant they were exposed to extremely p
 
 {{< image
   src="images/g/grid-microtesla-ghost-408µT-and-blue-237µT-01.webp"
-  link="images/g/grid-microtesla-ghost-408µT-and-blue-237µT-01.webp"
+  link=""
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -984,7 +984,7 @@ Thank you for listening (or reading in this case).
 
 {{< image
   src="images/g/grid-vanishing-time-travelers.awebp"
-  link="images/g/grid-vanishing-time-travelers.awebp"
+  link=""
   linkrel="noopener"
 
   title="Grid (그리드)"
@@ -1005,7 +1005,7 @@ Thank you for listening (or reading in this case).
 
   isrepresentativeofpage=true
 
-  link="images/g/grid-red-logo.webp"
+  link=""
   linkrel="noopener"
 
   title="Grid (그리드)"

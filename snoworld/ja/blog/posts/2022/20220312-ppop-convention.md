@@ -187,7 +187,7 @@ type = "article"                                                           # art
 
 {{< image
   src="images/p/ppopcon-2022-ticket-benefits.jpg"
-  link="images/p/ppopcon-2022-ticket-benefits.jpg"
+  link=""
   linkrel="noopener"
 
   title="PPOPCON Concert"
@@ -258,7 +258,7 @@ type = "article"                                                           # art
 
   isrepresentativeofpage=true
 
-  link="images/p/ppopcon-2022-cover.webp"
+  link=""
   linkrel="noopener"
 
   title="PPOPCON 2022"

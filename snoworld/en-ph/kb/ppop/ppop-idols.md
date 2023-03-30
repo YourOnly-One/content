@@ -358,7 +358,7 @@ Here are the generations of modern P-pop:
 
   isrepresentativeofpage=true
 
-  link="images/p/ppop-idols-02.webp"
+  link=""
   linkrel="noopener"
 
   title="P-pop idols"

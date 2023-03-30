@@ -89,7 +89,7 @@ CyclOSMは、次のスマートフォンアプリで利用できます。
 
   isrepresentativeofpage=true
 
-  link="images/c/cyclosm-01.webp"
+  link=""
   linkrel="noopener external"
   thumbnailurl=""
 

@@ -115,7 +115,7 @@ It is also available via [CodePen](https://codepen.io/techmagus/pen/NWLqoLd). Or
 
   isrepresentativeofpage=true
 
-  link="images/d/diacritics.png"
+  link=""
   linkrel="noopener"
 
   title="Filipino Diacritics"

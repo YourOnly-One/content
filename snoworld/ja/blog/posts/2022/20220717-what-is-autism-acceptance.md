@@ -195,7 +195,7 @@ First thing that popped into my head
 
   isrepresentativeofpage=true
 
-  link="images/a/autism-acceptance-01.png"
+  link=""
   linkrel="noopener"
   thumbnailurl=""
 

@@ -824,7 +824,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 
   isrepresentativeofpage=true
 
-  link="images/t/top-10-movies.webp"
+  link=""
   linkrel="noopener"
 
   title="YourOnly.One Top 10 Movies"

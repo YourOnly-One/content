@@ -214,7 +214,7 @@ In February, ***VIVIZ*** and ***NMIXX*** strenghtened the girl power theme with 
 
   isrepresentativeofpage=true
 
-  link="images/k/kpop-4th-generation-01.webp"
+  link=""
   linkrel="noopener"
 
   title="K-pop 4th Generation"

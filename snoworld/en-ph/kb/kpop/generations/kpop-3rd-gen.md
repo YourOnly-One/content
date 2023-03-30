@@ -1622,7 +1622,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 
   isrepresentativeofpage=true
 
-  link="images/k/kpop-3rd-generation-01.webp"
+  link=""
   linkrel="noopener"
 
   title="K-pop 3rd Generation"

@@ -179,7 +179,7 @@ Special mention is the child actress Park Ye Rin. She is technically a newbie in
   width=""
 
   src="images/s/space-sweepers-(2021)-02.webp"
-  link="images/s/space-sweepers-(2021)-02.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Space Sweepers (2021)"
@@ -267,7 +267,7 @@ Score: 9 out of 10!
 {{< image
   type="imagecoverattrib"
 
-  link="images/s/space-sweepers-(2021)-01.jpg"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Space Sweepers (2021)"

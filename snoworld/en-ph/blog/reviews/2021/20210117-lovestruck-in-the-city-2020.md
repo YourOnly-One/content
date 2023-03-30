@@ -180,7 +180,7 @@ From the title and synopsis, the impression was this is a part comedy, part chee
   width=""
 
   src="images/l/lovestruck-in-the-city-(2020)-02.webp"
-  link="images/l/lovestruck-in-the-city-(2020)-02.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Lovestruck in the City (2020)"
@@ -215,7 +215,7 @@ Watch in [Netflix](https://www.netflix.com/title/81340910) today.
   width=""
 
   src="images/l/lovestruck-in-the-city-(2020)-03.webp"
-  link="images/l/lovestruck-in-the-city-(2020)-03.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Lovestruck in the City (2020)"
@@ -336,7 +336,7 @@ Watch in [Netflix](https://www.netflix.com/title/81340910) today.
 {{< image
   type="imagecoverattrib"
 
-  link="images/l/lovestruck-in-the-city-(2020)-01.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Lovestruck in the City (2020)"

@@ -159,7 +159,7 @@ The next question is: when did the P-pop idol industry begin? It will be answere
 
   isrepresentativeofpage=true
 
-  link="images/p/ppop-idols.webp"
+  link=""
   linkrel="noopener"
 
   title="P-pop and IDOLS"

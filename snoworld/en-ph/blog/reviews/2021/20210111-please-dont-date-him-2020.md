@@ -168,7 +168,7 @@ The literary device used for the plot was properly used and was not just a liter
   width=""
 
   src="images/p/please-dont-date-him-(2020)-02.webp"
-  link="images/p/please-dont-date-him-(2020)-02.webp"
+  link=""
   linkrel="noopener"
 
   title="Please Don't Date Him (2020)"
@@ -250,7 +250,7 @@ It's sad that they only planned a total of ten (10) episodes, they could have ex
 {{< image
   type="imagecoverattrib"
 
-  link="images/p/please-dont-date-him-(2020)-01.webp"
+  link=""
   linkrel="noopener"
 
   title="Please Don't Date Him (2020)"

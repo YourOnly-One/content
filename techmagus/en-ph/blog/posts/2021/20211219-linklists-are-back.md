@@ -138,7 +138,7 @@ Shalom!
 
   isrepresentativeofpage=true
 
-  link="images/l/linklist-01.png"
+  link=""
   linkrel="noopener"
 
   title="Linklist"

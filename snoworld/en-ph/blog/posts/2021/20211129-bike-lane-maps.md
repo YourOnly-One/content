@@ -89,7 +89,7 @@ Started by: Jesus Israel Jr.; [View Larger Map](https://www.google.com/maps/d/vi
 
   isrepresentativeofpage=true
 
-  link="images/c/cyclosm-01.webp"
+  link=""
   linkrel="noopener external"
   thumbnailurl=""
 

@@ -219,7 +219,7 @@ type = "article"                                                             # a
 
   isrepresentativeofpage=true
 
-  link="images/h/hugo-markdown-link-render.webp"
+  link=""
   linkrel="noopener"
 
   title="Hugo에서 Markdown 링크를 사용자 지정하는 방법"

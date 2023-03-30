@@ -975,7 +975,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 
   isrepresentativeofpage=true
 
-  link="images/p/ppop-2nd-generation-01.webp"
+  link=""
   linkrel="noopener"
 
   title="P-pop 2nd Generation"

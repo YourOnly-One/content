@@ -138,7 +138,7 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
   width=""
 
   src="images/s/splash-splash-love-(2015)-02-twofie.gif"
-  link="images/s/splash-splash-love-(2015)-02-twofie.gif"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Splash Splash LOVE (2015)"
@@ -171,7 +171,7 @@ While this show only have one theme song, 《너에게 퐁당》, sang by two di
   width=""
 
   src="images/s/splash-splash-love-(2015)-03.jpeg"
-  link="images/s/splash-splash-love-(2015)-03.jpeg"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Splash Splash LOVE (2015)"
@@ -309,7 +309,7 @@ I can not believe I only discovered 《퐁당퐁당 LOVE》 / 《Splash Splash L
 {{< image
   type="imagecoverattrib"
 
-  link="images/s/splash-splash-love-(2015)-01-banner.jpeg"
+  link=""
   linkrel="noopener external nofollow"
 
   title="Splash Splash LOVE (2015)"

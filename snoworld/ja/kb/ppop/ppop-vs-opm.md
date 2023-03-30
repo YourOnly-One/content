@@ -225,7 +225,7 @@ type = "article"                                                           # art
 
   isrepresentativeofpage=true
 
-  link="images/p/ppop-opm.webp"
+  link=""
   linkrel="noopener"
   thumbnailurl=""
 

@@ -152,7 +152,7 @@ videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                        
   width=""
 
   src="images/s/sisyphus-the-myth-03.webp"
-  link="images/s/sisyphus-the-myth-03.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="시지프스: The Myth"
@@ -213,7 +213,7 @@ videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                        
   width=""
 
   src="images/s/sisyphus-the-myth-02.webp"
-  link="images/s/sisyphus-the-myth-02.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="시지프스: The Myth"
@@ -266,7 +266,7 @@ videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                        
   width=""
 
   src="images/s/sisyphus-the-myth-04.webp"
-  link="images/s/sisyphus-the-myth-04.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="시지프스: The Myth"
@@ -333,7 +333,7 @@ videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                        
   width=""
 
   src="images/s/sisyphus-the-myth-05.webp"
-  link="images/s/sisyphus-the-myth-05.webp"
+  link=""
   linkrel="noopener external nofollow"
 
   title="시지프스: The Myth"
@@ -425,7 +425,7 @@ Animetric은 쇼의 결말에 대한 훌륭한 설명을 발표했습니다. 나
 {{< image
   type="imagecoverattrib"
 
- link="images/s/sisyphus-the-myth-01.webp"
+ link=""
   linkrel="noopener external nofollow"
 
   title="시지프스: The Myth"

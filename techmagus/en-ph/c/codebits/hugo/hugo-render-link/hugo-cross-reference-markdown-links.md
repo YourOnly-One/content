@@ -219,7 +219,7 @@ Feel free to improve the code above and share back to the community. Please prov
 
   isrepresentativeofpage=true
 
-  link="images/h/hugo-markdown-link-render.webp"
+  link=""
   linkrel="noopener"
 
   title="How To Customize Markdown Links in Hugo"
