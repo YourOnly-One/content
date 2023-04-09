@@ -132,7 +132,7 @@ contenttypes = ["CriticReview"]                                                 
   attribto="KBS"
 >}}
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_indigodye" attribalign="txt_right" srctitle="マタイ 18:6" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_indigo-dye" attribalign="txt_right" srctitle="マタイ 18:6" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
 もし私を信じてくれる人に罪を負わせるなら、たとえ人々がこの小さな子どものように重要ではないと思っている人であっても、最高位層はその人を厳しく罰するでしょう。 首に重い石をつないだまま、海の深い水の中に投げ込んだとしても、彼はもっとひどい罰を与えるでしょう！
 {{% /quotebox %}}
 

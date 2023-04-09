@@ -47,7 +47,7 @@ avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 
 <!--more-->
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mishlei (箴言 知恵の泉) 20:6-7" srclink="" srcrel="noopener external nofollow" attribto="BibleGateway.com을 통한 일본어 살아있는 성경" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Mishlei (箴言 知恵の泉) 20:6-7" srclink="" srcrel="noopener external nofollow" attribto="BibleGateway.com을 통한 일본어 살아있는 성경" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>6</sup> 人はだれでも、自分を頼りになる友だと言いますが、
 それがほんとうかどうかはわかりません。
 

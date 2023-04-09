@@ -52,7 +52,7 @@ Let's find out together.
 
 <!--more-->
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 12:40" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 12:40" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
 For as Jonas was three days and three nights in the whale's belly; so shall the Son of man be three days and three nights in the heart of the earth.
 {{% /quotebox %}}
 
@@ -64,7 +64,7 @@ In both, there is no <q>three days and three nights in the heart of the earth</q
 
 For us to be able to understand Mattithyahu (Matthew) 12:40 we first need to establish an agreement: the Bible is the final authority. Simply put, if it is written <q>three days and three nights in the heart of the earth</q> then it is what must have happened.
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 12:38" srclink="" srcrel="noopener external nofollow" attribto="International Standard Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 12:38" srclink="" srcrel="noopener external nofollow" attribto="International Standard Version" attriblink="" attribrel="noopener external nofollow" %}}
 Then some of the scribes and Pharisees told <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (<bdi lang="hbo-Latn" dir="ltr">Yahushua</bdi>), "Teacher, we want to see a sign from you."
 {{% /quotebox %}}
 
@@ -74,7 +74,7 @@ This is very important for us to understand because this is the key, the sign, t
 
 Let's look at Markus (Mark) 8:31-32.
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Markus (Mark) 8:31-32" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Markus (Mark) 8:31-32" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>31</sup> And he began to teach them, that the Son of man must suffer many things, and be rejected of the elders, and of the chief priests, and scribes, and be killed, and after three days rise again.
 
 <sup>32</sup> And he spake that saying openly. And Kepha took him, and began to rebuke him.
@@ -86,7 +86,7 @@ Markus (Mark) 8:31-32 sealed it. Mattithyahu (Matthew) 12:40 can not be anything
 
 ## The Sign of Jonah
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Yonah (Jonah) 1:17" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Yonah (Jonah) 1:17" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
 Now <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (<bdi lang="hbo-Latn" dir="ltr">YAHUAH</bdi>) had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.
 {{% /quotebox %}}
 
@@ -94,7 +94,7 @@ When Jonah was swallowed by a great fish, he did not party, he did not socialise
 
 Just like Jonah, the Messiah <q>must suffer many things, and be rejected of the elders, and of the chielf priests, and scribes, and be killed</q> for <q>three days and three nights</q> not in the belly of the fish but in the <q>heart of the earth</q>.
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Lukas (Luke) 24:46" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Lukas (Luke) 24:46" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
 And said unto them, Thus it is written, and thus it behoved the Messiah to suffer, and to rise from the dead the third day.
 {{% /quotebox %}}
 

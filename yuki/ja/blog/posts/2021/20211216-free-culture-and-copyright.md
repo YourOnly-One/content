@@ -83,7 +83,7 @@ Open access is a broad international movement that seeks to grant free and open 
 
 ## 多くの人のための著作権の使用
 
-{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_indigodye" attribalign="txt_right" srctitle="" srclink="" srcrel="me noopener" attribto="" attriblink="" attribrel="me noopener" %}}
+{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_indigo-dye" attribalign="txt_right" srctitle="" srclink="" srcrel="me noopener" attribto="" attriblink="" attribrel="me noopener" %}}
 多くの人が自分の利益のために著作権を悪用していますが、フリーカルチャーの支持者はすべての人の利益のために著作権を悪用しています。
 {{% /quotebox %}}
 
@@ -97,7 +97,7 @@ Open access is a broad international movement that seeks to grant free and open 
 
 ## 反著作権？
 
-{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_indigodye" attribalign="txt_right" srctitle="" srclink="" srcrel="me noopener" attribto="" attriblink="" attribrel="me noopener" %}}
+{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_indigo-dye" attribalign="txt_right" srctitle="" srclink="" srcrel="me noopener" attribto="" attriblink="" attribrel="me noopener" %}}
 *無料でオープンな共有文化*は、作品が無料であることを意味するものではなく、誰も彼らの努力や出版の費用を支払ってはなりません。
 {{% /quotebox %}}
 

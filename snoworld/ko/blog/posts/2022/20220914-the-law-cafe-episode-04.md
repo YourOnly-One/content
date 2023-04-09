@@ -132,7 +132,7 @@ contenttypes = ["CriticReview"]                                                 
   attribto="KBS"
 >}}
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_indigodye" attribalign="txt_right" srctitle="마태복음 18:6" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_indigo-dye" attribalign="txt_right" srctitle="마태복음 18:6" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
 나를 믿는 사람에게 죄를 짓게 하면 비록 사람들이 이 어린 아이처럼 대수롭지 않게 생각하는 사람이라 할지라도 가장 높으신 분은 그 사람을 엄하게 처벌할 것입니다. 그는 누군가가 그의 목에 무거운 돌을 묶은 채 그를 바다의 깊은 물에 던졌을 때보다 더 심한 벌을 줄 것이다!
 {{% /quotebox %}}
 

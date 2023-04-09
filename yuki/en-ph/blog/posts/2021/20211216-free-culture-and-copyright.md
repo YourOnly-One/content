@@ -83,7 +83,7 @@ See also: [COVID-19 demonstrates the value of open access](https://crln.acrl.org
 
 ## Use of Copyright for the many
 
-{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_indigodye" attribalign="txt_right" srctitle="" srclink="" srcrel="me noopener" attribto="" attriblink="" attribrel="me noopener" %}}
+{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_indigo-dye" attribalign="txt_right" srctitle="" srclink="" srcrel="me noopener" attribto="" attriblink="" attribrel="me noopener" %}}
 While many are abusing Copyright for their own benefit, Free Culture advocates exploit it for everyone's gain.
 {{% /quotebox %}}
 
@@ -97,7 +97,7 @@ In our earlier example, Copyright is used to ensure that research papers are acc
 
 ## Anti-Copyright?
 
-{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_indigodye" attribalign="txt_right" srctitle="" srclink="" srcrel="me noopener" attribto="" attriblink="" attribrel="me noopener" %}}
+{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_indigo-dye" attribalign="txt_right" srctitle="" srclink="" srcrel="me noopener" attribto="" attriblink="" attribrel="me noopener" %}}
 *A free, open, and sharing culture* does not mean works are free-of-charge and no one should get paid for their hard work and/or the cost of publication.
 {{% /quotebox %}}
 

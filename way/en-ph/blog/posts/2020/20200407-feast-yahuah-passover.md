@@ -52,7 +52,7 @@ The Feast of <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (<bdi lang="h
 
 <!--more-->
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Exodus 12:14" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Exodus 12:14" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
 And this day shall be unto you for a memorial; and ye shall keep it a feast to <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (<bdi lang="hbo-Latn" dir="ltr">YAHUAH</bdi>) throughout your generations; ye shall keep it a feast by an ordinance for ever.
 {{% /quotebox %}}
 
@@ -60,7 +60,7 @@ In <cite>Exodus 12:14</cite> it was very clear that the Most Hight himself comma
 
 This is in fact echoed in the Renewed Covenant ("New Testament" as it is commonly called) in <cite>Luke 22:19</cite>.
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Luke 22:19" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Luke 22:19" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
 And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me.
 {{% /quotebox %}}
 
@@ -284,7 +284,7 @@ I also provided an image version below if you would like to share each slide ind
   attribrel="noopener"
 >}}
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Exodus 12:15, 18-20" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Exodus 12:15, 18-20" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>15</sup> Seven days shall ye eat unleavened bread; even the first day ye shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that shoul shall be cut off from Israel.
 
 <sup>18</sup> In the first month, on the fourteenth day of the month at even, ye shall eat unleavened bread, until the one and twentieth day of the month at even.

@@ -47,7 +47,7 @@ Who can find a trustworthy man? A righteous man who walks in integrity?
 
 <!--more-->
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mishlei (Proverbs) 20:6-7" srclink="" srcrel="noopener external nofollow" attribto="Shem Qadosh Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Mishlei (Proverbs) 20:6-7" srclink="" srcrel="noopener external nofollow" attribto="Shem Qadosh Version" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>6</sup> Many men claim to be men of unfailing love,
 but who can find a trustworthy man?
 

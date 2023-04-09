@@ -48,7 +48,7 @@ The commandment for today we should meditate is the 5<sup>th</sup> commandment, 
 
 <!--more-->
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Shemot (Exodus) 20:12" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Shemot (Exodus) 20:12" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>[12]</sup> "Honor your father and your mother, so that your days shall be prolonged in the land which <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH) your Aluahim gives you.
 {{% /quotebox %}}
 

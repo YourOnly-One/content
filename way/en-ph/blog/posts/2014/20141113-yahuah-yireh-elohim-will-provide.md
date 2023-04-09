@@ -58,7 +58,7 @@ Let's face the reality. Once this burden is on us, we start to look into the mat
 
 Imagine then my uneasiness whenever the future, the reality, the materialism, and the effect of it, depression, begins to enter into my being. It's not healthy and I definitely do not like it.
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Matthew 6:34" srclink="" srcrel="noopener external nofollow" attribto="Hebraic Roots Bible 2012" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Matthew 6:34" srclink="" srcrel="noopener external nofollow" attribto="Hebraic Roots Bible 2012" attriblink="" attribrel="noopener external nofollow" %}}
   Then do not be anxious for tomorrow. For the morrow will be anxious of itself. Sufficient to each day is its own trouble.
 {{% /quotebox %}}
 
@@ -70,7 +70,7 @@ No, there's nothing wrong in planning for your future. But we easily cross the b
 
 Just like what happened with Abraham and his son Isaac in this next verse.
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Genesis 22:7-14" srclink="" srcrel="noopener external nofollow" attribto="Hebraic Roots Bible 2012" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Genesis 22:7-14" srclink="" srcrel="noopener external nofollow" attribto="Hebraic Roots Bible 2012" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>7</sup> And Isaac spoke to his father Abraham and said, My father. And he said, Behold I am here. And he said, see, the fire and the wood! But where is the lamb for a burnt offering?
 
 <sup>8</sup> And Abraham said, My son, Elohim will see for Himself, the lamb for a burnt offering. And the two of them went together.
@@ -100,7 +100,7 @@ Abraham wasn't just using his faith. He used his knowledge of his Elohim. He kne
 
 Consider then the teachings of our Messiah <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua), our great Rabbi (teacher), who is the Word of our Abba (father) <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YaHuWaH).
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Matthew 6:19-34" srclink="" srcrel="noopener external nofollow" attribto="Hebraic Roots Bible 2012" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Matthew 6:19-34" srclink="" srcrel="noopener external nofollow" attribto="Hebraic Roots Bible 2012" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>19</sup> Do not treasure up for you treasures on the earth, where moth and rust cause to corrupt, and where thieves dig through and steal.
 
 <sup>20</sup> But treasure up for you treasures in Heaven, where neither moth nor rust cause to corrupt, and where thieves do not dig through and steal.
@@ -137,13 +137,13 @@ Abraham's faith saw these things. His knowledge of <bdi dir="rtl" lang="hbo-Hebr
 
 This, we should also apply in our daily lives. But how can we if we are not studying the Scripture he himself wrote? Our knowledge of who and what kind of an Abba (Father) he (<bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YaHuWaH)) is will only come from his Word (<bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua)).
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Romans 10:17" srclink="" srcrel="noopener external nofollow" attribto="Hebraic Roots Bible 2012" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Romans 10:17" srclink="" srcrel="noopener external nofollow" attribto="Hebraic Roots Bible 2012" attriblink="" attribrel="noopener external nofollow" %}}
   Then faith comes by hearing, and hearing through the Word of Elohim.
 {{% /quotebox %}}
 
 Faith comes by hearing. Hearing what? Hearing the Word of Elohim.
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="John 1:1-2" srclink="" srcrel="noopener external nofollow" attribto="Hebraic Roots Bible 2012" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="John 1:1-2" srclink="" srcrel="noopener external nofollow" attribto="Hebraic Roots Bible 2012" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>1</sup> In the beginning was the Word, and the Word was with Elohim, and the Word was Elohim.
 
 <sup>2</sup> He was in the beginning with Elohim.

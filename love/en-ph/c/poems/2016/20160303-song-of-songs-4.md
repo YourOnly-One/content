@@ -49,7 +49,7 @@ Here is Song of Songs chapter 4, from the Shem Qadosh Version.
 
 <!--more-->
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Shir Ha'Shirim (Song of Songs) 4:1-15" srclink="" srcrel="noopener external nofollow" attribto="Shem Qadosh Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Shir Ha'Shirim (Song of Songs) 4:1-15" srclink="" srcrel="noopener external nofollow" attribto="Shem Qadosh Version" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>1</sup> Behold, you are beautiful, my darling.
 Behold, you are beautiful.
 Your eyes are doves behind your veil.

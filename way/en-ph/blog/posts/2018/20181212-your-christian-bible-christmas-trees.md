@@ -48,11 +48,11 @@ What does the Christian Bible says about the “Christmas Tree”? Here are some
 
 <!--more-->
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="1 Malakim (1 Kings) 14:23" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="1 Malakim (1 Kings) 14:23" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
 For they also built them high places, and images, and Asherah poles, on every high hill, and under every green tree.
 {{% /quotebox %}}
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Yirmeyahu (Jeremiah) 10:2-4" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Yirmeyahu (Jeremiah) 10:2-4" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>2</sup> Thus says <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (YAHUAH), "Do not learn the way of the nations, and do not be dismayed at the signs of the heavens; for the nations are dismayed at them.
 
 <sup>3</sup> For the customs of the peoples are vanity; for one cuts a tree out of the forest, the work of the hands of the workman with a cutting tool.
@@ -60,7 +60,7 @@ For they also built them high places, and images, and Asherah poles, on every hi
 <sup>4</sup> They decorate it with silver and with gold; they fasten it with nails and with hammers, so that it will not move.
 {{% /quotebox %}}
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Debarim (Deuteronomy) 12:2-4" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Debarim (Deuteronomy) 12:2-4" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>2</sup> Ye shall uttery destroy <bdi dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdi> (eth)-all the places, wherein the nations which ye shall possess served <bdi dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdi> (eth)-their elohiym, upon the high mountains, and upon the hills, and under every green tree.
 
 <sup>3</sup> And ye shall overthrow <bdi dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdi> (eth)-their altars, and break <bdi dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdi> (eth)-their pillars, and burn their Asherah poles with fire; and ye shall hew down graven images of their elohiym, and destroy <bdi dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdi> (eth)-names of them out of that place.
@@ -68,7 +68,7 @@ For they also built them high places, and images, and Asherah poles, on every hi
 <sup>4</sup> Ye shall not do so unto <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (YAHUAH) Elohaykem.
 {{% /quotebox %}}
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Shemot (Exodus) 34:13-14" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Shemot (Exodus) 34:13-14" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>13</sup> But ye shall destroy <bdi dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdi> (eth)-their altars, break <bdi dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdi> (eth)-their images, and cut down <bdi dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdi> (eth)-their Asherah poles:
 
 <sup>14 For you shall worship no other el: for <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (YAHUAH), whose name is Jealous, is a jealous El.</sup>
@@ -99,13 +99,13 @@ For they also built them high places, and images, and Asherah poles, on every hi
   attribrel="noopener external nofollow"
 >}}
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Debarim (Deuteronomy) 16:21-22" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Debarim (Deuteronomy) 16:21-22" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>21</sup> You shall not plant an asherah pole of any trees near unto the altar of <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (YAHUAH) Elohayka, which you shall make.
 
 <sup>22</sup> Neither shall you set up any image; which <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (YAHUAH) Elohayka hates.
 {{% /quotebox %}}
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="2 Malakim (2 Kings) 23:7" srclink="" srcrel="noopener external nofollow" attribto="" attriblink="[Cepher]" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="2 Malakim (2 Kings) 23:7" srclink="" srcrel="noopener external nofollow" attribto="" attriblink="[Cepher]" attribrel="noopener external nofollow" %}}
 And he broke down <bdi dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdi> (eth)-the houses of the sodomiym, that were by the house of <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (YAHUAH), where the women wove hangings for Asherah.
 {{% /quotebox %}}
 

@@ -54,17 +54,17 @@ In this post, we will analyse the popularly called "The Lord's Prayer".
 
 Christianity has called this prayer as *The Lord's Prayer* but in truth, it is not. If we read the whole chapter, our Master and Messiah, <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua) ([learn why "Yahushua"](20160203-messiah-yahushua-yahusha.md)), was teaching us by giving an example of a prayer. He was not praying; and it was not meant to be repeated endlessly.
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:7" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:7" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
 "And when you are praying, do not use meaningless repetition as the pagans do, for they suppose that they will be heard for their many words."
 {{% /quotebox %}}
 
 What was our Messiah <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua)'s instruction on how we should pray? It is all in the <em>example</em> prayer he gave us. We do not need to repeat this <em>example</em> prayer, what we need is to understand the parts of a meaningful prayer and pray that way, as <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua) instructed.
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:9-13" srclink="" srcrel="noopener external nofollow" attribto="eth-Cepher" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:9-13" srclink="" srcrel="noopener external nofollow" attribto="eth-Cepher" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>9</sup> "After this manner therefore pray ye: 'Our Father who established yeshu'ah in the heavens, Exalted is your name. <sup>10</sup> Your Kingdom come. Your will be done in earth, as in the heavens. <sup>11</sup> Give us this day our daily **<bdi dir="rtl" lang="he">את</bdi>** ***eth***-bread. <sup>12</sup> And forgive us our transgressions, as we forgive those who transgress against us. <sup>13</sup> And lead us not into the evil inclination, but deliver us from the outer darkness: For yours is the Kingdom, and the power, and the glory, forever. Amein.'"
 {{% /quotebox %}}
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:9-13" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:9-13" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>9</sup> "Pray, then, in this way: 'Our Father who is in the heavens, *may* Your Name be set-apart. <sup>10</sup> Let Your kingdom come. Let Your will be done, on earth as it is in heaven. <sup>11</sup> Give us each day our daily bread. <sup>12</sup> And forgive us our debts, as we also forgive our debtors. <sup>13</sup> And do not lead us into temptation, but deliver us from evil. [For Yours is the kingdom and the power and the glory to the ages. Amein.]'"
 {{% /quotebox %}}
 
@@ -74,7 +74,7 @@ In the example prayer <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</b
 
 ### Praise Our Father and His Name
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:9" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:9" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>9</sup> "Pray, then, in this way: 'Our Father who is in the heavens, *may* Your Name be set-apart.'"
 {{% /quotebox %}}
 
@@ -88,7 +88,7 @@ To keep us within our subject today, the Father's Name is <bdi dir="rtl" lang="h
 
 The next part of a meaningful prayer is acknowledging and submitting to His authority and power.
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:10" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:10" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>10</sup> "'Let Your kingdom come. Let Your will be done, on earth as it is in heaven.'"
 {{% /quotebox %}}
 
@@ -104,7 +104,7 @@ Prayer is asking. Requesting politely. Humbly. Thus, when praying, the second th
 
 ### Ask for Bread (Sustenance)
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:11" srclink="" srcrel="noopener external nofollow" attribto="eth-Cepher" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:11" srclink="" srcrel="noopener external nofollow" attribto="eth-Cepher" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>11</sup> "'Give us this day our daily **<bdi dir="rtl" lang="he">את</bdi>** ***eth***-bread.'"
 {{% /quotebox %}}
 
@@ -116,7 +116,7 @@ The Hebrew letters are the Aleph and Tau. The First and the Last. With the "eth"
 
 #### Who is the Word of our Father <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH)?
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Yahuhanan (John) 1:1-5; 14" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Yahuhanan (John) 1:1-5; 14" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>1</sup> In *the* beginning was the word, and the word was with Elohim, and the word was Elohim. <sup>2</sup> The same was in the beginning with Elohim. <sup>3</sup> All things came into being through Him. Without Him nothing has come into being, that has come to be. <sup>4</sup> In Him was life, and the life was the light of men. <sup>5</sup> The light shines in the darkness, and the darkness has not overcome it.
 
 <sup>14</sup> And the Word became flesh, and tabernacled among us. We saw His glory, glory as of an only begotten with a father, full of favor and truth.
@@ -124,11 +124,11 @@ The Hebrew letters are the Aleph and Tau. The First and the Last. With the "eth"
 
 #### Who is the Bread of Life?
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Yahuhanan (John) 6:35" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Yahuhanan (John) 6:35" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>35</sup> <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> said to them, "I am the bread of life. He who comes to Me will not be hungry, and he who believes in Me will never thirst."
 {{% /quotebox %}}
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Yahuhanan (John) 6:51" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Yahuhanan (John) 6:51" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>51</sup> "I am the living bread which came down out of heaven. If anyone eats of this bread, he will live to the age. Yes, the bread which I will give for the life of the world is My flesh."
 {{% /quotebox %}}
 
@@ -136,7 +136,7 @@ We ask our Father in heaven to give us our daily bread. It means, we ask <bdi di
 
 ### Confess our sins and forgive others
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:12" srclink="" srcrel="noopener external nofollow" attribto="eth-Cepher" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:12" srclink="" srcrel="noopener external nofollow" attribto="eth-Cepher" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>12</sup> "'And forgive us our transgressions, as we forgive those who transgress against us.'"
 {{% /quotebox %}}
 
@@ -146,7 +146,7 @@ Part of a meaningful prayer is to ask for forgiveness as we forgive others who h
 
 ### Ask for Protection and Deliverance
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:13" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:13" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>13</sup> "'And do not lead us into temptation, but deliver us from evil.'"
 {{% /quotebox %}}
 
@@ -166,7 +166,7 @@ We are also to ask for deliverance from evil. Evil comes in many forms, we ask d
 
 ## Close by Praising
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:13" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:13" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>13</sup> [For Yours is the kingdom and the power and the glory to the ages. Amein.]
 {{% /quotebox %}}
 

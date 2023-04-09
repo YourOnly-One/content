@@ -44,7 +44,7 @@ avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 #rel = "noopener external nofollow"
 +++
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Tehillim (Psalms) 105:1" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Tehillim (Psalms) 105:1" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
 O give thanks unto the LORD; call upon his name: make known his deeds among the people.
 {{% /quotebox %}}
 
@@ -56,7 +56,7 @@ Many Christian theologians, preachers, priests, pastors, teachers, evangelists, 
 
 However, the Scripture is the sole authority in this matter. Believe it or not, the answer is right there in the Word! It's in Biblical Hebrew!
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Tehillim (Psalms) 105:1" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Tehillim (Psalms) 105:1" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
 O give thanks unto <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (YAHUAH); call upon his name: make known his deeds among the people.
 {{% /quotebox %}}
 
@@ -66,7 +66,7 @@ Now the Psalmist makes sense, right? He said to "call upon His name", what is Hi
 
 Our Abba has a name. He introduced Himself to us. Just like how you and I introduce ourselves to others. "Hi, my name is Agnes", "I'm Angel by the way, and you are?"
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Yashayahu (Isaiah) 42:8" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Yashayahu (Isaiah) 42:8" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
 I am the LORD: that is my name: and my glory will I not give to another, neither my praise to graven images.
 {{% /quotebox %}}
 
@@ -76,7 +76,7 @@ When you introduce yourself to a new batch of employees, do you say, "I am the F
 
 Once again, what was originally written before the translators replaced His Name with the "LORD"?
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Yashayahu (Isaiah) 42:8" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Yashayahu (Isaiah) 42:8" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
 I am <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (YAHUAH): that is my name: and my glory will I not give to another, neither my praise to graven images.
 {{% /quotebox %}}
 

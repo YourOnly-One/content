@@ -48,7 +48,7 @@ The first and second of seven Feasts of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄�
 
 <!--more-->
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Shemot (Exodus) 12:14-15; 18-20" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Shemot (Exodus) 12:14-15; 18-20" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>14</sup> And this day shall be unto you for a memorial; and ye shall keep it a feast to <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH) throughout your generations; ye shall keep it a feast by an ordinance forever.
 
 <sup>15</sup> Seven days shall ye eat Matstsah (Unleavened Bread); even the first day ye shall put away leaven out of your houses: for whosoever eats chamets (leavened bread) from the first day until the seventh day, that soul shall be cut off from Yisra'El.
@@ -60,7 +60,7 @@ The first and second of seven Feasts of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄�
 <sup>20</sup> Ye shall eat nothing with chamets (leavened bread); in all your habitations shall ye eat Matstsah (Unleavened Bread).
 {{% /quotebox %}}
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Vayiqra (Leviticus) 23:5-6" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Vayiqra (Leviticus) 23:5-6" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>5</sup> In the fourteenth day of the first month at evening is <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH)'s Pesach.
 
 <sup>6</sup> And on the fifteenth day of the same month is the Feast of Matstsah (Unleavened Bread) unto <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH): seven days ye must eat Matstsah (Unleavened Bread).
@@ -72,7 +72,7 @@ While the **Feast of Matstsah or Unleavened Bread** is a type of our new journey
 
 Together, both the Feast of Pesach / Passover and the Feast of Matstsah or Unleavened Bread points to our <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (Yahushua) Messiah's famous "Last Supper" or "Communion".
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Lukas (Luke) 22:19-20" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Lukas (Luke) 22:19-20" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>19</sup> And he took <bdi dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdi> (eth)-the bread, and gave thanks, and broke it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me.
 
 <sup>20</sup> Likewise also the cup after supper, saying, This cup is the Renewed Covenant in my blood, which is shed for you.

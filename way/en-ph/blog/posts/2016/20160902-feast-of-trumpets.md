@@ -48,11 +48,11 @@ Today is New Moon Day of the seventh month of the year 6003 <abbr class="popper 
 
 <!--more-->
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Vayiqra (Leviticus) 23:23-25" srclink="" srcrel="noopener external nofollow" attribto="eth-Cepher" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Vayiqra (Leviticus) 23:23-25" srclink="" srcrel="noopener external nofollow" attribto="eth-Cepher" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>[23]</sup> And <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH) spoke unto Mosheh, saying, <sup>[24]</sup> Speak unto the children of Yisra'el, saying, In the seventh month, in the first day of the month, shall ye have a Shabbat, a memorial of blowing of shofars, a holy assemly. <sup>[25]</sup> Ye shall do no servile work therein: but ye shall offer an offering made by fire unto <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH).
 {{% /quotebox %}}
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Vayiqra (Leviticus) 23:23-25" srclink="" srcrel="noopener external nofollow" attribto="SQV" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Vayiqra (Leviticus) 23:23-25" srclink="" srcrel="noopener external nofollow" attribto="SQV" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>[23]</sup> <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH) spoke to Mosheh, saying, <sup>[24]</sup> "Speak to the children of Yisra'el, saying, 'In the seventh new moon, on the first day of the new moon, shall be a solemn rest to you, a memorial of soundings, a set-apart rehearsal. <sup>[25]</sup> You shall do no servile work; and you shall offer an offering made by first to <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH).'"
 {{% /quotebox %}}
 
@@ -60,7 +60,7 @@ The **Feast of Trumpets** is ten days before the **Day of Atonement**. In prepar
 
 There is no better way to do it but by studying, absorbing, and embracing the Ten Commandments of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH). Today, I submit that we meditate on the first three commandments.
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Shemot (Exodus) 20:1-7" srclink="" srcrel="noopener external nofollow" attribto="SQV" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Shemot (Exodus) 20:1-7" srclink="" srcrel="noopener external nofollow" attribto="SQV" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>[1]</sup> And Aluahim spoke all these words, saying, <sup>[2]</sup> "I am <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH) your Aluahim, who brought you out of the land of Mitsrayim, out of the house of slavery. <sup>[3]</sup> You shall have no other elohim before Me.
 
 <sup>[4]</sup> "You shall not make for yourself an idol, or any likeness of what is in heavens above or on the earth beneath or in the water under the earth. <sup>[5]</sup> You shall not bow down to them or serve them; for I, <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH) your Aluahim, am a jealous Al, visiting the iniquity of the fathers on the children, on the third and the fourth generations of those who hate Me, <sup>[6]</sup> but showing loving-kindness to thousands, to those who love Me and guard My commands.
@@ -68,7 +68,7 @@ There is no better way to do it but by studying, absorbing, and embracing the Te
 <sup>[7]</sup> "You shall not bring the Name of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH) your Aluahim to naught, for <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH) will not leave him unpunished who brings His Name to naught.
 {{% /quotebox %}}
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Shemot (Exodus) 20:1-7" srclink="" srcrel="noopener external nofollow" attribto="eth-Cepher" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Shemot (Exodus) 20:1-7" srclink="" srcrel="noopener external nofollow" attribto="eth-Cepher" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>[1]</sup> And Elohim spoke <bdi dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdi> ***eth*** all these words, saying, <sup>[2]</sup> I am <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH) ELOHAYKA, which have brought you out of the land of Mitsrayim, out of the house of bondage. <sup>[3]</sup> You shall have no other elohiym before me. <sup>[4]</sup> You shall not make unto you any graven image, or any likeness of anything that is in the heavens above, or that is in the earth beneath, or that is in the water under the earth: <sup>[5]</sup> You shall not bow down yourself to them, nor serve them: for I <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH) ELOHAYKA am a jealous EL, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; <sup>[6]</sup> And showing mercy unto thousands of them that love me, and guard my commandments. <sup>[7]</sup> You shall not take <bdi dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdi> ***eth***-the name of <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH) ELOHAYKA in vain; for <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YAHUWAH) will not hold him guiltless <bdi dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdi> ***eth*** that takes <bdi dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdi> ***eth***-his name in vain.
 {{% /quotebox %}}
 

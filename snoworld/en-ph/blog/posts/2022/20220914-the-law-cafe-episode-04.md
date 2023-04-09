@@ -132,7 +132,7 @@ Those who should love them the most are hurting them. Any child would struggle t
   attribto="KBS"
 >}}
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_indigodye" attribalign="txt_right" srctitle="Matthew 18:6" srclink="" srcrel="noopener external" attribto="UST" attriblink="" attribrel="noopener external" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_indigo-dye" attribalign="txt_right" srctitle="Matthew 18:6" srclink="" srcrel="noopener external" attribto="UST" attriblink="" attribrel="noopener external" %}}
 If a person causes someone who believes in me to sin, even if it is someone who people think is as unimportant as this little child, the Most High will severely punish that person. He will punish that person worse than if someone had thrown him into the sea's deep waters with a heavy stone tied to his neck!
 {{% /quotebox %}}
 

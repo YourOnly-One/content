@@ -51,7 +51,7 @@ In the early days of the World Wide Web (mid to late 90s) all the way to 2010 or
 
 <!--more-->
 
-{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="The Small Website Discoverability Crisis" srclink="https://memex.marginalia.nu/log/19-website-discoverability-crisis.gmi" srcrel="noopener external nofollow" attribto="Marginalia" attriblink="https://memex.marginalia.nu" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="The Small Website Discoverability Crisis" srclink="https://memex.marginalia.nu/log/19-website-discoverability-crisis.gmi" srcrel="noopener external nofollow" attribto="Marginalia" attriblink="https://memex.marginalia.nu" attribrel="noopener external nofollow" %}}
 A proposal, dear reader: Create a list of bookmarks linking to websites you find interesting, and publish it for the world to see. You decide what constitutes "interesting".
 {{% /quotebox %}}
 

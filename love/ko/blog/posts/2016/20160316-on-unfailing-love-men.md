@@ -47,7 +47,7 @@ avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 
 <!--more-->
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mishlei (잠언) 20:6-7" srclink="" srcrel="noopener external nofollow" attribto="BibleGateway.com을 통한 한국어 살아있는 성경" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Mishlei (잠언) 20:6-7" srclink="" srcrel="noopener external nofollow" attribto="BibleGateway.com을 통한 한국어 살아있는 성경" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>6</sup> 많은 사람이 서로 [a]충성을 다하고 있다고 주장하니 누가 충성된 자를 만날 수 있겠는가?
 
 <sup>7</sup> 정직하고 흠 없이 사는 의로운 아버지를 모신 자녀는 복 있는 자이다.

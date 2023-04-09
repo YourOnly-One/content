@@ -50,7 +50,7 @@ Christian preachers always teach that the Old Testament Law, or Torah, was naile
 
 <cite>Colossians 2:14</cite> is a favourite verse used to support the doctrine that "the Torah was nailed on the cross", let's examine it closely and let the Word address it.
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Colossians 2:14" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Colossians 2:14" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
 Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross.
 {{% /quotebox %}}
 
@@ -76,7 +76,7 @@ a law (civil, ceremonial or ecclesiastical): - decree, ordinance
 
 Since Colossians was written by an apostle, the way <bdi dir="ltr" lang="grc">δόγμα</bdi> (<bdi lang="grc-Latn" dir="ltr">dogma</bdi>) [G1378] was used was definitely *not* the third definition <q>of certain decrees of the apostles relative to right living</q>. It can only mean the first and/or second definition. Majority understood it as the second and equated it to the Torah but was it about the Torah?
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Romans 3:31" srclink="" srcrel="noopener external nofollow" attribto="International Standard Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Romans 3:31" srclink="" srcrel="noopener external nofollow" attribto="International Standard Version" attriblink="" attribrel="noopener external nofollow" %}}
 Do we, then, abolish the Law by this faith? Of course not! Instead, we uphold the Law.
 {{% /quotebox %}}
 
@@ -114,7 +114,7 @@ Noticed the difference? The Greek words used were different with different meani
 
 If Paul's conviction was not enough then let's see what our Messiah said.
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Matthew 5:17" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Matthew 5:17" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
 Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.
 {{% /quotebox %}}
 
@@ -126,13 +126,13 @@ In other words, Paul was not talking about the Torah in <cite>Colossians 2:14</c
 
 Read it again <q>the rules and requirements <mark>of</mark></q>, <q>carrying a suggestion of severity and of threatened judgment</q>. What did our Messiah save us from?
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="1 Peter 2:24" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="1 Peter 2:24" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
 Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed.
 {{% /quotebox %}}
 
 There is another verse usually used to support the dogma that "the Torah has been nailed on the cross", let's take a look and study it too.
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Galatians 3:13" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Galatians 3:13" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
 The Messiah hath redeemed us from the curse of the law, being made a curse for us: for it is written, Cursed is every one that hangeth on a tree.
 {{% /quotebox %}}
 
@@ -146,23 +146,23 @@ How did we know that? Let's keep reading the same verse <q>for it is written, Cu
 
 So what is this <q>rule and requirement</q> <q>carrying a suggestion of severity and of threatened judgment</q>?
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Deuteronomy 21:22" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Deuteronomy 21:22" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
 And if a man have committed a sin worthy of death, and he be to be put to death, and thou hang him on a tree.
 {{% /quotebox %}}
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Romans 6:23" srclink="" srcrel="noopener external nofollow" attribto="Restored Name King James Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Romans 6:23" srclink="" srcrel="noopener external nofollow" attribto="Restored Name King James Version" attriblink="" attribrel="noopener external nofollow" %}}
 For the wages of sin is death; but the gift of <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (<bdi lang="hbo-Latn" dir="ltr">YAHUAH</bdi>) is eternal life through <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤔𐤅𐤏</bdi> (<bdi lang="hbo-Latn" dir="ltr">Yahushua</bdi>) the Messiah our Saviour.
 {{% /quotebox %}}
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Romans 14:23" srclink="" srcrel="noopener external nofollow" attribto="International Standard Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Romans 14:23" srclink="" srcrel="noopener external nofollow" attribto="International Standard Version" attriblink="" attribrel="noopener external nofollow" %}}
 anything that is not done in faith is sin.
 {{% /quotebox %}}
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="1 John 3:4" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="1 John 3:4" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
 Whoever commits sin transgresses also the law, for sin is the transgression of the law.
 {{% /quotebox %}}
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Romans 7:7" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Romans 7:7" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
 What shall we say then? Is the law sin? By no means. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet.
 {{% /quotebox %}}
 
@@ -172,13 +172,13 @@ From these verses, it is crystal clear it is not the Torah which is <q>being mad
 
 In short, we must obey the Torah. It still is valid to this very day. Remember, disobedience is sin.
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Psalms 78:10" srclink="" srcrel="noopener external nofollow" attribto="International Standard Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Psalms 78:10" srclink="" srcrel="noopener external nofollow" attribto="International Standard Version" attriblink="" attribrel="noopener external nofollow" %}}
 They did not keep God’s covenant, and refused to live by his Law.
 {{% /quotebox %}}
 
 The "law" here is the Hebrew word <bdi lang="heb" dir="rtl">תּורה</bdi> [H8451] transliterated as "<bdi lang="heb-Latn" dir="ltr">tôrâh</bdi>".
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="1 Samuel 15:23" srclink="" srcrel="noopener external nofollow" attribto="Restored Name King James Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="1 Samuel 15:23" srclink="" srcrel="noopener external nofollow" attribto="Restored Name King James Version" attriblink="" attribrel="noopener external nofollow" %}}
 For rebellion is as the sin of witchcraft, and stubbornness is as iniquity and idolatry. Because thou hast rejected the word of <bdi lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdi> (<bdi lang="hbo-Latn" dir="ltr">YAHUAH</bdi>), he hath also rejected thee from being king.
 {{% /quotebox %}}
 

@@ -51,7 +51,7 @@ avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 
 <!--more-->
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Shir Ha'Shirim (아가) 4:1-15" srclink="" srcrel="noopener external nofollow" attribto="StudyBible.info를 통한 한국어 성경" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Shir Ha'Shirim (아가) 4:1-15" srclink="" srcrel="noopener external nofollow" attribto="StudyBible.info를 통한 한국어 성경" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>1</sup> 내 사랑, 너는 어여쁘고도 어여쁘다 너울 속에 있는 네 눈이 비둘기 같고 네 머리털은 길르앗 산 기슭에 누운 무리 염소 같구나
 
 <sup>2</sup> 네 이는 목욕장에서 나온 털 깎인 암양 곧 새끼 없는 것은 하나도 없이 각각 쌍태를 낳은 양 같구나

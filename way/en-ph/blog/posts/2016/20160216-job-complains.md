@@ -50,13 +50,13 @@ Job was also the only man who <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</b
 
 <!--more-->
 
-{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Iyyov (Job) 1:8" srclink="" srcrel="noopener external nofollow" attribto="Shem Qadosh Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Iyyov (Job) 1:8" srclink="" srcrel="noopener external nofollow" attribto="Shem Qadosh Version" attriblink="" attribrel="noopener external nofollow" %}}
 <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> said to the adversary, "Have you set your heart on My servant, Iyyov? For there is no one like him in the earth, a blameless and an upright man, one who fears Elohim, and turns away from evil."
 {{% /quotebox %}}
 
 <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YaHuWaH) allowed ha'satan to do evil things to Job because He knew Job will remain faithful.
 
-{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Iyyov (Job) 1:8" srclink="" srcrel="noopener external nofollow" attribto="Shem Qadosh Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Iyyov (Job) 1:8" srclink="" srcrel="noopener external nofollow" attribto="Shem Qadosh Version" attriblink="" attribrel="noopener external nofollow" %}}
 <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> said to the adversary, "Have you set your heart on My servant Iyyov? For there is no one like him in the earth, a blameless and an upright man, one who fears Elohim, and turns away from evil. He still maintains his integrity, although you incited Me against him, to ruin him without cause."
 {{% /quotebox %}}
 
@@ -76,19 +76,19 @@ Job was right, there was no fault that can be found in him to deserve all the ev
 
 After he laid down all his arguments, <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YaHuWaH) Himself answered Job. Directly and literally, our Creator Father talked to Job as any man being challenged would. Since Job was challenging <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YaHuWaH) with all his logical arguments and knowledge, so did our Creator Father addressed him in a similar way.
 
-{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Iyyov (Job) 38:2-4" srclink="" srcrel="noopener external nofollow" attribto="Shem Qadosh Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Iyyov (Job) 38:2-4" srclink="" srcrel="noopener external nofollow" attribto="Shem Qadosh Version" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>2</sup> "Who is this who darkens counsel by sayings without knowledge? <sup>3</sup> Gird your loins like a man, for I will question you, then you answer Me!
 
 <sup>4</sup> "Where were you when I laid the foundations of the earth? Declare, if you have understanding.
 {{% /quotebox %}}
 
-{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Iyyov (Job) 40:2" srclink="" srcrel="noopener external nofollow" attribto="Shem Qadosh Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Iyyov (Job) 40:2" srclink="" srcrel="noopener external nofollow" attribto="Shem Qadosh Version" attriblink="" attribrel="noopener external nofollow" %}}
 "Shall he who argues contend with the Almighty? He who argues with Eloah, let him answer it."
 {{% /quotebox %}}
 
 In the next verses, <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YaHuWaH) gave the final blow… (Also, notice how our Creator Father challenged Job.)
 
-{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Iyyov (Job) 40:6-14" srclink="" srcrel="noopener external nofollow" attribto="Shem Qadosh Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Iyyov (Job) 40:6-14" srclink="" srcrel="noopener external nofollow" attribto="Shem Qadosh Version" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>6</sup> Then <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> answered Iyyov out of the whirlwind, <sup>7</sup> "Now gird up your loins like a man. I will question you, and you will answer Me. <sup>8</sup> Will you even annul My judgment? Will you condemn Me, so that you may be declared right? <sup>9</sup> Or do you have an arm like El? Can you thunder with a voice like Him? <sup>10</sup> Now deck yourself with excellency and dignity. Array yourself with honor and majesty. <sup>11</sup> Pour out the fury of your anger. Look at everyone who is proud, and bring him low. <sup>12</sup> Look at everyone who is proud, and humble him. Crush the wicked in their place. <sup>13</sup> Hide them in the dust together. Bind their faces in the hidden place. <sup>14</sup> Then I will also admit to you that your own right hand can save you."
 {{% /quotebox %}}
 
@@ -96,7 +96,7 @@ In verse 14, <q>Then I will also admit to you that your own right hand can save 
 
 If we go back to <cite>Iyyov (Job) 38:19-21</cite> [Shem Qadosh Version] …
 
-{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Iyyov (Job) 38:19-21" srclink="" srcrel="noopener external nofollow" attribto="Shem Qadosh Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Iyyov (Job) 38:19-21" srclink="" srcrel="noopener external nofollow" attribto="Shem Qadosh Version" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>19</sup> "What is the way to the dwelling of light? As for darkness, where is its place, <sup>20</sup> that you should take it to its bound, that you should discern the paths to its house? <sup>21</sup> Surely you know, for you were born then, and the number of your days is great!"
 {{% /quotebox %}}
 
@@ -120,7 +120,7 @@ If Job, the most righteous man on earth, was allowed to go through the lowest of
 
 We do not have any right to complain "why me?" Job can and he did because he was right and <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> (YAHUAH/YaHuWaH) agreed when he reprimanded Job's friends. (aside: Careful when giving advises, do not be like Job's friends.)
 
-{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Iyyov (Job) 42:7-8" srclink="" srcrel="noopener external nofollow" attribto="Shem Qadosh Version" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Iyyov (Job) 42:7-8" srclink="" srcrel="noopener external nofollow" attribto="Shem Qadosh Version" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>7</sup> It was so, that after <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> had spoken these words to Iyyov, <bdi dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdi> said to Eliphaz the Temanite, "<mark>My wrath is kindled against you, and against your two friends; for you have not spoken of Me the thing that is right, as My servant Iyyov has.</mark> <sup>8</sup> Now therefore, take to yourselves seven bulls and seven rams, and go to My servant Iyyov, and offer up for yourselves an ascension offering; and <mark>My servant Iyyov shall pray for you, for I will accept him, that I not deal with you according to your senseless behavior. For you have not spoken of Me the thing that is right, as My servant Iyyov has</mark>."
 {{% /quotebox %}}
 

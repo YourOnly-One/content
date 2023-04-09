@@ -51,7 +51,7 @@ avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 
 <!--more-->
 
-{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Shir Ha'Shirim (雅歌) 4:1-15" srclink="" srcrel="noopener external nofollow" attribto="日本のリビングバイブル" attriblink="" attribrel="noopener external nofollow" %}}
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue-midnight" attribalign="txt_right" srctitle="Shir Ha'Shirim (雅歌) 4:1-15" srclink="" srcrel="noopener external nofollow" attribto="日本のリビングバイブル" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>1</sup> 愛する人よ。あなたはなんと美しいのだろう。
 私は全く心を奪われてしまっている。
 その鳩のような目がきれいだ。

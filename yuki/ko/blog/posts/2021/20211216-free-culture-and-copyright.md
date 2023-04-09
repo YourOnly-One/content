@@ -83,7 +83,7 @@ Open access is a broad international movement that seeks to grant free and open 
 
 ## 다수의 저작권 사용
 
-{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_indigodye" attribalign="txt_right" srctitle="" srclink="" srcrel="me noopener" attribto="" attriblink="" attribrel="me noopener" %}}
+{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_indigo-dye" attribalign="txt_right" srctitle="" srclink="" srcrel="me noopener" attribto="" attriblink="" attribrel="me noopener" %}}
 많은 사람들이 자신의 이익을 위해 저작권을 남용하고 있지만 자유 문화 옹호자들은 모든 사람의 이익을 위해 저작권을 악용합니다.
 {{% /quotebox %}}
 
@@ -97,7 +97,7 @@ Open access is a broad international movement that seeks to grant free and open 
 
 ## 우리는 저작권법에 반대합니까?
 
-{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_indigodye" attribalign="txt_right" srctitle="" srclink="" srcrel="me noopener" attribto="" attriblink="" attribrel="me noopener" %}}
+{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_indigo-dye" attribalign="txt_right" srctitle="" srclink="" srcrel="me noopener" attribto="" attriblink="" attribrel="me noopener" %}}
 *자유롭고 개방적이며 공유하는 문화*가 작품이 무료라는 의미는 아니며 누구도 그들의 노력 및/또는 출판 비용에 대한 대가를 받지 않아야 합니다.
 {{% /quotebox %}}
 
