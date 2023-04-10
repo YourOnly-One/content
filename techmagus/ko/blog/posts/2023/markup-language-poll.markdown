@@ -21,10 +21,10 @@ relCanonical = "https://im.youronly.one/techmagus/ko/markup-language-poll-result
 syndications = ["https://c.im/@youronlyone/110172719305247151", "https://t.youronly.one/post/714187279068020736/poll-which-markup-language-do-you-use-and-why", "https://www.plurk.com/p/p7y1yo", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02APyn3N5mKZ4FiREWXhuXx6dfaYaTdqmKSfTReK5auYypuEms7uagj8tbGuRXUtsYl", "https://twitter.com/YourOnlyONEofcl/status/1645285469339660294"]
 
 channels = ["techmagus"]
-#categories = [""]
-#keywords = [""]
+categories = ["literature"]
+keywords = ["markup language", "poll", "polls", "Markdown", "LaTeX", "Org-mode", "AsciiDoctor", "AsciiDoc", "CommonMark"]
 #series = [""]
-#tags = [""]
+tags = ["polls"]
 
 comments = true
 #weight = ""
