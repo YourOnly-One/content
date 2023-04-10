@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/techmagus/markup-language-poll-results-a
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndications = [""]
+syndications = ["https://c.im/@youronlyone/110172719305247151", "https://t.youronly.one/post/714187279068020736/poll-which-markup-language-do-you-use-and-why", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02APyn3N5mKZ4FiREWXhuXx6dfaYaTdqmKSfTReK5auYypuEms7uagj8tbGuRXUtsYl", "https://www.reddit.com/user/Laibcoms/comments/12h7l36/poll_which_markup_language_do_you_use_and_why/", "https://twitter.com/YourOnlyONEofcl/status/1645285463975161856"]
 
 channels = ["techmagus"]
 #categories = [""]
@@ -140,8 +140,10 @@ While online polls cannot provide conclusive results, it can still provide a gen
 For {{% quote type="name" lang="en" %}}Fell{{% /quote %}}'s thesis, {{% quote type="name" lang="en" %}}LaTeX{{% /quote %}} is the markup language of choice, but in all other cases, good old plaintext is more than enough because it is compatible with everything.
 
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_brown" attribalign="txt_right" srctitle="Fell" srclink="https://ma.fellr.net/@fell/110129025350721173" srcrel="noopener external" attribto="" attriblink="https://ma.fellr.net/@fell" attribrel="noopener external" %}}
-I'm using [#texlatex](https://ma.fellr.net/tags/texlatex) for my [#thesis](https://ma.fellr.net/tags/thesis) but I try to stick to [#plaintext](https://ma.fellr.net/tags/plaintext) in all other cases, simply because it's compatible with everything.
+I'm using [#texlatex](https://ma.fellr.net/tags/texlatex) for my [#thesis](https://ma.fellr.net/tags/thesis) but I try to stick to [#plaintext](https://ma.fellr.net/tags/plaintext) in all other cases, simply because it's compatible with everything. [^test]
 {{% /quotebox %}}
+
+[^test]: THIS IS A TEST
 
 I agree. Plaintext is plaintext. It is the easiest and fastest way to take down notes. You do not have to worry about converting a particular file from one markup language to another.
 
