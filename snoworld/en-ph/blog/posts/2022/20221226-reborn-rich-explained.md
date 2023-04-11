@@ -99,23 +99,26 @@ That is it.
 
 ## FAQ
 
-{{< accordion border="style01" summary="The English title, Reborn Rich, means he was reborn in a rich family when he was poor" class="faq" >}}
+{{% accordion border="style01" summary="The English title, Reborn Rich, means he was reborn in a rich family when he was poor" class="faq" %}}
+
 Correct. Literally, that is what it means. However, the show itself firmly established that {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}) did not possess the body of {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}), nor did he travel to the past. He also did not die, only people who died have a chance to be reincarnated.
 
-All things considered, there is no question that the title should not be taken literally. {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}) was not reborn as {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}). It was {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}) who was reborn as {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}). The title is referring to one's principles and values, of having a rich a life. It was not about being financially rich, although {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}) did become rich eventually.
+All things considered, there is no question that the title should not be taken literally. {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}) was not reborn as {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}). It was {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}) who was reborn as {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}). The title is referring to one's principles and values, of having a rich life. It was not about being financially rich, although {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}) did become rich eventually.
 
 **BONUS:** The English title, {{% quote type="title" lang="en" %}}Reborn Rich{{% /quote %}}, has nothing to do with the original Korean title. The original Korean title translates to: {{% quote type="title" lang="en" %}}The youngest son of a rich family{{% /quote %}}. This means that the English title is not proof that {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}) was reborn rich as {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}). (note: This is about the TV series, not the novel. The TV adaptation is different from the original material.)
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="Yoon Hyun Woo (윤현우) and Jin Do Jun (진도준) are in separate timelines" class="faq" >}}
+{{% accordion border="style01" summary="Yoon Hyun Woo (윤현우) and Jin Do Jun (진도준) are in separate timelines" class="faq" %}}
+
 In episode 16, {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}) himself said that what he experienced was not time travel. If it was not time travel, then they are not in two separate timelines.
 
 The events in {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})'s time period were very similar, almost exactly the same, as the events we watched from episodes 2 to 15 from the perspective of {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}), as {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}). {{% quote type="name" lang="en" %}}Miracle{{% /quote %}} exists. Everyone remembers how {{% quote type="name" lang="en" %}}Miracle{{% /quote %}} and {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}) were involved in the succession wars.
 
 {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})'s assassination happened exactly the same from the perspective of the real {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}), {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}), as {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}), and {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}) himself.
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="Yoon Hyun Woo (윤현우)'s mother died differently in Jin Do Jun (진도준)'s time, proof that they are in different timelines" class="faq" >}}
+{{% accordion border="style01" summary="Yoon Hyun Woo (윤현우)'s mother died differently in Jin Do Jun (진도준)'s time, proof that they are in different timelines" class="faq" %}}
+
 Yes, {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})'s mother died of a heart attack. From {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}), as {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})'s perspective, she died after committing suicide. However, that in itself is not enough as a proof that there are two timelines.
 
 {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}) said so himself, he did not time travel, so there is no new timeline.
@@ -125,27 +128,31 @@ It is well-known that our brain manufactures information to fill in the gaps in 
 This was why when {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}), as {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}), changed the history of his mother, she still died regardless. Memories are fixed. His attempt to change it introduced a conflict. To reconcile the conflict, his brain resolved it by ensuring his mother still passed away.
 
 It was at this moment when {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}), as {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}), realised that he can not change anything. Repeatedly throughout the series, he said how things which already happened, still happened as it should be.
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="But Jin Do Jun (진도준) have future knowledge, which he used for Miracle's advantage" class="faq" >}}
+{{% accordion border="style01" summary="But Jin Do Jun (진도준) have future knowledge, which he used for Miracle's advantage" class="faq" %}}
+
 From the perspective of {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}), as {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}), it did appear he used future knowledge for {{% quote type="name" lang="en" %}}Miracle{{% /quote %}}'s advantage. But this was simply him dreaming {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})'s memories, as the dreamer, his own memories as {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}) is leaking into the memory dream.
 
 As was revealed in episode 16, {{% quote type="name" lang="en" %}}Miracle{{% /quote %}} do exist and {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}) was a major investor. The entire Jin clan were also aware how {{% quote type="name" lang="en" %}}Miracle{{% /quote %}} and {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}) were involved with the succession war. In other words, {{% quote type="name" lang="en" %}}Miracle{{% /quote %}} and {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}) were successful not because of any future knowledge, rather, it was because they were good businessmen and data analysts.
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="Yoon Hyun Woo (윤현우) was not in a coma" class="faq" >}}
+{{% accordion border="style01" summary="Yoon Hyun Woo (윤현우) was not in a coma" class="faq" %}}
+
 It does not matter if he was in a coma, or simply slept, for one week. It was during that one week when he dreamed the memories of {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}).
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="Jin Do Jun (진도준) did not reincarnate as Yoon Hyun Woo (윤현우) because they exist in the same time period" class="faq" >}}
+{{% accordion border="style01" summary="Jin Do Jun (진도준) did not reincarnate as Yoon Hyun Woo (윤현우) because they exist in the same time period" class="faq" %}}
+
 The same can be said with {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}) being reincarnated as {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}), it is not possible because they exist in the same time period.
 
 However, there is no restriction on when a soul is reincarnated. A person born in 2000 and died in 2022 can be reborn in the year 3300, the year 1100 B.C.E., or even reborn in the year 2000 again. This is not the first time this was used in fiction.
 
 Since {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}) did not die, it is impossible he was reincarnated as {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}). But it is possible {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}) was reincarnated as {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}). {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})'s close encounter with death possibly allowed him to remember some of his past life's memories, as {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}).
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="Why was it nobody recognised Yoon Hyun Woo (윤현우) is a spitting image of Jin Do Jun (진도준)?" class="faq" >}}
+{{% accordion border="style01" summary="Why was it nobody recognised Yoon Hyun Woo (윤현우) is a spitting image of Jin Do Jun (진도준)?" class="faq" %}}
+
 A very good question! I can only think of two possible answers:
 
 1. The {{% quote type="title" lang="en" %}}{{% quote type="title" lang="en" %}}Superman{{% /quote %}} trope{{% /quote %}}. Most of the time, {{% quote type="name" lang="ko-Latn" %}}Yoon Hyun Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}) was wearing eyeglasses which magically made him no longer a look alike of {{% quote type="name" lang="ko-Latn" %}}Jin Do Jun{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}}). Similar to how {{% quote type="title" lang="en" %}}Superman{{% /quote %}} and {{% quote type="name" lang="en" %}}Clark Kent{{% /quote %}} magically become unrecognisable.
@@ -159,7 +166,7 @@ Even the lady Prosecutor did not recognise {{% quote type="name" lang="ko-Latn" 
 On this one, there is no other way than to consider it was a {{% quote type="title" lang="en" %}}{{% quote type="title" lang="en" %}}Superman{{% /quote %}} trope{{% /quote %}}, or our human brain naturally dismissed it, or a combination of both.
 
 (This question was asked by {{% quote type="name" lang="en" %}}Emily Clayman{{% /quote %}} via our [Facebook Page](https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0uF7DSBstM8XdjXxPGrW4959CqmpjBg5umhTZ1T4pg6FDozK7psGqNPoLBKoofq9vl?comment_id=555572226120667).)
-{{< /accordion >}}
+{{% /accordion %}}
 
 ---
 

@@ -88,7 +88,8 @@ Without further ado, let's dive in!
 
 Portrayal of autistic persons was never good. For decades autistic characters were portrayed with stereotypical traits and quirks, and usually depicted in a negative way. I asked fellow autistic persons about it.
 
-{{< accordion border="style02" summary="Before watching 'Extraordinary Attorney Woo', what was your opinion on films and dramas based on autism, as well as, the portrayal of autistics / persons with autism?" status="open" class="faq" >}}
+{{% accordion border="style02" summary="Before watching 'Extraordinary Attorney Woo', what was your opinion on films and dramas based on autism, as well as, the portrayal of autistics / persons with autism?" status="open" class="faq" %}}
+
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="wanderingFranzi" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   Often very stereotypical perpetuating only one or two "varieties" of autism, mostly involving white male character and often geniuses or the other extreme of autistic people who cannot live by themselves and have high support needs in managing every day life.
   {{% /quotebox %}}
@@ -108,19 +109,20 @@ Portrayal of autistic persons was never good. For decades autistic characters we
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="Lawrence" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   Uneducated.
   {{% /quotebox %}}
-{{< /accordion >}}
+{{% /accordion %}}
 
 Autistics agree and so do I.
 
 On a scale of 1 to 5, with 5 the highest, I asked them …
 
-{{< accordion border="style02" summary="In general, how well did 'Extraordinary Attorney Woo' explained autism, as well as, in putting to the light the challenges autistic people face daily?" status="open" class="faq" >}}
+{{% accordion border="style02" summary="In general, how well did 'Extraordinary Attorney Woo' explained autism, as well as, in putting to the light the challenges autistic people face daily?" status="open" class="faq" %}}
+
   {{% quote type="name" lang="en" %}}Autistic A{{% /quote %}}, {{% quote type="name" lang="en" %}}Evelyn{{% /quote %}}, {{% quote type="name" lang="en" %}}wanderingFranzi{{% /quote %}}, all gave a rating of four (4). {{% quote type="name" lang="en" %}}Lawrence{{% /quote %}} gave a rating of three (3), while {{% quote type="name" lang="en" %}}Autistic B{{% /quote %}} a rating of two (2).
-{{< /accordion >}}
+{{% /accordion %}}
 
 Next, let's talk about the romance between Woo Young Woo and Lee Joon Ho.
 
-{{< accordion border="style02" summary="There were viewers who reacted negatively when Woo Young Woo said she had no idea they were already dating. As an autistic man / autistic woman, can you explain more about it?" status="open" class="faq" >}}
+{{% accordion border="style02" summary="There were viewers who reacted negatively when Woo Young Woo said she had no idea they were already dating. As an autistic man / autistic woman, can you explain more about it?" status="open" class="faq" %}}
 
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="wanderingFranzi" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   Autistic people often struggle with things that go unsaid, like when you move from being friends to dating, or from dating to being in a relationship. These things are often assumed. An autistic person might just miss these signs and not notice. We need these things to be said.
@@ -139,7 +141,7 @@ Next, let's talk about the romance between Woo Young Woo and Lee Joon Ho.
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="Autistic A" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   I don't know why there were people who reacted negatively to it. Isn't it rude to assume you're dating? It is pathetic. Woo Young-woo did the right thing for not assuming they were dating. Lee Jun-ho was wrong. He understood Woo Young-woo, but still assumed they were officially dating without confirming it with Young-woo. If Wooyoung-woo wasn't autistic, these people would point their finger at Lee Jun-ho as the bad guy, but because Young-woo is autistic they blamed her. Typical discrimination.
   {{% /quotebox %}}
-{{< /accordion >}}
+{{% /accordion %}}
 
 Pretty strong answer from {{% quote type="name" lang="en" %}}Autistic A{{% /quote %}}. In a way I agree, it is one of the stereotypes seen in other shows with an autistic character. Someone who is different gets the blame and the lack of one shifts it to gender-based blaming.
 
@@ -164,7 +166,7 @@ Pretty strong answer from {{% quote type="name" lang="en" %}}Autistic A{{% /quot
   attribrel="noopener external"
 >}}
 
-{{< accordion border="style02" summary="When Woo Young Woo broke up with Lee Joon Ho and did not explain her reasons, there were viewers who said she was inconsiderate and said that she used her autism as an excuse. As an autistic man or autistic woman, what is your take on it? Did she use her autism as an excuse? Was she inconsiderate of Joon Ho's feelings? Why or why not?" status="open" class="faq" >}}
+{{% accordion border="style02" summary="When Woo Young Woo broke up with Lee Joon Ho and did not explain her reasons, there were viewers who said she was inconsiderate and said that she used her autism as an excuse. As an autistic man or autistic woman, what is your take on it? Did she use her autism as an excuse? Was she inconsiderate of Joon Ho's feelings? Why or why not?" status="open" class="faq" %}}
 
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="Lawrence" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   I had two neurotypical ex-girlfriends who broke up with me without explaining their reasons. Were they indifferent? No, I don't think so. There is a reason behind their actions and we should not judge them. There are situations where men, women, autism, or neurotypicals cannot explain the reasons behind our decision.
@@ -181,11 +183,11 @@ Pretty strong answer from {{% quote type="name" lang="en" %}}Autistic A{{% /quot
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="Evelyn" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   If Young Woo was not born with autism and is in a similar situation, then as a girl I know she will do it again. Her autism has nothing to do with how she handled her breakup. Divorce is not easy. If you've experienced an easy breakup once in your life, you've never loved them. She broke their relationship because she likes him.
   {{% /quotebox %}}
-{{< /accordion >}}
+{{% /accordion %}}
 
 I totally agree with them. Not explaining the reasons for a break up is not an autistic thing, it is a relationship thing. This is the same with the previous question, the autistic person was blamed because she is autistic; if she was non-autistic, the audience would defend her decision and make Lee Joon Ho as the inconsiderate one in their relationship.
 
-{{< accordion border="style02" summary="Many autistics / persons with autism expressed their satisfaction with how 'Extraordinary Attorney Woo' portrayed autism properly and with respect. Do you share a similar view? Why or why not?" status="open" class="faq" >}}
+{{% accordion border="style02" summary="Many autistics / persons with autism expressed their satisfaction with how 'Extraordinary Attorney Woo' portrayed autism properly and with respect. Do you share a similar view? Why or why not?" status="open" class="faq" %}}
 
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="Autistic B" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   It's not me. EAW was a stereotype. I have two children with autism. None of what WYW was is relatable.
@@ -210,9 +212,9 @@ I totally agree with them. Not explaining the reasons for a break up is not an a
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="Lawrence" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   It wasn't perfect, I don't think it's possible to have a perfect representation of autism, it's a spectrum. The portrayal of the actress was respectful when she didn't exaggerate her performance. In the past, actors exaggerated the performance of autistic characters, but did not do research. {{% quote type="name" lang="ko-Latn" %}}Park Eun Bin{{% /quote %}} did a good job and showed respect.
   {{% /quotebox %}}
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style02" summary="What is your message to everyone who is non-autistic or non-PWA?" status="open" class="faq" >}}
+{{% accordion border="style02" summary="What is your message to everyone who is non-autistic or non-PWA?" status="open" class="faq" %}}
 
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="Evelyn" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   There are a lot of people around you who have autism. Boys have the highest number of autistics, but that doesn't mean autism is rare in girls. We women are better at masking than men. It's harder for us to be autistic than it is for boys.
@@ -225,7 +227,7 @@ I totally agree with them. Not explaining the reasons for a break up is not an a
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="Autistic B" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   Don't believe everything you see in reality. I and my two children are autistic, but attorney Woo was stereotypical. We don't walk like her. We don't talk like her. We don't introduce ourselves the way she does. There are millions of autistic people in the world, but fictional autistic characters are always stereotypes.
   {{% /quotebox %}}
-{{< /accordion >}}
+{{% /accordion %}}
 
 {{< image
   isrepresentativeofpage=false
@@ -250,7 +252,7 @@ I totally agree with them. Not explaining the reasons for a break up is not an a
 
 {{% quote type="title" lang="en" %}}Extraordinary Attorney Woo{{% /quote %}} ({{% quote type="title" lang="ko" %}}이상한 변호사 우영우{{% /quote %}}) is about an autistic woman's growth as she navigates on her own—for the first time—a world with prejudice about autism. However, an integral part of the story are the legal cases.
 
-{{< accordion border="style02" summary="What can you say about the cases Attorney Woo Young Woo, and friends, handled throughout the series? Were the cases refreshing to see on TV? Were there anything you think they should have done differently?" status="open" class="faq" >}}
+{{% accordion border="style02" summary="What can you say about the cases Attorney Woo Young Woo, and friends, handled throughout the series? Were the cases refreshing to see on TV? Were there anything you think they should have done differently?" status="open" class="faq" %}}
 
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="Lawrence" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   I heard that the incidents were based on true cases in Korea. I usually watch dramas with fictional court cases, but it's "refreshing" to watch actual cases. I can't think of anything else they should have done. They inserted Woo Young-woo, an autistic attorney, into these actual cases. I don't know if there's anything better than that.
@@ -263,9 +265,9 @@ I totally agree with them. Not explaining the reasons for a break up is not an a
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="wanderingFranzi" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   I thought there was too much emphasis on the cases, because it didn't leave enough time for character development for the main characters. They were trying to do too much (autism, romance, cases, sidestories for all the other lawyers, the story with the mum …) and ended up not doing any of these things properly. They should have drastically reduced the cases and focused only on a few that were helpful for the actual story.
   {{% /quotebox %}}
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style02" summary="What other shows do you recommend related to autism (implied or stated), and why?" status="open" class="faq" >}}
+{{% accordion border="style02" summary="What other shows do you recommend related to autism (implied or stated), and why?" status="open" class="faq" %}}
 
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="wanderingFranzi" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   {{% quote type="title" lang="en" %}}It's Okay to Not Be Okay{{% /quote %}} was brilliant, despite also using a lot of stereotypes.
@@ -286,7 +288,7 @@ I totally agree with them. Not explaining the reasons for a break up is not an a
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="Lawrence" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   {{% quote type="title" lang="en" %}}Ocean Heaven{{% /quote %}}, {{% quote type="title" lang="en" %}}Adam{{% /quote %}}, {{% quote type="title" lang="en" %}}Good Doctor{{% /quote %}}, {{% quote type="title" lang="en" %}}A Brilliant Young Mind{{% /quote %}}, {{% quote type="title" lang="en" %}}Innocent Witness{{% /quote %}}, {{% quote type="title" lang="en" %}}Atypical{{% /quote %}} Watch them and you will know why.
   {{% /quotebox %}}
-{{< /accordion >}}
+{{% /accordion %}}
 
 Check out my [](20151009-a-brilliant-mind.md) and [](20220810-innocent-witness-2019.md).
 
@@ -311,7 +313,7 @@ Check out my [](20151009-a-brilliant-mind.md) and [](20220810-innocent-witness-2
   attribrel="noopener external"
 >}}
 
-{{< accordion border="style02" summary="Overall, what is your message to the writer, director, the actors, and the entire staff of 'Extraordinary Attorney Woo'?" status="open" class="faq" >}}
+{{% accordion border="style02" summary="Overall, what is your message to the writer, director, the actors, and the entire staff of 'Extraordinary Attorney Woo'?" status="open" class="faq" %}}
 
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="wanderingFranzi" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   My biggest issue with this show is that you didn't involve any actually autistic people in the making of it. I find this very disrespectful. You make a show about autistic people and don't even have the decency to talk to them or even just one directly? That's like white actors and writers and directors making a show about black people without involving black people to consult about the portrayal, without involving them in the acting, but only talking to other white people, who have previously studied black people.
@@ -334,7 +336,7 @@ Check out my [](20151009-a-brilliant-mind.md) and [](20220810-innocent-witness-2
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="Evelyn" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   Thank you very much for choosing a female character and not a typical autistic male.
   {{% /quotebox %}}
-{{< /accordion >}}
+{{% /accordion %}}
 
 Thank you to everyone who responded and participated!
 

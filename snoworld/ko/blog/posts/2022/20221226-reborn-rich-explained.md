@@ -99,24 +99,27 @@ type = "article"                                             # article, sitepage
 
 ## FAQ
 
-{{< accordion border="style01" summary="영어 제목인 Reborn Rich는 그가 가난했을 때 부유한 가정에서 다시 태어났다는 것을 의미합니다." class="faq" >}}
+{{% accordion border="style01" summary="영어 제목인 Reborn Rich는 그가 가난했을 때 부유한 가정에서 다시 태어났다는 것을 의미합니다." class="faq" %}}
+
 맞아요. 말 그대로, 그것이 그것을 의미합니다. 그러나 쇼 자체는 {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}가 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}의 몸을 소유하지도 않았고, 과거로 여행하지도 않았다는 것을 확고히 했습니다. 그는 또한 죽지 않았고, 죽은 사람들만이 환생할 기회가 있습니다.
 
 모든 것을 고려해 볼 때, 그 제목이 문자 그대로 받아들여져서는 안 된다는 것에는 의심의 여지가 없습니다. {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}는 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}로 다시 태어난 것이 아니다. {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}로 다시 태어난 사람은 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}였습니다. 제목은 풍요로운 삶을 사는 것에 대한 자신의 원칙과 가치를 말합니다. 비록 {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}가 결국 부자가 되었지만, 그것은 재정적으로 부자가 되는 것에 관한 것이 아니었습니다.
 
 **보너스:** 영어 제목인 {{% quote type="title" lang="en" %}}Reborn Rich{{% /quote %}}는 원래 한국어 제목과 아무 관련이 없습니다. 원래 한국어 제목은 다음과 같습니다. {{% quote type="title" lang="en" %}}The youngest son of a rich family{{% /quote %}} ({{% quote type="title" lang="ko" %}}재벌집 막내아들{{% /quote %}})입니다. 이것은 영어 제목이 {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}가 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}로 부유하게 다시 태어났다는 증거가 아니라는 것을 의미합니다. (참고: 이것은 TV 시리즈에 관한 것이지 소설에 관한 것이 아니다. TV 각색이 원래 소재와 다릅니다.)
 
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="윤현우와 진도준은 별도의 일정에 있습니다." class="faq" >}}
+{{% accordion border="style01" summary="윤현우와 진도준은 별도의 일정에 있습니다." class="faq" %}}
+
 16화에서 {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}} 자신이 경험한 것은 시간 여행이 아니라고 말했습니다. 시간 여행이 아니었다면, 그들은 두 개의 별도의 타임라인에 있지 않습니다.
 
 {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}} 시대의 사건들은 우리가 {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}의 관점에서 2화부터 15화까지 본 사건들과 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}의 관점에서 본 사건들과 매우 유사하고, 거의 정확하게 똑같았습니다. {{% quote type="name" lang="en" %}}Miracle{{% /quote %}}이(가) 있습니다. 모든 사람들은 {{% quote type="name" lang="en" %}}Miracle{{% /quote %}}와 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}가 계승 전쟁에 어떻게 관여했는지 기억합니다.
 
 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}의 암살은 실제 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}인 {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}, {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}, 그리고 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}} 자신의 관점에서 정확히 똑같이 일어났습니다.
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="윤현우의 어머니는 진도준 시대에 다르게 죽었고, 그들이 다른 시기에 있다는 증거입니다." class="faq" >}}
+{{% accordion border="style01" summary="윤현우의 어머니는 진도준 시대에 다르게 죽었고, 그들이 다른 시기에 있다는 증거입니다." class="faq" %}}
+
 네, {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}의 어머니는 심장마비로 돌아가셨어요. {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}적으로 볼 때 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}의 입장에서 그녀는 자살을 한 후에 사망했습니다. 그러나 그것 자체가 두 가지 타임라인이 있다는 증거로는 충분하지 않습니다.
 
 {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}는 자신이 시간 여행을 하지 않았기 때문에 새로운 연대표는 없다고 말했습니다.
@@ -126,27 +129,31 @@ type = "article"                                             # article, sitepage
 이것이 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}로서 {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}가 그의 어머니의 역사를 바꾸었을 때, 그녀가 여전히 죽은 이유였습니다. 기억은 고정되어 있습니다. 그것을 바꾸려는 그의 시도는 갈등을 초래했습니다. 갈등을 조정하기 위해, 그의 뇌는 그의 어머니가 여전히 돌아가셨다는 것을 확인함으로써 그것을 해결했습니다.
 
 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}인 {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}가 자신은 아무것도 바꿀 수 없다는 것을 깨달은 것은 바로 이 순간이었습니다. 시리즈 내내 반복적으로, 그는 이미 일어난 일들이 어떻게 여전히 원래대로 일어났는지 말했습니다.
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="하지만 진도준는 Miracle의 이익을 위해 사용한 미래 지식을 가지고 있습니다." class="faq" >}}
+{{% accordion border="style01" summary="하지만 진도준는 Miracle의 이익을 위해 사용한 미래 지식을 가지고 있습니다." class="faq" %}}
+
 {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}의 관점에서, {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}자로서, 그는 {{% quote type="name" lang="en" %}}Miracle{{% /quote %}}의 이익을 위해 미래의 지식을 사용한 것으로 보입니다. 하지만 이것은 단순히 그가 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}의 기억을 꿈꾸고 있는 것이었습니다. 꿈을 꾸는 사람으로서, {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}로서의 자신의 기억이 기억의 꿈 속으로 새어 나오고 있습니다.
 
 16화에서 밝혔듯이, {{% quote type="name" lang="en" %}}Miracle{{% /quote %}}은 존재하고 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}는 주요 투자자였습니다. {{% quote type="name" lang="en" %}}Miracle{{% /quote %}}와 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}가 왕위 계승 전쟁에 어떻게 관여했는지도 진씨 일족 전체가 알고 있었습니다. 즉, {{% quote type="name" lang="en" %}}Miracle{{% /quote %}}와 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}가 성공한 것은 미래에 대한 지식 때문이 아니라 훌륭한 사업가이자 데이터 분석가였기 때문입니다.
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="윤현우는 혼수상태가 아니었습니다." class="faq" >}}
+{{% accordion border="style01" summary="윤현우는 혼수상태가 아니었습니다." class="faq" %}}
+
 그가 일주일 동안 혼수상태에 있었는지 아니면 단순히 잠을 잤는지는 중요하지 않습니다. 그가 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}의 추억을 꿈꾼 것은 그 일주일 동안이었습니다.
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="진도준는 같은 시기에 존재하기 때문에 윤현우으로 환생하지 않았습니다." class="faq" >}}
+{{% accordion border="style01" summary="진도준는 같은 시기에 존재하기 때문에 윤현우으로 환생하지 않았습니다." class="faq" %}}
+
 {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}이 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}로 환생하는 것도 마찬가지라고 할 수 있는데, 같은 시기에 존재하기 때문에 불가능합니다.
 
 그러나 영혼이 환생하는 시기에는 제한이 없습니다. 2000년에 태어나 2022년에 죽은 사람은 기원전 1100년인 3300년에 다시 태어나거나 심지어 2000년에 다시 태어날 수 있습니다. 이것이 소설에서 처음으로 사용된 것은 아니다.
 
 {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}가 죽지 않았기 때문에, 그가 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}로 환생했다는 것은 불가능합니다. 하지만 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}가 {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}로 환생했을 가능성이 있습니다. {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}의 죽음과의 근접한 만남은 아마도 그가 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}로서 그의 전생의 기억들 중 일부를 기억하도록 해주었습니다.
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="왜 아무도 윤현우가 진도준의 침 뱉는 이미지라는 것을 인식하지 못했을까요?" class="faq" >}}
+{{% accordion border="style01" summary="왜 아무도 윤현우가 진도준의 침 뱉는 이미지라는 것을 인식하지 못했을까요?" class="faq" %}}
+
 아주 좋은 질문이네요! 저는 두 가지 가능한 답만 생각해 낼 수 있습니다.
 
 1. {{% quote type="title" lang="ko" %}}{{% quote type="title" lang="ko" %}}슈퍼맨{{% /quote %}} 트로프{{% /quote %}}입니다. 대부분의 시간 동안, {{% quote type="name" lang="ko" %}}윤현우{{% /quote %}}는 마법처럼 그를 더 이상 {{% quote type="name" lang="ko" %}}진도준{{% /quote %}}와 닮지 않게 만든 안경을 쓰고 있었습니다. {{% quote type="title" lang="ko" %}}슈퍼맨{{% /quote %}}와 {{% quote type="name" lang="ko" %}}클라크 켄트{{% /quote %}}가 마법처럼 인식할 수 없게 되는 것과 유사합니다.
@@ -160,7 +167,7 @@ type = "article"                                             # article, sitepage
 이것에 대해서는, 그것이 {{% quote type="title" lang="ko" %}}{{% quote type="title" lang="ko" %}}슈퍼맨{{% /quote %}} 트로프{{% /quote %}}였다고 생각하거나, 우리 인간의 뇌가 자연스럽게 그것을 무시하거나, 둘 다의 조합이었다고 생각하는 것 외에는 다른 방법이 없습니다.
 
 (이 질문은 {{% quote type="name" lang="en" %}}Emily Clayman{{% /quote %}}가 우리 [Facebook Page](https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0uF7DSBstM8XdjXxPGrW4959CqmpjBg5umhTZ1T4pg6FDozK7psGqNPoLBKoofq9vl?comment_id=555572226120667)을 통해 한 것입니다.)
-{{< /accordion >}}
+{{% /accordion %}}
 
 ---
 

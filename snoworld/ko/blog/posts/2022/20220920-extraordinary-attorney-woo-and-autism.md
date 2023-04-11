@@ -88,7 +88,8 @@ type = "article"                                             # article, sitepage
 
 자폐증에 대한 묘사는 결코 좋지 않았습니다. 수십 년 동안 자폐증 성격자들은 전형적인 특징과 기발함으로 묘사되었고, 보통 부정적인 방식으로 묘사되었습니다. 저는 자폐증 동료들에게 그것에 대해 물어봤습니다.
 
-{{< accordion border="style02" summary="'이상한 변호사 우영우'를 보기 전에 자폐증을 소재로 한 영화와 드라마, 자폐증 환자 묘사에 대해 어떻게 생각하십니까?" status="open" class="faq" >}}
+{{% accordion border="style02" summary="'이상한 변호사 우영우'를 보기 전에 자폐증을 소재로 한 영화와 드라마, 자폐증 환자 묘사에 대해 어떻게 생각하십니까?" status="open" class="faq" %}}
+
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="wanderingFranzi" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   Often very stereotypical perpetuating only one or two "varieties" of autism, mostly involving white male character and often geniuses or the other extreme of autistic people who cannot live by themselves and have high support needs in managing every day life.
 
@@ -118,19 +119,20 @@ type = "article"                                             # article, sitepage
 
   (파파고 번역: 교육받지 못했습니다.)
   {{% /quotebox %}}
-{{< /accordion >}}
+{{% /accordion %}}
 
 자폐증도 동의하고 나도 동의해.
 
 1부터 5까지, 가장 높은 5까지, 저는 그들에게 물었습니다.
 
-{{< accordion border="style02" summary="일반적으로 '이상한 변호사 우영우'는 자폐인들이 매일 겪는 어려움을 조명하면서 자폐증을 얼마나 잘 설명했을까요?" status="open" class="faq" >}}
+{{% accordion border="style02" summary="일반적으로 '이상한 변호사 우영우'는 자폐인들이 매일 겪는 어려움을 조명하면서 자폐증을 얼마나 잘 설명했을까요?" status="open" class="faq" %}}
+
   {{% quote type="name" lang="en" %}}Autistic A{{% /quote %}}, {{% quote type="name" lang="en" %}}Evelyn{{% /quote %}}, {{% quote type="name" lang="en" %}}wanderingFranzi{{% /quote %}}는 모두 평점 4점을 주었고, {{% quote type="name" lang="en" %}}Lawrence{{% /quote %}}는 평점 3점을 주었고, {{% quote type="name" lang="en" %}}Autistic B{{% /quote %}}는 평점 2점을 받았다.
-{{< /accordion >}}
+{{% /accordion %}}
 
 다음은 우영우와 이준호의 로맨스에 대해 알아보겠습니다.
 
-{{< accordion border="style02" summary="우영우가 이미 사귀고 있다는 사실을 전혀 몰랐다는 말에 부정적인 반응을 보인 시청자들이 있었습니다. 자폐증 남성/자폐증 여성으로서, 그것에 대해 좀 더 설명해줄 수 있나요?" status="open" class="faq" >}}
+{{% accordion border="style02" summary="우영우가 이미 사귀고 있다는 사실을 전혀 몰랐다는 말에 부정적인 반응을 보인 시청자들이 있었습니다. 자폐증 남성/자폐증 여성으로서, 그것에 대해 좀 더 설명해줄 수 있나요?" status="open" class="faq" %}}
 
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="wanderingFranzi" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   Autistic people often struggle with things that go unsaid, like when you move from being friends to dating, or from dating to being in a relationship. These things are often assumed. An autistic person might just miss these signs and not notice. We need these things to be said.
@@ -159,7 +161,7 @@ type = "article"                                             # article, sitepage
 
   (파파고 번역: 왜 부정적인 반응을 보이는 사람들이 있었는지 모르겠어요. 사귀고 있다고 가정하는 건 실례 아닌가요? 한심하네요. 우영우가 연애를 한다고 생각하지 않은 것은 옳은 일이었습니다. Lee Jun Ho씨가 틀렸어요. 그는 우영우를 이해했지만, 여전히 그들이 영우에게 확인하지 않고 공식적으로 사귀고 있다고 추정했습니다. 우영우가 자폐증이 아니었다면 이준호를 나쁜 놈이라고 손가락질했을 텐데, 영우가 자폐증이라 비난했습니다. 전형적인 차별입니다.)
   {{% /quotebox %}}
-{{< /accordion >}}
+{{% /accordion %}}
 
 {{% quote type="name" lang="en" %}}Autistic A{{% /quote %}}의 꽤 강력한 대답입니다. 제가 동의하는 방법으로는, 그것은 자폐증 캐릭터를 가진 다른 쇼에서 볼 수 있는 고정관념 중 하나입니다. 다른 사람은 비난을 받고, 그 비난의 부족은 그것을 성별에 근거한 비난으로 바꿉니다.
 
@@ -184,7 +186,7 @@ type = "article"                                             # article, sitepage
   attribrel="noopener external"
 >}}
 
-{{< accordion border="style02" summary="우영우가 이준호와 헤어져 이유를 설명하지 않자, 배려심이 없다며 자신의 자폐증을 핑계로 삼았다는 시청자들도 있었습니다. 자폐증 남성 또는 자폐증 여성으로서, 그것에 대한 당신의 생각은 무엇입니까? 그녀는 자신의 자폐증을 핑계로 삼았나요? 그녀가 준호의 감정을 배려하지 않았나요? 왜 그런가요? 혹은 왜 그렇지 않은가요?" status="open" class="faq" >}}
+{{% accordion border="style02" summary="우영우가 이준호와 헤어져 이유를 설명하지 않자, 배려심이 없다며 자신의 자폐증을 핑계로 삼았다는 시청자들도 있었습니다. 자폐증 남성 또는 자폐증 여성으로서, 그것에 대한 당신의 생각은 무엇입니까? 그녀는 자신의 자폐증을 핑계로 삼았나요? 그녀가 준호의 감정을 배려하지 않았나요? 왜 그런가요? 혹은 왜 그렇지 않은가요?" status="open" class="faq" %}}
 
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="Lawrence" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   I had two neurotypical ex-girlfriends who broke up with me without explaining their reasons. Were they indifferent? No, I don't think so. There is a reason behind their actions and we should not judge them. There are situations where men, women, autism, or neurotypicals cannot explain the reasons behind our decision.
@@ -211,11 +213,11 @@ type = "article"                                             # article, sitepage
 
   (파파고 번역: 만약 영우가 자폐증을 가지고 태어나지 않고 비슷한 상황에 있다면, 저는 그녀가 소녀로서 다시 자폐증을 앓을 것이라는 것을 알고 있습니다. 그녀의 자폐증은 그녀가 이별을 어떻게 처리했는지와 아무 관련이 없습니다. 이혼은 쉽지 않아요. 만약 여러분이 인생에서 한 번쯤 쉬운 이별을 경험했다면, 여러분은 결코 그들을 사랑한 적이 없습니다. 그녀는 그를 좋아하기 때문에 그들의 관계를 끊었습니다.)
   {{% /quotebox %}}
-{{< /accordion >}}
+{{% /accordion %}}
 
 저는 전적으로 그들의 의견에 동의합니다. 이별의 이유를 설명하지 않는 것은 자폐증이 아니라 관계입니다. 이것은 앞의 질문에서도 마찬가지인데, 자폐증인 사람은 자폐증이기 때문에 비난받았습니다; 만약 그녀가 자폐증이 아니라면, 청중들은 그녀의 결정을 옹호하고 그들의 관계에서 이준호를 배려하지 않는 사람으로 만들 것입니다.
 
-{{< accordion border="style02" summary="자폐증을 앓고 있는 많은 자폐증 환자들은 '우변호사'가 자폐증을 제대로 그리고 존중하는 마음으로 묘사한 것에 만족감을 표현했습니다. 당신은 비슷한 견해를 가지고 있나요? 왜 그런가요? 혹은 왜 그렇지 않은가요?" status="open" class="faq" >}}
+{{% accordion border="style02" summary="자폐증을 앓고 있는 많은 자폐증 환자들은 '우변호사'가 자폐증을 제대로 그리고 존중하는 마음으로 묘사한 것에 만족감을 표현했습니다. 당신은 비슷한 견해를 가지고 있나요? 왜 그런가요? 혹은 왜 그렇지 않은가요?" status="open" class="faq" %}}
 
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="Autistic B" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   It's not me. EAW was a stereotype. I have two children with autism. None of what WYW was is relatable.
@@ -254,9 +256,9 @@ type = "article"                                             # article, sitepage
 
   (파파고 번역: 자폐증을 완벽하게 표현하는 것은 불가능하다고 생각합니다. 그것은 스펙트럼입니다. 그 여배우의 연기는 그녀의 연기를 과장하지 않았을 때 존경스러웠습니다. 과거 배우들은 자폐증 캐릭터의 연기를 과장했지만, 연구는 하지 않았고, {{% quote type="name" lang="ko" %}}박은빈{{% /quote %}}은 좋은 연기를 했고 존경심을 보였습니다.)
   {{% /quotebox %}}
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style02" summary="자폐증이 아닌 모든 사람들에게 보내는 당신의 메시지는 무엇입니까?" status="open" class="faq" >}}
+{{% accordion border="style02" summary="자폐증이 아닌 모든 사람들에게 보내는 당신의 메시지는 무엇입니까?" status="open" class="faq" %}}
 
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="Evelyn" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   There are a lot of people around you who have autism. Boys have the highest number of autistics, but that doesn't mean autism is rare in girls. We women are better at masking than men. It's harder for us to be autistic than it is for boys.
@@ -275,7 +277,7 @@ type = "article"                                             # article, sitepage
 
   (파파고 번역: 현실에서 보이는 모든 것을 믿지 마세요. 저와 제 두 아이는 자폐증이지만, 우 변호사는 고정관념이 강했습니다. 우리는 그녀처럼 걷지 않아요. 우리는 그녀처럼 말하지 않아요. 우리는 그녀가 하는 방식으로 우리 자신을 소개하지 않습니다. 세계에는 수백만 명의 자폐인들이 있지만, 가상의 자폐 캐릭터들은 항상 고정관념입니다.)
   {{% /quotebox %}}
-{{< /accordion >}}
+{{% /accordion %}}
 
 {{< image
   isrepresentativeofpage=false
@@ -300,7 +302,7 @@ type = "article"                                             # article, sitepage
 
 {{% quote type="title" lang="ko" %}}이상한 변호사 우영우{{% /quote %}}는 자폐증에 대한 편견을 가진 한 여성이 처음으로 스스로 길을 가면서 성장하는 과정을 그린 영화입니다. 하지만, 이야기의 필수적인 부분은 법적 사건입니다.
 
-{{< accordion border="style02" summary="우영우 변호사와 친구들이 시리즈 내내 처리했던 사건들에 대해서 어떻게 말씀하실 수 있나요? 그 사건들은 TV에서 보는 것이 신선했나요? 그들이 다르게 행동했어야 한다고 생각하는 것이 있었나요?" status="open" class="faq" >}}
+{{% accordion border="style02" summary="우영우 변호사와 친구들이 시리즈 내내 처리했던 사건들에 대해서 어떻게 말씀하실 수 있나요? 그 사건들은 TV에서 보는 것이 신선했나요? 그들이 다르게 행동했어야 한다고 생각하는 것이 있었나요?" status="open" class="faq" %}}
 
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="Lawrence" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   I heard that the incidents were based on true cases in Korea. I usually watch dramas with fictional court cases, but it's "refreshing" to watch actual cases. I can't think of anything else they should have done. They inserted Woo Young-woo, an autistic attorney, into these actual cases. I don't know if there's anything better than that.
@@ -319,9 +321,9 @@ type = "article"                                             # article, sitepage
 
   (파파고 번역: 주인공들의 캐릭터 개발 시간이 부족했기 때문에 케이스가 너무 강조되었다고 생각했습니다. 그들은 너무 많은 것을 하려고 했고 (자폐주의, 로맨스, 사건, 다른 모든 변호사들의 사이드 스토리, 엄마와의 이야기 등) 결국 이런 것들을 제대로 하지 못했습니다. 그들은 사례를 대폭 줄이고 실제 이야기에 도움이 되는 몇 가지에만 집중했어야 했습니다.)
   {{% /quotebox %}}
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style02" summary="자폐증과 관련된 다른 쇼(암시적 또는 명시적)를 추천하며, 그 이유는 무엇입니까?" status="open" class="faq" >}}
+{{% accordion border="style02" summary="자폐증과 관련된 다른 쇼(암시적 또는 명시적)를 추천하며, 그 이유는 무엇입니까?" status="open" class="faq" %}}
 
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="wanderingFranzi" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   {{% quote type="title" lang="en" %}}It's Okay to Not Be Okay{{% /quote %}} was brilliant, despite also using a lot of stereotypes.
@@ -352,7 +354,7 @@ type = "article"                                             # article, sitepage
 
   (파파고 번역: {{% quote type="title" lang="ko" %}}오션 파라다이스{{% /quote %}}, {{% quote type="title" lang="ko" %}}아담{{% /quote %}}, {{% quote type="title" lang="ko" %}}굿 닥터{{% /quote %}}, {{% quote type="title" lang="ko" %}}영리한 젊은 마음{{% /quote %}}, {{% quote type="title" lang="ko" %}}순수한 목격자{{% /quote %}}, {{% quote type="title" lang="ko" %}}비정상적{{% /quote %}}입니다. 그들을 보면 그 이유를 알 수 있을 거예요.)
   {{% /quotebox %}}
-{{< /accordion >}}
+{{% /accordion %}}
 
 내 [](20151009-a-brilliant-mind.md) 및 [](20220810-innocent-witness-2019.md)를 확인하십시오.
 
@@ -377,7 +379,7 @@ type = "article"                                             # article, sitepage
   attribrel="noopener external"
 >}}
 
-{{< accordion border="style02" summary="전반적으로 '이상한 변호사 우영우'의 작가, 감독, 배우, 그리고 전체 스태프에게 전하는 메시지는 무엇인가요?" status="open" class="faq" >}}
+{{% accordion border="style02" summary="전반적으로 '이상한 변호사 우영우'의 작가, 감독, 배우, 그리고 전체 스태프에게 전하는 메시지는 무엇인가요?" status="open" class="faq" %}}
 
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="wanderingFranzi" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   My biggest issue with this show is that you didn't involve any actually autistic people in the making of it. I find this very disrespectful. You make a show about autistic people and don't even have the decency to talk to them or even just one directly? That's like white actors and writers and directors making a show about black people without involving black people to consult about the portrayal, without involving them in the acting, but only talking to other white people, who have previously studied black people.
@@ -412,7 +414,7 @@ type = "article"                                             # article, sitepage
 
   (파파고 번역: 전형적인 자폐성 남성이 아닌 여성 캐릭터를 선택해 주셔서 정말 감사합니다.)
   {{% /quotebox %}}
-{{< /accordion >}}
+{{% /accordion %}}
 
 응답해주시고 참여해 주신 모든 분들께 감사드립니다!
 

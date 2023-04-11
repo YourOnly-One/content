@@ -88,7 +88,8 @@ type = "article"                                             # article, sitepage
 
 自閉症の人の描写は決して良いものではありませんでした。 何十年もの間、自閉症のキャラクターはステレオタイプな特性と奇癖を持って描かれ、通常は否定的な方法で描かれました。 自閉症の人たちに聞いてみました
 
-{{< accordion border="style02" summary="「変な弁護士ウ·ヨンウ」を見る前に、自閉症を題材にした映画やドラマ、自閉症の人の描写についてどう思いますか？" status="open" class="faq" >}}
+{{% accordion border="style02" summary="「変な弁護士ウ·ヨンウ」を見る前に、自閉症を題材にした映画やドラマ、自閉症の人の描写についてどう思いますか？" status="open" class="faq" %}}
+
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="wanderingFranzi" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   Often very stereotypical perpetuating only one or two "varieties" of autism, mostly involving white male character and often geniuses or the other extreme of autistic people who cannot live by themselves and have high support needs in managing every day life.
 
@@ -118,19 +119,20 @@ type = "article"                                             # article, sitepage
 
   （Papago翻訳: 無学。）
   {{% /quotebox %}}
-{{< /accordion >}}
+{{% /accordion %}}
 
 オーティスティクスは同意し、私も同意します。
 
 1から5の尺度で、最高は5です。私は彼らに尋ねました。
 
-{{< accordion border="style02" summary="一般的に、「変な弁護士ウ·ヨンウ」は自閉症をどれだけうまく説明し、自閉症の人々が毎日直面している課題を明らかにしましたか？" status="open" class="faq" >}}
+{{% accordion border="style02" summary="一般的に、「変な弁護士ウ·ヨンウ」は自閉症をどれだけうまく説明し、自閉症の人々が毎日直面している課題を明らかにしましたか？" status="open" class="faq" %}}
+
   「AutisticA」、{{% quote type="name" lang="en" %}}Evelyn{{% /quote %}}、{{% quote type="name" lang="en" %}}wanderingFranzi{{% /quote %}}はすべて4点でした。{{% quote type="name" lang="en" %}}Lawrence{{% /quote %}}は3点、{{% quote type="name" lang="en" %}}Autistic B{{% /quote %}}は2点でした。
-{{< /accordion >}}
+{{% /accordion %}}
 
 次にウヨンウとイ·ジュンホの恋愛について話してみましょう。
 
-{{< accordion border="style02" summary="ウヨンウがすでに付き合っていることを知らないと言うと、否定的な反応をする視聴者もいました。 自閉症の男性/自閉症の女性として、もっと詳しく説明してもらえますか？" status="open" class="faq" >}}
+{{% accordion border="style02" summary="ウヨンウがすでに付き合っていることを知らないと言うと、否定的な反応をする視聴者もいました。 自閉症の男性/自閉症の女性として、もっと詳しく説明してもらえますか？" status="open" class="faq" %}}
 
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="wanderingFranzi" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   Autistic people often struggle with things that go unsaid, like when you move from being friends to dating, or from dating to being in a relationship. These things are often assumed. An autistic person might just miss these signs and not notice. We need these things to be said.
@@ -159,7 +161,7 @@ type = "article"                                             # article, sitepage
 
   （Papago翻訳: なぜ、それに対して否定的な反応を示す人がいたのか。 付き合っていると思い込むのは失礼ではありませんか？ 情けないです。 ウ·ヨンウは、彼らが付き合っていると思っていなかったことに対して正しいことをしました。 イ·ジュンホは間違っていました。 ウ·ヨンウのことは理解していましたが、それでもヨンウと確認せずに正式に付き合っていると思っていました。 ウヨンウが自閉症でなければ、この人たちはイ·ジュンホを悪い人だと指差すでしょうが、ヨンウが自閉症なので彼女を非難しました。 典型的な差別です。）
   {{% /quotebox %}}
-{{< /accordion >}}
+{{% /accordion %}}
 
 {{% quote type="name" lang="en" %}}Autistic A{{% /quote %}}の答えがかなり強いですね。 ある意味では、自閉症の性格を持つ他の番組で見られるステレオタイプの一つです。 違う人が責任を取り、ない人はそれを性別による責任に移します。
 
@@ -184,7 +186,7 @@ type = "article"                                             # article, sitepage
   attribrel="noopener external"
 >}}
 
-{{< accordion border="style02" summary="ウ·ヨンウがイ·ジュンホと別れて理由を説明しないと、配慮が足りないと言って自閉症を言い訳にしたという視聴者がいました。 自閉症の男性として、あるいは自閉症の女性として、あなたはどう思いますか？ 彼女は自閉症を言い訳にしましたか？ ジュンホさんの気持ちに配慮がなかったんですか？ なぜですか？" status="open" class="faq" >}}
+{{% accordion border="style02" summary="ウ·ヨンウがイ·ジュンホと別れて理由を説明しないと、配慮が足りないと言って自閉症を言い訳にしたという視聴者がいました。 自閉症の男性として、あるいは自閉症の女性として、あなたはどう思いますか？ 彼女は自閉症を言い訳にしましたか？ ジュンホさんの気持ちに配慮がなかったんですか？ なぜですか？" status="open" class="faq" %}}
 
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="Lawrence" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   I had two neurotypical ex-girlfriends who broke up with me without explaining their reasons. Were they indifferent? No, I don't think so. There is a reason behind their actions and we should not judge them. There are situations where men, women, autism, or neurotypicals cannot explain the reasons behind our decision.
@@ -211,11 +213,11 @@ type = "article"                                             # article, sitepage
 
   （Papago翻訳: もしヨンウが自閉症を持って生まれて同じような状況なら、私は彼女がまたそれをすることを知っています。 彼女の自閉症は、彼女の別れの対処方法とは関係ありません。 離婚は簡単ではありません。 人生で一度でも簡単な別れを経験したことがあるなら、彼らを愛したことはありません。 彼女は彼が好きだから彼らの関係を壊しました。）
   {{% /quotebox %}}
-{{< /accordion >}}
+{{% /accordion %}}
 
 全く同感です。 別れの理由を説明しないのは自閉症ではなく、人間関係です。 これは前の質問と同じです自閉症の人は自閉症だから非難されましたもし彼女が自閉症でなければ聴衆は彼女の決定を擁護し彼らの関係における思いやりのない人としてイ·ジュンホは
 
-{{< accordion border="style02" summary="多くの自閉症者/自閉症の人は、「変な弁護士ウ·ヨンウ」が自閉症を正しく、尊重して描写した方法に満足しています。 あなたは同じような見解を持っていますか？ なぜですか？" status="open" class="faq" >}}
+{{% accordion border="style02" summary="多くの自閉症者/自閉症の人は、「変な弁護士ウ·ヨンウ」が自閉症を正しく、尊重して描写した方法に満足しています。 あなたは同じような見解を持っていますか？ なぜですか？" status="open" class="faq" %}}
 
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="Autistic B" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   It's not me. EAW was a stereotype. I have two children with autism. None of what WYW was is relatable.
@@ -254,9 +256,9 @@ type = "article"                                             # article, sitepage
 
   （Papago翻訳: 完璧ではありませんでした自閉症を完璧に表現することは不可能だと思いますスペクトルです その女優の演技は大げさではなかったので、敬意を払いました。 過去には俳優たちが自閉症のキャラクターの演技を誇張して研究をせずに{{% quote type="name" lang="ja" %}}パク·ウンビン{{% /quote %}} ({{% quote type="name" lang="ko" %}}박은빈{{% /quote %}})がよくやって尊敬を表しました。）
   {{% /quotebox %}}
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style02" summary="What is your message to everyone who is non-autistic or non-PWA?" status="open" class="faq" >}}
+{{% accordion border="style02" summary="What is your message to everyone who is non-autistic or non-PWA?" status="open" class="faq" %}}
 
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="Evelyn" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   There are a lot of people around you who have autism. Boys have the highest number of autistics, but that doesn't mean autism is rare in girls. We women are better at masking than men. It's harder for us to be autistic than it is for boys.
@@ -275,7 +277,7 @@ type = "article"                                             # article, sitepage
 
   （Papago翻訳: 現実に目にするものをすべて信じてはいけません。 私と2人の子供は自閉症ですが、ウ弁護士はステレオタイプでした。 私たちは彼女のようには歩きません。 私たちは彼女のようには話しません。 私たちは彼女のように自己紹介をしません。 世界には何百万という自閉症の人がいますが、架空の自閉症のキャラクターは常に固定観念です。）
   {{% /quotebox %}}
-{{< /accordion >}}
+{{% /accordion %}}
 
 {{< image
   isrepresentativeofpage=false
@@ -300,7 +302,7 @@ type = "article"                                             # article, sitepage
 
 {{% quote type="title" lang="ja" %}}変な弁護士ウ·ヨンウ{{% /quote %}} ({{% quote type="title" lang="ko" %}}이상한 변호사 우영우{{% /quote %}})は、自閉症に対する偏見を持つ世界を、自閉症の女性が初めて自力で航海しながら成長することについての物語です。 しかし、物語の不可欠な部分は法的事例です。
 
-{{< accordion border="style02" summary="ウ·ヨンウ弁護士と友人たちがシリーズを通して取り扱った事件について、あなたは何と言えますか？ テレビで見たときのケースは新鮮でしたか？ あなたは彼らが別のやり方をすべきだと思うことはありましたか？" status="open" class="faq" >}}
+{{% accordion border="style02" summary="ウ·ヨンウ弁護士と友人たちがシリーズを通して取り扱った事件について、あなたは何と言えますか？ テレビで見たときのケースは新鮮でしたか？ あなたは彼らが別のやり方をすべきだと思うことはありましたか？" status="open" class="faq" %}}
 
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="Lawrence" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   I heard that the incidents were based on true cases in Korea. I usually watch dramas with fictional court cases, but it's "refreshing" to watch actual cases. I can't think of anything else they should have done. They inserted Woo Young-woo, an autistic attorney, into these actual cases. I don't know if there's anything better than that.
@@ -319,9 +321,9 @@ type = "article"                                             # article, sitepage
 
   （Papago翻訳: メインキャラクターのキャラクター育成に時間が足りなかったので、ケースに重点が置かれていると思いました。 彼らは(自閉症、ロマンス、事件、他のすべての弁護士のためのサイドストーリー、お母さんとの話…)あまりにも多くのことをしようとし、結局、これらのことを適切に行わなかったのです。 彼らは事件を大幅に減らし、実際の話に役立ついくつかの事件だけに焦点を合わせるべきでした。）
   {{% /quotebox %}}
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style02" summary="自閉症に関する他のショー（黙示または説明）とその理由は何ですか？" status="open" class="faq" >}}
+{{% accordion border="style02" summary="自閉症に関する他のショー（黙示または説明）とその理由は何ですか？" status="open" class="faq" %}}
 
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="wanderingFranzi" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   {{% quote type="title" lang="en" %}}It's Okay to Not Be Okay{{% /quote %}} was brilliant, despite also using a lot of stereotypes.
@@ -352,7 +354,7 @@ type = "article"                                             # article, sitepage
 
   （Papago翻訳: {{% quote type="title" lang="ja" %}}オーシャン·ヘブン{{% /quote %}}、{{% quote type="title" lang="ja" %}}アダム{{% /quote %}}、{{% quote type="title" lang="ja" %}}グッド·ドクター{{% /quote %}} ({{% quote type="title" lang="ko" %}}굿 닥터{{% /quote %}})、{{% quote type="title" lang="ja" %}}輝かしい若い心{{% /quote %}}、{{% quote type="ntitle" lang="ja" %}}証人{{% /quote %}} ({{% quote type="title" lang="ko" %}}증인{{% /quote %}})、{{% quote type="title" lang="ja" %}}非定型的{{% /quote %}}です。 ご覧になれば理由が分かります。）
   {{% /quotebox %}}
-{{< /accordion >}}
+{{% /accordion %}}
 
 私の[](20151009-a-brilliant-mind.md)と[](20220810-innocent-witness-2019.md)をチェックしてください。
 
@@ -377,7 +379,7 @@ type = "article"                                             # article, sitepage
   attribrel="noopener external"
 >}}
 
-{{< accordion border="style02" summary="全体的に「変な弁護士ウ·ヨンウ」の作家、監督、俳優、スタッフの皆さんにお伝えしたいことは何ですか？" status="open" class="faq" >}}
+{{% accordion border="style02" summary="全体的に「変な弁護士ウ·ヨンウ」の作家、監督、俳優、スタッフの皆さんにお伝えしたいことは何ですか？" status="open" class="faq" %}}
 
   {{% quotebox boxstyle="qbs_interview" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="wanderingFranzi" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   My biggest issue with this show is that you didn't involve any actually autistic people in the making of it. I find this very disrespectful. You make a show about autistic people and don't even have the decency to talk to them or even just one directly? That's like white actors and writers and directors making a show about black people without involving black people to consult about the portrayal, without involving them in the acting, but only talking to other white people, who have previously studied black people.
@@ -412,7 +414,7 @@ type = "article"                                             # article, sitepage
 
   （Papago翻訳: 典型的な自閉症の男性ではなく、女性のキャラクターを選んでいただき、ありがとうございます。）
   {{% /quotebox %}}
-{{< /accordion >}}
+{{% /accordion %}}
 
 ご回答·ご参加の皆様ありがとうございました！
 

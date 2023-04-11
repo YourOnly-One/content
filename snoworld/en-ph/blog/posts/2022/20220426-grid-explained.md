@@ -47,11 +47,11 @@ type = "article"                                                             # a
   #rel = "noopener"
 +++
 
-Have you recently finished watching Disney Plus's <q>Grid (<bdi lang="ko">그리드</bdi>)</q>? Confused? Worry not! In this article, I answered as many questions as I know the answers to and explained the reasons behind it.
+Have you recently finished watching {{% quote type="name" lang="en" %}}Disney Plus{{% /quote %}}'s {{% quote type="title" lang="en" %}}Grid{{% /quote %}} ({{% quote type="title" lang="ko" %}}그리드{{% /quote %}})? Confused? Worry not! In this article, I answered as many questions as I know the answers to and explained the reasons behind it.
 
 <!--more-->
 
-Just remember, <q>Grid (<bdi lang="ko">그리드</bdi>)</q> is a soft sci-fi show. A soft science fiction concerns itself on soft or social sciences (psychology, sociology), which means, there should be no expectations on any explanation of the show's hard sciences. This is where this article comes in, as fans of the show, we will explain those which were not touched on the story.
+Just remember, {{% quote type="title" lang="en" %}}Grid{{% /quote %}} ({{% quote type="title" lang="ko" %}}그리드{{% /quote %}}) is a soft sci-fi show. A soft science fiction concerns itself on soft or social sciences (psychology, sociology), which means, there should be no expectations on any explanation of the show's hard sciences. This is where this article comes in, as fans of the show, we will explain those which were not touched on the story.
 
 ## Guidelines
 
@@ -69,11 +69,11 @@ Before we begin we need to be on the same page on how to approach the questions 
 
 1. **The story is about Kwon/Kim Sae Ha.** The vantage point of the story is from the perspective of Sae Ha. All time is relative to him. The plot is relative to him.
 
-1. **There is only one timeline/universe.** Forget about the *many-worlds interpretation* (MWI), or more commonly known as *multiple timelines* and *parallel universes*. There is only one timeline and one universe in the <q>Grid (<bdi lang="ko">그리드</bdi>)</q>.
+1. **There is only one timeline/universe.** Forget about the *many-worlds interpretation* (MWI), or more commonly known as *multiple timelines* and *parallel universes*. There is only one timeline and one universe in the  {{% quote type="title" lang="en" %}}Grid{{% /quote %}} ({{% quote type="title" lang="ko" %}}그리드{{% /quote %}}).
 
 ### Temporal Mechanics
 
-1. **Static Theory of Spacetime.** <q>Time is like space, and there is no such thing as the passage of time</q> [^paper-time], or as explained in <q>Grid (<bdi lang="ko">그리드</bdi>)</q> <q>time does not flow</q>. All possibilities in all times simultaneously exist.
+1. **Static Theory of Spacetime.** {{% quote type="work" lang="en" %}}Time is like space, and there is no such thing as the passage of time{{% /quote %}} [^paper-time], or as explained in {{% quote type="title" lang="en" %}}Grid{{% /quote %}} ({{% quote type="title" lang="ko" %}}그리드{{% /quote %}}) {{% quote type="work" lang="en" %}}time does not flow{{% /quote %}}. All possibilities in all times simultaneously exist.
 
     - **Growing Block Universe Theory.** All possibilities in the past and the present simultaneously exist, and the future is yet to be. Both the past and the present are simply *now*. What we perceive as the past is as much as what we call the present. There is only *now* and the future—which is yet to be.
 
@@ -84,7 +84,7 @@ Before we begin we need to be on the same page on how to approach the questions 
 
 1. **Time travelers can not travel beyond their origin and relative times.** This is the result of rule #1. This is a very important rule which we will encounter later.
 
-    - **Travel beyond one's origin time is not possible.** This is because the world of <q>Grid (<bdi lang="ko">그리드</bdi>)</q> is based on the Growing Block Universe Theory. The future is yet to come into existence.
+    - **Travel beyond one's origin time is not possible.** This is because the world of  {{% quote type="title" lang="en" %}}Grid{{% /quote %}} ({{% quote type="title" lang="ko" %}}그리드{{% /quote %}}) is based on the Growing Block Universe Theory. The future is yet to come into existence.
     - **Travel beyond one's relative time is not possible.** This is because of both the Growing Block Universe Theory and Einstein's Special Theory of Relativity. It does not matter if the traveler is in the past (relative to their origin time), from their relative time (as an observer) the future is yet to come into existence.
 
 1. **Person replacement.** If time travelers enter a time period where there is a native or earlier version of themselves, they replace it.
@@ -113,12 +113,13 @@ Before we begin we need to be on the same page on how to approach the questions 
 
     There is no better example than what Sae Ha noticed himself in 1997-05-18.
 
-    {{< accordion border="style01" summary="1997-05-18 First Version" >}}
+  {{% accordion border="style01" summary="1997-05-18 First Version" %}}
 
 - This is original version where the Grid never existed and time travel was not yet developed.
-    {{< /accordion >}}
+  {{% /accordion %}}
 
-    {{< accordion border="style01" summary="1997-05-18 Second Version" >}}
+  {{% accordion border="style01" summary="1997-05-18 Second Version" %}}
+
 - This is the first time a time traveler entered this time period and installed the Grid. It was not the Ghost who did it since she does not exist yet at this point.
 - Doctor Kwon Su Keun
   - was killed for his ID; or
@@ -127,23 +128,26 @@ Before we begin we need to be on the same page on how to approach the questions 
   - saw Doctor Kwon's body, entered Lab 1 to call 119, saw the first time traveler and confronted him/her, which led to his death; or
   - entered Lab 1 because of the noise, saw Doctor Kwon's dead body, and the time traveler had to kill him.
 - These chain of events led to the birth of the Ghost.
-    {{< /accordion >}}
+  {{% /accordion %}}
 
-    {{< accordion border="style01" summary="1997-05-18 Third Version (episode 3 IRR CCTV)" >}}
+  {{% accordion border="style01" summary="1997-05-18 Third Version (episode 3 IRR CCTV)" %}}
+
 - This is the version where the Ghost was the one who installed the Grid.
 - This is also the version shown in the first CCTV footage of this day.
 - Doctor Kwon was killed for his ID (scar at the back of his neck).
 - Lee Jang Hyeok was killed by the Ghost before he left the Institute of Radio Research (IRR).
-    {{< /accordion >}}
+  {{% /accordion %}}
 
-    {{< accordion border="style01" summary="1997-05-18 Fourth Version" >}}
+  {{% accordion border="style01" summary="1997-05-18 Fourth Version" %}}
+
 - This is the first time Sae Ha traveled to 1997.
 - Doctor Kwon Su Keun was killed for his ID (hit at the back of his neck with the device).
 - Lee Jang Hyeok saw his body, entered Lab 1 to call 119, saw the Ghost, and confronted her, which led to his death.
 - When the Ghost picked up her time device, she felt the existence of another time traveler. Before she was able to act, Sae Ha reset time.
-    {{< /accordion >}}
+  {{% /accordion %}}
 
-    {{< accordion border="style01" summary="1997-05-18 Fifth Version" >}}
+  {{% accordion border="style01" summary="1997-05-18 Fifth Version" %}}
+
 - This is Sae Ha's first attempt to change the events of 1997.
 - Sae Ha stole Doctor Kwon's ID.
 - The Ghost appeared but Doctor Kwon was not where she expected him to be.
@@ -155,9 +159,10 @@ Before we begin we need to be on the same page on how to approach the questions 
 - The moment Lee Jang Hyeok (janitor; and stepfather of Kim Ma Nok) stepped outside the IRR building, the Ghost was erased from existence.
 - It is time critical to finish the Grid within a time frame (this is the reason why the Ghost was in various labs around the world). Since this failed, the Grid program failed entirely.
 - We will call this the "Fifth Version Reality" or "1997 No Grid Reality"
-    {{< /accordion >}}
+  {{% /accordion %}}
 
-    {{< accordion border="style01" summary="1997-05-18 Sixth Version" >}}
+  {{% accordion border="style01" summary="1997-05-18 Sixth Version" %}}
+
 - After witnessing the world without the Grid, Sae Ha returned to 1997-05-18.
 - He stole the coat lab of Doctor Kwon (with the ID).
 - Doctor Kwon still went to Lab 1.
@@ -165,9 +170,10 @@ Before we begin we need to be on the same page on how to approach the questions 
 - Doctor Kwon saw him and fought him.
 - Sae Ha accidentally killed his own father.
 - Lee Jang Hyeok saw them and ran.
-    {{< /accordion >}}
+  {{% /accordion %}}
 
-    {{< accordion border="style01" summary="1997-05-18 Seventh Version" >}}
+  {{% accordion border="style01" summary="1997-05-18 Seventh Version" %}}
+
 - After chasing the Ghost throughout 2021 to confront her about the murders and how to change the events, Sae Ha returned to 1997-05-18 again.
 - Sae Ha observed as the events unfold.
 - Sae Ha noticed the events unfolded differently (CCTV timestamp: 21:02:48).
@@ -185,9 +191,9 @@ Before we begin we need to be on the same page on how to approach the questions 
 - The Security Guard, Han Wi Han, saw Sae Ha in front of the window in Lab 1.
 - Han Wi Han ran to Lab 1, upon entering, he was assaulted by the Ghost.
 - Sae Ha stopped her from killing him.
-- This is the first time the 1997 Ghost knew who Sae Ha is. Later, they had a conversion in Lab 1 where she said, <q>We've repeated this dozens of times to find another way.</q>
+- This is the first time the 1997 Ghost knew who Sae Ha is. Later, they had a conversion in Lab 1 where she said, {{% quote type="work" lang="en" %}}We've repeated this dozens of times to find another way.{{% /quote %}}
 - This Seventh Version of 1997-05-18 is the Reality from this point onwards (latter part of episode 8 to episode 10).
-    {{< /accordion >}}
+  {{% /accordion %}}
 
     From Sae Ha's observation, it was established that whenever a time traveler enter a time period they do not belong into, their incursion version replaces the earlier version. The earlier version is gone forever.
 
@@ -225,7 +231,7 @@ Before we begin we need to be on the same page on how to approach the questions 
 
 ### Realities
 
-Since there is only one timeline and one universe in the <q>Grid (<bdi lang="ko">그리드</bdi>)</q>, we will not use the terms *[alternate] timelines* and *parallel worlds*, instead, we will use: *realities*.
+Since there is only one timeline and one universe in the  {{% quote type="title" lang="en" %}}Grid{{% /quote %}} ({{% quote type="title" lang="ko" %}}그리드{{% /quote %}}), we will not use the terms *[alternate] timelines* and *parallel worlds*, instead, we will use: *realities*.
 
 - **Pre-travel Reality.** This is the reality before Sae Ha became a time traveler. (episodes 1 to 6)
 
@@ -267,7 +273,8 @@ Realities and versions are technically the same. *Reality* is used to refer to c
 
 ### FAQ: Sae Ha
 
-{{< accordion border="style01" summary="Did Sae Ha die?" class="faq" >}}
+{{% accordion border="style01" summary="Did Sae Ha die?" class="faq" %}}
+
 100% did not. Here are the reasons why:
 
 {{< image
@@ -286,7 +293,7 @@ Realities and versions are technically the same. *Reality* is used to refer to c
   attribrel="noopener external"
 >}}
 
-1. In episode 10 Sae Ha said, <q>I don't know why but I couldn't move past the point in time where I came from.</q>
+1. In episode 10 Sae Ha said, {{% quote type="work" lang="en" %}}I don't know why but I couldn't move past the point in time where I came from.{{% /quote %}}
 
 1. The existence of Storehouse Sae Ha in 2022.
 
@@ -312,21 +319,23 @@ The Ghost, herself, is another clue.
 
 - When the Ghost returned to the crime scene she intentionally stepped on a pool of blood as if it was nothing.
 - While she herself admitted that she does not care what happens to them, because they are her distant past, her emotions throughout the series tells otherwise.
-- They did try to find another way. If she truly does not care, she would not even bother, as she herself said, <q>I can always turn back time</q>.
+- They did try to find another way. If she truly does not care, she would not even bother, as she herself said, {{% quote type="work" lang="en" %}}I can always turn back time{{% /quote %}}.
 - When the Friendly Blue Time Traveler was about to do something to the dying Sae Ha, the Ghost tried to stop him.
 
 The Ghost does care, and she is as human as any of us. She stepped on the pool of blood because she knew it was fake! She visited the crime scene as a closure and as proof to herself that there is always another way—they just have to find it.
 
 Originally, my interpretation was Sae Ha traveled with the Ghost before he returned the device and then died on 2021-10-09.
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="Why did the Ghost not know there is a way if she can travel to the future?" class="faq" >}}
-To borrow her own words, she tried <q>dozens of times</q>, to change fixed points but found no other way. She gave up. As far as she is aware, Sae Ha will die sometime in 2021-10 by the hands of Ma Nok.
+{{% accordion border="style01" summary="Why did the Ghost not know there is a way if she can travel to the future?" class="faq" %}}
+
+To borrow her own words, she tried {{% quote type="work" lang="en" %}}odozens of times{{% /quote %}}, to change fixed points but found no other way. She gave up. As far as she is aware, Sae Ha will die sometime in 2021-10 by the hands of Ma Nok.
 
 It did not occur to her that events that should happen will still happen as long as Sae Ha was recorded to have died. The Friendly Blue Time Traveler figured this out and put things into action to create a new reality.
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="How did the Friendly Blue Time Traveler saved Sae Ha?" class="faq" >}}
+{{% accordion border="style01" summary="How did the Friendly Blue Time Traveler saved Sae Ha?" class="faq" %}}
+
 Here is how it happened:
 
 {{< image
@@ -373,7 +382,7 @@ Here is how it happened:
 
     - Whenever something happens that may put the existence of the Grid in jeopardy, the Grid flickrs. This is why they look up, even the Ghost did it several times.
     - This was also in episode 2. When Ma Nok stole the salary of a worker, the Ghost reversed time. But he still stole the money repeatedly, the Ghost teleported the envelope back to the owner's pocket instead. This was not a useless, random scene, it means something.
-      - Later in the episode, Eo Jin said, <q>I saw the Grid breaking again on our way back.</q>
+      - Later in the episode, Eo Jin said, {{% quote type="work" lang="en" %}}I saw the Grid breaking again on our way back.{{% /quote %}}
       - Stealing the salary of that man changed the path of Ma Nok. The Grid did not disappear instantly because the Ghost was watching, time is juggling between two possibilities.
 
 1. The Ghost was enraged, she chased the Foe Blue Time Traveler. The Foe Blue Time Traveler tried to lose her. When the Ghost got better with her strategy, the Foe Blue Time Traveler had no choice but to confront her.
@@ -384,7 +393,7 @@ Here is how it happened:
 
 1. The Friendly Blue Time Traveler and the Ghost teleported to Sae Ha.
 
-1. The Ghost tried to stopped the Friendly Blue Time Traveler, and he said in English, <q>It's not me. Can't you see it?</q> while looking down at his device.
+1. The Ghost tried to stopped the Friendly Blue Time Traveler, and he said in English, {{% quote type="work" lang="en" %}}It's not me. Can't you see it?{{% /quote %}} while looking down at his device.
 
     - He was telling her that his device is of a different model than the one who attacked her.
 
@@ -395,9 +404,10 @@ Here is how it happened:
 1. The Friendly Blue Time Traveler was then able to completely place the timeshield around Sae Ha. Based on what the Ghost did with Sae Byeok, the Friendly Blue Time Traveler probably switched Sae Ha's body with a faux one (or someone else did since he is maintaining his timeshield).
 
 1. Afterwards both time travelers left. Possibly to save Sae Ha because he was about to breath his last.
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="What is the relation of Sae Ha's death to the Ghost and the Grid?" class="faq" >}}
+{{% accordion border="style01" summary="What is the relation of Sae Ha's death to the Ghost and the Grid?" class="faq" %}}
+
 His death, by the hands of Kim Ma Nok, is the catalyst for these important events:
 
 1. Former husband and wife, Jung Sae Byeok and Song Eo Jin, comforted each other and slept together. Nine months later, sometime in July 2022, Byeori was born.
@@ -407,17 +417,19 @@ His death, by the hands of Kim Ma Nok, is the catalyst for these important event
 1. As South Korea realized there is more than one time traveler, they increased their support for the Administration Bureau and their time travel R&D. The country became even more powerful.
 
 This question was asked by [@Gizmobear](https://mydramalist.com/690687-zero#comment-9407747) on MyDramaList.
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="Is not the death of Sae Ha meaningless since the Grid was destroyed anyway?" class="faq" >}}
-It is a case of <q>the needs of the many outweigh the needs of the few</q>.
+{{% accordion border="style01" summary="Is not the death of Sae Ha meaningless since the Grid was destroyed anyway?" class="faq" %}}
+
+It is a case of {{% quote type="work" lang="en" %}}the needs of the many outweigh the needs of the few{{% /quote %}}.
 
 Sae Ha saw what a world without the Grid is. Two-thirds of the world population died and many more suffer from various degenerative diseases caused by the solar wind radiation. He also found Jung Sae Byeok with an irreparable damage on her face and her vocal chords. This was what broke his heart the most.
 
 Sae Ha made a choice to die because they found no other way to alter events without erasing the Grid from existence. He had no idea he would be saved by another time traveler.
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="Who is the Storehouse Sae Ha?" class="faq" >}}
+{{% accordion border="style01" summary="Who is the Storehouse Sae Ha?" class="faq" %}}
+
 He is the Sae Ha the Friendly Blue Time Traveler saved. However, he can not reveal himself, otherwise they would risk changing recorded history.
 
 {{< image
@@ -436,8 +448,8 @@ He is the Sae Ha the Friendly Blue Time Traveler saved. However, he can not reve
   attribrel="noopener external"
 >}}
 
-As explained in <q>[Did Sae Ha die?](#did-sae-ha-die)</q>, it is not possible for Storehouse Sae Ha to be Sae Ha before he returned the time travel device. The Storehouse Sae Ha is in 2022, it is not possible for 2021 Sae Ha to travel to 2022.
-{{< /accordion >}}
+As explained in {{% quote type="work" lang="en" %}}[Did Sae Ha die?](#did-sae-ha-die){{% /quote %}}, it is not possible for Storehouse Sae Ha to be Sae Ha before he returned the time travel device. The Storehouse Sae Ha is in 2022, it is not possible for 2021 Sae Ha to travel to 2022.
+{{% /accordion %}}
 
 ## Kim Ma Nok / Lee Si Won
 
@@ -452,33 +464,34 @@ As explained in <q>[Did Sae Ha die?](#did-sae-ha-die)</q>, it is not possible fo
 
 ### FAQ: Ma Nok / Si Won
 
-{{< accordion border="style01" summary="Why did the Ghost kill Kim Ma Nok's father?" class="faq" >}}
+{{% accordion border="style01" summary="Why did the Ghost kill Kim Ma Nok's father?" class="faq" %}}
+
 Because Kim Ma Nok would not become a loose cannon. For Ma Nok to become unstable, he needs to witness the brutal murder of his father.
 
 They need a crazy Ma Nok who will end up killing Sae Ha in 2021-10-09.
 
-It is a case of <q>the end justifies the means</q>.
-{{< /accordion >}}
+It is a case of {{% quote type="work" lang="en" %}}the end justifies the means{{% /quote %}}.
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="Is Kim Ma Nok the ancestor of the Ghost?" class="faq" >}}
+{{% accordion border="style01" summary="Is Kim Ma Nok the ancestor of the Ghost?" class="faq" %}}
+
 I highly doubt it.
 
 While Kim Ma Nok does have a 13% DNA match with the Ghost, and they both have the rarest blood type which is cis-AB, it is not enough as proof that he is the Ghost's direct ancestor. This tells us that he is a distant relative of the Ghost.
 
-The highest possibility of their blood relation is Ma Nok is the Ghost's paternal great grand uncle (baseline relatedness of 12.5%). {{< footnote id="dna-match" num="1" >}} There is a possibility that Kim Ma Nok have a sibling from his original family.
+The highest possibility of their blood relation is Ma Nok is the Ghost's paternal great grand uncle (baseline relatedness of 12.5%). [^dna-match] There is a possibility that Kim Ma Nok have a sibling from his original family.
 
 This question was asked by [@Bai Ying Hua](https://mydramalist.com/690687-zero#comment-9406939) on MyDramaList.
+{{% /accordion %}}
 
-{{< footnotelist >}}
-{{< footnotecite id="dna-match" >}}[How much genetic similarity is considered baseline relatedness?](https://www.thetech.org/ask-a-geneticist/ask284){{< /footnotecite >}}
-{{< /footnotelist >}}
-{{< /accordion >}}
+[^dna-match]: [How much genetic similarity is considered baseline relatedness?](https://www.thetech.org/ask-a-geneticist/ask284)
 
-{{< accordion border="style01" summary="Then why did the Ghost protected him?" class="faq" >}}
+{{% accordion border="style01" summary="Then why did the Ghost protected him?" class="faq" %}}
+
 Because Kim Ma Nok should be the one to murder Sae Ha.
 
-This is the only way for events, mentioned in <q>[What is the relation of Sae Ha's death to the Ghost and the Grid?](#what-is-the-relation-of-sae-has-death-to-the-ghost-and-the-grid)</q>, to happen.
-{{< /accordion >}}
+This is the only way for events, mentioned in {{% quote type="work" lang="en" %}}[What is the relation of Sae Ha's death to the Ghost and the Grid?](#what-is-the-relation-of-sae-has-death-to-the-ghost-and-the-grid){{% /quote %}}, to happen.
+{{% /accordion %}}
 
 ## The Ghost
 
@@ -518,7 +531,8 @@ This is the only way for events, mentioned in <q>[What is the relation of Sae Ha
 
 ### FAQ: The Ghost
 
-{{< accordion border="style01" summary="If Kim Ma Nok is not a direct ancestor of the Ghost, then who is?" class="faq" >}}
+{{% accordion border="style01" summary="If Kim Ma Nok is not a direct ancestor of the Ghost, then who is?" class="faq" %}}
+
 My suspicion is Assemblyman Kim Han Seok of the Democratic Union Party that the Ghost saved from a bribery scandal.
 
 This was in episode 2.
@@ -535,29 +549,33 @@ Remember [Guidelines #2.b and #3](#guidelines)? An experienced writer will not i
 
 Kim Han Seok and Kim Ma Nok sharing the same family name is a coincidence. *Kim* is the number one most common surname in South Korea. If they are long-lost brothers, it is Kim Ma Nok's fate to be given the name Kim. (And may be a clue hidden by the writer.)
 {.note}
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="What is the origin year of the Ghost?" class="faq" >}}
+{{% accordion border="style01" summary="What is the origin year of the Ghost?" class="faq" %}}
+
 This was not revealed. However, if the Ghost is the same age as the actress, then she came from 2131.
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="Are there more than one Ghost?" class="faq" >}}
+{{% accordion border="style01" summary="Are there more than one Ghost?" class="faq" %}}
+
 There is only one Ghost, great granddaughter of Jung Sae Byeok and granddaughter of Byeori.
 
 The label Ghost was coined by the Administration Bureau, in particular by Director Choi's Secretariat department. It only refers to the Ghost played by actress, Lee Si Young.
 
 If all time travelers are *ghosts*, then the answer is yes, but not the *Ghost*.
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="Maybe there is a Ghost from another timeline or parallel universe?" class="faq" >}}
+{{% accordion border="style01" summary="Maybe there is a Ghost from another timeline or parallel universe?" class="faq" %}}
+
 This is only possible if the show did not establish that it is based on the Static Theory of Spacetime.
 
-Since the show established that <q>time does not flow</q> and later gave more clues that the show is specifically based on the Growing Block Universe Theory, it is not possible for alternate timelines and parallel universes to exist. There can only be one timeline and one universe.
+Since the show established that {{% quote type="work" lang="en" %}}time does not flow{{% /quote %}} and later gave more clues that the show is specifically based on the Growing Block Universe Theory, it is not possible for alternate timelines and parallel universes to exist. There can only be one timeline and one universe.
 
-To borrow from <cite><bdi lang="en-GB">Highlander</bdi></cite>: <q><bdi lang="en-GB">There Can Be Only One!</bdi></q>
-{{< /accordion >}}
+To borrow from {{% quote type="title" lang="en-GB" %}}Highlander{{% /quote %}}: {{% quote type="work" lang="en-GB" %}}There Can Be Only One!{{% /quote %}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="Why did the Ghost appear in various labs around the world?" class="faq" >}}
+{{% accordion border="style01" summary="Why did the Ghost appear in various labs around the world?" class="faq" %}}
+
 More likely for computing power.
 
 Since the Grid was installed in 1997, there was still not enough computing power to handle the Grid code and its compilation. Installing the Grid later than 1997 would not give Earth a chance to deploy it properly. Installing it earlier would mean an even more primitive system.
@@ -566,19 +584,21 @@ If one laboratory already had the computing power needed to run the entire Grid 
 
 This is a very good example of why a decentralised, distributed, federated, and open network is better than a centralised and closed network (or monopoly). The only way to bring down a DDFON-based system is by exploding an EMP on the entire world.
 {.note}
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="Why was the Ghost's DNA better and even thanked Sae Ha?" class="faq" >}}
+{{% accordion border="style01" summary="Why was the Ghost's DNA better and even thanked Sae Ha?" class="faq" %}}
+
 The most probable is Sae Ha probably gave the Ghost a medicine to her DNA problem (the knowledge came from the 1997 No Grid Reality).
 
 This question was asked by [@Zainaaa08](https://mydramalist.com/profile/Zainaaa08) on MyDramaList.
-{{< /accordion >}}
+{{% /accordion %}}
 
 ## The Blue Time Traveler
 
 ### FAQ: The Blue Time Traveler
 
-{{< accordion border="style01" summary="Who is the Blue Time Traveler?" class="faq" >}}
+{{% accordion border="style01" summary="Who is the Blue Time Traveler?" class="faq" %}}
+
 Good question! Unfortunately there is no way to know who is the Blue Time Traveler. However, there are two of them!
 
 1. Friendly Blue Time Traveler
@@ -587,93 +607,93 @@ Good question! Unfortunately there is no way to know who is the Blue Time Travel
     - He was the one who saved Sae Ha.
     - His time device is slimmer and pointed.
 
-{{< image
-  src="images/g/grid-device-blue-time-traveler-friendly-01.webp"
-  link=""
-  linkrel="noopener"
+    {{< image
+      src="images/g/grid-device-blue-time-traveler-friendly-01.webp"
+      link=""
+      linkrel="noopener"
 
-  title="Grid (그리드)"
-  caption="Time travel device of the Friendly Blue Time Traveler"
-  alt="Grid (그리드): Time travel device of the Friendly Blue Time Traveler"
+      title="Grid (그리드)"
+      caption="Time travel device of the Friendly Blue Time Traveler"
+      alt="Grid (그리드): Time travel device of the Friendly Blue Time Traveler"
 
-  licensecode="allrightsreserved"
+      licensecode="allrightsreserved"
 
-  attribto="Disney Plus"
-  attriburl="https://www.disneyplus.com"
-  attribrel="noopener external"
->}}
+      attribto="Disney Plus"
+      attriburl="https://www.disneyplus.com"
+      attribrel="noopener external"
+    >}}
 
 1. Foe Blue Time Traveler
 
     - He was the one who attacked the Ghost.
     - His time device is wider and rounded
 
-{{< image
-  height=""
-  width=""
-  class=""
-  style=""
+    {{< image
+      height=""
+      width=""
+      class=""
+      style=""
 
-  src="images/g/grid-device-blue-time-traveler-foe-01.webp"
-  link=""
-  linkrel="noopener"
+      src="images/g/grid-device-blue-time-traveler-foe-01.webp"
+      link=""
+      linkrel="noopener"
 
-  title="Grid (그리드)"
-  caption="Time travel device of the Foe Blue Time Traveler"
-  alt="Grid (그리드): Time travel device of the Foe Blue Time Traveler"
+      title="Grid (그리드)"
+      caption="Time travel device of the Foe Blue Time Traveler"
+      alt="Grid (그리드): Time travel device of the Foe Blue Time Traveler"
 
-  licensecode="allrightsreserved"
+      licensecode="allrightsreserved"
 
-  attribto="Disney Plus"
-  attriburl="https://www.disneyplus.com"
-  attribrel="noopener external"
->}}
+      attribto="Disney Plus"
+      attriburl="https://www.disneyplus.com"
+      attribrel="noopener external"
+    >}}
 
-{{< image
-  height=""
-  width=""
-  class=""
-  style=""
+    {{< image
+      height=""
+      width=""
+      class=""
+      style=""
 
-  src="images/g/grid-device-blue-time-traveler-foe-02.webp"
-  link=""
-  linkrel="noopener"
+      src="images/g/grid-device-blue-time-traveler-foe-02.webp"
+      link=""
+      linkrel="noopener"
 
-  title="Grid (그리드)"
-  caption="Time travel device of the Foe Blue Time Traveler"
-  alt="Grid (그리드): Time travel device of the Foe Blue Time Traveler"
+      title="Grid (그리드)"
+      caption="Time travel device of the Foe Blue Time Traveler"
+      alt="Grid (그리드): Time travel device of the Foe Blue Time Traveler"
 
-  licensecode="allrightsreserved"
+      licensecode="allrightsreserved"
 
-  attribto="Disney Plus"
-  attriburl="https://www.disneyplus.com"
-  attribrel="noopener external"
->}}
+      attribto="Disney Plus"
+      attriburl="https://www.disneyplus.com"
+      attribrel="noopener external"
+    >}}
 
-{{< image
-  height=""
-  width=""
-  class=""
-  style=""
+    {{< image
+      height=""
+      width=""
+      class=""
+      style=""
 
-  src="images/g/grid-device-blue-time-traveler-foe-03.webp"
-  link=""
-  linkrel="noopener"
+      src="images/g/grid-device-blue-time-traveler-foe-03.webp"
+      link=""
+      linkrel="noopener"
 
-  title="Grid (그리드)"
-  caption="Time travel device of the Foe Blue Time Traveler"
-  alt="Grid (그리드): Time travel device of the Foe Blue Time Traveler"
+      title="Grid (그리드)"
+      caption="Time travel device of the Foe Blue Time Traveler"
+      alt="Grid (그리드): Time travel device of the Foe Blue Time Traveler"
 
-  licensecode="allrightsreserved"
+      licensecode="allrightsreserved"
 
-  attribto="Disney Plus"
-  attriburl="https://www.disneyplus.com"
-  attribrel="noopener external"
->}}
+      attribto="Disney Plus"
+      attriburl="https://www.disneyplus.com"
+      attribrel="noopener external"
+    >}}
 
 Maybe they are twins or clones or one is an earlier version of the other. Regardless, what matters at this point is the Foe Blue Time Traveler is not the same as the Friendly Blue Time Traveler.
 
-As the Friendly Blue Time Traveler said in English, <q>It's not me. Can't you see it?</q> while he was pointing with his eyes to look at his time device (he was also aware someone who looked exactly like him fought her). Upon realising this, the Ghost let him do what he was about to.
+As the Friendly Blue Time Traveler said in English, {{% quote type="work" lang="en" %}}It's not me. Can't you see it?{{% /quote %}} while he was pointing with his eyes to look at his time device (he was also aware someone who looked exactly like him fought her). Upon realising this, the Ghost let him do what he was about to.
 
 {{< image
   src="images/g/grid-the-ghost-blue-time-traveler-sae-ha.awebp"
@@ -693,7 +713,7 @@ As the Friendly Blue Time Traveler said in English, <q>It's not me. Can't you se
   attribrel="noopener external"
 >}}
 
-{{< /accordion >}}
+{{% /accordion %}}
 
 ## Administration Bureau
 
@@ -707,13 +727,14 @@ As the Friendly Blue Time Traveler said in English, <q>It's not me. Can't you se
 
 ### FAQ: Administration Bureau
 
-{{< accordion border="style01" summary="What does the Administration Bureau want with the Ghost?" class="faq" >}}
+{{% accordion border="style01" summary="What does the Administration Bureau want with the Ghost?" class="faq" %}}
+
 The Administration Bureau wants to steal the time travel technology used by the Ghost since it is far advanced than the one they are developing.
 
 They believe in helping mankind as well as to propel South Korea to be leaps ahead of everyone.
 
 This question was asked by [@LydiaDaniel](https://mydramalist.com/690687-zero#comment-9406129) on MyDramaList.
-{{< /accordion >}}
+{{% /accordion %}}
 
 ## Others
 
@@ -729,7 +750,8 @@ This question was asked by [@LydiaDaniel](https://mydramalist.com/690687-zero#co
 
 ### FAQ
 
-{{< accordion border="style01" summary="How come Eo Jin said it was Sae Byeok who told him the name of her daughter?" class="faq" >}}
+{{% accordion border="style01" summary="How come Eo Jin said it was Sae Byeok who told him the name of her daughter?" class="faq" %}}
+
 Two possible answers.
 
 1. Future Sae Byeok traveled back in time and talked to 2022 Eo Jin to pick up the 2022 Sae Byeok.
@@ -739,9 +761,10 @@ Two possible answers.
 In both instances, Future Sae Byeok probably revealed to him that her daughter is his and her name is Byeori. This convinced him since a newly born is in danger, his daughter at that.
 
 This question was asked by [@Eliza M](https://mydramalist.com/profile/7681823) on MyDramaList.
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="In the end, the Grid was still destroyed." class="faq" >}}
+{{% accordion border="style01" summary="In the end, the Grid was still destroyed." class="faq" %}}
+
 The Grid that was destroyed is in 2022, not the 1997 Grid.
 
 {{< image
@@ -763,9 +786,10 @@ The Grid that was destroyed is in 2022, not the 1997 Grid.
 In episode 10, the IRR and the AB buildings were destroyed by an attack from outer space. The AB did not exist yet in 1997.
 
 In addition, if they did destroy the 1997 Grid, the faction which destroyed it would not benefit from the 1997 No Grid Reality.
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="What do you mean by 'faction' and 'would not benefit'?" class="faq" >}}
+{{% accordion border="style01" summary="What do you mean by 'faction' and 'would not benefit'?" class="faq" %}}
+
 In episode 10, it was revealed that there is a group or faction watching over the events and the time travelers. The scene where a man and his assistant were talking is one such faction. (They seem to be in outer space.)
 
 It is not possible to determine if they are for or against the Grid. Regardless, the message of that scene was to reveal there are groups who are changing events, either for the benefit of the people or for the benefit of their own pockets. In other words, whoever destroyed the Grid in 2022, they need the 1997 Grid to exist. Consider the following:
@@ -774,13 +798,14 @@ It is not possible to determine if they are for or against the Grid. Regardless,
 
 - In the MIW Reality, South Korea forced the other labs to keep their mouths shut about South Korea's claim that Sae Ha's father was the brain behind the Grid. They showed the other nations and labs the footage of two time travelers who killed a janitor, making them believe that South Korea have time travel capabilities.
 
-  World superpowers no doubt loathed South Korea because of it and triggered a race to develop time travel. In <cite><bdi lang="en-US">Star Trek</bdi></cite> terms, there is a temporal [cold] war.
-{{< /accordion >}}
+  World superpowers no doubt loathed South Korea because of it and triggered a race to develop time travel. In {{% quote type="title" lang="en-US" %}}Star Trek{{% /quote %}} terms, there is a temporal [cold] war.
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="Who were the two men guarding the body of the Ghost in a white room?" class="faq" >}}
+{{% accordion border="style01" summary="Who were the two men guarding the body of the Ghost in a white room?" class="faq" %}}
+
 The man who appears to be the subordinate could be the Friendly Blue Time Traveler or the Foe Blue Time Traveler since it was played by the same actor. It is also possible it is a different character altogether, the actor probably played three characters.
 
-He made this report to who appears to be his superior, <q>The Grid is all gone. From all the times and layers.</q>
+He made this report to who appears to be his superior, {{% quote type="work" lang="en" %}}The Grid is all gone. From all the times and layers.{{% /quote %}}
 
 {{< image
   src="images/g/grid-faction-scene.webp"
@@ -798,12 +823,13 @@ He made this report to who appears to be his superior, <q>The Grid is all gone. 
   attribrel="noopener external"
 >}}
 
-His superior replied in English, <q>You never know.</q> Which he followed up with, in Korean, <q>No one knows. Is there really an end?</q>
+His superior replied in English, {{% quote type="work" lang="en" %}}You never know.{{% /quote %}} Which he followed up with, in Korean, {{% quote type="work" lang="en" %}}No one knows. Is there really an end?{{% /quote %}}
 
 Like his subordinate, this man is also an unknown. In the room with them is what appears to be the [dead] body of the Ghost.
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="If there is no Grid in the Ghost's time, should she not exist at all?" class="faq" >}}
+{{% accordion border="style01" summary="If there is no Grid in the Ghost's time, should she not exist at all?" class="faq" %}}
+
 Correct. However, the Grid that was destroyed was in late 2022 not the 1997 Grid.
 
 As long as the 1997 Grid exists, and Sae Ha died at the hands of Ma Nok on 2021-10, the Ghost's mother and herself will be born. What happens after that, like the destruction of the Grid in 2022, is of no consequence to her existence.
@@ -813,23 +839,26 @@ It could very well be the reason why she decided to become a time traveler … t
 This is why the Ghost told Sae Ha, "Don't try to change anything", and "You're the one ruining everything. Stay out of this."
 
 This question was asked by [@LydiaDaniel](https://mydramalist.com/690687-zero#comment-9406129) on MyDramaList.
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="If in the 1997 No Grid Reality the Ghost was never born, how did the Grid exist?" class="faq" >}}
+{{% accordion border="style01" summary="If in the 1997 No Grid Reality the Ghost was never born, how did the Grid exist?" class="faq" %}}
+
 The first Grid Founder, whoever that person was.
 
 Even without the Grid there is always a possibility that time travel technology will be developed in the far future. They would no doubt be very eager to unlock the secrets of time travel especially when two-thirds of the global population were wiped out and the remaining are suffering from degenerative diseases.
 
 Temporal Mechanics #4 stated that a time period is replaced whenever a time traveler enters that time. The earlier version no longer exist, and even if one stops the time traveler from traveling, the original version of time will never return. It will only be replaced by yet another version.
 
-This was explained in <q>[Temporal Mechanics #4: Time period replacement](#temporal-mechanics)</q>.
-{{< /accordion >}}
+This was explained in {{% quote type="work" lang="en" %}}[Temporal Mechanics #4: Time period replacement](#temporal-mechanics){{% /quote %}}.
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="Who is the father of Byeori?" class="faq" >}}
+{{% accordion border="style01" summary="Who is the father of Byeori?" class="faq" %}}
+
 The clue in episode 10 points to Song Eo Jin.
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="Is Byeori the mother of the Ghost?" class="faq" >}}
+{{% accordion border="style01" summary="Is Byeori the mother of the Ghost?" class="faq" %}}
+
 Maybe, maybe not. Since the Ghost said she was born in 2091, Byeori would be 69 years old by then.
 
 {{< image
@@ -853,9 +882,10 @@ However, the Grid was destroyed sometime the latter half of 2022. Between 2022 a
 Because of it In Vitro Fertilisation (IVF) is probably very common to ensure babies will develop without the risk of radiation exposure. Or, through surrogacy from healthy mothers living inside protected domes. This would make it possible for anyone to have a healthy baby regardless of age.
 
 That considered, Byeori may be the Ghost's mother after all. Especially after the scene wherein the Ghost carried Byeori on her arms. (Daughter taking care of her baby mother? Yeah, time travel! That is lovely and sweet too.)
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="What did they mean by 'layers' in episode 10?" class="faq" >}}
+{{% accordion border="style01" summary="What did they mean by 'layers' in episode 10?" class="faq" %}}
+
 A very good question! This one requires a lengthy explanation.
 
 In the Block Universe and Growing Block Universe theories a reality or the universe is viewed as one giant block (or cube if you will).
@@ -873,7 +903,7 @@ If this is applied in the time dimension, what does it mean?
 - The Y axis, or width, means moving left and right in time. In the many-worlds interpretation of spacetime, this is moving to alternate timelines or parallel universes. In the Static Theory of Spacetime, unfortunately I can not think of an analogy (if you can, do share in the comments below).
 - The Z axis, or height, is moving up and down in time. Let's discuss this further.
 
-The Z axis, or height, or moving up and down, is what I call "planes of existence". This is what the layers in <q>Grid (<bdi lang="ko">그리드</bdi>)</q> was referring to. It can be best described as what we see glimpses of.
+The Z axis, or height, or moving up and down, is what I call "planes of existence". This is what the layers in  {{% quote type="title" lang="en" %}}Grid{{% /quote %}} ({{% quote type="title" lang="ko" %}}그리드{{% /quote %}}) was referring to. It can be best described as what we see glimpses of.
 
 In the space/spatial dimension it can be explained in this way:
 
@@ -883,22 +913,23 @@ In the space/spatial dimension it can be explained in this way:
 
 Stories about seeing ghosts, souls, monsters, and other fantastical creatures, are glimpses of another layer or plane of existence. They are moving around us but we normally do not see them just as they should not normally see us. (Although in most fiction, they do see us.)
 
-How this is applied in the time dimension, as the <q>Grid (<bdi lang="ko">그리드</bdi>)</q> used it, and within the context of the Static Theory of Spacetime, is beyond me. Simply put, there is a layer of time on top of and below of another layer.
+How this is applied in the time dimension, as the  {{% quote type="title" lang="en" %}}Grid{{% /quote %}} ({{% quote type="title" lang="ko" %}}그리드{{% /quote %}}) used it, and within the context of the Static Theory of Spacetime, is beyond me. Simply put, there is a layer of time on top of and below of another layer.
 
-When the assistant said, <q>The Grid is all gone. From all the times and layers</q>, it means the Grid was destroyed in 2022 in all possible times, in all possible layers or planes of existence. Another way of saying it is, "the Grid was destroyed in 2022 in all of spacetime."
+When the assistant said, {{% quote type="work" lang="en" %}}The Grid is all gone. From all the times and layers{{% /quote %}}, it means the Grid was destroyed in 2022 in all possible times, in all possible layers or planes of existence. Another way of saying it is, "the Grid was destroyed in 2022 in all of spacetime."
 
-Maybe the way <q>Grid (<bdi lang="ko">그리드</bdi>)</q> used it is as a reference to the different realities. If this is the case, then this particular faction found a way to access realities which should no longer exist.
+Maybe the way  {{% quote type="title" lang="en" %}}Grid{{% /quote %}} ({{% quote type="title" lang="ko" %}}그리드{{% /quote %}}) used it is as a reference to the different realities. If this is the case, then this particular faction found a way to access realities which should no longer exist.
 
 This question was asked by [@Bai Ying Hua](https://mydramalist.com/690687-zero#comment-9414331) on MyDramaList.
 {.note}
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="They measured Sae Ha and the result was 106 something, what is it?" class="faq" >}}
-It is microtesla (µT). A microtesla is an SI unit of magnetic flux density equal to 10<sup>-6</sup> teslas. {{< footnote id="microtesla-wiktionary" num="1" >}}
+{{% accordion border="style01" summary="They measured Sae Ha and the result was 106 something, what is it?" class="faq" %}}
+
+It is microtesla (µT). A microtesla is an SI unit of magnetic flux density equal to 10<sup>-6</sup> teslas. [^microtesla-wiktionary]
 
 Okay, I do not know what it means either.
 
-Basically, microtesla is a unit of measurement used for magnetic fields. <q>Grid (<bdi lang="ko">그리드</bdi>)</q> was correct that a human being should only have a very low—0.3 or less—microtesla reading. Humans who live near high-tension power poles usually have a reading between of 0.4 µT. {{< footnote id="microtesla-tnuda" num="2" >}} If one is very near, or under power lines, magnetic fields is around 20 µT. {{< footnote id="microtesla-who" num="3" >}}
+Basically, microtesla is a unit of measurement used for magnetic fields.  {{% quote type="title" lang="en" %}}Grid{{% /quote %}} ({{% quote type="title" lang="ko" %}}그리드{{% /quote %}}) was correct that a human being should only have a very low—0.3 or less—microtesla reading. Humans who live near high-tension power poles usually have a reading between of 0.4 µT. [^microtesla-tnuda] If one is very near, or under power lines, magnetic fields is around 20 µT. [^microtesla-who]
 
 For a human being to produce over 100 µT meant they were exposed to extremely powerful magnetic fields, which in the show's case, time travel technology (and that level is not healthy). Here are the confirmed readings of time travelers:
 
@@ -954,25 +985,23 @@ For a human being to produce over 100 µT meant they were exposed to extremely p
   attribrel="noopener external"
 >}}
 
-{{< footnotelist >}}
-{{< footnotecite id="microtesla-wiktionary" >}}[Wiktionary: microtesla](https://en.wiktionary.org/wiki/microtesla){{< /footnotecite >}}
-{{< footnotecite id="microtesla-tnuda" >}}[Tnuda: Electromagnetic Radiation from the Electricity Grid and Leukemia in Children](https://www.tnuda.org.il/en/electromagnetic-radiation-electricity-grid-and-leukemia-children){{< /footnotecite >}}
-{{< footnotecite id="microtesla-who" >}}[WHO: Electromagnetic fields and public health](https://www.who.int/teams/environment-climate-change-and-health/radiation-and-health/non-ionizing/elff){{< /footnotecite >}}
-{{< /footnotelist >}}
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="Why did 2021 Sae Ha said the walk signal is blue light?" class="faq" >}}
+[^microtesla-wiktionary]: [Wiktionary: microtesla](https://en.wiktionary.org/wiki/microtesla)
+[^microtesla-tnuda]: [Tnuda: Electromagnetic Radiation from the Electricity Grid and Leukemia in Children](https://www.tnuda.org.il/en/electromagnetic-radiation-electricity-grid-and-leukemia-children)
+[^microtesla-who]: [WHO: Electromagnetic fields and public health](https://www.who.int/teams/environment-climate-change-and-health/radiation-and-health/non-ionizing/elff)
+
+{{% accordion border="style01" summary="Why did 2021 Sae Ha said the walk signal is blue light?" class="faq" %}}
+
 It is a Korean cultural tradition wherein adults tell kids walk signal is blue.
 
-The National Institute of Korea Language also explained, <q>The reason why the green light of the traffic lights is not called the green light but the blue light seems to be because the people perceive the blue light as a relative color concept to the red light.</q> {{< footnote id="go-is-blue-nikl" num="1" >}} {{< footnote id="go-is-blue-jinny-jin-jin" num="2" >}}
+The National Institute of Korea Language also explained, {{% quote type="work" lang="en" %}}The reason why the green light of the traffic lights is not called the green light but the blue light seems to be because the people perceive the blue light as a relative color concept to the red light.{{% /quote %}} [^go-is-blue-nikl] [^go-is-blue-jinny-jin-jin]
 
 This answer was provided by [@27Aprile](https://mydramalist.com/690687-zero#comment-9474571) on MyDramaList.
+{{% /accordion %}}
 
-{{< footnotelist >}}
-{{< footnotecite id="go-is-blue-nikl" >}}[National Institute of Korean Language](https://www.korean.go.kr/front_eng/main.do){{< /footnotecite >}}
-{{< footnotecite id="go-is-blue-jinny-jin-jin" >}}[Why Some Koreans Call Green Traffic Light as ‘Blue Light’?](https://jinnyjinjin.com/why-some-koreans-call-green-traffic-light-as-blue-light/){{< /footnotecite >}}
-{{< /footnotelist >}}
-{{< /accordion >}}
+[^go-is-blue-nikl]: [National Institute of Korean Language](https://www.korean.go.kr/front_eng/main.do)
+[^go-is-blue-jinny-jin-jin]: [Why Some Koreans Call Green Traffic Light as ‘Blue Light’?](https://jinnyjinjin.com/why-some-koreans-call-green-traffic-light-as-blue-light/)
 
 ## Class dismissed
 

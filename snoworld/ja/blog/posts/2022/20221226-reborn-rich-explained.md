@@ -99,23 +99,26 @@ type = "article"                                             # article, sitepage
 
 ## よくある質問
 
-{{< accordion border="style01" summary="英語のタイトルである《Reborn Rich》は、彼が貧しいときに裕福な家庭に生まれ変わったことを意味します。" class="faq" >}}
+{{% accordion border="style01" summary="英語のタイトルである《Reborn Rich》は、彼が貧しいときに裕福な家庭に生まれ変わったことを意味します。" class="faq" %}}
+
 正しい. 文字通り、そういう意味です。 しかし、{{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})が{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})の肉体を持っていないこと、また彼が過去に旅をしたこともないことを、ショー自体が確固たるものにしました。 彼はまた、死んだのではなく、死んだ人だけが生まれ変わる機会があります。
 
 全てを考慮すると、タイトルを文字通りに取ってはいけないことは間違いありません。 {{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})は{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})に生まれ変わりませんでした。 {{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})に生まれ変わったのは{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})でした。 タイトルは、豊かな人生を送るという自分の原則と価値観を表すものです。 {{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})は最終的には金持ちになりましたが、経済的には金持ちになることではありませんでした。
 
 **ボーナス:** 英語のタイトルである{{% quote type="title" lang="en" %}}Reborn Rich{{% /quote %}}は、韓国語のオリジナルタイトルとは関係ありません。 元の韓国語タイトルは次のようになります。 {{% quote type="title" lang="en" %}}The youngest son of a rich family{{% /quote %}} ({{% quote type="title" lang="ja" %}}財閥の末息子{{% /quote %}})です。 これは、英語のタイトルが{{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})が{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})として裕福に生まれ変わった証拠ではないことを意味します。 (注意:これは小説ではなくテレビシリーズに関するものです。 テレビの適応度は元の素材とは異なります)
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="ユン·ヒョヌ (윤현우)とチン·ドジュン (진도준)は別々のタイムラインです。" class="faq" >}}
+{{% accordion border="style01" summary="ユン·ヒョヌ (윤현우)とチン·ドジュン (진도준)は別々のタイムラインです。" class="faq" %}}
+
 第16話で、{{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})自身が体験したのはタイムトラベルではないと述べました。 タイムトラベルでない場合は、2つのタイムラインに分かれていません。
 
 {{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})の時代の出来事は、第2話から第15話まで{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})の視点から見た出来事とほぼ同じで、非常によく似ていました。 {{% quote type="name" lang="en" %}}Miracle{{% /quote %}}存在します。 {{% quote type="name" lang="en" %}}Miracle{{% /quote %}}と{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})がどのように後継者争いに巻き込まれたかは、誰もが覚えています。
 
 {{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})の暗殺は、本物の{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})、{{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})、そして{{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})自身の観点からも全く同じことが起こりました。
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="ユン·ヒョヌ (윤현우)の母親は、チン·ドジュン (진도준)の時代には違った死に方をしており、彼らが異なるタイムラインにいることを証明しています" class="faq" >}}
+{{% accordion border="style01" summary="ユン·ヒョヌ (윤현우)の母親は、チン·ドジュン (진도준)の時代には違った死に方をしており、彼らが異なるタイムラインにいることを証明しています" class="faq" %}}
+
 はい、{{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})の母親は心臓発作で亡くなりました。 {{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})から見て、彼女は自殺した後に亡くなりました。 しかし、それ自体は2つのタイムラインがあるという証拠としては十分ではありません。
 
 {{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})は時間旅行をしなかったので、新しいスケジュールはないと自分で言いました。
@@ -125,27 +128,31 @@ type = "article"                                             # article, sitepage
 だから{{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})は、{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})として母親の歴史を変えたのですが、それでも母親は死んでしまいました。 記憶は固定されています。 それを変えようとする彼の試みは、葛藤をもたらしました。 葛藤を調整するために、彼の脳は母親がまだ亡くなっていることを確認することでそれを解決しました。
 
 {{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})、{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})として、彼は何も変えることができないことに気づいたのはこの時でした。 シリーズを通して繰り返し、彼はすでに起こっていることがどのように、まだあるべきままに起きているかを述べました。
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="しかしチン·ドジュン (진도준)には、Miracleのために使った未来の知識があります。" class="faq" >}}
+{{% accordion border="style01" summary="しかしチン·ドジュン (진도준)には、Miracleのために使った未来の知識があります。" class="faq" %}}
+
 {{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})の観点から見ると、{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})として彼は将来の知識を{{% quote type="name" lang="en" %}}Miracle{{% /quote %}}のために利用したようです。 しかしこれは単に彼が{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})の記憶を夢想していたことです夢想家としての彼自身の記憶が{{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})の記憶の夢に漏れているのです
 
 第16話で明らかになったように、{{% quote type="name" lang="en" %}}Miracle{{% /quote %}}は存在し、{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})は主要な投資家でした。 また、{{% quote type="name" lang="en" %}}Miracle{{% /quote %}}と{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})がどのように継承戦争に関与しているかについても、晋の一族全体が認識していました。 つまり、{{% quote type="name" lang="en" %}}Miracle{{% /quote %}}と{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})が成功したのは、将来の知識によるものではなく、優れたビジネスマンやデータアナリストだったからです。
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="ユン·ヒョヌ (윤현우)は昏睡状態ではありませんでした" class="faq" >}}
+{{% accordion border="style01" summary="ユン·ヒョヌ (윤현우)は昏睡状態ではありませんでした" class="faq" %}}
+
 彼が1週間昏睡状態にあったか、単純に寝ていたかは問題ではありません。 彼が{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})の思い出を夢見たのはその1週間のことでした。
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="チン·ドジュン (진도준)は同じ期間に存在するため、ユン·ヒョヌ (윤현우)として再誕生しませんでした。" class="faq" >}}
+{{% accordion border="style01" summary="チン·ドジュン (진도준)は同じ期間に存在するため、ユン·ヒョヌ (윤현우)として再誕生しませんでした。" class="faq" %}}
+
 {{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})が{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})に生まれ変わっても同じことが言えますが、同じ時期に存在するので不可能です。
 
 ただし、魂が転生する時期に制限はありません。 2000年に生まれ、2022年に亡くなった人は、紀元前1100年の3300年に生まれ変わることも、2000年に再び生まれ変わることもできます。 これがフィクションで使用されたのはこれが初めてではありません。
 
 {{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})は死ななかったので、彼が{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})に転生することは不可能です。 しかし、{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})が{{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})に生まれ変わった可能性もあります。 {{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})の死との密接な出会いによって、彼はおそらく彼の前世の記憶のいくつかを{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})として記憶することができました。
-{{< /accordion >}}
+{{% /accordion %}}
 
-{{< accordion border="style01" summary="なぜ誰もユン·ヒョヌ(윤현우)がチン·ドジュン(진도준)の唾を吐くようなイメージだと気づかなかったのでしょうか？" class="faq" >}}
+{{% accordion border="style01" summary="なぜ誰もユン·ヒョヌ(윤현우)がチン·ドジュン(진도준)の唾を吐くようなイメージだと気づかなかったのでしょうか？" class="faq" %}}
+
 いい質問ですね！ 考えられる答えは、次の2つだけです。
 
 1. {{% quote type="title" lang="ja" %}}{{% quote type="title" lang="ja" %}}スーパーマン{{% /quote %}}·トロープ{{% /quote %}}です。 ほとんどの場合、{{% quote type="name" lang="ja" %}}ユン·ヒョヌ{{% /quote %}} ({{% quote type="name" lang="ko" %}}윤현우{{% /quote %}})は眼鏡をかけていたので、魔法のように彼はもはや{{% quote type="name" lang="ja" %}}チン·ドジュン{{% /quote %}} ({{% quote type="name" lang="ko" %}}진도준{{% /quote %}})には似ていませんでした。 {{% quote type="title" lang="ja" %}}スーパーマン{{% /quote %}}と{{% quote type="name" lang="ja" %}}クラーク·ケント{{% /quote %}}が魔法のように認識できなくなるのと似ています。
@@ -159,7 +166,7 @@ type = "article"                                             # article, sitepage
 これに関しては、それが{{% quote type="title" lang="ja" %}}{{% quote type="title" lang="ja" %}}スーパーマン{{% /quote %}}·トロープ{{% /quote %}}であったと考えるしか方法がありません。あるいは、人間の脳が自然にそれを却下したと考えるか、あるいはその両方を組み合わせたと考えるしかありません。
 
 (この質問は、{{% quote type="name" lang="en" %}}Emily Clayman{{% /quote %}}が当社の[Facebook Page](https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0uF7DSBstM8XdjXxPGrW4959CqmpjBg5umhTZ1T4pg6FDozK7psGqNPoLBKoofq9vl?comment_id=555572226120667)経由で行ったものです。)
-{{< /accordion >}}
+{{% /accordion %}}
 
 ---
 
