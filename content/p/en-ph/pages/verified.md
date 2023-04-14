@@ -104,7 +104,7 @@ Some accounts are not listed on this page but are verified via Keybase, Keyoxide
 
 ### DDFON
 
-These are my accounts in the Decentralised, Distributed, Federated, Open, Network; also called the Social Web, Federated SNS, and Decetralised Social Media.
+These are my accounts in the Decentralised, Distributed, Federated, Open, Network; also called the Social Web, Federated SNS, and Decentralised Social Media.
 
 {{< table filename="ddfon-signed" class="verified">}}
 
