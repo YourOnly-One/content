@@ -1,6 +1,6 @@
 [[row]]
   data = ["Service", "Link"]
 [[row]]
-  data = ["Plurk", "[Laibcoms](https://www.plurk.com/Laibcoms)"]
+  data = ["Plurk", "<a href='https://www.plurk.com/Laibcoms' rel='me'>Laibcoms</a>"]
 [[row]]
-  data = ["Vero", "[YourOnlyOne](https://vero.co/youronlyone)"]
+  data = ["Vero", "<a href='https://vero.co/youronlyone' rel='me'>YourOnlyOne</a>"]

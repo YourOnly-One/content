@@ -87,6 +87,9 @@ These are the accounts verified through OpenPGP, or similar, signing methods.
 
 {{< table filename="base-signed" class="verified">}}
 
+Some accounts are not listed on this page but are verified via Keybase, Keyoxide, and/or Whosum.
+{.note}
+
 ### Payment
 
 {{< table filename="payment-signed" class="verified">}}
@@ -101,11 +104,11 @@ These are the accounts verified through OpenPGP, or similar, signing methods.
 
 ### DDFON
 
-These are my accounts in the Decentralised, Distributed, Federated, Open, Network; also called the Social Web.
+These are my accounts in the Decentralised, Distributed, Federated, Open, Network; also called the Social Web, Federated SNS, and Decetralised Social Media.
 
 {{< table filename="ddfon-signed" class="verified">}}
 
-### Closed networks
+### Independent Walled SNS
 
 {{< table filename="closed-networks-signed" class="verified">}}
 

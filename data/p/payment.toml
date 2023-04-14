@@ -1,6 +1,6 @@
 [[row]]
   data = ["Service", "Link", "Keybase", "Keyoxide", "Whosum"]
 [[row]]
-  data = ["Liberapay", "[YourOnlyOne](https://liberapay.com/YourOnlyOne)", "", "✅", ""]
+  data = ["Liberapay", "<a href='https://liberapay.com/YourOnlyOne' rel='me'>YourOnlyOne</a>", "", "✅", ""]
 [[row]]
-  data = ["Patreon", "[YourOnlyOne](https://patreon.com/YourOnlyOne)", "", "", "✅"]
+  data = ["Patreon", "<a href='https://patreon.com/YourOnlyOne' rel='me'>YourOnlyOne</a>", "", "", "✅"]

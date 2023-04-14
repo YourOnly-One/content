@@ -4,20 +4,20 @@
 [[row]]
   data = ["Service", "Link", "Keybase", "Keyoxide", "Whosum"]
 [[row]]
-  data = ["Domain", "[youronly.one](https://youronly.one)", "✅", "✅", ""]
+  data = ["Domain", "<a href='https://youronly.one' rel='me'>youronly.one</a>", "✅", "✅", ""]
 [[row]]
-  data = ["Keybase", "[yukino](https://im.youronly.one/p/verified?keybase)", "✅", "✅", ""]
+  data = ["Keybase", "<a href='https://im.youronly.one/p/verified?keybase' rel='me'>yukino</a>", "✅", "✅", ""]
 [[row]]
-  data = ["Keyoxide", "[F2F9BE4C3D8E4F53](https://im.youronly.one/p/verified?keyoxide)", "✅", "✅", ""]
+  data = ["Keyoxide", "<a href='https://im.youronly.one/p/verified?keyoxide' rel='me'>F2F9BE4C3D8E4F53</a>", "✅", "✅", ""]
 [[row]]
-  data = ["OpenPGP", "[F2F9BE4C3D8E4F53](https://keyserver.ubuntu.com/pks/lookup?search=F2F9BE4C3D8E4F53&fingerprint=on&op=index)", "✅", "✅", ""]
+  data = ["OpenPGP", "<a href='https://keyserver.ubuntu.com/pks/lookup?search=F2F9BE4C3D8E4F53&fingerprint=on&op=index' rel='me'>F2F9BE4C3D8E4F53</a>", "✅", "✅", ""]
 [[row]]
-  data = ["Whosum", " [@techmagus](https://im.youronly.one/p/verified?whosum)", "", "", "✅"]
+  data = ["Whosum", "<a href='https://im.youronly.one/p/verified?whosum' rel='me'>@techmagus</a>", "", "", "✅"]
 #-----BEGIN PGP SIGNATURE-----
 #
-#iI4EARYKADYWIQT8KuNEQVQt8pzwXZA2XpOKztuK1QUCZDjbBBgYaGtwczovL2tl
-#eXMub3BlbnBncC5vcmcACgkQNl6Tis7bitUVlwEA03q6TpN+z0V85+hDVJtgDnlT
-#i5vEsGPJbc4M+zEM+h8BAMqoCfSICEaPgxFMlr3WXSx8nEPc1whfyiPWcGP09GUM
-#=65h0
+#iI4EARYKADYWIQT8KuNEQVQt8pzwXZA2XpOKztuK1QUCZDjhQhgYaGtwczovL2tl
+#eXMub3BlbnBncC5vcmcACgkQNl6Tis7bitU3IAD9F7XjDjreySmxYQMCf9ozCraA
+#GN6hZG/BsLwBX4vG+IMBAKmUY2Lp5He2j0+K2iIkzrvywGv8Ke9K+6kC5dEGx7gA
+#=NLFj
 #-----END PGP SIGNATURE-----
-#BEGIN KEYBASE SALTPACK SIGNED MESSAGE. kXR7VktZdyH7rvq v5weRa0zk8gCLzH HJOQx3LC5fXhzOS H5VBmRhk5r7hmix BNYjx58ogz9iJsH onncZg59g9MVTVp 9wBLTALFkPcd7KN IuAgjF2Mysj2CAA RW780SmcZqqPTfF CKaq0BM01MZut4a 8xOVCaJ03uCK3vJ ZhbGPONHwQ2XeNd xOiW6ZAb5GpNNUK 0XI5oESFs5gltam 71kdpG9b6p6AGWv 92WTbmcFOcAeYX6 k8OHiVTJTfrPETJ 9nXLgSlegc4PyVz WNMhnLesZDBAnlw rC3aBbbwk1nl9KH uPP5TDq2GyHGaVI roix46Z5ID9u0nG nMa5tWBqpqXVNDR qPgzxDDN3SpRQ7z sXjXJK4Cz3aDldA GGRjag1juGtg7cR JrYergdZQrkXNee 59SlzRnMpsL2HuG Te3e5a0Qn6SjcZ8 1pG064LRxFq64ll opfQCpkcMT3rXCe J2Lm1D7vM8de5sl nOxOE4tfmGNGtAJ mrxV7gEcr8c30yc 4gdOAxM5cF5QFYx iDIWSZ1HvKinueh LEp8rj9kSIcKjut TE9xOHfQ7HAC5oN p4MHCaLRQaC9Ax4 Ai0p3DmggeWA8mZ r0M3tEx0cE81iNS H60WQgaHe5mvoWG Koui5swQMFrJ9qC 8972jJtrBg37vEC B3G6HhDNXqBZ4oc KiNIaRbbCSPntQQ g6gSRJzV9uK005l 8hzny1i73sDpPYy xjXfdSucmkr86PA 7nRr2WbMKmocnh9 YvXUfoiShCoYX0W KL6psJyT6N6msGb bMvOgvK7At7OQPt VHqCx1nuJZ9E5Z8 1fZQ2yrCOXaS0ln 9jSPMH47h6YShfP Lrh1pIsJBGT7P7V Hh7g3QQCgopUNHq mOXtLfG5CYxlEnY OK7dC0gHRsfjMzc VPEGPRkrvw1WpQB FvjpamQSRS6CpVI NL8eSIhCXZSAUsi y7cTCOkOFPxwU64 tJmep7FOZZwXTzO ikvyzrDk9EnmEON 1xHGgNu5UQuGZwo yqQRKVuJhYnmBJV PVQhWYZYjpWGRbt y6dNuP4ZAAAP4u2 zaRgiMHISZUWZpg X3oNPllCo0F35bw PcTAFlrwym8ugqu SokbyXKWRBoBsX3 1C6dfrA5FiJi0xm QwVyiCnYHkfGQ3R Dl7vpkXq62GFazZ eN6vOHFUMiX2Znc 3sMZ0PCorjh7eM2 4FbFymvwlXIp2O5 KgKRT2LQOA3wA81 zRi4jp7ZdXWNNZM VZfbT4HWqH9QYy8 ACIMnplpYVA58vo hS6iDIaxH1lC6wz 4yBFdjeg96u97m0 KEdqIJfydbkAUI9 5Us8xLsUEr8bIUZ ySOyQ8W2epJLPOw n5oEbOt2Yols3Tz cDG7rbVHpuV6vvD tYHnBMpX4VMOXDv dVu3u6JFl1IzhRf AENxC3fmn8VLY9h 0QO2UyivF2P2mWa rbjBRwYqxE8GWIG cYWuo0Ya96C1e3u 2ZZ6kDl3PnEFMw. END KEYBASE SALTPACK SIGNED MESSAGE.
+#BEGIN KEYBASE SALTPACK SIGNED MESSAGE. kXR7VktZdyH7rvq v5weRa0zk8gCLzH HJOQx3LC5fXhzOS H5VBmRhk5r7hmix BNYjx58ogzC1HLE 2sUov8UceKo9DwZ Z2eV4ZSJsoVy6Wb W4eKQNSmgP5IEwo OK73tJoKRFRxs4G 5RdJM6vvSXeSONV vuWzv6tH8PVtcPh X5njcl83XfYTQTv GMgE1VzLxxR326d BThQXCtbGBZyTjv 4fe0DG9b6p6AGWv 92WTbmcFOcAeYX6 k8OHiVTJTfrPETJ 9nXLgSlegc4PyVz WNMhnLesZDBAnlw rC3aBbbwk1nl9KH uPP5TDq2GyHGaVI roix46Z5ID9u0nG nMa5tWBqpqXVNDR qPgzxDDN3SpRQ7z sXjXJK4Cz3aDldA GGRjag1juGtg7cQ t32vPeuvDm93F89 ziLJaGMJt3gIHw4 bctAWKicVj7h2JL pAHUB8qEcvc8QXh Vi9VYeNKdhpfBPN KaTN1RYiVZLGrTv VbxsBLg73UIebml mmccgSM1CfYL2pF PRwmDwLbrPdox8i 9aGxkHnJ8tWUMgd yqJ9RDmewEQQW0S YxmnB1Go41o5xoh c25LezQxQZvx5zw AGATJsKT4PFSHnM 3B9HFETH7hVMfwG P9QHvRRwUoiy74L MfKISh1Q4plf0SI rjfH3nbj8gEoPhQ puR4tkgrPgqKnoW lZDjEPkuB6U25QQ qfAZkvl28ySaBWQ I7A8avcfFi5qtPZ bqQSG1OL2e5R8RH NrXabxWpVaqKr0g Ez71cF6NNbpRH1M yjyjTi8bCO380nB sa3DQClkn0vOTQx 0izyCy2e9OhIvec WdGSFZirjfH3nbj 8onnpgypXYVrkzq S0w0uYA59wU0Xiz X5NGSEUgaPhyjWX T3oZdMJHKROConZ Yb4oGUTFQyoADLI kO7PSx6umxBrgkr JGVIWlTh9Losuit WaMVtBxSOt5XqtB fRMZ1UMyyQYufUt 51qrc9Ix7fhsele tSIsbq21m0vnoQP 041SI2ejCzxthfK sLggBbQnjDZlujX azucJ1Gn081NCOM sUzF2u7VlOIJXkh ybiTfwA9v2GAC3S j15rJwDJLe89DKe N2vaEtRN2NEnABG y7l94zBkUs5tHiv Nm239ctGEJhgLoG x8BVS71yGeFGytU zDkHoZnHsy3nv9C t0XbgDBFROvxGp5 uVvwnHsY7V6KkB9 8aikaKuOGN9SxFa Ng5VNZVNW5dMMwt XSUcCWQ8tEP7tYm ivwpFyaAKdcoHIs ntAiBkCgmXSvJQr n22WnXQkzfAwWTc N0q3FWCqMMQdFnd HMFrgU0RnZWduno pBULmZHOo4tVIp9 t05UNnfTpwFZYQd Bn4CH7ZD9nqYamm n6NZY0Li5k3e7EV r1ThnN2fM428OOQ rnO8Zh2XmioyHPN CIv11vCIMYSJIPs SVPTc6PpfNKrVMd O8VV5kSyB9DWIIv 9ArxMYrDh8uKLLf 4cvV5KTFQDb8LFM bQdLZF8lT7e1VPg REtSwHhMPHPEAsI M8gg1HAMXpp9DMT lKyN76TzHTMIZEj yzr7gouApmH7Org jEWD8XqVqvJ6gZL q5rmEY1Lp0In334 y0tgTN1JtzAb3KL t73vBuY6lNpi. END KEYBASE SALTPACK SIGNED MESSAGE.

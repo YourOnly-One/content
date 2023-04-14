@@ -4,30 +4,32 @@
 [[row]]
   data = ["Service", "Link", "Keybase", "Keyoxide", "Whosum"]
 [[row]]
-  data = ["Fediverse", "[@YourOnlyOne@bookwyrm.social](https://bookwyrm.social/@YourOnlyOne)", "", "✅", ""]
+  data = ["Fediverse", "<a href='https://bookwyrm.social/@YourOnlyOne' rel='me'>@YourOnlyOne@bookwyrm.social</a>", "", "✅", ""]
 [[row]]
-  data = ["Fediverse", "[@YourOnlyOne@c.im](https://c.im/@YourOnlyOne)", "", "✅", "✅"]
+  data = ["Fediverse", "<a href='https://c.im/@YourOnlyOne' rel='me'>@YourOnlyOne@c.im</a>", "", "✅", "✅"]
 [[row]]
-  data = ["Fediverse", "[@YourOnlyOne@calckey.social](https://calckey.social/@YourOnlyOne)", "", "✅", ""]
+  data = ["Fediverse", "<a href='https://calckey.social/@YourOnlyOne' rel='me'>@YourOnlyOne@calckey.social</a>", "", "✅", ""]
 [[row]]
-  data = ["Fediverse", "[@YourOnlyOne@hashi.icu](https://hashi.icu/@YourOnlyOne)", "", "✅", ""]
+  data = ["Fediverse", "<a href='https://hashi.icu/@YourOnlyOne' rel='me'>@YourOnlyOne@hashi.icu</a>", "", "✅", ""]
 [[row]]
-  data = ["Fediverse", "[@YourOnlyOne@p.lu](https://p.lu/a/YourOnly.One)", "", "✅", ""]
+  data = ["Fediverse", "<a href='https://p.lu/a/YourOnly.One' rel='me'>@YourOnlyOne@p.lu</a>", "", "✅", ""]
 [[row]]
-  data = ["Fediverse", "[@YourOnly.One@p.lu](https://p.lu/c/YourOnly.One)", "", "✅", ""]
+  data = ["Fediverse", "<a href='https://p.lu/c/YourOnly.One' rel='me'>@YourOnly.One@p.lu</a>", "", "✅", ""]
 [[row]]
-  data = ["Fediverse", "[@YourOnlyOne@pixelfed.social](https://pixelfed.social/i/web/profile/YourOnlyOne)", "", "✅", ""]
+  data = ["Fediverse", "<a href='https://pixelfed.social/i/web/profile/YourOnlyOne' rel='me'>@YourOnlyOne@pixelfed.social</a>", "", "✅", ""]
 [[row]]
-  data = ["Fediverse", "[@YourOnlyOne@qoto.org](https://qoto.org/@YourOnlyOne)", "", "✅", ""]
+  data = ["Fediverse", "<a href='https://qoto.org/@YourOnlyOne' rel='me'>@YourOnlyOnee@qoto.org</a>", "", "✅", ""]
 [[row]]
-  data = ["Fediverse", "[@YourOnlyOne@sopuli.xyz](https://sopuli.xyz/u/YourOnlyOne)", "", "✅", ""]
+  data = ["Fediverse", "<a href='https://sopuli.xyz/u/YourOnlyOne' rel='me'>@YourOnlyOne@sopuli.xyz</a>", "", "✅", ""]
 [[row]]
-  data = ["Fediverse", "[@YourOnlyOne@vivaldi.net](https://social.vivaldi.net/@YourOnlyOne)", "", "✅", ""]
+  data = ["Fediverse", "<a href='https://social.vivaldi.net/@YourOnlyOne' rel='me'>@YourOnlyOne@vivaldi.net</a>", "", "✅", ""]
+[[row]]
+  data = ["XMPP Movim", "<a href='https://mov.im/?blog/youronlyone' rel='me'>@youronlyone@sure.im</a>", "", "✅", ""]
 #-----BEGIN PGP SIGNATURE-----
 #
-#iI4EARYKADYWIQT8KuNEQVQt8pzwXZA2XpOKztuK1QUCZDimcxgYaGtwczovL2tl
-#eXMub3BlbnBncC5vcmcACgkQNl6Tis7bitWiUQD9HQQtCDpdI/mKB2XPpoWywoBr
-#5ZUXTad/e3NOeV/muekBANBgNBFeIYeHH4U0FgYXxaz1AmJS9YcsX+prfB0ZtwIC
-#=cB7A
+#iI4EARYKADYWIQT8KuNEQVQt8pzwXZA2XpOKztuK1QUCZDjhhxgYaGtwczovL2tl
+#eXMub3BlbnBncC5vcmcACgkQNl6Tis7bitUDBgEAsCuXyNuCd34vJARJGE3KQdqo
+#2YVx9C2EScLFbBQNlQgBAKb8ELMPppjdvsPiRjyrnBQrYmYLOGsNQnAkDOJvGp0J
+#=dGGT
 #-----END PGP SIGNATURE-----
-#BEGIN KEYBASE SALTPACK SIGNED MESSAGE. kXR7VktZdyH7rvq v5weRa0zk8gCLzH HJOQx3LC5fXhzOS H5VBmRhk5r7hmix BNYjx58ogz2pPTC c3EjEwtYZaHWWrS OxdE5ZH9GCEJlbC Q2WHFZVK0yFwIsO juoY7XlZ4pdXBvs Mz3nXVjj4z3Prpx 57DldVuQXFUN3vg lnwKvcBawj5yDnY R83HYvjRYZdYmAq Dlqc7xpt4nvI4d9 U2GVJG9b6p6AGWv 92WTbmcFOcAeYX6 k8OHiVTJTfrPETJ 9nXLgSlegc4PyVz WNMhnLesZDBAnlw rC3aBbbwk1nl9KH uPP5TDq2GyHGaVI roix46Z5ID9u0nG nMa5tWBqpqXVNDR qPgzxDDN3SpRQ7z sXjXJK4Cz3aDldA GGcAhdsCq1JrNys Hlc4SIAEWuIqluK FxDvsXKwV9CzUwZ UTUpl1GjU1N6KKk oR1zceEHbeZpbuN Qxnmc4CgJRf32pL 3ietBrGfR6bL1Jf mjws70QJiF1PxPA T0D7ftXrwwANXPf tk0yeNM8de5slnO xOE4tfmGNGqZSBy eJYzO1b8X3XYsKb vBunR6bL1Jfmjws MYqCc7am58ty77C 7RCVze4prTfMZ3A PdR6bL1Jfmjws70 QJiF1PxPAT0D7ft XrwwQsrxe8ikXGd R8RP5tiProhJVcS mthzAHltBMygeFu AKLGabfCr16J6LC t6i4LNsIc4AKAgM chTSFbXA8u1QGjJ mRy21BQmOGmRK5D PIWz0kjc1L6W3hi BjTJ6aBFm4L7N4j MIHg4RcXh86PA7d iMXlbBl5P0s4hNU VEvbrDIQ5qEfwSq RJcDlU97dydRHQZ k9YJrXSeHtKF6WJ s7GnOOWcJ5o6qrA UL7GCOkcBvlllGc QCVDbj0xi3ZGpAi AT2Y63JyfzMrwe8 mYpRqi7fYrf8QiJ CxbMMbnrWVy75eK giJczUIm6eYNbKX PSIubEZwarCcPXe 1N8Sa2Bjyb2WztE 7Sgjy8FwDMoS7TR qi7fYrf8QiJGjgJ c7zurXwwO1DGmha 3KBWaofT1h6HQQg 6Zm551ZR30XfDpd BznwNnpPswjGef8 g16eLtlIa3R8RP5 tiProhJVcSmthzA HltBMygeFuAKLGa bfCr16J6LCt6i4L NsIbi0gncq2QoUu PBw1bersKI8cXf2 d7u6HfNWE8v3GKt nXIsXs1ic2yLkmj ntvFB0x4bLWLstc vZTJ2SGbEb6BYEi 6F3SzTtyWhLO1pQ HoFaLjIEXCYbFBf Ga896xghlZ7TyIY c43YDTkExOxYEto DLPGrKQjpS2nPlA OlhrHnj0RPPHoRp LNdENetfiRFqePO VRuvWDCE9Ej7iQP oZUZ2mjWBNJPgka uK9xETV1XPgNFym eVFFx1BLCJk85qP 224072pqoct20n6 n6WZvMSXDv3vlNx mdMNHcdS186PA7g bMaEwydaM9v5of8 ZasrxfyB610HEnc oOtGPAmRK5DPJF3 jJAQriZL5JcNYpS hQNLqj85rYrKzVf p8Uhw7cTCOkOFPx wTavtOVEBnhlVp1 fbi9n1UMeXKen1E LxeO2g8uXEMHS8U xhlsRcd9vPZJvvN 4YtxG8jsg2CqOVh 3B1DNwVUOonpuAZ qh4H4CYwfDobhF0 SrDvLyl1iUliznQ BScqp1PGEslnO9X 1tf3M3CEvIOnfWs Z29ugg62gMEH2Or hO7SJaD3AZqQWIw tqVEfa7qtHEH3OT uirah7gssZQBScq p1PKWw9MJwrWWuW 9yYumY1a7G91a1d aafkn40XN6JgUDb OARp8HQXcO3pdWA 5fZFgIypCrQlMDM nWMJhy86PA7nRr2 WbMKmmnXQnKufu8 XwZM5h9bHC4eMjz pocrGuLKHAUCwTk uLKdvXwBDmvmXHT 6nMQntWaropB3mk UiHtOUlY04UwOSE UxkIvn6mNcrHwbp ipOiQlm4tnRadVV NaQGUtRwADVyR5P WWWSlhPCSIe9DU9 UI0Lmcn96cUtfCg 0fljvI4wPcXCYx4 4ffeKVhFSmS3T2U ooytWUfplzAQeOX 4tNIg4RA9iiDCT1 opOATBj9bXSy0ji f3YkE5PaxO1rUCn Te3M4bIdUZ21wcj Xaa3z58Jqa4J8FJ GSZpx2nFVueBFAr XITKNWvmD9X6PeB TKpYzYzAuZjaWyc 7nJuf20mHrDp9o7 dOW2FtiSlQ4sftH 3gvVSJ55u. END KEYBASE SALTPACK SIGNED MESSAGE.
+#BEGIN KEYBASE SALTPACK SIGNED MESSAGE. kXR7VktZdyH7rvq v5weRa0zk8gCLzH HJOQx3LC5fXhzOS H5VBmRhk5r7hmix BNYjx58oh0Cd3Kw 0GS8G5OGBLM93RD vqY5Nv9Max45tyR ufSq6CTgIwX2CSk t5tGpdY2uipiuTe nwdm8JEFktx9gFO AJFZvD5BeogKfnq ZTtWD1RN6l5jZLX pNpJSzHQkDd4um6 Dc1eZ5SgCJgncjx zkgtBG9b6p6AGWv 92WTbmcFOcAeYX6 k8OHiVTJTfrPETJ 9nXLgSlegc4PyVz WNMhnLesZDBAnlw rC3aBbbwk1nl9KH uPP5TDq2GyHGaVI roix46Z5ID9u0nG nMa5tWBqpqXVNDR qPgzxDDN3SpRQ7z sXjXJK4Cz3aDldA GGcAhdsCq1JrNys Hlc44qQWc4QqCRj uRR2pp0LZEC12oo 2I2coFHF6RQPdtA euZSQPcS7Z0MUkG UtjIBvrNJzPIHXB 6F0ZKOulRqi7fYr f8QiJGj8sPdACn0 F4OvEGL9jq77V09 aJVb2O85piqlSJi D4nPBhVS642FVap zdxUwJRVWOLiNZu K73ALbrLKTXiKed tHSVlMUnTBS7mDO a3GNX1yJl7oVDNF ypNWAnwp3529fEN l0ribRty62gwuwz ekL1VQVyYoZ85Th R6bL1JfmjwsMYqC c7ZdRE2Cx8hBgSg dt26BfSw38PR4rj fH3q57odMpgiXvh bZpa8Q9owwCppDy z9sLOBecLZqRMY8 vMMw50xw4Q198Ea eHjbr8a8yotbMwu 6z3GmdETjQPdtAe uZSQPcS7Z0MUkGU tjIBvrNJzPIHXB6 F0ZKOulRqi7fYrf 8QiJGjBAylBmUYH cMbVQV0uXLOaztX YfT7486PA7nRr2W bMKmmnXQno43Wys 9g1eulUF2w24agM Z5f87uhdvjDtlJX urrW1RSMBTrl6qA ROuuIJaOf9HtULG KN6jPmtWDtRRAr1 nPt9TzqkmO4f08U jHYb7Y8Z3iErRmF G4Q49pWtKkCPsFv mUNNsTj4uZ81MCr aEr0dA3QCsd27cT COkOFPxwTavtOVE BnhlVp1fbi9n1UM eXKen1ELxeO2g8u XEMHS8UxhlsNDWa Af2myoOMr1POlgj D6UeBh5YRmrny3z Uhj4ViLJ0b10QNE PjYOZ0ORDYiM6co 9CiPHmIpo77QWfx w59Y2oDXSuoIoAF xbpgteCBOMLHHnL KQpGM3tEx0cE81i NSH60WQgaHe5mvo WGKKh1RhBfPaZT3 yG7cQt32vPeuvDm 93F89ziLJaGMJdg 9F2xUPNcXfKd4LW PimoFogBsHwFcgu l8Idg9Ch3wLKo9l ebGFoz50bKTZIB0 Wb9Cfh2QhY5zrw0 JzQo5o4TLg0uR5k XPDplqAo4692Orh O7SJaD3AZqQWIwt qVEfa7qtHEH3OTu 543uZCOxiEV5hEL jmnMDv1e1dseIO4 FzCPb3VET8JkjQh 75L2wpDQfCugvyz TTpBzSC6DbfyG3p 3rwY1HiWhTAtk6C Rqj2PQQg6Zm551a uWn6s7mdnBp06bC To05Iu92y275blU soO7cQWRs0t6XdV p2QlKuwowtIrjHQ ZW6nVuqGNQcrGA4 D7fhTw198wWI5vm zpl3HLGUaQpdAFn 8kd49cW0Kfx2atB FVqsYDgg6GftRQU hQBvskfN0sxhgGI Od2l3gn5DEPPElE 2Do55EqHrbxnMS8 3bXdX6QkOpgiUZo luqRLoamkUASjmS 1XSv93a9udTZ3nE mBbdx7X7p1GCcct Lfn2ULOkGgyB8DF qjtVP8s79TlE7Qv OoaZ7PlbcxMn6h4 DEbGAhQfNYOjHvO VmmQJJHz4Bkyx0A 1f6grLcNZfreODE OzuZElE2Do55EqH rbxnMS6ml80tMgl k3vpuwo2HUXl6PO aI86PA7nRr2WbMK mmnXQno43Wys9g1 eulUF2w24agMZ5f 87uhdvjDtlJXurr W1RSMBTrl6qAROu uIJaOf9HtULGVQP dtAeuYrHQs7kOZY qED6ucQgMgOLjzh 3ccYwdfrBUeR7rd t0EzJKR4udhKvIv aFZNJWd5HNucLT3 CTtCMfgrFRYts0U Rbqg1IHVGA2iUTE RvcFhJUGOIPEBPE tFhjnPc7gEPGnWa GVQfir3gqkoY8KW PKXbZ9ojLWfpUGT mNzq99LNd44WXVb 1Jc6Lmkjzm83mpq WGNNEedJnHXnJol v26Nz9vVEEkmQ0P sH6wjrWV9u5sjCk pEPoZ5i2Wv1rcMi jEGqYC0jNXXpIvj oOsusELGI12gply vXBJml9s9uzwanI WcSVcSLyAoA0ojv aGJdhLobZ89u77P LhY3gAyFZLH1FTY rugnXtEtwcvWh8a slHMTRKkPspfFsm nPp07NbUC3Bh4bk OApu5iXdILmaYp5 SBXV5D4MH0Ca7Cv anCaefmlFkYx7ER 7WjY3MR2odlWcKG 76HUvQMrRmZHWbB B9jRf5GQCfcWaxQ LAzbJQHx5j1NrtY TKP08fkCQBIaQMx NGZ6DZsWBbfJpPh 9B7qzesq0hP1PTX RPuDcfrqLyS6uBK RdJXgdzL0CHlq8g xlp8ACNQ6NO1KK7 DIUGpHZPGKPWl4W Gtwf55UI6noQJfl Ql2ajd6s55s56ne aoCAqzhUnyeSL0A . END KEYBASE SALTPACK SIGNED MESSAGE.
