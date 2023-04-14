@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/snoworld/ko/kb/ppop/ppop-idol-year-20228
 #disqus_url = ""
 #disqus_identifier = ""
 
-syndications = ["https://twitter.com/YourOnlyONEofcl/status/1505862534187917313", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/621411555694745", "https://www.instagram.com/p/CcCU1X8ruhm/"]
+syndications = ["https://twitter.com/YourOnlyONEofcl/status/1505862534187917313", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/621411555694745"]
 
 channels = ["snoworld"]
 categories = ["literature"]

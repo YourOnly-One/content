@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/snoworld/ja/kb/ppop/difference-ppop-opm-
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-syndications = ["https://twitter.com/YourOnlyONEofcl/status/1500858756560687107", "https://twitter.com/YourOnlyONEofcl/status/1497888146876354567", "https://mastodon.social/@youronlyone/107869598318458866", "https://diasp.org/posts/2157592079ea013ae32d28a1592b385a", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/607362613766306", "https://www.instagram.com/p/CbeqUKhLZqS/", "https://pixelfed.social/i/web/post/412275401774900848"]
+syndications = ["https://twitter.com/YourOnlyONEofcl/status/1500858756560687107", "https://twitter.com/YourOnlyONEofcl/status/1497888146876354567", "https://mastodon.social/@youronlyone/107869598318458866", "https://diasp.org/posts/2157592079ea013ae32d28a1592b385a", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/607362613766306", "https://pixelfed.social/i/web/post/412275401774900848"]
 
 channels = ["snoworld"]
 categories = ["literature"]                                                   # taxonomy
@@ -210,7 +210,6 @@ type = "article"                                                           # art
   すべての<bdi lang="fil">OPM</bdi>は<bdi lang="fil">P-POP</bdi>ですが、すべての<bdi lang="fil">P-POP</bdi>が<bdi lang="fil">OPM</bdi>であるとは限りません。
 {{% /quotebox %}}
 
-[^wikipedia-english-speakers-country]: Wikipedia: [List of countries by English-speaking population](https://en.wikipedia.org/wiki/List_of_countries_by_English-speaking_population "List of countries by English-speaking population")
 
 ## 閉会の辞
 

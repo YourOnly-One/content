@@ -93,7 +93,6 @@ avatar = "https://rsc.youronly.one/img/y/Faithful_Athlete-logo-02-1500x.webp"
 
 - [페디 버스](https://koyu.space/@faithfulathlete)
 - [페이스 북](https://facebook.com/faithful.athlete)
-- [인스 타 그램](https://instagram.com/faithful.athlete)
 
 ---
 

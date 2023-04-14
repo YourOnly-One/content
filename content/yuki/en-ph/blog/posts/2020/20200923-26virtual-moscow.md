@@ -93,4 +93,3 @@ Official links
 
 - [Fediverse](https://koyu.space/@faithfulathlete)
 - [Facebook](https://facebook.com/faithful.athlete)
-- [Instagram](https://instagram.com/faithful.athlete)

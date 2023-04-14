@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/snoworld/ja/kb/ppop/ppop-versus-idols-20
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-syndications = ["https://twitter.com/YourOnlyONEofcl/status/1502166916424556551", "https://mastodon.social/@youronlyone/107936460327632807", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/614849933017574", "https://diasp.org/posts/2a904d108331013a8ee228a1592b385a", "https://www.instagram.com/p/CbubrfVLqBm/"]
+syndications = ["https://twitter.com/YourOnlyONEofcl/status/1502166916424556551", "https://mastodon.social/@youronlyone/107936460327632807", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/614849933017574", "https://diasp.org/posts/2a904d108331013a8ee228a1592b385a"]
 
 channels = ["snoworld"]
 categories = ["literature"]                                                   # taxonomy
@@ -113,7 +113,6 @@ type = "article"                                                           # art
 
 1996年までに、SMエンターテイメント（<bdi lang="ko">SM 엔터테인먼트</bdi>）の創設者は、日本のアイドル研修生システムを韓国に持ち込み、韓国の文化とエンターテインメント業界向けに微調整しました。 これは*文化技術*として知られているものであり、当時の新しい<bdi lang="en-PH">K-POP</bdi>アイドル業界を世界市場にもたらす方法に関する詳細なガイドラインが含まれていました。 [^wikipedia-korean-idol-history] [^wikipedia-korean-cultural-technology]
 
-[^wikipedia-history-japanese-idol-beginnings]: Wikipedia (en): [Japanese idol: 1960–1980: Post-war era and idol beginnings](https://en.wikipedia.org/wiki/Japanese_idol#1960%E2%80%931980:_Post-war_era_and_idol_beginnings "Japanese idol: 1960–1980: Post-war era and idol beginnings")
 [^wikipedia-korean-idol-history]: Wikipedia (en): [Korean idol](https://en.wikipedia.org/wiki/Korean_idol "Korean idol")
 [^wikipedia-korean-cultural-technology]: Wikipedia (en): [Cultural technology](https://en.wikipedia.org/wiki/Cultural_technology "Cultural technology")
 

@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/snoworld/kb/kpop/kpop-4th-generation-202
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-syndications = ["https://twitter.com/YourOnlyONEofcl/status/1486081448360628225", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/587172542451980", "https://www.instagram.com/p/CZNBjV4vb0D/", "https://pixelfed.social/i/web/post/392324088302587570"]
+syndications = ["https://twitter.com/YourOnlyONEofcl/status/1486081448360628225", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/587172542451980", "https://pixelfed.social/i/web/post/392324088302587570"]
 
 channels = ["snoworld"]
 categories = ["literature"]                                                   # taxonomy
