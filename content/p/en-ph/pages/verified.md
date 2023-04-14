@@ -75,9 +75,9 @@ Each table below were signed:
 - First with my OpenPGP key: F2F9BE4C3D8E4F53
 - Then with my Keybase account: Yukino
 - And hosted on verified account repositories:
-  - [Codeberg](https://codeberg.org/youronlyone/content/data/p)
-  - [GitHub](https://github.com/YourOnly-One/content/data/p)
-  - [GitLab](https://gitlab.com/youronlyone/content/data/p)
+  - [Codeberg](https://codeberg.org/youronlyone/content/src/branch/main/data/p)
+  - [GitHub](https://github.com/YourOnly-One/content/tree/main/data/p)
+  - [GitLab](https://gitlab.com/youronlyone/content/-/tree/main/data/p)
 
 ## Verified through digital signing methods
 
