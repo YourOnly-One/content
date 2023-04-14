@@ -8,3 +8,5 @@
   data = ["Matrix", "[@youronlyone:matrix.org](https://matrix.to/#/@youronlyone:matrix.org)", "", "✅", ""]
 [[row]]
   data = ["Telegram", "[@YourOnlyOne7](https://t.me/YourOnlyOne7)", "", "✅", ""]
+[[row]]
+  data = ["XMPP", "youronlyone@sure.im", "", "✅", ""]
