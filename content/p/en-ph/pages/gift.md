@@ -7,11 +7,11 @@ publishdate = 2020-03-25T06:07:00+00:00             # first publication; manuall
 date = 2020-03-25T06:07:00+00:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
-aliases = ["/gift", "/gifts", "/invites", "/referrals", "/codes", "/wishlists"]                                        # "/post"
+aliases = ["/gifts", "/invites", "/referrals", "/codes", "/wishlists", "/gifts-invites-referrals-codes-wishlists"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-slug = "gifts-invites-referrals-codes-wishlists"
-translationKey = "gifts"
-relCanonical = "https://im.youronly.one/p/gifts-invites-referrals-codes-wishlists/"
+slug = "gift"
+translationKey = "gift"
+relCanonical = "https://im.youronly.one/p/gift/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
 #disquq_identifier = ""                                # set if date of this content is different from main translation
 
@@ -20,7 +20,7 @@ relCanonical = "https://im.youronly.one/p/gifts-invites-referrals-codes-wishlist
 
 #syndications = [""]
 
-channels = [""]
+#channels = [""]
 #categories = [""]
 keywords = ["gifts", "invites", "referrals", "codes", "wishlists", "YourOnlyOne", "YourOnly.One", "I'M YourOnly.One", "I'M YourOnlyOne"]                                                     # meta keywords
 #series = [""]
@@ -59,9 +59,13 @@ translationby = ""
 
 <!--more-->
 
-## Referrals
+## Invites
 
-{{< gift type="affiliate" message="<p>You can use one of my affiliate codes below.</p>" >}}
+- Fediverse [c.im](https://c.im/invite/kPxQmhqA) instance
+  - Up to 5,000 characters
+  - Stable and always updated
+  - Active community
+  - powered by Mastodon
 
 ## Send a gift!
 
@@ -70,6 +74,10 @@ Did you like my work and want to send a gift as a token of appreciation? Here ar
 ### Wishlists
 
 {{< gift type="wishlist" >}}
+
+### Referrals
+
+{{< gift type="affiliate" message="<p>You can use one of my affiliate codes below.</p>" >}}
 
 ### Tip jars
 
