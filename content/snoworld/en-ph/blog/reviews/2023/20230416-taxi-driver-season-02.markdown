@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/taxi-driver-season-02-review-20
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndications = [""]
+syndications = ["https://c.im/@youronlyone/110205223123690068", "https://www.plurk.com/p/p85y85", "https://t.youronly.one/post/714708139859165184/why-taxi-driver-season-2-is-worth-watching", "https://www.reddit.com/user/Laibcoms/comments/12nlpow/why_taxi_driver_season_2_is_worth_watching/", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0YTGhAX4iPc5XADvQXfa6DrKGDbaom8jwSwHimBeGoxHSL4fLr49atxr492mvb7del"]
 
 channels = ["snoworld"]
 categories = ["tv"]
