@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/ko/reaction-duty-after-school-a
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndications = [""]
+syndications = ["https://c.im/@youronlyone/110282738350717491", "https://t.youronly.one/post/715953143692787712/duty-after-school-exploring-alternate-endings-for", "https://www.plurk.com/p/p8otw8", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid028NGAh17LNEq1wAbVE1xZ4tQ8r8zWR9zDvKoEjFCbBVxRQpHzNvhwdGdADy1baV3wl", "https://twitter.com/YourOnlyONEofcl/status/1652349095254564866"]
 
 channels = ["snoworld"]
 categories = ["tv"]
