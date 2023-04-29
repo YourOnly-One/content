@@ -2,7 +2,7 @@
 title = "反応: 放課後戦争活動パート(Duty After School)代替エンドポイント"
 description = "放課後戦争活動パート(Duty After School)の交互の終わりに対する反応です。"
 
-lastmod = 2023-04-29T23:48:00+09:00                 # last update; manually adjust to local timezone
+lastmod = 2023-04-30T07:25:25+09:00                 # last update; manually adjust to local timezone
 publishdate = 2023-04-29T23:48:00+09:00             # first publication; manually adjust to local timezone
 date = 2023-04-29T22:30:00+09:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
@@ -61,7 +61,7 @@ type = "article"                                             # article, sitepage
 
 <!--more-->
 
-{{% quote type="name" lang="en" %}}[JasonMay](https://www.moving-stories.net/author/jasonmay/){{% /quote %}}は、5つの異なる代替エンドポイントを通過しました。
+{{% quote type="name" lang="en" %}}DikshaG{{% /quote %}}は、5つの異なる代替エンドポイントを通過しました。
 
 1. ウェブトゥーンの結末
 
@@ -75,7 +75,7 @@ type = "article"                                             # article, sitepage
 1. 戦争は続く
 1. デッド·バイ·ザ·スフィアズ
 
-残りの3つの可能性はありますか？ {{% quote type="name" lang="en" %}}JasonMay{{% /quote %}}の{{% quote type="work" lang="en" %}}[Duty After School: Exploring Alternate Endings for the Heart-Wrenching K-Drama](https://www.moving-stories.net/duty-after-school-exploring-alternate-endings-for-the-heart-wrenching-k-drama/){{% /quote %}}を読むことをあなたに勧めします。 おそらく、この3つの可能性のある結末のうちの1つを選ぶでしょう。
+残りの3つの可能性はありますか？ {{% quote type="name" lang="en" %}}DikshaG{{% /quote %}}の{{% quote type="work" lang="en" %}}[Duty After School: Exploring Alternate Endings for the Heart-Wrenching K-Drama](https://www.moving-stories.net/duty-after-school-exploring-alternate-endings-for-the-heart-wrenching-k-drama/){{% /quote %}}を読むことをあなたに勧めします。 おそらく、この3つの可能性のある結末のうちの1つを選ぶでしょう。
 
 ---
 

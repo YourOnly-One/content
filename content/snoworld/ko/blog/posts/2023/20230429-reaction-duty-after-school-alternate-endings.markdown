@@ -2,7 +2,7 @@
 title = "반응: 방과 후 전쟁활동 파트 대체 끝단"
 description = "방과 후 전쟁활동 파트의 대체 끝단에 대한 반응입니다."
 
-lastmod = 2023-04-29T23:48:00+09:00                 # last update; manually adjust to local timezone
+lastmod = 2023-04-30T07:25:25+09:00                 # last update; manually adjust to local timezone
 publishdate = 2023-04-29T23:48:00+09:00             # first publication; manually adjust to local timezone
 date = 2023-04-29T22:30:00+09:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
@@ -61,7 +61,7 @@ type = "article"                                             # article, sitepage
 
 <!--more-->
 
-{{% quote type="name" lang="en" %}}[JasonMay](https://www.moving-stories.net/author/jasonmay/){{% /quote %}}는 다섯 번의 서로 다른 결말을 겪었습니다.
+{{% quote type="name" lang="en" %}}DikshaG{{% /quote %}}는 다섯 번의 서로 다른 결말을 겪었습니다.
 
 1. 웹툰 엔딩
 
@@ -75,7 +75,7 @@ type = "article"                                             # article, sitepage
 1. 전쟁은 계속된다
 1. 구들에 의해 죽임
 
-나머지 세 가지 잠재적 결말은? {{% quote type="name" lang="en" %}}JasonMay{{% /quote %}}로 {{% quote type="work" lang="en" %}}[Duty After School: Exploring Alternate Endings for the Heart-Wrenching K-Drama](https://www.moving-stories.net/duty-after-school-exploring-alternate-endings-for-the-heart-wrenching-k-drama/){{% /quote %}}을 읽어보세요. 여러분은 아마도 다른 세 가지 잠재적인 결말 중 하나를 선택할 것입니다.
+나머지 세 가지 잠재적 결말은? {{% quote type="name" lang="en" %}}DikshaG{{% /quote %}}로 {{% quote type="work" lang="en" %}}[Duty After School: Exploring Alternate Endings for the Heart-Wrenching K-Drama](https://www.moving-stories.net/duty-after-school-exploring-alternate-endings-for-the-heart-wrenching-k-drama/){{% /quote %}}을 읽어보세요. 여러분은 아마도 다른 세 가지 잠재적인 결말 중 하나를 선택할 것입니다.
 
 ---
 

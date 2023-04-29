@@ -2,7 +2,7 @@
 title = "Reaction: Duty After School Alternate Endings"
 description = "A reaction on the alternate endings of Duty After School"
 
-lastmod = 2023-04-29T22:48:00+08:00                 # last update; manually adjust to local timezone
+lastmod = 2023-04-30T06:25:25+08:00                 # last update; manually adjust to local timezone
 publishdate = 2023-04-29T22:48:00+08:00             # first publication; manually adjust to local timezone
 date = 2023-04-29T21:30:00+08:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
@@ -61,7 +61,7 @@ type = "article"                                             # article, sitepage
 
 <!--more-->
 
-{{% quote type="name" lang="en" %}}[JasonMay](https://www.moving-stories.net/author/jasonmay/){{% /quote %}} went through five different alternate endings.
+{{% quote type="name" lang="en" %}}DikshaG{{% /quote %}} went through five different alternate endings.
 
 1. The Webtoon ending
 
@@ -75,7 +75,7 @@ type = "article"                                             # article, sitepage
 1. The War Continues
 1. Killed by the Spheres
 
-The other three potential endings? I invite you over to read {{% quote type="work" lang="en" %}}[Duty After School: Exploring Alternate Endings for the Heart-Wrenching K-Drama](https://www.moving-stories.net/duty-after-school-exploring-alternate-endings-for-the-heart-wrenching-k-drama/){{% /quote %}} by {{% quote type="name" lang="en" %}}JasonMay{{% /quote %}}. You would probably pick one of those three other potential endings.
+The other three potential endings? I invite you over to read {{% quote type="work" lang="en" %}}[Duty After School: Exploring Alternate Endings for the Heart-Wrenching K-Drama](https://www.moving-stories.net/duty-after-school-exploring-alternate-endings-for-the-heart-wrenching-k-drama/){{% /quote %}} by {{% quote type="name" lang="en" %}}DikshaG{{% /quote %}}. You would probably pick one of those three other potential endings.
 
 ---
 
