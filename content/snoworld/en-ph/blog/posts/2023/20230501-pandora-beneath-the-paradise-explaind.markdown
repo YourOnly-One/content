@@ -2,8 +2,8 @@
 title = "Pandora: Beneath the Paradise Explained"
 description = "Are there alternate endings or alternate explanations?"
 
-lastmod = 2023-05-01T04:10:50+08:00                 # last update; manually adjust to local timezone
-publishdate = 2023-05-01T04:10:50+08:00             # first publication; manually adjust to local timezone
+lastmod = 2023-05-01T08:22:44+08:00                 # last update; manually adjust to local timezone
+publishdate = 2023-05-01T08:22:44+08:00             # first publication; manually adjust to local timezone
 date = 2023-05-01T04:10:50+08:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
