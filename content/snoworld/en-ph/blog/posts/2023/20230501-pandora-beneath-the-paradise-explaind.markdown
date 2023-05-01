@@ -57,7 +57,7 @@ type = "article"                                             # article, sitepage
   #rel = "noopener"
 +++
 
-If you're feeling confused about the ending of {{% quote type="title" lang="en" %}}Pandora: Beneath the Paradise{{% /quote %}} ({{% quote type="title" lang="ko" %}}판도라: 조작된 낙원{{% /quote %}}), don't worry, you're not alone. Let's delve deeper into the story and see if we can make sense of it together.
+If you're feeling confused about the ending of {{% quote type="title" lang="en" %}}Pandora: Beneath the Paradise{{% /quote %}} ({{% quote type="name" lang="ko" %}}판도라: 조작된 낙원{{% /quote %}}), don't worry, you're not alone. Let's delve deeper into the story and see if we can make sense of it together.
 
 <!--more-->
 
@@ -67,55 +67,55 @@ If you're feeling confused about the ending of {{% quote type="title" lang="en" 
 
 ## Recap of the ending scenes
 
-In one of the final scenes, we sa {{% quote type="title" lang="en" %}}Pyo Jae Hyun{{% /quote %}} ({{% quote type="title" lang="ko" %}}표재현{{% /quote %}}) take his own life, having come to the realisation that living a life not of his choosing was unbearable. Perhaps he was consumed by regret or too prideful to admit defeat.
+In one of the final scenes, we sa {{% quote type="name" lang="en" %}}Pyo Jae Hyun{{% /quote %}} ({{% quote type="name" lang="ko" %}}표재현{{% /quote %}}) take his own life, having come to the realisation that living a life not of his choosing was unbearable. Perhaps he was consumed by regret or too prideful to admit defeat.
 
-A few years later, in Switzerland, {{% quote type="title" lang="en" %}}Jang Gyo Jin{{% /quote %}} ({{% quote type="title" lang="ko" %}}장교진{{% /quote %}}) arrived at {{% quote type="title" lang="en" %}}Hong Tae Ra{{% /quote %}} ({{% quote type="title" lang="ko" %}}홍태라{{% /quote %}})'s home ahead of the others. As he was changing to fresh clothes, it was revealedd that {{% quote type="title" lang="en" %}}Gyo Jin{{% /quote %}} had the sasme distinctive lightning marks as {{% quote type="title" lang="en" %}}Jae Hyun{{% /quote %}}. The camera then pans to hiss face, and it was the face of {{% quote type="title" lang="en" %}}Jae Hyun{{% /quote %}}.
+A few years later, in Switzerland, {{% quote type="name" lang="en" %}}Jang Gyo Jin{{% /quote %}} ({{% quote type="name" lang="ko" %}}장교진{{% /quote %}}) arrived at {{% quote type="name" lang="en" %}}Hong Tae Ra{{% /quote %}} ({{% quote type="name" lang="ko" %}}홍태라{{% /quote %}})'s home ahead of the others. As he was changing to fresh clothes, it was revealedd that {{% quote type="name" lang="en" %}}Gyo Jin{{% /quote %}} had the sasme distinctive lightning marks as {{% quote type="name" lang="en" %}}Jae Hyun{{% /quote %}}. The camera then pans to hiss face, and it was the face of {{% quote type="name" lang="en" %}}Jae Hyun{{% /quote %}}.
 
 ## Five possible explanations
 
 ### Option #1: Identity Switch
 
-In the scene where {{% quote type="title" lang="en" %}}Jae Hyun{{% /quote %}} wakes up, it initially appears that he simply left after attempting to attack {{% quote type="title" lang="en" %}}Gyo Jin{{% /quote %}}. However, it's plausible that {{% quote type="title" lang="en" %}}Jae Hyun{{% /quote %}} returned and launched a surprise attack on {{% quote type="title" lang="en" %}}Gyo Jin{{% /quote %}}, who was attempting to wake up his mother. {{% quote type="title" lang="en" %}}Jae Hyun{{% /quote %}} used this opportunity to implant false memories and new commands in {{% quote type="title" lang="en" %}}Gyo Jin{{% /quote %}}'s mind.
+In the scene where {{% quote type="name" lang="en" %}}Jae Hyun{{% /quote %}} wakes up, it initially appears that he simply left after attempting to attack {{% quote type="name" lang="en" %}}Gyo Jin{{% /quote %}}. However, it's plausible that {{% quote type="name" lang="en" %}}Jae Hyun{{% /quote %}} returned and launched a surprise attack on {{% quote type="name" lang="en" %}}Gyo Jin{{% /quote %}}, who was attempting to wake up his mother. {{% quote type="name" lang="en" %}}Jae Hyun{{% /quote %}} used this opportunity to implant false memories and new commands in {{% quote type="name" lang="en" %}}Gyo Jin{{% /quote %}}'s mind.
 
-There is also a possibility that {{% quote type="title" lang="en" %}}Gyo Jin{{% /quote %}} was in the process of creating a new face to conceal his burned skin. {{% quote type="title" lang="en" %}}Jae Hyun{{% /quote %}} saw it, and created his own face which he then placed on the unconscious {{% quote type="title" lang="en" %}}Gyo Jin{{% /quote %}}.
+There is also a possibility that {{% quote type="name" lang="en" %}}Gyo Jin{{% /quote %}} was in the process of creating a new face to conceal his burned skin. {{% quote type="name" lang="en" %}}Jae Hyun{{% /quote %}} saw it, and created his own face which he then placed on the unconscious {{% quote type="name" lang="en" %}}Gyo Jin{{% /quote %}}.
 
-When {{% quote type="title" lang="en" %}}Jang Do Jin{{% /quote %}} ({{% quote type="title" lang="ko" %}}장도진{{% /quote %}}) arrived later, the person sitting there was actually {{% quote type="title" lang="en" %}}Jae Hyun{{% /quote %}} wearing the face of {{% quote type="title" lang="en" %}}Gyo Jin{{% /quote %}}.
+When {{% quote type="name" lang="en" %}}Jang Do Jin{{% /quote %}} ({{% quote type="name" lang="ko" %}}장도진{{% /quote %}}) arrived later, the person sitting there was actually {{% quote type="name" lang="en" %}}Jae Hyun{{% /quote %}} wearing the face of {{% quote type="name" lang="en" %}}Gyo Jin{{% /quote %}}.
 
-Also noticed how {{% quote type="title" lang="en" %}}Gyo Jin{{% /quote %}}'s mother was supposedly taken by her assistant and was never heard from again? It might be posssible {{% quote type="title" lang="en" %}}Jae Hyun{{% /quote %}} hid her body and told a fake story to{{% quote type="title" lang="en" %}}Do Jin{{% /quote %}}.
+Also noticed how {{% quote type="name" lang="en" %}}Gyo Jin{{% /quote %}}'s mother was supposedly taken by her assistant and was never heard from again? It might be posssible {{% quote type="name" lang="en" %}}Jae Hyun{{% /quote %}} hid her body and told a fake story to{{% quote type="name" lang="en" %}}Do Jin{{% /quote %}}.
 
 ### Option #2: Early programming
 
-This option takes us back to when {{% quote type="title" lang="en" %}}Gyo Jin{{% /quote %}} was first brought into {{% quote type="title" lang="en" %}}Hatch{{% /quote %}}'s laboratory. It is possible that {{% quote type="title" lang="en" %}}Jae Hyun{{% /quote %}} implanted commands into {{% quote type="title" lang="en" %}}Gyo Jin{{% /quote %}}'s brain, which would only be triggered by specific words spoken by {{% quote type="title" lang="en" %}}Jae Hyun{{% /quote %}}.
+This option takes us back to when {{% quote type="name" lang="en" %}}Gyo Jin{{% /quote %}} was first brought into {{% quote type="name" lang="en" %}}Hatch{{% /quote %}}'s laboratory. It is possible that {{% quote type="name" lang="en" %}}Jae Hyun{{% /quote %}} implanted commands into {{% quote type="name" lang="en" %}}Gyo Jin{{% /quote %}}'s brain, which would only be triggered by specific words spoken by {{% quote type="name" lang="en" %}}Jae Hyun{{% /quote %}}.
 
-{{% quote type="title" lang="en" %}}Jae Hyun{{% /quote %}} was established as a character who was always several steps ahead of everyone else, making him a formidable opponent. It is quite possible then, that when he woke up in {{% quote type="title" lang="en" %}}Gyo Jin{{% /quote %}}'s hideout, he spoke the trigger words which caused the false memories and new commands he had implanted to take hold of {{% quote type="title" lang="en" %}}Gyo Jin{{% /quote %}} mind.
+{{% quote type="name" lang="en" %}}Jae Hyun{{% /quote %}} was established as a character who was always several steps ahead of everyone else, making him a formidable opponent. It is quite possible then, that when he woke up in {{% quote type="name" lang="en" %}}Gyo Jin{{% /quote %}}'s hideout, he spoke the trigger words which caused the false memories and new commands he had implanted to take hold of {{% quote type="name" lang="en" %}}Gyo Jin{{% /quote %}} mind.
 
 ### Option #3: Hong Tae Ra never woke up
 
-It is possible that {{% quote type="title" lang="en" %}}Hong Tae Ra{{% /quote %}} ({{% quote type="title" lang="ko" %}}홍태라{{% /quote %}}) is still asleep and dreaming, much like ho they trapped {{% quote type="title" lang="en" %}}Jae Hyun{{% /quote %}} in an endless dream. However, this could only have occurred when {{% quote type="title" lang="en" %}}Tae Ra{{% /quote %}} was first captured.
+It is possible that {{% quote type="name" lang="en" %}}Hong Tae Ra{{% /quote %}} ({{% quote type="name" lang="ko" %}}홍태라{{% /quote %}}) is still asleep and dreaming, much like ho they trapped {{% quote type="name" lang="en" %}}Jae Hyun{{% /quote %}} in an endless dream. However, this could only have occurred when {{% quote type="name" lang="en" %}}Tae Ra{{% /quote %}} was first captured.
 
-In this scenario, everything we witnessed from that episode until the last was simply the dreams she was having, as the story was from {{% quote type="title" lang="en" %}}Tae Ra{{% /quote %}} vantage point.
+In this scenario, everything we witnessed from that episode until the last was simply the dreams she was having, as the story was from {{% quote type="name" lang="en" %}}Tae Ra{{% /quote %}} vantage point.
 
 ### Option #4: They were all implanted by a chip
 
-Unbeknownst to them, all of them had been implanted with a chip by {{% quote type="title" lang="en" %}}Jae Hyun{{% /quote %}} at some point. This chip allowed him to manipulate their memories, issue commands, and even alter their perception of people's faces.
+Unbeknownst to them, all of them had been implanted with a chip by {{% quote type="name" lang="en" %}}Jae Hyun{{% /quote %}} at some point. This chip allowed him to manipulate their memories, issue commands, and even alter their perception of people's faces.
 
-Similar to the previous possibile twists, the person who committed suicide was actually {{% quote type="title" lang="en" %}}Gyo Jin{{% /quote %}}, who had been reprogrammed by {{% quote type="title" lang="en" %}}Jae Hyun{{% /quote %}}. The rest of them at the scene were only seeing an illusion of {{% quote type="title" lang="en" %}}Jae Hyun{{% /quote %}}'s face.
+Similar to the previous possibile twists, the person who committed suicide was actually {{% quote type="name" lang="en" %}}Gyo Jin{{% /quote %}}, who had been reprogrammed by {{% quote type="name" lang="en" %}}Jae Hyun{{% /quote %}}. The rest of them at the scene were only seeing an illusion of {{% quote type="name" lang="en" %}}Jae Hyun{{% /quote %}}'s face.
 
-Years later, {{% quote type="title" lang="en" %}}Jae Hyun{{% /quote %}} visited {{% quote type="title" lang="en" %}}Tae Ra{{% /quote %}} at her home in Switzerland, and the sight of his lightning scars caused {{% quote type="title" lang="en" %}}Tae Ra{{% /quote %}}'s memories to correct itself, revealing {{% quote type="title" lang="en" %}}Jae Hyun{{% /quote %}}'s true identity.
+Years later, {{% quote type="name" lang="en" %}}Jae Hyun{{% /quote %}} visited {{% quote type="name" lang="en" %}}Tae Ra{{% /quote %}} at her home in Switzerland, and the sight of his lightning scars caused {{% quote type="name" lang="en" %}}Tae Ra{{% /quote %}}'s memories to correct itself, revealing {{% quote type="name" lang="en" %}}Jae Hyun{{% /quote %}}'s true identity.
 
 ### Option #5: Jang Gyo Jin is the real mastermind
 
-In this scenario, {{% quote type="title" lang="en" %}}Gyo Jin{{% /quote %}} has been assuming the identity of {{% quote type="title" lang="en" %}}Jae Hyun{{% /quote %}} by using implanted chips to manipulate people's memories, appearance, and actions. He went as far as to murder {{% quote type="title" lang="en" %}}Tae Ra{{% /quote %}} fake sister and was struck by lightning as a result.
+In this scenario, {{% quote type="name" lang="en" %}}Gyo Jin{{% /quote %}} has been assuming the identity of {{% quote type="name" lang="en" %}}Jae Hyun{{% /quote %}} by using implanted chips to manipulate people's memories, appearance, and actions. He went as far as to murder {{% quote type="name" lang="en" %}}Tae Ra{{% /quote %}} fake sister and was struck by lightning as a result.
 
-When {{% quote type="title" lang="en" %}}Tae Ra{{% /quote %}} later saw the lightning marks on {{% quote type="title" lang="en" %}}Gyo Jin{{% /quote %}}'s back, it triggered the false face that was implanted in her mind, causing her to perceive {{% quote type="title" lang="en" %}}Gyo Jin{{% /quote %}} as {{% quote type="title" lang="en" %}}Jae Hyun{{% /quote %}} once again. While the chip was supposedly already removed, both true and false memories are already a part of her.
+When {{% quote type="name" lang="en" %}}Tae Ra{{% /quote %}} later saw the lightning marks on {{% quote type="name" lang="en" %}}Gyo Jin{{% /quote %}}'s back, it triggered the false face that was implanted in her mind, causing her to perceive {{% quote type="name" lang="en" %}}Gyo Jin{{% /quote %}} as {{% quote type="name" lang="en" %}}Jae Hyun{{% /quote %}} once again. While the chip was supposedly already removed, both true and false memories are already a part of her.
 
 ### Option #6: Hong Tae Ra is a test subject
 
-The entire story of {{% quote type="title" lang="en" %}}Pandora: Beneath the Paradise{{% /quote %}} ({{% quote type="title" lang="ko" %}}판도라: 조작된 낙원{{% /quote %}}) appeared to be a collection of memories or a dream by test subject {{% quote type="title" lang="en" %}}Hong Tae Ra{{% /quote %}} ({{% quote type="title" lang="ko" %}}홍태라{{% /quote %}}). In the final scene where {{% quote type="title" lang="en" %}}Tae Ra{{% /quote %}} saw the lightning marks, it was only a programming designed to test how the human brain would react to something unexplainable.
+The entire story of {{% quote type="title" lang="en" %}}Pandora: Beneath the Paradise{{% /quote %}} ({{% quote type="name" lang="ko" %}}판도라: 조작된 낙원{{% /quote %}}) appeared to be a collection of memories or a dream by test subject {{% quote type="name" lang="en" %}}Hong Tae Ra{{% /quote %}} ({{% quote type="name" lang="ko" %}}홍태라{{% /quote %}}). In the final scene where {{% quote type="name" lang="en" %}}Tae Ra{{% /quote %}} saw the lightning marks, it was only a programming designed to test how the human brain would react to something unexplainable.
 
 ### Option #7: Hong Tae Ra was in a virtual world
 
-Have you watched the movie "{{% quote type="title" lang="en" %}}Total Recall{{% /quote %}}"? It is possible that {{% quote type="title" lang="en" %}}Tae Ra{{% /quote %}} was simply playing a game, testing a military technology, or even on a vacation here she chose to play the role of a former assassin. Perhaps {{% quote type="title" lang="en" %}}Tae Ra{{% /quote %}} was simply experiencing her own version of a memory implant or a simulated reality.
+Have you watched the movie "{{% quote type="title" lang="en" %}}Total Recall{{% /quote %}}"? It is possible that {{% quote type="name" lang="en" %}}Tae Ra{{% /quote %}} was simply playing a game, testing a military technology, or even on a vacation here she chose to play the role of a former assassin. Perhaps {{% quote type="name" lang="en" %}}Tae Ra{{% /quote %}} was simply experiencing her own version of a memory implant or a simulated reality.
 
 ## In closing
 
@@ -123,13 +123,13 @@ Personally, I am not a fan of dream-like endings, but this story employs advance
 
 We may never know the answer, but it is worth noting that the literal translation of the Korean title is {{% quote type="title" lang="en" %}}Pandora: A Fabricated Paradise{{% /quote %}} which itself provides us with hints.
 
-1. {{% quote type="title" lang="en" %}}Hong Tae Ra{{% /quote %}} ({{% quote type="title" lang="ko" %}}홍태라{{% /quote %}}) embodies the modern version of Pandora.
+1. {{% quote type="name" lang="en" %}}Hong Tae Ra{{% /quote %}} ({{% quote type="name" lang="ko" %}}홍태라{{% /quote %}}) embodies the modern version of Pandora.
 
 1. Pandora's box represents the chip and mind manipulation technologies used in the show.
 
 1. The show's depiction of the horrific consequences that arise from opening Pandora's box highlights the potential for such technologies to be abused to control people.
 
-1. The notion of a fabricated paradise suggests that {{% quote type="title" lang="en" %}}Hong Tae Ra{{% /quote %}} ({{% quote type="title" lang="ko" %}}홍태라{{% /quote %}})'s life was a fabrication.
+1. The notion of a fabricated paradise suggests that {{% quote type="name" lang="en" %}}Hong Tae Ra{{% /quote %}} ({{% quote type="name" lang="ko" %}}홍태라{{% /quote %}})'s life was a fabrication.
 
     If this last item is the case, then it is highly likely that either Option #6 or Option #7 represents what actually occurred.
 
