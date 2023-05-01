@@ -85,7 +85,7 @@ Also noticed how {{% quote type="title" lang="en" %}}Gyo Jin{{% /quote %}}'s mot
 
 ### Option #2: Early programming
 
-This option takes us back to when {{% quote type="title" lang="en" %}}Gyo Jin{{% /quote %} was first brought into {{% quote type="title" lang="en" %}}Hatch{{% /quote %}}'s laboratory. It is possible that {{% quote type="title" lang="en" %}}Jae Hyun{{% /quote %}} implanted commands into {{% quote type="title" lang="en" %}}Gyo Jin{{% /quote %}}'s brain, which would only be triggered by specific words spoken by {{% quote type="title" lang="en" %}}Jae Hyun{{% /quote %}}.
+This option takes us back to when {{% quote type="title" lang="en" %}}Gyo Jin{{% /quote %}} was first brought into {{% quote type="title" lang="en" %}}Hatch{{% /quote %}}'s laboratory. It is possible that {{% quote type="title" lang="en" %}}Jae Hyun{{% /quote %}} implanted commands into {{% quote type="title" lang="en" %}}Gyo Jin{{% /quote %}}'s brain, which would only be triggered by specific words spoken by {{% quote type="title" lang="en" %}}Jae Hyun{{% /quote %}}.
 
 {{% quote type="title" lang="en" %}}Jae Hyun{{% /quote %}} was established as a character who was always several steps ahead of everyone else, making him a formidable opponent. It is quite possible then, that when he woke up in {{% quote type="title" lang="en" %}}Gyo Jin{{% /quote %}}'s hideout, he spoke the trigger words which caused the false memories and new commands he had implanted to take hold of {{% quote type="title" lang="en" %}}Gyo Jin{{% /quote %}} mind.
 
