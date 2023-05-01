@@ -2,7 +2,7 @@
 title = "パンドラ:操作された楽園説明"
 description = "代替的な結末や代替的な説明はありますか？"
 
-lastmod = 2023-05-01T09:47:25+09:00                 # last update; manually adjust to local timezone
+lastmod = 2023-05-01T10:52:34+09:00                 # last update; manually adjust to local timezone
 publishdate = 2023-05-01T09:22:44+09:00             # first publication; manually adjust to local timezone
 date = 2023-05-01T05:10:50+09:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
@@ -71,7 +71,7 @@ type = "article"                                             # article, sitepage
 
 数年後、スイスでは、{{% quote type="name" lang="ja" %}}将校陣{{% /quote %}} ({{% quote type="name" lang="ko" %}}장교진{{% /quote %}}) が他の人々より先に{{% quote type="name" lang="ja" %}}ホン·テラ{{% /quote %}} ({{% quote type="name" lang="ko" %}}홍태라{{% /quote %}}) の家に到着しました。 彼が新しい服に着替えているとき、{{% quote type="name" lang="ja" %}}校陣{{% /quote %}}には{{% quote type="name" lang="ja" %}}ジェヒョン{{% /quote %}}と同じような特徴的な稲妻の跡があることが明らかになりました。 そしてカメラは彼の顔に向けられ、それは{{% quote type="name" lang="ja" %}}ジェヒョン{{% /quote %}}の顔でした。
 
-## 5つの可能な説明
+## 7つの可能な説明
 
 ### オプション #1: ID スイッチ
 

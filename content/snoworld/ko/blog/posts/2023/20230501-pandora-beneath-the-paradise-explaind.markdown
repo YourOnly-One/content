@@ -1,8 +1,8 @@
 +++
 title = "판도라: 조작된 낙원 설명"
 description = "다른 결말이나 다른 설명이 있나요?"
-
-lastmod = 2023-05-01T09:22:44+09:00                 # last update; manually adjust to local timezone
+s
+lastmod = 2023-05-01T10:52:34+09:00                 # last update; manually adjust to local timezone
 publishdate = 2023-05-01T09:22:44+09:00             # first publication; manually adjust to local timezone
 date = 2023-05-01T05:10:50+09:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
@@ -71,7 +71,7 @@ type = "article"                                             # article, sitepage
 
 몇 년 후, 스위스에서, {{% quote type="name" lang="ko" %}}장교진{{% /quote %}}는 다른 사람들보다 먼저 {{% quote type="name" lang="ko" %}}홍태라{{% /quote %}}의 집에 도착했습니다. 그가 신선한 옷으로 갈아입고 있을 때, {{% quote type="name" lang="ko" %}}교진{{% /quote %}}는 {{% quote type="name" lang="ko" %}}재현{{% /quote %}}와 같은 특징적인 번개 자국을 가지고 있다는 것이 밝혀졌습니다. 그리고 나서 카메라는 그의 얼굴로 이동합니다. 그리고 그것은 {{% quote type="name" lang="ko" %}}재현{{% /quote %}}의 얼굴이었습니다.
 
-## 다섯 가지 가능한 설명
+## 7가지 가능한 설명
 
 ### 옵션 #1: ID 스위치
 

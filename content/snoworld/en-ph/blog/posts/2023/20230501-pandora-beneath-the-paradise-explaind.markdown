@@ -2,7 +2,7 @@
 title = "Pandora: Beneath the Paradise Explained"
 description = "Are there alternate endings or alternate explanations?"
 
-lastmod = 2023-05-01T08:47:25+08:00                 # last update; manually adjust to local timezone
+lastmod = 2023-05-01T09:52:34+08:00                 # last update; manually adjust to local timezone
 publishdate = 2023-05-01T08:22:44+08:00             # first publication; manually adjust to local timezone
 date = 2023-05-01T04:10:50+08:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
@@ -71,7 +71,7 @@ In one of the final scenes, we sa {{% quote type="name" lang="en" %}}Pyo Jae Hyu
 
 A few years later, in Switzerland, {{% quote type="name" lang="en" %}}Jang Gyo Jin{{% /quote %}} ({{% quote type="name" lang="ko" %}}장교진{{% /quote %}}) arrived at {{% quote type="name" lang="en" %}}Hong Tae Ra{{% /quote %}} ({{% quote type="name" lang="ko" %}}홍태라{{% /quote %}})'s home ahead of the others. As he was changing to fresh clothes, it was revealedd that {{% quote type="name" lang="en" %}}Gyo Jin{{% /quote %}} had the sasme distinctive lightning marks as {{% quote type="name" lang="en" %}}Jae Hyun{{% /quote %}}. The camera then pans to hiss face, and it was the face of {{% quote type="name" lang="en" %}}Jae Hyun{{% /quote %}}.
 
-## Five possible explanations
+## Seven possible explanations
 
 ### Option #1: Identity Switch
 
