@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/ja/pandora-paradise-explained-2
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndications = [""]
+syndications = ["https://c.im/@youronlyone/110290856116075584", "https://www.plurk.com/p/p8qjf2", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02WnX3ESGFDLwEdThe2d486JWYtBWLmteSZfnzUPPhb2UkAjjkc8tARBHxvBG3qUzal", "https://twitter.com/YourOnlyONEofcl/status/1652845526885228549"]
 
 channels = ["snoworld"]
 categories = ["tv"]
