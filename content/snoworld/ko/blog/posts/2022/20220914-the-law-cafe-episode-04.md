@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/ko/the-law-cafe-episode-04-chil
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-syndications = ["https://mastodon.social/@youronlyone/108995998492210110", "https://diasp.org/posts/40aa55c01640013b707d28a1592b385a", "https://blog.naver.com/youronlyone-ofcl/222874753785", "https://twitter.com/YourOnlyONEofcl/status/1569977758914322432", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02RL7mEAWkuVq7nwX1HjYNbC68zpmiJWCjHai7twrHEnLjK735DjozoY3WmaMUiEgEl", "https://t.youronly.one/post/695360659924369408/the-law-cafe-episode-4-child-abuse"]
+syndications = ["https://mastodon.social/@youronlyone/108995998492210110", "https://diasp.org/posts/40aa55c01640013b707d28a1592b385a", "https://blog.naver.com/youronlyone-ofcl/222874753785", "https://twitter.com/YourOnlyONEofcl/status/1569977758914322432", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02RL7mEAWkuVq7nwX1HjYNbC68zpmiJWCjHai7twrHEnLjK735DjozoY3WmaMUiEgEl"]
 
 channels = ["snoworld"]
 categories = ["tv"]

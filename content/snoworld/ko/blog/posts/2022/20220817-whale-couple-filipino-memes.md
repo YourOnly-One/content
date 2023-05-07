@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/ko/whale-couple-filipino-memes-
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-syndications = ["https://blog.naver.com/youronlyone-ofcl/222851204830", "https://mastodon.social/@youronlyone/108840783862453723", "https://diasp.org/posts/36cafcd000b1013bbcd228a1592b385a", "https://twitter.com/YourOnlyONEofcl/status/1560038766227599360", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0bwW58dTZGs9KcwDXTEWayYTV7Jxx7nYXt24gUtBQhSuN4LBW7syjNoyDYEQtkEAxl", "https://t.youronly.one/post/692877486393098240/whale-couple-filipino-memes"]
+syndications = ["https://blog.naver.com/youronlyone-ofcl/222851204830", "https://mastodon.social/@youronlyone/108840783862453723", "https://diasp.org/posts/36cafcd000b1013bbcd228a1592b385a", "https://twitter.com/YourOnlyONEofcl/status/1560038766227599360", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0bwW58dTZGs9KcwDXTEWayYTV7Jxx7nYXt24gUtBQhSuN4LBW7syjNoyDYEQtkEAxl"]
 
 channels = ["snoworld"]
 categories = ["literature"]

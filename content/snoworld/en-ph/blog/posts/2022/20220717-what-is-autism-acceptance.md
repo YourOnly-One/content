@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/what-real-autism-acceptance-202
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-syndications = ["https://mastodon.social/@youronlyone/108665167299203215", "https://twitter.com/YourOnlyONEofcl/status/1548804992361869312", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0C2XPNotgM8ou2hMhhxsP2pd9ycAB4h5CJ9u8V59V5QqwTDBLX43nBqHpvPZzBhBjl", "https://t.youronly.one/post/691752640961445888/what-is-autism-acceptance"]
+syndications = ["https://mastodon.social/@youronlyone/108665167299203215", "https://twitter.com/YourOnlyONEofcl/status/1548804992361869312", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0C2XPNotgM8ou2hMhhxsP2pd9ycAB4h5CJ9u8V59V5QqwTDBLX43nBqHpvPZzBhBjl"]
 
 channels = ["snoworld"]
 categories = ["autism"]

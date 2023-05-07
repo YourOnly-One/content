@@ -325,7 +325,6 @@ contenttypes = ["CriticReview"]                                                 
 - 공식 해시태그: **#StartUpPH**
   - [{{% quote type="title" lang="en" %}}Twitter{{% /quote %}}](https://twitter.com/search?q=%23StartUpPH)
   - [{{% quote type="title" lang="en" %}}Facebook{{% /quote %}}](https://www.facebook.com/hashtag/StartUpPH/)
-  - [{{% quote type="title" lang="en" %}}Tumblr{{% /quote %}}](https://www.tumblr.com/tagged/StartUpPH)
 
 내 [](20201225-start-up-2020.md)를 확인하십시오.
 

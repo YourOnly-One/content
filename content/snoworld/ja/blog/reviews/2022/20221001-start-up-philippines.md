@@ -325,7 +325,6 @@ contenttypes = ["CriticReview"]                                                 
 - 公式ハッシュタグ: **#StartUpPH**
   - [{{% quote type="title" lang="en" %}}Twitter{{% /quote %}}](https://twitter.com/search?q=%23StartUpPH)
   - [{{% quote type="title" lang="en" %}}Facebook{{% /quote %}}](https://www.facebook.com/hashtag/StartUpPH/)
-  - [{{% quote type="title" lang="en" %}}Tumblr{{% /quote %}}](https://www.tumblr.com/tagged/StartUpPH)
 
 私の[](20201225-start-up-2020.md)をご覧ください。
 

@@ -19,7 +19,7 @@ relCanonical = "https://im.youronly.one/snoworld/alchemy-of-souls-환혼-2022-se
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
 syndications = ["https://blog.naver.com/youronlyone-ofcl/222862026122",
-"https://mastodon.social/@youronlyone/108909531950140130", "https://twitter.com/YourOnlyONEofcl/status/1564443954585763840", "https://diasp.org/posts/2f6ecc400a3c013b691c28a1592b385a", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0D5NU8xSjZGaeH2aASfQ9rGFUTBcGiipzWbGN53S7KGe46sSL3Xu4QpRdcCoZwjNGl", "https://youronlyoneofcl.wordpress.com/2022/08/30/%e3%80%8aalchemy-of-souls%e3%80%8b-season-01-review/", "https://t.youronly.one/post/693977917258186752/alchemy-of-souls-season-01-review"]
+"https://mastodon.social/@youronlyone/108909531950140130", "https://twitter.com/YourOnlyONEofcl/status/1564443954585763840", "https://diasp.org/posts/2f6ecc400a3c013b691c28a1592b385a", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0D5NU8xSjZGaeH2aASfQ9rGFUTBcGiipzWbGN53S7KGe46sSL3Xu4QpRdcCoZwjNGl", "https://youronlyoneofcl.wordpress.com/2022/08/30/%e3%80%8aalchemy-of-souls%e3%80%8b-season-01-review/"]
 
 channels = ["snoworld"]
 categories = ["tv"]
