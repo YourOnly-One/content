@@ -102,13 +102,13 @@ Some accounts are not listed on this page but are verified via Keybase, Keyoxide
 
 {{< table filename="chat-signed" class="verified">}}
 
-### DDFON
+### Mycelial Web
 
-These are my accounts in the Decentralised, Distributed, Federated, Open, Network; also called the Social Web, Federated SNS, and Decentralised Social Media.
+These are my accounts in the Mycelium Web. These are “Decentralised, Distributed, Federated, Open, Networks”, also called the Social Web.
 
 {{< table filename="ddfon-signed" class="verified">}}
 
-### Independent Walled SNS
+### Walled/Silo SNS
 
 {{< table filename="closed-networks-signed" class="verified">}}
 
@@ -118,7 +118,7 @@ These are my accounts in the Decentralised, Distributed, Federated, Open, Networ
 
 ## Verified by the service
 
-These are the online services which offered manual verification by submitting legal documents.
+Services with manual verification process.
 
 {{< table filename="service-verified-signed" class="verified">}}
 
