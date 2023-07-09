@@ -92,6 +92,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
 
 ### 공식 예고편
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -114,6 +115,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
   attriburl="https://www.youtube.com/channel/UCvC4D8onUfXzvjTOM-dBfEA"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ## 9. 인피니트 (2021)
 
@@ -154,6 +156,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
 
 ### 공식 예고편
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -176,11 +179,13 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 [^b]: Wikipedia: [Infinite (film)](https://en.wikipedia.org/wiki/Infinite_(film))
 
 ## 8. 톰 클랜시의 후회 없는 (2021)
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -205,6 +210,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***Tom Clancy's Without Remorse***는 **Tom Clancy**의 1993년 동명 소설을 기반으로 한 2021년 미국 액션 스릴러 영화입니다. 스테파노 솔리마가 감독하고 테일러 셰리던과 윌 스테이플스가 각본을 썼으며 마이클 B. 조던, 제이미 벨, 조디 터너-스미스, 로렌 런던, 브렛 겔만, 제이콥 스키피오, 잭 케시, 콜먼 도밍고, 가이 피어스가 출연한다. 줄거리는 임신한 아내와 부대원이 러시아 암살자에게 살해당한 후 복수의 길을 나선 미 해군 특수부대원 John Kelly를 따릅니다.[^c]
 
@@ -216,6 +222,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
 
 ### 공식 예고편
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -238,6 +245,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 [^c]: Wikipedia: [Without Remorse (film)](https://en.wikipedia.org/wiki/Without_Remorse_(film))
 
@@ -280,6 +288,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
 
 ### 공식 예고편
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -302,6 +311,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
   attriburl="https://www.youtube.com/channel/UCY115GxFtieYizv-dqQNb6A"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 [^d]: Wikipedia: [A Writer's Odyssey](https://en.wikipedia.org/wiki/A_Writer%27s_Odyssey)
 
@@ -348,6 +358,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
 
 ### 공식 예고편
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -370,11 +381,13 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
   attriburl="https://www.youtube.com/channel/UCQJWtTnAHhEG5w4uN0udnUQ"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 [^e]: Wikipedia: [The Tomorrow War](https://en.wikipedia.org/wiki/The_Tomorrow_War)
 
 ## 5. 샹치와 10개의 반지의 전설 (2021)
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatright"
@@ -399,6 +412,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***Shang-Chi와 The Legend of the Ten Rings***는 **마블 코믹스**를 기반으로 한 2021년 미국 슈퍼히어로 영화로 샹치 캐릭터가 등장합니다. **Marvel Studios**가 제작하고 **Walt Disney Studios Motion Pictures**가 배급하는 이 영화는 **Marvel Cinematic Universe**(MCU)의 25번째 영화입니다. 이 영화는 Dave Callaham, Andrew Lanham과 함께 쓴 시나리오를 바탕으로 Destin Daniel Cretton이 감독했으며 Awkwafina, Meng'er Zhang, Fala Chen, Florian Munteanu, Benedict Wong, Michelle Yeoh, Ben과 함께 Shang-Chi로 Simu Liu가 출연했습니다. 킹슬리, 토니 렁. 영화에서 Shang-Chi는 Ten Rings 조직의 지도자인 그의 아버지 Wenwu(Leung)가 Shang-Chi와 그의 여동생 Xialing(Zhang)을 신화적인 마을을 찾아 신화적인 마을로 끌어들이자 자신의 과거와 마주하게 됩니다.[^f]
 
@@ -412,6 +426,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 
 ### 공식 예고편
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -434,9 +449,11 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
   attriburl="https://www.youtube.com/channel/UCvC4D8onUfXzvjTOM-dBfEA"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ## 4. 미션 파서블 (2021)
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -461,6 +478,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 아니요, 실수가 아니었습니다. 이 영화의 제목은 *미션: 파서블*입니다.
 
@@ -476,6 +494,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 
 ### 공식 예고편
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -498,9 +517,11 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ## 3. 루로니 검심 최종장：The Final (2021)
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatright"
@@ -525,6 +546,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***Rurouni Kenshin: Final***(일본어: ***るろうに剣心 最終章: The Final***)은 2021년 일본의 실사 영화로, 4번째 연재 중인 동명의 만화 시리즈를 원작으로 합니다. 2014년 *루로의 검심: The Legend Ends*에 이은 *루로의 검심* 영화 시리즈. 영화는 일부 스토리 요소가 다르지만 만화 시리즈의 마지막 편을 적용합니다. 이 영화는 *The Final*의 직접적인 프리퀄인 영화 시리즈의 다섯 번째이자 마지막 작품인 *Rurouni Kenshin: The Beginning*과 동시에 제작되었으며 *The Beginning*에서 플래시백 장면을 가져왔습니다.[^h]
 
@@ -536,6 +558,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 
 ### 공식 예고편
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -558,9 +581,11 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
   attriburl="https://www.youtube.com/channel/UCSrwpEM8lBM4jR5YoKX3XOQ"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ## 2. 루로니 검심 최종장：The Beginning (2021)
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -585,6 +610,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***루로니 검신: 더 비기닝***(일: ***루로니 剣心 最終章: 더 비기닝***)은 2021년 일본의 동명의 만화를 원작으로 한 실사 영화입니다. *Rurouni Kenshin* 시리즈의 다섯 번째이자 마지막 작품이며, Himura Kenshin의 기원을 암살자 "Hitokiri Battōsai"로 묘사하면서 Yukishiro Tomoe라는 여성과의 관계를 탐구하는 프리퀄 역할을 합니다. 영화는 *Rurouni Kenshin: The Final*과 동시에 제작되었기 때문에 전자의 사건은 후자에서 직접 참조되며 Tomoe의 형제 Enishi는 *The Beginning*에서 일어난 사건으로 인해 등장합니다.[^i]
 
@@ -596,6 +622,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 
 ### 공식 예고편
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -618,9 +645,11 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
   attriburl="https://www.youtube.com/channel/UCSrwpEM8lBM4jR5YoKX3XOQ"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ## 1. 승리호 (2021)
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatright"
@@ -645,6 +674,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***Space Sweepers***(한국어: ***승리호***, 한자: ***勝利號***)는 조성희 감독의 2021년 대한민국 우주 서부 영화입니다. 기, 김태리, 진선규, 유해진. 2021년 2월 5일 **넷플릭스**에서 개봉한 국내 최초의 우주 블록버스터.[^j] 대한민국 최초의 우주 SF 드라마입니다. 우주로의 첫 모험을 위해 그들은 실망시키지 않았으며 쇼의 깊은 이야기와 잊을 수 없는 우주 모험에 관객들이 경외심을 갖도록 했습니다.
 
@@ -658,6 +688,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 
 ### 공식 예고편
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -680,6 +711,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
   attriburl="https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ### 시청할 곳
 
@@ -693,6 +725,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 
 ### 1. 듄 (2021)
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -717,6 +750,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***Dune***(화면에서 ***Dune: Part One***으로 제목)은 Denis Villeneuve가 감독하고 Villeneuve, Jon Spaihts 및 Eric Roth가 집필한 2021년 미국 서사 SF 영화입니다. 1965년 **Frank Herbert**의 소설을 2부작으로 각색한 계획의 첫 번째 작품으로, 주로 책의 전반부를 다루고 있습니다. 먼 미래를 배경으로, 그의 가족인 고귀한 아트레이드 가문이 치명적이고 척박한 사막 행성 아라키스를 위한 전쟁에 휘말리면서 Paul Atreides가 따라갑니다. 앙상블 캐스트에는 Timothée Chalamet, Rebecca Ferguson, Oscar Isaac, Josh Brolin, Stellan Skarsgård, Dave Bautista, Stephen McKinley Henderson, Zendaya, David Dastmalchian, Chang Chen, Sharon Duncan-Brewster, Charlotte Rampling, Jason Momoa 및 Javi가 있습니다.[^k]
 
@@ -728,6 +762,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 
 #### 공식 예고편
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -750,9 +785,11 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
   attriburl="https://www.youtube.com/channel/UCjmJDM5pRKbUlVIzDYYWb6g"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ### 2. F9 (2021)
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatright"
@@ -777,6 +814,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***F9***(****F9: The Fast Saga*** 및 국제적으로 ***분노의 질주 9***라고도 함)는 Justin Lin이 감독한 2021년 미국 액션 영화로, 다니엘 케이시와 린. *분노의 질주* 프랜차이즈의 9번째 본편이자 10번째 장편 영화인 *분노의 질주*(2017)의 속편입니다. 이 영화에는 빈 디젤, 미셸 로드리게스, 타이레스 깁슨, 크리스 "루다크리스" 브리지스, 존 시나, 나탈리 엠마누엘, 조다나 브루스터, 강성, 마이클 루커, 헬렌 미렌, 커트 러셀, 샤를리즈 테론 등이 출연한다. F9에서 Dominic Toretto와 팀은 Toretto의 형제 Jakob이 이끄는 세계를 뒤흔드는 음모를 저지하기 위해 함께 합니다.[^l]
 
@@ -788,6 +826,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 
 #### 공식 예고편
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -810,6 +849,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
   attriburl="https://www.youtube.com/channel/UCJCx8aQrdx_ueXPmxTD2odQ"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ## 마지막 단어
 
@@ -819,6 +859,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 
 ---
 
+<!-- markdownlint-disable -->
 {{< image
   type="imagecoverattrib"
 
@@ -839,7 +880,9 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
   attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
+<!-- markdownlint-enable -->
 
+<!-- markdownlint-disable -->
 {{< image
   type="imagecoverattrib"
 
@@ -860,7 +903,9 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
   attriburl="https://www.allaboutlean.com"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
+<!-- markdownlint-disable -->
 {{< image
   type="imagecoverattrib"
 
@@ -879,6 +924,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
   attriburl="https://pixabay.com/users/monfocus-2516394/"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ---
 

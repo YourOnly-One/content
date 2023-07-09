@@ -92,14 +92,15 @@ Even though the time period of *Black Widow* in **Marvel Cinematic Universe** ti
 
 ### Official trailer
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
   id="Fp9pNPdNwjI"
   linkrel="noopener external nofollow"
 
-  title="Marvel Studios’ Black Widow | New Trailer"
-  caption="'We have unfinished business.' See Marvel Studios' 'Black Widow' in theaters or on Disney+ with Premier Access on July 9. Additional fee required."
+  title="Marvel Studios Black Widow | New Trailer"
+  caption="We have unfinished business. See Marvel Studios Black Widow in theaters or on Disney+ with Premier Access on July 9. Additional fee required."
   inlanguage="en"
 
   datepublished="2021-04-04"
@@ -114,6 +115,7 @@ Even though the time period of *Black Widow* in **Marvel Cinematic Universe** ti
   attriburl="https://www.youtube.com/channel/UCvC4D8onUfXzvjTOM-dBfEA"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ## 9. Infinite (2021)
 
@@ -181,6 +183,7 @@ The action scenes and effects were great but unfortunately it lacks depth. It wo
 
 ## 8. Tom Clancy's Without Remorse (2021)
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -205,6 +208,7 @@ The action scenes and effects were great but unfortunately it lacks depth. It wo
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***Tom Clancy's Without Remorse*** is a 2021 American action thriller film based on the 1993 novel of the same name by **Tom Clancy**. It is directed by Stefano Sollima and written by Taylor Sheridan and Will Staples, and stars Michael B. Jordan, Jamie Bell, Jodie Turner-Smith, Lauren London, Brett Gelman, Jacob Scipio, Jack Kesy, Colman Domingo and Guy Pearce. The plot follows John Kelly, a U.S. Navy SEAL who sets out on a path of revenge after his pregnant wife and unit members are killed by Russian hitmen.[^c]
 
@@ -280,6 +284,7 @@ If you are looking for a good Chinese drama, I recommend *A Writer's Odyssey*. I
 
 ### Official trailer
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -302,6 +307,7 @@ If you are looking for a good Chinese drama, I recommend *A Writer's Odyssey*. I
   attriburl="https://www.youtube.com/channel/UCY115GxFtieYizv-dqQNb6A"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 [^d]: Wikipedia: [A Writer's Odyssey](https://en.wikipedia.org/wiki/A_Writer%27s_Odyssey)
 
@@ -348,6 +354,7 @@ A rating of 6.6 out of 10 from 180,330 votes is in from *IMDb*. It also gathered
 
 ### Official trailer
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -370,11 +377,13 @@ A rating of 6.6 out of 10 from 180,330 votes is in from *IMDb*. It also gathered
   attriburl="https://www.youtube.com/channel/UCQJWtTnAHhEG5w4uN0udnUQ"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 [^e]: Wikipedia: [The Tomorrow War](https://en.wikipedia.org/wiki/The_Tomorrow_War)
 
 ## 5. Shang-Chi and the Legend of the Ten Rings (2021)
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatright"
@@ -399,6 +408,7 @@ A rating of 6.6 out of 10 from 180,330 votes is in from *IMDb*. It also gathered
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***Shang-Chi and the Legend of the Ten Rings*** is a 2021 American superhero film based on **Marvel Comics** featuring the character Shang-Chi. Produced by **Marvel Studios** and distributed by **Walt Disney Studios Motion Pictures**, it is the 25<sup>th</sup> film in the **Marvel Cinematic Universe** (MCU). The film was directed by Destin Daniel Cretton, from a screenplay he wrote with Dave Callaham and Andrew Lanham, and stars Simu Liu as Shang-Chi alongside Awkwafina, Meng'er Zhang, Fala Chen, Florian Munteanu, Benedict Wong, Michelle Yeoh, Ben Kingsley, and Tony Leung. In the film, Shang-Chi is forced to confront his past when his father Wenwu (Leung), the leader of the Ten Rings organization, draws Shang-Chi and his sister Xialing (Zhang) into a search for a mythical village.[^f]
 
@@ -412,6 +422,7 @@ It received got 4.6 out of 5 stars from 13,725 votes in Google Search; and 7.5 o
 
 ### Official trailer
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -434,9 +445,11 @@ It received got 4.6 out of 5 stars from 13,725 votes in Google Search; and 7.5 o
   attriburl="https://www.youtube.com/channel/UCvC4D8onUfXzvjTOM-dBfEA"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ## 4. Mission: Possible (2021)
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -461,6 +474,7 @@ It received got 4.6 out of 5 stars from 13,725 votes in Google Search; and 7.5 o
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 No, it was not a mistake, this film's title is *Mission: Possible*.
 
@@ -501,6 +515,7 @@ It is a story of a rookie female Chinese secret agent sent on a mission to track
 
 ## 3. Rurouni Kenshin: The Final (2021)
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatright"
@@ -525,6 +540,7 @@ It is a story of a rookie female Chinese secret agent sent on a mission to track
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***Rurouni Kenshin: The Final*** (Japanese: ***るろうに剣心 最終章：The Final***) is a 2021 Japanese live-action film based on the manga series of the same name serving as the fourth installment of the *Rurouni Kenshin* film series following 2014's *Rurouni Kenshin: The Legend Ends*. The film adapts the manga series' final arc, though some story elements differ. The film was produced simultaneously alongside the film series' fifth and final installment *Rurouni Kenshin: The Beginning*, which serves as a direct prequel to *The Final*, with flashback scenes being taken from *The Beginning*.[^h]
 
@@ -536,6 +552,7 @@ If you are a fan of anime and manga *Rurouni Kenshin*, or *Samurai X* as it is k
 
 ### Official trailer
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -558,9 +575,11 @@ If you are a fan of anime and manga *Rurouni Kenshin*, or *Samurai X* as it is k
   attriburl="https://www.youtube.com/channel/UCSrwpEM8lBM4jR5YoKX3XOQ"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ## 2. Rurouni Kenshin: The Beginning (2021)
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -585,6 +604,7 @@ If you are a fan of anime and manga *Rurouni Kenshin*, or *Samurai X* as it is k
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***Rurouni Kenshin: The Beginning*** (Japanese: ***るろうに剣心 最終章：The Beginning***) is a 2021 Japanese live-action film based upon the manga series of the same name. It is the fifth and final installment of the *Rurouni Kenshin* film series and serves as a prequel, depicting Himura Kenshin's origins as the assassin "Hitokiri Battōsai", while exploring his relationship with the woman named Yukishiro Tomoe. As the film was produced simultaneously alongside *Rurouni Kenshin: The Final*, events in the former are directly referenced in the latter, with Tomoe's brother Enishi appearing due to events that transpired in *The Beginning*.[^i]
 
@@ -596,6 +616,7 @@ If you are a fan of anime and manga *Rurouni Kenshin*, or *Samurai X* as it is k
 
 ### Official trailer
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -618,9 +639,11 @@ If you are a fan of anime and manga *Rurouni Kenshin*, or *Samurai X* as it is k
   attriburl="https://www.youtube.com/channel/UCSrwpEM8lBM4jR5YoKX3XOQ"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ## 1. Space Sweepers (2021)
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatright"
@@ -645,6 +668,7 @@ If you are a fan of anime and manga *Rurouni Kenshin*, or *Samurai X* as it is k
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***Space Sweepers*** (Korean: ***승리호***; Hanja: ***勝利號***) is a 2021 South Korean space Western film directed by Jo Sung-hee, starring Song Joong-ki, Kim Tae-ri, Jin Seon-kyu and Yoo Hae-jin. Regarded as the first Korean space blockbuster, it was released on **Netflix** on February 5, 2021.[^j] It is South Korea’s first-ever space science fiction show. For their first venture into space, they did not disappoint and made sure audiences were awed by the show’s deep story and unforgettable space adventure.
 
@@ -658,6 +682,7 @@ Can you guess how many languages were spoken and nationalities represented in �
 
 ### Official trailer
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -680,6 +705,7 @@ Can you guess how many languages were spoken and nationalities represented in �
   attriburl="https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ### Where to watch
 
@@ -693,6 +719,7 @@ Our review of *Space Sweepers* is available separately: [](20210206-space-sweepe
 
 ### 1. Dune (2021)
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -717,6 +744,7 @@ Our review of *Space Sweepers* is available separately: [](20210206-space-sweepe
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***Dune*** (titled onscreen as ***Dune: Part One***) is a 2021 American epic science fiction film directed by Denis Villeneuve and written by Villeneuve, Jon Spaihts, and Eric Roth. It is the first of a planned two-part adaptation of the 1965 novel by **Frank Herbert**, primarily covering the first half of the book. Set in the far future, it follows Paul Atreides as his family, the noble House Atreides, is thrust into a war for the deadly and inhospitable desert planet Arrakis. The ensemble cast includes Timothée Chalamet, Rebecca Ferguson, Oscar Isaac, Josh Brolin, Stellan Skarsgård, Dave Bautista, Stephen McKinley Henderson, Zendaya, David Dastmalchian, Chang Chen, Sharon Duncan-Brewster, Charlotte Rampling, Jason Momoa, and Javier Bardem.[^k]
 
@@ -728,6 +756,7 @@ Our review of *Space Sweepers* is available separately: [](20210206-space-sweepe
 
 #### Official trailer
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -750,9 +779,11 @@ Our review of *Space Sweepers* is available separately: [](20210206-space-sweepe
   attriburl="https://www.youtube.com/channel/UCjmJDM5pRKbUlVIzDYYWb6g"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ### 2. F9 (2021)
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatright"
@@ -777,6 +808,7 @@ Our review of *Space Sweepers* is available separately: [](20210206-space-sweepe
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***F9*** (also known as ***F9: The Fast Saga*** and internationally as ***Fast & Furious 9***) is a 2021 American action film directed by Justin Lin from a screenplay by Daniel Casey and Lin. It is the sequel to *The Fate of the Furious* (2017), the ninth main installment, and the tenth full-length film in the *Fast & Furious* franchise. The film stars Vin Diesel, Michelle Rodriguez, Tyrese Gibson, Chris "Ludacris" Bridges, John Cena, Nathalie Emmanuel, Jordana Brewster, Sung Kang, Michael Rooker, Helen Mirren, Kurt Russell, and Charlize Theron. In F9, Dominic Toretto and the team come together to stop a world-shattering plot headed by Toretto's brother, Jakob.[^l]
 
@@ -788,6 +820,7 @@ You know what they say, *family*, and that's basically everything about *F9* and
 
 #### Official trailer
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -810,6 +843,7 @@ You know what they say, *family*, and that's basically everything about *F9* and
   attriburl="https://www.youtube.com/channel/UCJCx8aQrdx_ueXPmxTD2odQ"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ## Final words
 
@@ -819,6 +853,7 @@ How about you? What is ***YourOnly.One Top 10 Movies of 2021***?
 
 ---
 
+<!-- markdownlint-disable -->
 {{< image
   type="imagecoverattrib"
 
@@ -839,7 +874,9 @@ How about you? What is ***YourOnly.One Top 10 Movies of 2021***?
   attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
+<!-- markdownlint-enable -->
 
+<!-- markdownlint-disable -->
 {{< image
   type="imagecoverattrib"
 
@@ -860,7 +897,9 @@ How about you? What is ***YourOnly.One Top 10 Movies of 2021***?
   attriburl="https://www.allaboutlean.com"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
+<!-- markdownlint-disable -->
 {{< image
   type="imagecoverattrib"
 
@@ -879,3 +918,4 @@ How about you? What is ***YourOnly.One Top 10 Movies of 2021***?
   attriburl="https://pixabay.com/users/monfocus-2516394/"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->

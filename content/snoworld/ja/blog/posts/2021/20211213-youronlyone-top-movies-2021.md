@@ -92,6 +92,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
 
 ### 公式予告編
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -114,6 +115,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
   attriburl="https://www.youtube.com/channel/UCvC4D8onUfXzvjTOM-dBfEA"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ## 9. インフィニット（2021）
 
@@ -154,6 +156,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
 
 ### 公式予告編
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -176,11 +179,13 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 [^b]: Wikipedia: [Infinite (film)](https://en.wikipedia.org/wiki/Infinite_(film))
 
 ## 8. トム・クランシーのウィズアウト・リモース（2021）
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -205,6 +210,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***トムクランシーのウィズアウトリモース***は、**トムクランシー**による同名の1993年の小説に基づいた2021年のアメリカのアクションスリラー映画です。 監督はステファノ・ソリマ、脚本はテイラー・シェリダンとウィル・ステープルズ、主演はマイケル・B・ジョーダン、ジェイミー・ベル、ジョディ・ターナー・スミス、ローレン・ロンドン、ブレット・ゲルマン、ジェイコブ・シピオ、ジャック・ケシー、コールマン・ドミンゴ、ガイ・ピアース。 プロットは、妊娠中の妻と部隊のメンバーがロシアの殺し屋に殺された後、復讐の道を歩み始めた米海軍シールのジョン・ケリーに続く。[^c]
 
@@ -216,6 +222,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
 
 ### 公式予告編
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -238,6 +245,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 [^c]: Wikipedia: [Without Remorse (film)](https://en.wikipedia.org/wiki/Without_Remorse_(film))
 
@@ -280,6 +288,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
 
 ### 公式予告編
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -302,6 +311,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
   attriburl="https://www.youtube.com/channel/UCY115GxFtieYizv-dqQNb6A"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 [^d]: Wikipedia: [A Writer's Odyssey](https://en.wikipedia.org/wiki/A_Writer%27s_Odyssey)
 
@@ -348,6 +358,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
 
 ### 公式予告編
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -370,11 +381,13 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
   attriburl="https://www.youtube.com/channel/UCQJWtTnAHhEG5w4uN0udnUQ"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 [^e]: Wikipedia: [The Tomorrow War](https://en.wikipedia.org/wiki/The_Tomorrow_War)
 
 ## 5. シャンチーとテンリングの伝説（2021年）
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatright"
@@ -399,6 +412,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***シャンチーとテンリングの伝説***は、キャラクターシャンチーをフィーチャーした**マーベルコミック**をベースにした2021年のアメリカのスーパーヒーロー映画です。 **マーベルスタジオ**によって制作され、**ウォルトディズニースタジオモーションピクチャーズ**によって配布されたこの映画は、**マーベルシネマティックユニバース**（MCU）の25番目の映画です。 この映画は、デイブ・カラーハンとアンドリュー・ランハムと一緒に書いた脚本から、デスティン・ダニエル・クレットンが監督し、シム・リウがオークワフィナ、メンガー・チャン、ファラ・チェン、フロリアン・ムンテアヌ、ベネディクト・ウォン、ミシェール・ヨー、ベンと並んでシャン・チーとして出演しています。 キングズレー、トニー・レオン。 映画の中で、シャンチーは、テンリング組織のリーダーである父親のウェンウー（レオン）がシャンチーと妹のシャリン（チャン）を神話上の村の探求に引き込むときに、彼の過去に立ち向かうことを余儀なくされています。[^f]
 
@@ -412,6 +426,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 
 ### 公式予告編
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -434,9 +449,11 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
   attriburl="https://www.youtube.com/channel/UCvC4D8onUfXzvjTOM-dBfEA"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ## 4. ミッションパーサブル（2021）
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -461,6 +478,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 いいえ、それは間違いではありませんでした。この映画のタイトルは*ミッション：ポッシブル*です。
 
@@ -476,6 +494,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 
 ### 公式予告編
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -498,9 +517,11 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ## 3. るろうに剣心 最終章：The Final (2021)
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatright"
@@ -525,6 +546,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***るろうに剣心：決勝***（日本語：***るろうに剣心最終章：決勝***）は、第4回目となる同名のマンガシリーズをベースにした2021年の日本の実写映画です。 2014年の*るろうに剣心伝説の終焉*に続く*るろうに剣心*映画シリーズの いくつかのストーリー要素は異なりますが、この映画はマンガシリーズの最終回を適応させています。 この映画は、映画シリーズの第5作目と最終回の《るろうに剣心最終編》と同時に制作されました。これは、《決勝戦》の直接の前編であり、フラッシュバックシーンは《始まり》から取られています。[^h]
 
@@ -536,6 +558,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 
 ### 公式予告編
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -558,9 +581,11 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
   attriburl="https://www.youtube.com/channel/UCSrwpEM8lBM4jR5YoKX3XOQ"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ## 2. るろうに剣心 最終章：The Beginning (2021)
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -585,6 +610,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***るろうに剣心：始まり***（日本語：***るろうに剣心最終章：始まり***）は、同名の漫画シリーズを基にした2021年の日本の実写映画です。 『るろうに剣心』シリーズの最終回となる第5弾で、緋村剣心の暗殺者《ひときりばっとさい》を描いた前編であり、雪代巴という女性との関係を探る。 この映画は*るろうに剣心最終*と同時に制作されたため、前者のイベントは後者で直接参照され、*始まり*で発生したイベントのために巴の兄弟の雪代縁が登場します。[^i]
 
@@ -596,6 +622,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 
 ### 公式予告編
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -618,9 +645,11 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
   attriburl="https://www.youtube.com/channel/UCSrwpEM8lBM4jR5YoKX3XOQ"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ## 1. スンリホ（2021）
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatright"
@@ -645,6 +674,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***スペーススウィーパーズ***（韓国語：***승리호***;ハンジャ：***記念號***）は、ソン・ジュンギ主演のチョ・ソンヒ監督の2021年の韓国の宇宙西部劇映画です。 キ、キム・テリ、チン・ソンギュ、ユ・ヘジン。 韓国初の宇宙大ヒット作と見なされ、2021年2月5日に**Netflix**でリリースされました。[^j]これは韓国初の宇宙SFショーです。 宇宙への最初の冒険のために、彼らは失望せず、観客がショーの深い物語と忘れられない宇宙の冒険に畏敬の念を抱くことを確認しました。
 
@@ -658,6 +688,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 
 ### 公式予告編
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -680,6 +711,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
   attriburl="https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ### 見る場所
 
@@ -693,6 +725,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 
 ### 1. 砂丘（2021）
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -717,6 +750,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***デューン***（画面上で***デューン：パート1***と題されています）は、デニスヴィルヌーヴが監督し、ヴィルヌーヴ、ジョンスペイツ、エリックロスが書いた2021年のアメリカの壮大なSF映画です。 これは、主に本の前半をカバーする、**フランクハーバート**による1965年の小説の計画された2部構成の最初のものです。 遠い未来を舞台に、彼の家族である高貴なアトレイデ家が、致命的で人を寄せ付けない砂漠の惑星アラキスとの戦争に突入したとき、それはポール・アトレイデスに続きます。 アンサンブルキャストには、ティモシーシャラメ、レベッカファーガソン、オスカーアイザック、ジョシュブローリン、ステランスカルスガルド、デイブバウティスタ、スティーブンマッキンリーヘンダーソン、ゼンデイヤ、デビッドダストマルシャン、チャンチェン、シャロンダンカンブリュースター、シャーロットランプリング、ジェイソンモモア、ハビエルバルデムが含まれます。[^k]
 
@@ -728,6 +762,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 
 #### 公式予告編
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -750,9 +785,11 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
   attriburl="https://www.youtube.com/channel/UCjmJDM5pRKbUlVIzDYYWb6g"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ### 2. F9（2021）
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatright"
@@ -777,6 +814,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***F9***（***F9：The Fast Saga***としても知られています。国際的には***Fast＆Furious 9***としても知られています）は、ジャスティン・リンが脚本から監督した2021年のアメリカのアクション映画です。 ダニエルケイシーとリン。 これは、*The Fate of the Furious*（2017）の続編であり、9番目のメインの記事であり、*Fast＆Furious*フランチャイズの10番目の長編映画です。 映画の主演は、ヴィンディーゼル、ミシェルロドリゲス、タイリースギブソン、クリス "リュダクリス"ブリッジ、ジョンセナ、ナタリーエマニュエル、ジョーダナブリュースター、サンカン、マイケルルーカー、ヘレンミレン、カートラッセル、シャーリーズセロンです。 F9では、ドミニク・トレットとチームが協力して、トレットの兄弟であるヤコブが率いる世界を破壊する陰謀を阻止します。[^l]
 
@@ -788,6 +826,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 
 #### 公式予告編
 
+<!-- markdownlint-disable -->
 {{< video
   platform="youtube"
 
@@ -810,6 +849,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
   attriburl="https://www.youtube.com/channel/UCJCx8aQrdx_ueXPmxTD2odQ"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ## 最後の言葉
 
@@ -819,6 +859,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 
 ---
 
+<!-- markdownlint-disable -->
 {{< image
   type="imagecoverattrib"
 
@@ -839,7 +880,9 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
   attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
+<!-- markdownlint-enable -->
 
+<!-- markdownlint-disable -->
 {{< image
   type="imagecoverattrib"
 
@@ -860,7 +903,9 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
   attriburl="https://www.allaboutlean.com"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
+<!-- markdownlint-disable -->
 {{< image
   type="imagecoverattrib"
 
@@ -879,6 +924,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
   attriburl="https://pixabay.com/users/monfocus-2516394/"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ---
 
