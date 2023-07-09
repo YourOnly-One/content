@@ -111,7 +111,7 @@ Even though the time period of *Black Widow* in **Marvel Cinematic Universe** ti
   licensename="All Rights Reserved"
 
   attribto="Marvel Entertainment"
-  attriburl="<https://www.youtube.com/channel/UCvC4D8onUfXzvjTOM-dBfEA>"
+  attriburl="https://www.youtube.com/channel/UCvC4D8onUfXzvjTOM-dBfEA"
   attribrel="noopener external nofollow"
 >}}
 
@@ -187,8 +187,8 @@ The action scenes and effects were great but unfortunately it lacks depth. It wo
 
   isrepresentativeofpage=false
 
-  src="<https://upload.wikimedia.org/wikipedia/en/f/f7/Without_Remorse_poster.jpg>"
-  link="<https://en.wikipedia.org/wiki/File:Without_Remorse_poster.jpg#/media/File:Without_Remorse_poster.jpg>"
+  src="https://upload.wikimedia.org/wikipedia/en/f/f7/Without_Remorse_poster.jpg"
+  link="https://en.wikipedia.org/wiki/File:Without_Remorse_poster.jpg#/media/File:Without_Remorse_poster.jpg"
   linkrel="noopener external nofollow"
 
   title="Without Remorse (2021)"
@@ -198,7 +198,7 @@ The action scenes and effects were great but unfortunately it lacks depth. It wo
   inlanguage="en"
 
   licensecode="allrightsreserved"
-  licenseurl="<https://en.wikipedia.org/wiki/File:Without_Remorse_poster.jpg>"
+  licenseurl="https://en.wikipedia.org/wiki/File:Without_Remorse_poster.jpg"
   licensename="All Rights Reserved"
 
   attribto="Paramount Pictures"
@@ -299,7 +299,7 @@ If you are looking for a good Chinese drama, I recommend *A Writer's Odyssey*. I
   licensename="All Rights Reserved"
 
   attribto="CMC Pictures"
-  attriburl="<https://www.youtube.com/channel/UCY115GxFtieYizv-dqQNb6A>"
+  attriburl="https://www.youtube.com/channel/UCY115GxFtieYizv-dqQNb6A"
   attribrel="noopener external nofollow"
 >}}
 
@@ -367,7 +367,7 @@ A rating of 6.6 out of 10 from 180,330 votes is in from *IMDb*. It also gathered
   licensename="All Rights Reserved"
 
   attribto="Amazon Prime Video"
-  attriburl="<https://www.youtube.com/channel/UCQJWtTnAHhEG5w4uN0udnUQ>"
+  attriburl="https://www.youtube.com/channel/UCQJWtTnAHhEG5w4uN0udnUQ"
   attribrel="noopener external nofollow"
 >}}
 
@@ -381,8 +381,8 @@ A rating of 6.6 out of 10 from 180,330 votes is in from *IMDb*. It also gathered
 
   isrepresentativeofpage=false
 
-  src="<https://upload.wikimedia.org/wikipedia/en/7/74/Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.jpeg>"
-  link="<https://en.wikipedia.org/wiki/File:Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.jpeg#/media/File:Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.jpeg>"
+  src="https://upload.wikimedia.org/wikipedia/en/7/74/Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.jpeg"
+  link="https://en.wikipedia.org/wiki/File:Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.jpeg#/media/File:Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.jpeg"
   linkrel="noopener external nofollow"
 
   title="Shang-Chi and the Legend of the Ten Rings (2021)"
@@ -392,7 +392,7 @@ A rating of 6.6 out of 10 from 180,330 votes is in from *IMDb*. It also gathered
   inlanguage="en"
 
   licensecode="allrightsreserved"
-  licenseurl="<https://en.wikipedia.org/wiki/File:Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.jpeg>"
+  licenseurl="https://en.wikipedia.org/wiki/File:Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.jpeg"
   licensename="All Rights Reserved"
 
   attribto="Marvel Studios"
@@ -431,7 +431,7 @@ It received got 4.6 out of 5 stars from 13,725 votes in Google Search; and 7.5 o
   licensename="All Rights Reserved"
 
   attribto="Marven Entertainment"
-  attriburl="<https://www.youtube.com/channel/UCvC4D8onUfXzvjTOM-dBfEA>"
+  attriburl="https://www.youtube.com/channel/UCvC4D8onUfXzvjTOM-dBfEA"
   attribrel="noopener external nofollow"
 >}}
 
@@ -443,8 +443,8 @@ It received got 4.6 out of 5 stars from 13,725 votes in Google Search; and 7.5 o
 
   isrepresentativeofpage=false
 
-  src="<https://upload.wikimedia.org/wikipedia/en/7/71/Mission_Possible.jpg>"
-  link="<https://en.wikipedia.org/wiki/File:Mission_Possible.jpg#/media/File:Mission_Possible.jpg>"
+  src="https://upload.wikimedia.org/wikipedia/en/7/71/Mission_Possible.jpg"
+  link="https://en.wikipedia.org/wiki/File:Mission_Possible.jpg#/media/File:Mission_Possible.jpg"
   linkrel="noopener external nofollow"
 
   title="Mission: Possible 미션 파서블 (2021)"
@@ -454,7 +454,7 @@ It received got 4.6 out of 5 stars from 13,725 votes in Google Search; and 7.5 o
   inlanguage="ko"
 
   licensecode="allrightsreserved"
-  licenseurl="<https://en.wikipedia.org/wiki/File:Mission_Possible.jpg>"
+  licenseurl="https://en.wikipedia.org/wiki/File:Mission_Possible.jpg"
   licensename="All Rights Reserved"
 
   attribto="Gnosis Company; Merry Christmas Co. Ltd."
@@ -507,8 +507,8 @@ It is a story of a rookie female Chinese secret agent sent on a mission to track
 
   isrepresentativeofpage=false
 
-  src="<https://upload.wikimedia.org/wikipedia/en/a/ac/Rurouni_Kenshin_The_Final.jpg>"
-  link="<https://en.wikipedia.org/wiki/File:Rurouni_Kenshin_The_Final.jpg#/media/File:Rurouni_Kenshin_The_Final.jpg>"
+  src="https://upload.wikimedia.org/wikipedia/en/a/ac/Rurouni_Kenshin_The_Final.jpg"
+  link="https://en.wikipedia.org/wiki/File:Rurouni_Kenshin_The_Final.jpg#/media/File:Rurouni_Kenshin_The_Final.jpg"
   linkrel="noopener external nofollow"
 
   title="Rurouni Kenshin: The Final るろうに剣心 最終章：The Final (2021)"
@@ -518,7 +518,7 @@ It is a story of a rookie female Chinese secret agent sent on a mission to track
   inlanguage="ja"
 
   licensecode="allrightsreserved"
-  licenseurl="<https://en.wikipedia.org/wiki/File:Rurouni_Kenshin_The_Final.jpg>"
+  licenseurl="https://en.wikipedia.org/wiki/File:Rurouni_Kenshin_The_Final.jpg"
   licensename="All Rights Reserved"
 
   attribto="Warner Bros. Pictures (Japan); Netflix (Worldwide)"
@@ -555,7 +555,7 @@ If you are a fan of anime and manga *Rurouni Kenshin*, or *Samurai X* as it is k
   licensename="All Rights Reserved"
 
   attribto="ワーナー ブラザース 公式チャンネル"
-  attriburl="<https://www.youtube.com/channel/UCSrwpEM8lBM4jR5YoKX3XOQ>"
+  attriburl="https://www.youtube.com/channel/UCSrwpEM8lBM4jR5YoKX3XOQ"
   attribrel="noopener external nofollow"
 >}}
 
@@ -567,8 +567,8 @@ If you are a fan of anime and manga *Rurouni Kenshin*, or *Samurai X* as it is k
 
   isrepresentativeofpage=false
 
-  src="<https://upload.wikimedia.org/wikipedia/en/5/57/Rurouni_Kenshin_The_Beginning.jpg>"
-  link="<https://en.wikipedia.org/wiki/File:Rurouni_Kenshin_The_Beginning.jpg#/media/File:Rurouni_Kenshin_The_Beginning.jpg>"
+  src="https://upload.wikimedia.org/wikipedia/en/5/57/Rurouni_Kenshin_The_Beginning.jpg"
+  link="https://en.wikipedia.org/wiki/File:Rurouni_Kenshin_The_Beginning.jpg#/media/File:Rurouni_Kenshin_The_Beginning.jpg"
   linkrel="noopener external nofollow"
 
   title="Rurouni Kenshin: The Beginning るろうに剣心 最終章：The Beginning (2021)"
@@ -578,7 +578,7 @@ If you are a fan of anime and manga *Rurouni Kenshin*, or *Samurai X* as it is k
   inlanguage="ja"
 
   licensecode="allrightsreserved"
-  licenseurl="<https://en.wikipedia.org/wiki/File:Rurouni_Kenshin_The_Beginning.jpg>"
+  licenseurl="https://en.wikipedia.org/wiki/File:Rurouni_Kenshin_The_Beginning.jpg"
   licensename="All Rights Reserved"
 
   attribto="Warner Bros. Pictures (Japan); Netflix (Worldwide)"
@@ -615,7 +615,7 @@ If you are a fan of anime and manga *Rurouni Kenshin*, or *Samurai X* as it is k
   licensename="All Rights Reserved"
 
   attribto="ワーナー ブラザース 公式チャンネル"
-  attriburl="<https://www.youtube.com/channel/UCSrwpEM8lBM4jR5YoKX3XOQ>"
+  attriburl="https://www.youtube.com/channel/UCSrwpEM8lBM4jR5YoKX3XOQ"
   attribrel="noopener external nofollow"
 >}}
 
@@ -627,8 +627,8 @@ If you are a fan of anime and manga *Rurouni Kenshin*, or *Samurai X* as it is k
 
   isrepresentativeofpage=false
 
-  src="<https://upload.wikimedia.org/wikipedia/en/0/05/Space_Sweepers.jpg>"
-  link="<https://en.wikipedia.org/wiki/File:Space_Sweepers.jpg#/media/File:Space_Sweepers.jpg>"
+  src="https://upload.wikimedia.org/wikipedia/en/0/05/Space_Sweepers.jpg"
+  link="https://en.wikipedia.org/wiki/File:Space_Sweepers.jpg#/media/File:Space_Sweepers.jpg"
   linkrel="noopener external nofollow"
 
   title="Space Sweepers 승리호 (2021)"
@@ -638,7 +638,7 @@ If you are a fan of anime and manga *Rurouni Kenshin*, or *Samurai X* as it is k
   inlanguage="en"
 
   licensecode="allrightsreserved"
-  licenseurl="<https://en.wikipedia.org/wiki/File:Space_Sweepers.jpg>"
+  licenseurl="https://en.wikipedia.org/wiki/File:Space_Sweepers.jpg"
   licensename="All Rights Reserved"
 
   attribto="Netflix"
@@ -677,7 +677,7 @@ Can you guess how many languages were spoken and nationalities represented in �
   licensename="All Rights Reserved"
 
   attribto="Netflix"
-  attriburl="<https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw>"
+  attriburl="https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw"
   attribrel="noopener external nofollow"
 >}}
 
@@ -699,8 +699,8 @@ Our review of *Space Sweepers* is available separately: [](20210206-space-sweepe
 
   isrepresentativeofpage=false
 
-  src="<https://upload.wikimedia.org/wikipedia/en/8/8e/Dune_%282021_film%29.jpg>"
-  link="<https://en.wikipedia.org/wiki/File:Dune_(2021_film).jpg#/media/File:Dune_(2021_film).jpg>"
+  src="https://upload.wikimedia.org/wikipedia/en/8/8e/Dune_%282021_film%29.jpg"
+  link="https://en.wikipedia.org/wiki/File:Dune_(2021_film).jpg#/media/File:Dune_(2021_film).jpg"
   linkrel="noopener external nofollow"
 
   title="Dune (2021)"
@@ -710,7 +710,7 @@ Our review of *Space Sweepers* is available separately: [](20210206-space-sweepe
   inlanguage="en"
 
   licensecode="allrightsreserved"
-  licenseurl="<https://en.wikipedia.org/wiki/File:Dune_(2021_film).jpg>"
+  licenseurl="https://en.wikipedia.org/wiki/File:Dune_(2021_film).jpg"
   licensename="All Rights Reserved"
 
   attribto="Legendary Pictures; Warner Bros. Pictures"
@@ -747,7 +747,7 @@ Our review of *Space Sweepers* is available separately: [](20210206-space-sweepe
   licensename="All Rights Reserved"
 
   attribto="Warner Bros. Pictures"
-  attriburl="<https://www.youtube.com/channel/UCjmJDM5pRKbUlVIzDYYWb6g>"
+  attriburl="https://www.youtube.com/channel/UCjmJDM5pRKbUlVIzDYYWb6g"
   attribrel="noopener external nofollow"
 >}}
 
@@ -759,8 +759,8 @@ Our review of *Space Sweepers* is available separately: [](20210206-space-sweepe
 
   isrepresentativeofpage=false
 
-  src="<https://upload.wikimedia.org/wikipedia/en/2/2b/F9_film_poster.jpg>"
-  link="<https://en.wikipedia.org/wiki/File:F9_film_poster.jpg#/media/File:F9_film_poster.jpg>"
+  src="https://upload.wikimedia.org/wikipedia/en/2/2b/F9_film_poster.jpg"
+  link="https://en.wikipedia.org/wiki/File:F9_film_poster.jpg#/media/File:F9_film_poster.jpg"
   linkrel="noopener external nofollow"
 
   title="F9 (2021)"
@@ -770,7 +770,7 @@ Our review of *Space Sweepers* is available separately: [](20210206-space-sweepe
   inlanguage="en"
 
   licensecode="allrightsreserved"
-  licenseurl="<https://en.wikipedia.org/wiki/File:F9_film_poster.jpg>"
+  licenseurl="https://en.wikipedia.org/wiki/File:F9_film_poster.jpg"
   licensename="All Rights Reserved"
 
   attribto="Universal Pictures"
@@ -807,7 +807,7 @@ You know what they say, *family*, and that's basically everything about *F9* and
   licensename="All Rights Reserved"
 
   attribto="The Fast Saga"
-  attriburl="<https://www.youtube.com/channel/UCJCx8aQrdx_ueXPmxTD2odQ>"
+  attriburl="https://www.youtube.com/channel/UCJCx8aQrdx_ueXPmxTD2odQ"
   attribrel="noopener external nofollow"
 >}}
 
@@ -832,11 +832,11 @@ How about you? What is ***YourOnly.One Top 10 Movies of 2021***?
   inlanguage="en"
 
   licensecode="ccbysa4"
-  licenseurl="<https://creativecommons.org/licenses/by-sa/4.0/>"
+  licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International License"
 
   attribto="I'M YourOnly.One"
-  attriburl="<https://im.youronly.one/>"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -845,7 +845,7 @@ How about you? What is ***YourOnly.One Top 10 Movies of 2021***?
 
   isrepresentativeofpage=false
 
-  link="<https://www.allaboutlean.com/1st-birthday/top10/>"
+  link="https://www.allaboutlean.com/1st-birthday/top10/"
   linkrel="noopener external nofollow"
 
   title="Top 10 trophy"
@@ -853,11 +853,11 @@ How about you? What is ***YourOnly.One Top 10 Movies of 2021***?
   inlanguage="en"
 
   licensecode="ccbysa4"
-  licenseurl="<https://creativecommons.org/licenses/by-sa/4.0/>"
+  licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International License"
 
   attribto="Christoph Roser"
-  attriburl="<https://www.allaboutlean.com>"
+  attriburl="https://www.allaboutlean.com"
   attribrel="noopener external nofollow"
 >}}
 
@@ -866,16 +866,16 @@ How about you? What is ***YourOnly.One Top 10 Movies of 2021***?
 
   isrepresentativeofpage=false
 
-  link="<https://pixabay.com/photos/notebook-note-notes-diary-write-2465914/>"
+  link="https://pixabay.com/photos/notebook-note-notes-diary-write-2465914/"
   linkrel="noopener external nofollow"
 
   title="Notebook"
 
   licensecode="ccbysa4"
-  licenseurl="<https://pixabay.com/service/license/>"
+  licenseurl="https://pixabay.com/service/license/"
   licensename="Pixabay License"
 
   attribto="Monfocus"
-  attriburl="<https://pixabay.com/users/monfocus-2516394/>"
+  attriburl="https://pixabay.com/users/monfocus-2516394/"
   attribrel="noopener external nofollow"
 >}}
