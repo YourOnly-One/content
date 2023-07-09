@@ -1,5 +1,5 @@
 +++
-title = "Whale Couple Filipino Memes"
+title = "Whale couple Filipino memes"
 description = "Fun and witty Filipino memes about the Whale Couple from Extraordinary Attorney Woo."
 
 lastmod = 2022-08-17T21:50:00+08:00                 # last update; manually adjust to local timezone

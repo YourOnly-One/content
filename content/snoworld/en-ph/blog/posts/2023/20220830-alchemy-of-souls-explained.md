@@ -1,5 +1,5 @@
 +++
-title = "Alchemy of Souls Explained"
+title = "Alchemy of Souls explained"
 description = ""
 
 lastmod = 2022-08-30T17:05:15+08:00                 # last update; manually adjust to local timezone

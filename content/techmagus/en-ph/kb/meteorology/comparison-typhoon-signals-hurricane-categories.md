@@ -1,5 +1,5 @@
 +++
-title = "Comparison of Typhoon Signals and Hurricane Categories"
+title = "Comparison of typhoon signals and hurricane categories"
 description = "Philippine Typhoon Signals and the American Hurricane Categories are worlds apart. In this post, I'll clarify the difference between these two scale systems."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 # DATE checked and correct

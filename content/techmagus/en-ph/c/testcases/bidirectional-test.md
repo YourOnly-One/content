@@ -1,5 +1,5 @@
 +++
-title = "Bidirectional Test Case"
+title = "Bidirectional test case"
 description = "The bidirectional test case."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2015-07-29T09:09:57+08:00                                        # manually adjust to local timezone

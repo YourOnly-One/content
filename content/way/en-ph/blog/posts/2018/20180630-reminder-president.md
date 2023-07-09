@@ -1,5 +1,5 @@
 +++
-title = "A Reminder from the President?"
+title = "A reminder from the President?"
 description = "President Duterte made comments about the G-d of the Bible which earned the ire of the people. I think he revealed something else."  # For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = 2018-06-30T10:23:33+08:00                          # manually adjust to local timezone

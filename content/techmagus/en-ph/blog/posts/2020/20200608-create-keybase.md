@@ -1,5 +1,5 @@
 +++
-title = "How to Create a Keybase Account"
+title = "How-To create a Keybase account"
 description = "Creating a Keybase account is simple but there is one step most users are skipping …"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2020-06-08T08:53:42+08:00                                        # manually adjust to local timezone

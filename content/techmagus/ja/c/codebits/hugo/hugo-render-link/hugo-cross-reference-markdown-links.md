@@ -1,6 +1,6 @@
 +++
-title = "Hugo Markdownリンクに相互参照を追加する方法"
-description = "HugoでMarkdownリンクの相互参照サポートを追加する方法"
+title = "Hugo markdownリンクに相互参照を追加する方法"
+description = "Hugoでmarkdownリンクの相互参照サポートを追加する方法"
 
 publishdate = 2022-05-20T20:24:27+09:00                                          # manually adjust to local timezone
 lastmod = 2022-06-17T15:07:00+09:00                                       # manually adjust to local timezone

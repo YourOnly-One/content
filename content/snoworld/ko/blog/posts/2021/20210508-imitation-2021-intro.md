@@ -1,6 +1,6 @@
 +++
-title = "《이미테이션》에 따르면 K-Pop 아이돌이 겪는 일"
-description = "K-Pop 아이돌이되는 길은 대부분의 생각만큼 쉽지 않습니다."	# For Schema.org; OpenGraph; Twitter Cards
+title = "《이미테이션》에 따르면 K-pop 아이돌이 겪는 일"
+description = "K-pop 아이돌이되는 길은 대부분의 생각만큼 쉽지 않습니다."	# For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = 2021-05-08T14:54:00+09:00
 lastmod = 2021-05-08T14:54:00+09:00

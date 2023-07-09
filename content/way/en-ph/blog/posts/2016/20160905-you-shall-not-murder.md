@@ -1,5 +1,5 @@
 +++
-title = "You Shall Not Murder"
+title = "You shall not murder"
 description = "The 6th commandment is also the 1st in the second tablet. An important command against murdering your fellow human beings."  # For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = 2016-09-05T13:03:13+08:00                          # manually adjust to local timezone

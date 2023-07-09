@@ -1,5 +1,5 @@
 +++
-title = "Pandora: Beneath the Paradise Explained"
+title = "Pandora: Beneath the Paradise explained"
 description = "Are there alternate endings or alternate explanations?"
 
 lastmod = 2023-05-01T09:52:34+08:00                 # last update; manually adjust to local timezone

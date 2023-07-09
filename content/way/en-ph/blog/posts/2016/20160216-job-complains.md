@@ -1,5 +1,5 @@
 +++
-title = "Job Complains"
+title = "Job complains"
 description = "Even as Christians/Messianics/Natsarim, we still complain to our Creator Father like Job did. But should we? In this short post, I am going to show you what happened when Job complained, how our Creator Father answered him, and if we are in a position to complain like Job did."  # For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = 2016-02-16T20:59:30+08:00                          # manually adjust to local timezone

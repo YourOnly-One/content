@@ -1,5 +1,5 @@
 +++
-title = "Joel Rosenberg's Lunch with President Arroyo"
+title = "Joel Rosenberg's lunch with President Arroyo"
 description = "Joel Rosenberg is currently here in the Philippines. Yesterday, he had lunch with President Gloria Macapagal-Arroyo, together with Filipino Pastor Peter."	# For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = 2010-01-19T21:30:49+08:00									# manually adjust to local timezone

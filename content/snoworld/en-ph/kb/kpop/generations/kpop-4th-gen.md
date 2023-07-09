@@ -1,5 +1,5 @@
 +++
-title = "4th Generation Modern K-pop (2022–2031)"
+title = "4th generation modern K-pop (2022–2031)"
 description = "A list of Fourth Generation Korean Popular music acts with debut dates, fandom names, song samples, videos, and more!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2022-01-17T08:00:04+08:00                                        # manually adjust to local timezone

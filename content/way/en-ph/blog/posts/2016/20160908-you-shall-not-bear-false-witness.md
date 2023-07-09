@@ -1,5 +1,5 @@
 +++
-title = "The 9th: You Shall Not Bear False Witness"
+title = "The 9th: You shall not bear false witness"
 description = "What is bearing false witness against our neighbor? Is it only applicable during times of court and interrogation witnessing, or it is applicable daily?"  # For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = 2016-09-08T12:14:42+08:00                          # manually adjust to local timezone

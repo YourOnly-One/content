@@ -1,5 +1,5 @@
 +++
-title = "[How-To] Add DISQUS Manually on Blogger/BlogSpot"
+title = "How-To add DISQUS manually on Blogger/BlogSpot"
 description = "A guide on how to add DISQUS comments in your Blogger Blogspot blog. This tutorial is for those using the XML template."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2008-05-23T12:12:48+08:00                                        # manually adjust to local timezone

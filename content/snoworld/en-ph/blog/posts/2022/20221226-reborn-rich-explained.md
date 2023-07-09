@@ -1,5 +1,5 @@
 +++
-title = "«Reborn Rich» (2022) Explained"
+title = "«Reborn Rich» (2022) explained"
 description = "The ending of «Reborn Rich» explained."
 
 lastmod = 2022-12-27T13:40:37+08:00                 # last update; manually adjust to local timezone

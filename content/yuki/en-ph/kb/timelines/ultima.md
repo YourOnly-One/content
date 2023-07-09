@@ -1,5 +1,5 @@
 +++
-title = "Ultima Video Games Release Timeline"
+title = "Ultima video games release timeline"
 description = "A list of Ultima video games sorted by year of release."
 
 lastmod = 2023-01-23T09:00:00+08:00                 # last update; manually adjust to local timezone

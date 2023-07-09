@@ -1,5 +1,5 @@
 +++
-title = "Hugo Markdown 링크에 링크 아이콘을 추가하는 방법"
+title = "Hugo markdown 링크에 링크 아이콘을 추가하는 방법"
 description = "Hugo에서 Markdown 링크에 대한 링크 아이콘을 추가하는 방법"
 
 publishdate = 2022-05-20T20:24:30+09:00                                          # manually adjust to local timezone

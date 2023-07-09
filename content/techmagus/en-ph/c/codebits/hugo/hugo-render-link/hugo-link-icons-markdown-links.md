@@ -1,5 +1,5 @@
 +++
-title = "How To Add Link Icons in Hugo Markdown Links"
+title = "How-To add link icons in Hugo markdown links"
 description = "How to add link icons for Markdown links in Hugo"
 
 publishdate = 2022-05-20T19:24:30+08:00                                          # manually adjust to local timezone

@@ -1,5 +1,5 @@
 +++
-title = "[How-To] Access Google Sites and Services via IPv6"
+title = "How-To access Google sites and services via IPv6"
 description = "IPv6 is here but how do we access Google services via IPv6 anyway? In this short tutorial, I am going to show you in simple steps how to do just that."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 # DATE checked and correct

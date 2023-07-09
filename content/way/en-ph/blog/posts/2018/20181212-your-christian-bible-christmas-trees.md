@@ -1,5 +1,5 @@
 +++
-title = "Your Christian Bible and Christmas Trees"
+title = "Your Christian Bible and Christmas trees"
 description = "People say Christmas Trees are pagan. But what does the Christian Bible really say about it?"  # For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = 2018-12-12T07:57:02+08:00                          # manually adjust to local timezone

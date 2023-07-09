@@ -1,5 +1,5 @@
 +++
-title = "The 10th Commandment"
+title = "The 10th commandment"
 description = "The last but equally important commandment: You shall not covet your neighbor's house, wife, servants, or anything that belongs to your neighbor."  # For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = 2016-09-10T11:40:20+08:00                          # manually adjust to local timezone

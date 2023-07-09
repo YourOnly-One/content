@@ -1,5 +1,5 @@
 +++
-title = "Tsitsit, Tassles, Fringes, Should We Wear It?"
+title = "Tsitsit, tassles, fringes, should e wear it?"
 description = "Tsitsit, tassles, or fringes, was commanded to be worn. But in the Renewed/New Covenant, is it still valid or done away with? Let's study the Scripture!"  # For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = 2017-10-21T13:57:27+08:00                          # manually adjust to local timezone

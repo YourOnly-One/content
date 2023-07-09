@@ -1,5 +1,5 @@
 +++
-title = "2nd Generation Modern P-pop (2000–2009)"
+title = "2nd generation modern P-pop (2000–2009)"
 description = "A list of Second Generation Pinoy Popular music acts with debut dates, fandom names, song samples, videos, and more!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2022-02-15T08:00:02+08:00                                        # manually adjust to local timezone
@@ -446,7 +446,6 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 [^shamrock-songs-haplos]: [Shamrock] YouTube: 《[Haplos](https://www.youtube.com/watch?v=E4eeZSaNWCE "Shamrock: Haplos")》
 [^shamrock-songs-hold-on]: [Shamrock] YouTube: 《[Hold On](https://www.youtube.com/watch?v=y3F-USmIrXs "Shamrock: Hold On")》 (also an OST in the Tagalog version of Korean drama 《Jumong》; original by *Neocolours* in 1988)
 [^shamrock-songs-naaalala-ka]: [Shamrock] YouTube: 《[Naaalala Ka](https://www.youtube.com/watch?v=Q8GUGQ46BZc "Shamrock: Naaalala Ka")》 (original by *Rey Valera* in 1978)
-[^shamrock-songs-paano]: [Shamrock] YouTube: 《[Paano](https://www.youtube.com/watch?v=q8vxOfiy-fo "Shamrock: Paano")》
 
 ## 2004
 
@@ -736,7 +735,6 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Krissy_%26_Ericka)
 
-[^krissy-and-aricka-songs-12-51]: [Krissy & Ericka] YouTube: 《[12:51](https://www.youtube.com/watch?v=OciCJiEWhAU "Krissy & Ericka: 12:51")》
 
 ### La Diva {#la-diva-djYRqlQsn2kFb5Q6N}
 

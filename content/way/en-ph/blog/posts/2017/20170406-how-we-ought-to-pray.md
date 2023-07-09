@@ -1,5 +1,5 @@
 +++
-title = "How We Ought to Pray"
+title = "How we ought to pray"
 description = "A study of the popularly known as The Lord's Prayer reveals how we ought to pray as, instructed by our Messiah himself. Simple yet effective."  # For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = 2017-04-06T00:49:20+08:00                          # manually adjust to local timezone

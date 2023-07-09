@@ -1,5 +1,5 @@
 +++
-title = "Bioman, Maskman, & Shaider Full Theme Songs in Tagalog"
+title = "Bioman, Maskman, & Shaider full theme songs in Tagalog"
 description = "Here are six full theme songs from Bioman, Maskman, and Shaider in Tagalog."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2022-02-08T19:20:00+08:00                                        # manually adjust to local timezone

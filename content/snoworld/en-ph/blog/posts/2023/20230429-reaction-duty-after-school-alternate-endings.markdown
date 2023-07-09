@@ -1,5 +1,5 @@
 +++
-title = "Reaction: Duty After School Alternate Endings"
+title = "Reaction: Duty After School alternate endings"
 description = "A reaction on the alternate endings of Duty After School"
 
 lastmod = 2023-04-30T06:25:25+08:00                 # last update; manually adjust to local timezone

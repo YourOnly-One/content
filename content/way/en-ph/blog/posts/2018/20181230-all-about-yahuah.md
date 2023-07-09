@@ -1,5 +1,5 @@
 +++
-title = "It's All About 𐤉𐤄𐤅𐤄 (YAHUAH)!"
+title = "It's all about 𐤉𐤄𐤅𐤄 (YAHUAH)!"
 description = "Do you know the Name of your GOD? Did they tell you His Name is the LORD? Are you aware that GOD and LORD are not names? It's 𐤉𐤄𐤅𐤄!"  # For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = 2018-12-30T12:00:00+08:00                          # manually adjust to local timezone

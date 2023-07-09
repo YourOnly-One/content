@@ -1,5 +1,5 @@
 +++
-title = "Happy True New Year!"
+title = "Happy true new year!"
 description = "March 25, 2020 is the True New Year! Happy New Year!"  # For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = 2020-03-25T21:32:17+08:00                          # manually adjust to local timezone

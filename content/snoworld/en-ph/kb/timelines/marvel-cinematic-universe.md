@@ -1,5 +1,5 @@
 +++
-title = "Marvel Cinematic Universe Timeline"
+title = "Marvel Cinematic Universe timeline"
 description = "Timeline and watching order for the Marvel Cinematic Universe (MCU)"
 
 lastmod = 2023-01-10T05:14:35+08:00                 # last update; manually adjust to local timezone

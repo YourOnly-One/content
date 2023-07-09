@@ -1,5 +1,5 @@
 +++
-title = "7th: You Shall Not Commit Adultery"
+title = "7th: You shall not commit adultery"
 description = "In our continuing preparation for the  coming Day of Atonement, today's meditation is the 7th commandment: You shall not commit adultery."  # For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = 2016-09-06T12:47:55+08:00                          # manually adjust to local timezone

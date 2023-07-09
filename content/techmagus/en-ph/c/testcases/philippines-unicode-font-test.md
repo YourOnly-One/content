@@ -1,5 +1,5 @@
 +++
-title = "The Philippines Unicode & Font Test with Barabara Font"
+title = "The Philippines Unicode & Font test with Barabara font"
 description = "Unicode and font test page for Philippines related scripts. Test your browser and operating system today!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2018-03-03T00:17:36+08:00                                        # manually adjust to local timezone

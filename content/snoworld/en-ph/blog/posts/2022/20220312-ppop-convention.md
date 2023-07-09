@@ -1,5 +1,5 @@
 +++
-title = "(Updated) The First PPOPCON Is Happening"
+title = "(Updated) The first PPOPCON is happening"
 description = "Are you excited for the first P-pop Convention?"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2022-03-12T13:08:45+08:00                                        # manually adjust to local timezone

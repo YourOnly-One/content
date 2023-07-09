@@ -1,5 +1,5 @@
 +++
-title = "[How-To] Integrate DISQUS on Blogger/BlogSpot Classic Template"
+title = "How-To integrate DISQUS on Blogger/BlogSpot classic templates"
 description = "A short guide on how to integrate Disqus on Google Blogger / Blogspot websites. This tutorial is for those using the Classic Template."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2008-05-25T02:45:39+08:00                                        # manually adjust to local timezone

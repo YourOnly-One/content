@@ -1,5 +1,5 @@
 +++
-title = "True Definition of Love"
+title = "The true definition of love"
 description = "What is love, exactly?"	# For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = 2016-02-21T23:07:30+08:00

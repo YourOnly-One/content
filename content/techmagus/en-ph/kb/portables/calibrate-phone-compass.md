@@ -1,5 +1,5 @@
 +++
-title = "[Video] How To Calibrate the Phone Compass"
+title = "[Video] How-To calibrate the phone compass"
 description = "One of the first thing you should do after buying a mobile phone is to calibrate its compass. It is best practice to keep it accurate always."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2011-12-29T15:51:38+08:00                                        # manually adjust to local timezone

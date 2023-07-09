@@ -1,5 +1,5 @@
 +++
-title = "Sunflowers in the City"
+title = "Sunflowers in the city"
 description = "Photos I took of the Sunflowers in Makati, Philippines"	# For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = 2021-08-12T08:21:02+08:00

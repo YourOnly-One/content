@@ -1,5 +1,5 @@
 +++
-title = "(Updated) «Grid (그리드)» Explained"
+title = "(Updated) «Grid (그리드)» explained"
 description = "Disney Plus «Grid (그리드)» Explained"
 
 publishdate = 2022-04-26T07:00:00+08:00                                          # manually adjust to local timezone

@@ -1,5 +1,5 @@
 +++
-title = "Gifts, Invites, Referral Codes, Wishlists"
+title = "Gifts, invites, referral codes, wishlists"
 description = ""
 
 lastmod = 2023-04-14T00:47:00+08:00                 # last update; manually adjust to local timezone

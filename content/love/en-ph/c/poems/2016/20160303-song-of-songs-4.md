@@ -1,6 +1,6 @@
 +++
 title = "Song of Songs 4"
-description = "The Letter of King Solomon"	# For Schema.org; OpenGraph; Twitter Cards
+description = "The letter of King Solomon"	# For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = 2016-03-03T21:48:15+08:00
 lastmod = 2016-03-03T21:48:15+08:00

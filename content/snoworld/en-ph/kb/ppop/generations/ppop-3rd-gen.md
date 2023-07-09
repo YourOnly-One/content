@@ -1,5 +1,5 @@
 +++
-title = "3rd Generation Modern P-pop (2010–2019)"
+title = "3rd generation modern P-pop (2010–2019)"
 description = "A list of Third Generation Pinoy Popular music acts with debut dates, fandom names, song samples, videos, and more!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2022-02-15T08:00:03+08:00                                        # manually adjust to local timezone
@@ -891,7 +891,6 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   - [Wikipedia](https://en.wikipedia.org/wiki/TNT_Boys)
 
 [^tnt-boys-songs-show-me-a-smile]: [TNT Boys] YouTube: 《[Show Me A Smile](https://www.youtube.com/watch?v=kaxOfSNdZzQ "TNT Boys: Show Me A Smile")》 OST for 《Three Words to Forever》
-[^tnt-boys-songs-]: [TNT Boys] YouTube: 《[Ako Ang Iyong Bituin](https://www.youtube.com/watch?v=E0YgSkIbJ40 "TNT Boys: Ako Ang Iyong Bituin")》 OST for 《Starla》
 
 ## 2018
 

@@ -1,5 +1,5 @@
 +++
-title = "«The Last of Us» Episode 01 review"
+title = "«The Last of Us» episode 01 review"
 description = "A short review of the premiere episode of «The Last of Us» episode 01."
 
 lastmod = 2023-01-16T19:36:00+08:00                 # last update; manually adjust to local timezone

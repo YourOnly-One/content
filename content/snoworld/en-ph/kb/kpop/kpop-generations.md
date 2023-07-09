@@ -1,5 +1,5 @@
 +++
-title = "Most Coherent List of K-pop Generations"
+title = "Most coherent list of K-pop generations"
 description = "An objective approach to Korean Popular Music Generations for bands, groups, and solo acts."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2022-01-18T07:00:00+08:00                                        # manually adjust to local timezone

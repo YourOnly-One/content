@@ -1,5 +1,5 @@
 +++
-title = "Should Christians Not Celebrate Christmas?"
+title = "Should Christians not celebrate Christmas?"
 description = "This is a question many Christians ask every time Christmas arrives. There are two camps: those who say that we should and those who say we should not."	# For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = 2009-12-24T19:21:01+08:00                 # manually adjust to local timezone

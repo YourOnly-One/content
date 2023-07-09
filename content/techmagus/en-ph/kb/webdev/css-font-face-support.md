@@ -1,5 +1,5 @@
 +++
-title = "[How-To] Implement Cross-Browser @font-face Support"
+title = "How-To implement cross-browser @font-face support"
 description = "Do you want to make your site's font to show up the same across browsers and platforms? Use @font-face! Let me show you how."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 # DATE checked and correct

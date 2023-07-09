@@ -1,5 +1,5 @@
 +++
-title = "«Alpha Gateway» Parallel Worlds Explained"
+title = "«Alpha Gateway» parallel worlds explained"
 description = "Confused on the parallel worlds of «The Gateway»?"	# For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = 2019-02-25T16:46:12+08:00

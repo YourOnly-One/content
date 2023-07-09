@@ -1,5 +1,5 @@
 +++
-title = "[Video] Romantic & Surprise Marriage Proposal Rendy & Maggie"
+title = "[Video] Romantic and surprise marriage proposal Rendy & Maggie"
 description = "A very romantic and surprise marriage proposal by Rendy to Maggie."	# For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = 2016-02-22T22:23:12+08:00

@@ -1,5 +1,5 @@
 +++
-title = "26virtual Moscow, My First Half-marathon"
+title = "26virtual Moscow, my first half-marathon"
 description = "My first half-marathon run was during the 26virtual:Moscow race"													# IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
 summary = "My first half-marathon run was during the 26virtual:Moscow race"																											# for summary text in list displays
 

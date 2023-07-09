@@ -1,5 +1,5 @@
 +++
-title = "Three Days and Three Nights in the Heart of the Earth"
+title = "Three days and three nights in the heart of the earth"
 description = "Was Yahushua / Jesus literally 3 Days and 3 Nights in the Heart of the Earth?"  # For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = 2020-04-04T21:59:01+08:00                          # manually adjust to local timezone

@@ -1,5 +1,5 @@
 +++
-title = "@font-face Browser Support Test Page"
+title = "@font-face browser support test page"
 description = "Does your browser support CSS2 @font-face rule? You can test it here!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 # DATE checked and correct

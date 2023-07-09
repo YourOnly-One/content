@@ -1,5 +1,5 @@
 +++
-title = "The Age of Accountability"
+title = "The age of accountability"
 description = "Is the Age of Accountability really 12 years old? Or is it person-by-person?"  # For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = 2013-09-05T13:09:00+08:00                 # manually adjust to local timezone

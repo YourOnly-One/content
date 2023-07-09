@@ -1,5 +1,5 @@
 +++
-title = "Stealing is Against the Law"
+title = "Stealing is against the law"
 description = "You shall not steal. The 8th commandment of YaHuWaH. Be it as small as 1¢, stealing is stealing. Simple but we transgress on this a lot of times!"  # For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = 2016-09-07T12:46:34+08:00                          # manually adjust to local timezone

@@ -1,6 +1,6 @@
 +++
-title = "Browser Wars III: Blink vs Gecko Quantum"
-description = "Browser Wars 3 is not about Chromium and Firefox. The third Browser Wars is about the war between Blink and Gecko Quantum."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
+title = "Browser wars III: Blink vs Gecko Quantum"
+description = "Browser wars 3 is not about Chromium and Firefox. The third Browser Wars is about the war between Blink and Gecko Quantum."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2018-12-10T06:54:23+08:00                                        # manually adjust to local timezone
 lastmod = 2018-12-10T06:54:23+08:00                                        # manually adjust to local timezone

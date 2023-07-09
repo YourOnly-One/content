@@ -1,5 +1,5 @@
 +++
-title = "(Updated) «All Of Us Are Dead» Explained"
+title = "(Updated) «All Of Us Are Dead» explained"
 description = "Will there be season 2 for Netflix's «All Of Us Are Dead»? Find out in «All Of Us Are Dead» Explained!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2022-02-11T17:30:12+08:00                                        # manually adjust to local timezone

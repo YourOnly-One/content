@@ -1,5 +1,5 @@
 +++
-title = "[How-To] IPv6 Is Not Scary!! Connect to Next-Gen Internet Now!"
+title = "[How-To] IPv6 is not scary! Connect to next-gen Internet today!"
 description = "IPv6 or Internet Protocol version 6 is the answer to our IPv4 problem. What problem? By 2011 or 2012 (according to estimates), there will be no more IPv4…"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 # DATE checked and correct

@@ -1,6 +1,6 @@
 +++
-title = "Hugo Markdownリンクにリンクアイコンを追加する方法"
-description = "HugoでMarkdownリンクのリンクアイコンを追加する方法"
+title = "Hugo markdownリンクにリンクアイコンを追加する方法"
+description = "Hugoでmarkdownリンクのリンクアイコンを追加する方法"
 
 publishdate = 2022-05-20T20:24:30+09:00                                          # manually adjust to local timezone
 lastmod = 2022-06-17T15:07:01+09:00                                       # manually adjust to local timezone

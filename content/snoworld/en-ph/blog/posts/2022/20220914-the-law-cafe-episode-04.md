@@ -1,5 +1,5 @@
 +++
-title = "«The Law Cafe» Episode 4: Child Abuse"
+title = "«The Law Cafe» episode 4: Child Abuse"
 description = "Episode 4 of The Law Cafe tackled the seriousness of child abuse experienced by children right from their own homes."
 
 lastmod = 2022-09-14T16:40:00+08:00                 # last update; manually adjust to local timezone

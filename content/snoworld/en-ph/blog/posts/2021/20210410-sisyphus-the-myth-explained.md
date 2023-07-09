@@ -1,5 +1,5 @@
 +++
-title = "(Updated) «Sisyphus: The Myth» Explained Logically"
+title = "(Updated) «Sisyphus: The Myth» explained logically"
 description = "Confused about the ending of «Sisyphus: The Myth»?"	# For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = 2021-04-10T21:12:21+08:00

@@ -1,5 +1,5 @@
 +++
-title = "A Rare New Year's Day Blue Moon"
+title = "A rare New Year's day blue Moon"
 description = "An hour and thirteen minutes after Aseans and China welcomes the New Year 2010, we will be treated with a rare New Year's Day Blue Moon. No, Earth's Moon w…"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2009-12-31T13:07:59+08:00                                        # manually adjust to local timezone

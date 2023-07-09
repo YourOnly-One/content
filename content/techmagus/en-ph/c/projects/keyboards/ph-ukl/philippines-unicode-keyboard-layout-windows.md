@@ -1,5 +1,5 @@
 +++
-title = "Philippines Unicode Keyboard Layout for Windows is Out!"
+title = "Philippines Unicode Keyboard Layout for Windows is out!"
 description = "Philippines Unicode Keyboard Layout for Microsoft® Windows™ users is now available."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 # DATE checked and correct

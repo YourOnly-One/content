@@ -1,5 +1,5 @@
 +++
-title = "3rd Generation Modern K-pop (2012–2021)"
+title = "3rd generation modern K-pop (2012–2021)"
 description = "A list of Third Generation Korean Popular music acts with debut dates, fandom names, song samples, videos, and more!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2022-01-14T08:00:03+08:00                                        # manually adjust to local timezone

@@ -1,5 +1,5 @@
 +++
-title = "Hugo: Time Zones"
+title = "Hugo: Timezones"
 description = ""
 
 #lastmod = {{ .Date }}                 # last update; manually adjust to local timezone

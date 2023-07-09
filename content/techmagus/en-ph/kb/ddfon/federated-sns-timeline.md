@@ -1,5 +1,5 @@
 +++
-title = "The Federated SNS Timeline (Fediverse History)"
+title = "The federated SNS timeline (a fediverse history)"
 description = "Key events in the history of the Fediverse."
 
 lastmod = 2023-06-16T20:18:27+08:00                 # last update; manually adjust to local timezone

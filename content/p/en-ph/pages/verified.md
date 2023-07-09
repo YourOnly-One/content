@@ -1,5 +1,5 @@
 +++
-title = "Verified Accounts"
+title = "Verified accounts"
 description = ""
 
 lastmod = 2023-04-14T09:00:00+08:00                 # last update; manually adjust to local timezone

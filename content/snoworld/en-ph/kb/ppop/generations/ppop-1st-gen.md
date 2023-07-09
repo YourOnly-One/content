@@ -1,5 +1,5 @@
 +++
-title = "1st Generation Modern P-pop (1990–1999)"
+title = "1st generation modern P-pop (1990–1999)"
 description = "A list of First Generation Pinoy Popular music acts with debut dates, fandom names, song samples, videos, and more!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2022-02-15T08:00:01+08:00                                        # manually adjust to local timezone
@@ -528,7 +528,6 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 [^rivermaya-songs-awit-ng-kabataan]: [Rivermaya] YouTube: 《[Awit ng Kabataan](https://www.youtube.com/watch?v=41OKPv-i7hk "Rivermaya: Awit ng Kabataan")》
 [^rivermaya-songs-kisapmata]: [Rivermaya] YouTube: 《[Kisapmata](https://www.youtube.com/watch?v=XZvTk1WItqE "Rivermaya: Kisapmata")》
 [^rivermaya-songs-himala]: [Rivermaya] YouTube: 《[Himala](https://www.youtube.com/watch?v=OC-QonyUlU8 "Rivermaya: Himala")》
-[^rivermaya-songs-panahon-na-naman]: [Rivermaya] YouTube: 《[Panahon Na Naman](https://www.youtube.com/watch?v=Looe5xph3jY "Rivermaya: Panahon Na Naman")》
 [^rivermaya-songs-hinahanap-hanap-kita]: [Rivermaya] YouTube: 《[Hinahanap-hanap Kita](https://www.youtube.com/watch?v=JsjzVo2pAnc "Rivermaya: Hinahanp-hanap Kita")》
 
 ### Siakol {#siakol-YyQnNQiD0zBDwPxsY}
@@ -640,14 +639,6 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - More:
   - [Website](https://www.sarahgeronimo.ph)
   - [Wikipedia](https://en.wikipedia.org/wiki/Sarah_Geronimo)
-
-[^sarah-geronimo-songs-forever-is-not-enough]: [Sarah Geronimo] YouTube: [Forever's Not Enough](https://www.youtube.com/watch?v=YQILKK5d4i8 "Sarah Geronimo: Forever's Not Enough")
-[^sarah-geronimo-songs-i-still-believe-in-you]: [Sarah Geronimo] YouTube: [I Still Believe In You](https://www.youtube.com/watch?v=mnhm3Qym4Sc "Sarah Geronimo: I Still Believe In You")
-[^sarah-geronimo-songs-tala]: [Sarah Geronimo] YouTube: [Tala](https://www.youtube.com/watch?v=ahpmuikko3U "Sarah Geronimo: Tala")
-[^sarah-geronimo-songs-kilometro]: [Sarah Geronimo] YouTube: [Kilometro](https://www.youtube.com/watch?v=4gljXoIJF0s "Sarah Geronimo: Kilometro")
-[^sarah-geronimo-songs-a-very-special-love]: [Sarah Geronimo] YouTube: [A Very Special Love](https://www.youtube.com/watch?v=XaFLogNq8rA "Sarah Geronimo: A Very Special Love") OST for 《A Very Special Love》 (original by *Maureen McGovern* in 1979)
-[^sarah-geronimo-songs-sa-iyo]: [Sarah Geronimo] YouTube: [Sa Iyo](https://www.youtube.com/watch?v=l_Jes66S70s "Sarah Geronimo: Sa Iyo")
-[^sarah-geronimo-songs-how-could-you-say-you-love-me]: [Sarah Geronimo] YouTube: [How Could You Say You Love Me](https://www.youtube.com/watch?v=7e4Bg0MavZY "Sarah Geronimo: How Could You Say You Love Me")
 
 ### Aegis {#aegis-SzEI7vZG12jglGswd}
 
@@ -793,9 +784,6 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/The_Itchyworms)
 
-[^itchyworms-songs-happy-birthday]: [Itchyworms] YouTube: 《[Happy Birthday](https://www.youtube.com/watch?v=YtZalrP58jg "Itchyworms: Happy Birthday")》
-[^itchyworms-songs-akin-ka-na-lang]: [Itchyworms] YouTube: 《[Akin Ka Na Lang](https://www.youtube.com/watch?v=pnMjmOaiySA "Itchyworms: Akin Ka Na Lang")》
-
 ## 1997
 
 ### Kyla {#kyla-o2Qd8cXQ5uNKk8iSI}
@@ -867,7 +855,6 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
   - [Wikipedia](https://en.wikipedia.org/wiki/Kyla_(Filipino_singer))
 
 [^kyla-songs-let-the-love-begin]: [Kyla] YouTube: 《[Let the Love Begin](https://www.youtube.com/watch?v=8r-k7CpJ-pg "Kyla: Let the Love Begin")》 OST for 《Let the Love Begin》 (original by *Jimmy Demers* and *Carol Sue Hill* in 1986 as an OST for 《Thrashin'》)
-[^kyla-songs-on-the-wings-love]: [Kyla] YouTube: 《[On the Wings of Love](https://www.youtube.com/watch?v=zejMWuReieY "Kyla: On the Wings of Love")》 OST for 《On the Wings of Love》 (original by *Jeffrey Osborne* in 1982)
 
 ### Nina {#nina-G5lAcysKsynT0KhCI}
 
@@ -971,7 +958,6 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
   - [Wikipedia](https://en.wikipedia.org/wiki/Imago_(band))
 
 [^imago-songs-akap]: [Imago] YouTube: 《[Akap](https://www.youtube.com/watch?v=wZ_Ym3oWXek "Imago: Akap")》
-[^imago-songs-taralets]: [Imago] YouTube: 《[Taralets](https://www.youtube.com/watch?v=U-Y833lrvpY "Imago: Taralets")》
 
 ### Jay R {#jay-r-Qc0w2z59nHPvXafpk}
 
@@ -1161,9 +1147,6 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Sandwich_(band))
 
-[^sandwich-songs-humanda-ka]: [Sandwich] YouTube: 《[Humanda Ka](https://www.youtube.com/watch?v=5I8tVCQSzGU "Sandwich: Humanda Ka")》 OST for 《Tantra Online》 and 《Rounin》
-[^sandwich-songs-zaido]: [Sandwich] YouTube: 《[Zaido](https://www.youtube.com/watch?v=5G1VKmaHXp4 "Sandwich: Zaido")》 OST for 《Zaido》
-
 ## 1999
 
 ### Mojofly {#mojofly-FjiqvpQJ7LqwTbxeK}
@@ -1332,7 +1315,6 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Orange_and_Lemons)
 
-[^orange-and-lemons-songs-pinoy-ako]: [Orange and Lemons] YouTube: 《[Pinoy Ako](https://www.youtube.com/watch?v=kLq6AOWwiP8 "Orange and Lemons: Pinoy Ako")》 OST for 《Pinoy Big Brother》
 [^orange-and-lemons-songs-hanggang-kailan]: [Orange and Lemons] YouTube: 《[Hanggang Kailan](https://www.youtube.com/watch?v=qMbL67TjnJk "Orange and Lemons: Hanggang Kailan")》
 [^orange-and-lemons-songs-yakap-sa-dilim]: [Orange and Lemons] YouTube: 《[Yakap sa Dilim](https://www.youtube.com/watch?v=vgG5Qk3rSgo "Orange and Lemons: Yakap sa Dilim")》 (original by *APO Hiking Society* in 1983)
 [^orange-and-lemons-og-pinoy-ako]: [Orange & Lemons] OG: [Orange & Lemons | Clem Castro Being Totally Honest about Pinoy Ako | The Story Behind the Hit | OG](https://www.youtube.com/watch?v=IUPqDYG0O18 "Orange & Lemons | Clem Castro Being Totally Honest about Pinoy Ako | The Story Behind the Hit | OG")

@@ -1,5 +1,5 @@
 +++
-title = "(Updated) Baybayin in Gboard App Now Available!"
+title = "(Updated) Baybayin in Gboard app now available!"
 description = "The wait was worth it as Google's Gboard team releases Baybayin-Buhid, Baybayin-Hanunoó, Baybayin-Tagalog, and Baybayin-Tagbanwa support!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2019-08-01T07:34:39+08:00                                        # manually adjust to local timezone

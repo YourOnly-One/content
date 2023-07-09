@@ -1,5 +1,5 @@
 +++
-title = "(Updated) Activate and Use Baybayin in Gboard"
+title = "(Updated) Activate and use Baybayin in Gboard"
 description = "Step by step guide on how to activate and use Baybayin in Gboard for Android."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2019-08-01T07:26:20+08:00                                        # manually adjust to local timezone

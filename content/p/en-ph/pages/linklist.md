@@ -1,5 +1,5 @@
 +++
-title = "YourOnly.One Linklist"
+title = "YourOnly.One linklist"
 description = "YourOnly.One recommended websites."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2021-12-18T15:37:21+08:00                                        # manually adjust to local timezone

@@ -1,5 +1,5 @@
 +++
-title = "How To Add Cross Reference in Hugo Markdown Links"
+title = "How-To add cross reference in Hugo markdown links"
 description = "How to add cross reference support for Markdown links in Hugo"
 
 publishdate = 2022-05-20T19:24:27+08:00                                          # manually adjust to local timezone

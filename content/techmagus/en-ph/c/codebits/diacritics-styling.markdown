@@ -1,5 +1,5 @@
 +++
-title = "Styling Diacritics"
+title = "Styling diacritics"
 description = "Bold, add colours, and change font, of the diacritics!"
 
 lastmod = 2023-02-18T12:50:27+08:00                 # last update; manually adjust to local timezone

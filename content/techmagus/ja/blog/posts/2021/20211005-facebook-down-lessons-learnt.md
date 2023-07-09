@@ -1,5 +1,5 @@
 +++
-title = "FacebookDownから学んだ教訓"
+title = "#FacebookDownから学んだ教訓"
 description = "Facebook、Instagram、Messenger、WhatsAppの最長のダウンタイムからどのような教訓を学ぶ必要がありますか？"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2021-10-06T07:21:07+09:00                                        # manually adjust to local timezone

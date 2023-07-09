@@ -1,5 +1,5 @@
 +++
-title = "Why You Should Verify Your Accounts through Keybase"
+title = "Why you should verify your accounts through Keybase"
 description = "You should verify your official accounts through Keybase … here's how."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2020-06-09T00:11:48+08:00                                        # manually adjust to local timezone

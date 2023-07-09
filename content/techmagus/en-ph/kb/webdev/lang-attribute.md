@@ -1,5 +1,5 @@
 +++
-title = "The LANG Attribute"
+title = "The LANG attribute"
 description = "The LANG attribute is a powerful piece of code when designing websites. Let me show you how to correctly use the LANG attribute."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 # DATE checked and correct

@@ -1,5 +1,5 @@
 +++
-title = "Why «Taxi Driver» Season 2 is Worth Watching"
+title = "Why «Taxi Driver» season 2 is worth watching"
 description = "A standalone sequel at par with the original season."
 
 lastmod = 2023-04-16T05:07:17+08:00                 # last update; manually adjust to local timezone

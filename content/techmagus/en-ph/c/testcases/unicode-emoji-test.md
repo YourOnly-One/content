@@ -1,5 +1,5 @@
 +++
-title = "Unicode 15 and Emoji 15 Test Page"
+title = "Unicode 15 and Emoji 15 test page"
 description = "A Unicode and Emoji test page. You can use this to test if your browser can display Unicode and Emoji characters."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2015-08-12T10:23:28+08:00                                        # manually adjust to local timezone

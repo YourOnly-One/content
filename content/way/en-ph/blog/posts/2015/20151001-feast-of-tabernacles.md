@@ -1,5 +1,5 @@
 +++
-title = "Feast of Tabernacles Verses"
+title = "Feast of Tabernacles verses"
 description = "Three very important verses reminding us that we should observe and celebrate the Feast of Tabernacles (Sukkot/Succot)."  # For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = 2015-10-01T02:32:24+08:00                          # manually adjust to local timezone

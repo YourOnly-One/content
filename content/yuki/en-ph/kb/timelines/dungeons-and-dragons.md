@@ -1,5 +1,5 @@
 +++
-title = "Dungeons & Dragons Video Games Release Timeline"
+title = "Dungeons & Dragons video games release timeline"
 description = "A list of Dungeons and Dragons video games sorted by year of release."
 
 lastmod = 2023-01-23T09:00:01+08:00                 # last update; manually adjust to local timezone

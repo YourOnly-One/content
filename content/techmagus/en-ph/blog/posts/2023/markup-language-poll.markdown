@@ -1,5 +1,5 @@
 +++
-title = "Poll: Which Markup Language Do You Use and Why?"
+title = "Poll: Which markup language do you use and why?"
 description = "Curious about which markup language is preferred by others for editing documents and taking down notes?"
 
 lastmod = 2023-04-10T09:50:35+08:00                 # last update; manually adjust to local timezone

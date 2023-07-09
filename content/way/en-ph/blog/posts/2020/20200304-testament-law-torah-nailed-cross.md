@@ -1,5 +1,5 @@
 +++
-title = "The Old Testament Law, or Torah, was Nailed On The Cross"
+title = "The old testament Law, or Torah, was nailed on the cross"
 description = "We often hear from preachers that the Old Testament Law, or Torah, was nailed on the cross but is it Scriptural?"  # For Schema.org; OpenGraph; Twitter Cards
 
 publishdate = 2020-03-04T17:39:27+08:00                          # manually adjust to local timezone

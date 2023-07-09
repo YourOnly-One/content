@@ -1,5 +1,5 @@
 +++
-title = "Philippines Unicode Keyboard Layout for Linux Is Now Available!"
+title = "Philippines Unicode Keyboard Layout for Linux is now available!"
 description = "Filipino Linux users around the world can now download and use the first release of the Philippines Unicode Keyboard Layout."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 # DATE checked and correct

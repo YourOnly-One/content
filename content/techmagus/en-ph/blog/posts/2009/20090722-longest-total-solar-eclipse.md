@@ -1,5 +1,5 @@
 +++
-title = "Longest Total Solar Eclipse Report"
+title = "Longest total solar eclipse report"
 description = "The July 22, 2009 Total Solar Eclipse was an experience to treasure - yes, even though from where I am it was only partial, about 49.5% here in Megapolitan ..."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2009-07-22T13:22:18+08:00                                        # manually adjust to local timezone

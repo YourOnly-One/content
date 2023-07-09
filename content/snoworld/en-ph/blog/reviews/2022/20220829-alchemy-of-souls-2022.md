@@ -1,5 +1,5 @@
 +++
-title = "«Alchemy of Souls» Season 01 review"
+title = "«Alchemy of Souls» season 01 review"
 description = "An epic adventure of friendship, self-discovery, magic, and love."
 
 lastmod = 2022-08-30T10:02:11+08:00                 # last update; manually adjust to local timezone

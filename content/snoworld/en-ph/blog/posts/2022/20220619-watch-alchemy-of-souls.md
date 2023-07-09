@@ -1,5 +1,5 @@
 +++
-title = "A Must Watch: Alchemy of Souls"
+title = "A must watch: Alchemy of Souls"
 description = "A Korean high fantasy about love, politics, and dark magic."
 
 lastmod = 2022-08-30T09:53:00+08:00                 # last update; manually adjust to local timezone

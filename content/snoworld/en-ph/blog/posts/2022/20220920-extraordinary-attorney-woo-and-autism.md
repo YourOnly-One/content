@@ -1,5 +1,5 @@
 +++
-title = "Autistics On «Extraordinary Attorney Woo»"
+title = "Autistics on «Extraordinary Attorney Woo»"
 description = "An interview with autistics about the Korean drama Extraordinary Attorney Woo (이상한 변호사 우영우)."
 
 lastmod = 2022-09-29T17:00:00+08:00                 # last update; manually adjust to local timezone
