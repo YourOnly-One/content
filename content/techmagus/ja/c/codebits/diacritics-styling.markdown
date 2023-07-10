@@ -22,8 +22,8 @@ syndications = ["https://c.im/@youronlyone/109884875851039512", "https://twitter
 
 channels = ["techmagus"]
 categories = ["howto", "web"]
-#keywords = [""]
-series = ["diacritics", "diacritical marks", "how to add colors to accent symbols", "how to add colours to diacritical signs"]
+keywords = ["diacritics", "diacritical marks", "how to add colors to accent symbols", "how to add colours to diacritical signs"]
+#series = [""]
 tags = ["css", "html"]
 
 comments = true
