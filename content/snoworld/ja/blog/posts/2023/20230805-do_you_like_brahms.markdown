@@ -2,8 +2,8 @@
 title = "反応: 《ブラームスが好きですか？》の感情的な深さを探求する"
 description = "Kドラマ《ブラームスが好きですか？》のメッセージと痛みに対する反応"
 
-lastmod = 2023-08-05T19:24:00+09:00                 # last update; manually adjust to local timezone
-publishdate = 2023-08-05T19:24:00+09:00             # first publication; manually adjust to local timezone
+lastmod = 2023-08-05T20:01:48+09:00                 # last update; manually adjust to local timezone
+publishdate = 2023-08-05T20:01:48+09:00             # first publication; manually adjust to local timezone
 date = 2023-08-05T19:24:00+09:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
