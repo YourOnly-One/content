@@ -24,7 +24,7 @@ channels = ["snoworld"]
 categories = ["tv"]
 keywords = ["방과 후 전쟁활동 파트", "Duty After School", "reaction", "放課後戦争活動パート", "alternate endings"]
 #series = [""]
-tags = ["kdrama"]
+tags = ["kdrama", "reactions"]
 
 comments = true
 #weight = ""

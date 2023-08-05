@@ -24,7 +24,7 @@ channels = ["snoworld"]
 categories = ["tv"]
 keywords = ["The Law Cafe", "The Law Café", "법대로 사랑하라", "法に則って愛しなさい", "abuse", "child abuse"]
 #series = [""]
-tags = ["kdrama"]
+tags = ["kdrama", "reactions"]
 
 comments = true
 #weight = ""
