@@ -2,7 +2,7 @@
 title = "Verified accounts"
 description = ""
 
-lastmod = 2023-08-26T21:30:24+08:00                 # last update; manually adjust to local timezone
+lastmod = 2023-08-26T22:37:01+08:00                 # last update; manually adjust to local timezone
 publishdate = 2023-04-14T09:00:00+08:00             # first publication; manually adjust to local timezone
 date = 2023-04-14T01:03:12+08:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
@@ -104,24 +104,29 @@ Some accounts are not listed on this page but are verified via Keybase, Keyoxide
 
 ### Mycelial Web
 
-These are my accounts in the Mycelium Web. These are “Decentralised, Distributed, Federated, Open, Networks”, also called the Social Web.
+These are my accounts in the Mycelial Web. These are “Decentralised, Distributed, Federated, Open, Networks”, also called the Social Web.
+
+- Mycelial is a collection of mycelium.
+- A mycelium is a single network.
 
 {{< table filename="ddfon-signed" class="verified">}}
+
+## Verified by the service
+
+Services with manual verification process and adds an exclusive checkmark.
+
+{{< table filename="service-verified-signed" class="verified">}}
 
 ### Walled/Silo SNS
 
 {{< table filename="closed-networks-signed" class="verified">}}
 
+## Verified through this page
+
+Chained verification. This page and its domain are verified, which makes these verified as well.
+
+{{< table filename="chain-verified-signed" class="verified">}}
+
 ### Other services
 
 {{< table filename="other-services-signed" class="verified">}}
-
-## Verified by the service
-
-Services with manual verification process.
-
-{{< table filename="service-verified-signed" class="verified">}}
-
-## Verified through this page
-
-{{< table filename="chain-verified-signed" class="verified">}}
