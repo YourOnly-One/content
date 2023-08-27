@@ -2,7 +2,7 @@
 title = "Revolutionizing Justice: Participatory Verdicts in K-Dramas"
 description = "Dive into app-based verdicts, discuss implications for justice and society, and share your thoughts on this intriguing concept."
 
-lastmod = 2023-08-27T11:43:00+08:00                 # last update; manually adjust to local timezone
+lastmod = 2023-08-27T12:24:00+08:00                 # last update; manually adjust to local timezone
 publishdate = 2023-08-27T11:43:00+08:00             # first publication; manually adjust to local timezone
 date = 2023-08-27T10:00:00+08:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/revolutionised-justice-particip
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndications = [""]
+syndications = ["https://c.im/@youronlyone/110959641157683802", "https://www.plurk.com/p/pda9y4", "https://t2.social/YourOnlyOne/status/216228", "https://spoutible.com/thread/15965681", "https://t.youronly.one/post/726778481159110656/revolutionizing-justice-participatory-verdicts-in", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0NvR4boRVpSDFXz98wcTqjtmquGgugT2NPHbgaGciqzbdTRUMXjtxNBXo4QBmNZsdl", "https://twitter.com/YourOnlyONEofcl/status/1695648946578731194"]
 
 channels = ["snoworld"]
 categories = ["tv"]

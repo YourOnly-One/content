@@ -2,7 +2,7 @@
 title = "정의의 혁명: K-Drama의 참여적 평결"
 description = "앱 기반 평결에 뛰어들어 정의와 사회에 미치는 영향에 대해 논의하고 이 흥미로운 개념에 대한 여러분의 생각을 공유하세요."
 
-lastmod = 2023-08-27T12:43:00+09:00                 # last update; manually adjust to local timezone
+lastmod = 2023-08-27T13:24:00+09:00                 # last update; manually adjust to local timezone
 publishdate = 2023-08-27T12:43:00+09:00             # first publication; manually adjust to local timezone
 date = 2023-08-27T10:00:00+09:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/ko/revolutionised-justice-parti
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndications = [""]
+syndications = ["https://c.im/@youronlyone/110959645139297221", "https://www.plurk.com/p/pda9y4", "https://t2.social/YourOnlyOne/status/216228", "https://spoutible.com/thread/15965681", "https://t.youronly.one/post/726778481159110656/revolutionizing-justice-participatory-verdicts-in", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0NvR4boRVpSDFXz98wcTqjtmquGgugT2NPHbgaGciqzbdTRUMXjtxNBXo4QBmNZsdl", "https://twitter.com/YourOnlyONEofcl/status/1695648953218318837"]
 
 channels = ["snoworld"]
 categories = ["tv"]
