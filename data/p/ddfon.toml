@@ -29,6 +29,8 @@
 [[row]]
   data = ["Fediverse", "<a href='https://sopuli.xyz/u/YourOnlyOne' rel='me'>@YourOnlyOne@sopuli.xyz</a>", "", "✅", ""]
 [[row]]
+  data = ["Fediverse", "<a href='https://mozilla.social/@YourOnlyOne' rel='me'>@YourOnlyOne@mozilla.social</a>", "", "✅", ""]
+[[row]]
   data = ["Fediverse", "<a href='https://social.vivaldi.net/@YourOnlyOne' rel='me'>@YourOnlyOne@vivaldi.net</a>", "", "✅", ""]
 [[row]]
   data = ["Matrix", "<a href='https://matrix.to/#/@youronlyone:matrix.org' rel='me'>@youronlyone:matrix.org</a>", "", "✅", ""]
