@@ -85,22 +85,22 @@ These are the accounts verified through OpenPGP, or similar, signing methods.
 
 ### Base
 
-{{< table filename="base-signed" class="verified">}}
+{{< table filename="base-signed" class="verified" >}}
 
 Some accounts are not listed on this page but are verified via Keybase, Keyoxide, and/or Whosum.
 {.note}
 
 ### Payment
 
-{{< table filename="payment-signed" class="verified">}}
+{{< table filename="payment-signed" class="verified" >}}
 
 ### Coding
 
-{{< table filename="coding-signed" class="verified">}}
+{{< table filename="coding-signed" class="verified" >}}
 
 ### Chat
 
-{{< table filename="chat-signed" class="verified">}}
+{{< table filename="chat-signed" class="verified" >}}
 
 ### Mycelial Web
 
@@ -109,24 +109,24 @@ These are my accounts in the Mycelial Web. These are “Decentralised, Distribut
 - Mycelial is a collection of mycelium.
 - A mycelium is a single network.
 
-{{< table filename="ddfon-signed" class="verified">}}
+{{< table filename="ddfon-signed" class="verified" >}}
 
 ## Verified by the service
 
 Services with manual verification process and adds an exclusive checkmark.
 
-{{< table filename="service-verified-signed" class="verified">}}
+{{< table filename="service-verified-signed" class="verified" >}}
 
 ### Walled/Silo SNS
 
-{{< table filename="closed-networks-signed" class="verified">}}
+{{< table filename="closed-networks-signed" class="verified" >}}
 
 ## Verified through this page
 
 Chained verification. This page and its domain are verified, which makes these verified as well.
 
-{{< table filename="chain-verified-signed" class="verified">}}
+{{< table filename="chain-verified-signed" class="verified" >}}
 
 ### Other services
 
-{{< table filename="other-services-signed" class="verified">}}
+{{< table filename="other-services-signed" class="verified" >}}
