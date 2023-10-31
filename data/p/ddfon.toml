@@ -9,6 +9,8 @@
 [[row]]
   data = ["Fediverse", "<a href='https://c.wtf/@YourOnlyOne' rel='me'>@YourOnlyOne@c.wtf</a>", "", "✅", "✅"]
 [[row]]
+  data = ["Fediverse", "<a href='https://pebble.social/@YourOnlyOne' rel='me'>@YourOnlyOne@pebble.social</a>", "", "✅", "✅"]
+[[row]]
   data = ["Fediverse", "<a href='https://firefish.social/@YourOnlyOne' rel='me'>@YourOnlyOne@firefish.social</a>", "", "✅", ""]
 [[row]]
   data = ["Fediverse", "<a href='https://kbin.social/u/YourOnlyOne' rel='me'>@YourOnlyOne@fedia.io</a>", "", "✅", ""]
