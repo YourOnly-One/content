@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/ko/do-you-like-brahms-2023217/"
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-syndications = ["https://c.im/@youronlyone/110836737665751180", "https://t2.social/YourOnlyOne/status/177437", "https://spoutible.com/thread/13719990", "https://blog.naver.com/youronlyone-ofcl/223175779186", "https://twitter.com/YourOnlyONEofcl/status/1687788664422817793", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0vwxX7AAD7MydC2hQzDKFuGsJdXZVKeJHZYApaaiSbawKHsZeDWmYUNnJgW2PXAoPl", "https://t.youronly.one/post/724813098572283904/reaction-exploring-the-emotional-depths-of-do"]
+syndications = ["https://c.im/@youronlyone/110836737665751180", "https://spoutible.com/thread/13719990", "https://blog.naver.com/youronlyone-ofcl/223175779186", "https://twitter.com/YourOnlyONEofcl/status/1687788664422817793", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0vwxX7AAD7MydC2hQzDKFuGsJdXZVKeJHZYApaaiSbawKHsZeDWmYUNnJgW2PXAoPl", "https://t.youronly.one/post/724813098572283904/reaction-exploring-the-emotional-depths-of-do"]
 
 channels = ["snoworld"]
 categories = ["tv"]
