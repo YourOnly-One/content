@@ -92,4 +92,4 @@ Subscribe to get an alert on our next episode!
 Official links
 
 - [Fediverse](https://koyu.space/@faithfulathlete)
-- [Facebook](https://facebook.com/faithful.athlete)
+- [Facebook](https://www.facebook.com/faithful.athlete)

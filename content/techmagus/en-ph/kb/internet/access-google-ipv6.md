@@ -192,7 +192,7 @@ These are the Google sites and services tested to be accessible via IPv6 (as of 
 - Google Earth: <a href="https://www.google.com/earth/" rel="noopener external nofollow">https://earth.google.com</a>
 - Google Moderator: <span class="popper animate removed_link" data-popper="https://moderator.appspot.com">https://web.archive.org/web/20150621104346/https://moderator.appspot.com/</span>
 - Google FeedBurner: <a href="https://accounts.google.com/ServiceLogin?service=feedburner&amp;continue=https%3A%2F%2Ffeedburner.google.com%2Ffb%2Fa%2Fmyfeeds&amp;gsessionid=u9hHPZko-UNXqdtUCdPKIg" rel="noopener external nofollow">https://feedburner.google.com</a>
-- Google YouTube: <a href="https://www.youtube.com/supported_browsers?next_url=%2F" rel="noopener external nofollow">https://youtube.com</a>
+- Google YouTube: <a href="https://www.youtube.com/supported_browsers?next_url=%2F" rel="noopener external nofollow">https://www.youtube.com</a>
 - Google App Engine: <a href="https://appengine.google.com" rel="noopener external nofollow">https://appengine.google.com</a>
 - Google Code: <a href="https://code.google.com" rel="noopener external nofollow">https://code.google.com</a>
 - Google Docs: <a href="https://docs.google.com" rel="noopener external nofollow">https://docs.google.com</a>

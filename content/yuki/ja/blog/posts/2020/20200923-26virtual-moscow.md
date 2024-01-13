@@ -92,7 +92,7 @@ avatar = "https://rsc.youronly.one/img/y/Faithful_Athlete-logo-02-1500x.webp"
 公式リンク
 
 - [Fediverse](https://koyu.space/@faithfulathlete)
-- [フェイスブック](https://facebook.com/faithful.athlete)
+- [フェイスブック](https://www.facebook.com/faithful.athlete)
 
 ---
 

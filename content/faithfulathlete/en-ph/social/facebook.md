@@ -3,10 +3,10 @@ title = ""
 subtitle = ""
 publishdate = 2020-03-25T06:00:00+00:00
 lastmod = 2020-03-25T06:00:00+00:00
-link = "https://facebook.com/faithful.athlete"
+link = "https://www.facebook.com/faithful.athlete"
 #linkRel = ""
 image = "https://rsc.youronly.one/img/assets/facebook-followme.webp"
 #metarobots = "noindex"
 +++
 
-[Facebook](https://facebook.com/faithful.athlete "Facebook")
+[Facebook](https://www.facebook.com/faithful.athlete "Facebook")

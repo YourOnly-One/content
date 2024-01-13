@@ -88,7 +88,7 @@ Here are the memes based on the popular {{% quote type="name" lang="en" %}}Wish 
   licensecode="allrightsreserved"
 
   attribto="Jan Earvin Lopez"
-  attriburl="https://facebook.com/NivraeZepol/posts/pfbid02FsYFjNbRH81Cp3pyxcj24ZiSs8a183JYiy5ZsBuXQLVDA8hgtVrisJ2N4ARzn5gel"
+  attriburl="https://www.facebook.com/NivraeZepol/posts/pfbid02FsYFjNbRH81Cp3pyxcj24ZiSs8a183JYiy5ZsBuXQLVDA8hgtVrisJ2N4ARzn5gel"
   attribrel="noopener external"
 >}}
 
@@ -136,7 +136,7 @@ Where do broken hearts go?
   licensecode="allrightsreserved"
 
   attribto="Aron John Balbon"
-  attriburl="https://facebook.com/groups/hallyustyle101/posts/1288310531910600/"
+  attriburl="https://www.facebook.com/groups/hallyustyle101/posts/1288310531910600/"
   attribrel="noopener external"
 >}}
 
@@ -172,7 +172,7 @@ Is there really no chance to get back together?
 
 ## Fan OST: Whale Soundtrack
 
-{{% quote type="name" lang="en-PH" %}}Anj Alfieri{{% /quote %}} from the [{{% quote type="title" lang="en" %}}HallyuStyle Philippines{{% /quote %}}](https://facebook.com/groups/hallyustyle101/) {{% quote type="name" lang="en" %}}Facebook{{% /quote %}} group created a witty OST list called {{% quote type="title" lang="en" %}}Whale Soundtrack{{% /quote %}}.
+{{% quote type="name" lang="en-PH" %}}Anj Alfieri{{% /quote %}} from the [{{% quote type="title" lang="en" %}}HallyuStyle Philippines{{% /quote %}}](https://www.facebook.com/groups/hallyustyle101/) {{% quote type="name" lang="en" %}}Facebook{{% /quote %}} group created a witty OST list called {{% quote type="title" lang="en" %}}Whale Soundtrack{{% /quote %}}.
 
 {{< image
   isrepresentativeofpage=false
@@ -192,7 +192,7 @@ Is there really no chance to get back together?
   licensecode="allrightsreserved"
 
   attribto="Anj Alfieri"
-  attriburl="https://facebook.com/groups/hallyustyle101/posts/1289244808483839/"
+  attriburl="https://www.facebook.com/groups/hallyustyle101/posts/1289244808483839/"
   attribrel="noopener external"
 >}}
 
@@ -222,7 +222,7 @@ That was it, right? No. There is also a film entitled {{% quote type="title" lan
   licensecode="allrightsreserved"
 
   attribto="Sunbaenim"
-  attriburl="https://facebook.com/sunbaenim.fb/posts/pfbid0Wwf9AkPhNzhEpvkhKM3B62TpuszsKgje3GNe7pLRNGk6H7tLFeTyRabHxSWZjj5rl"
+  attriburl="https://www.facebook.com/sunbaenim.fb/posts/pfbid0Wwf9AkPhNzhEpvkhKM3B62TpuszsKgje3GNe7pLRNGk6H7tLFeTyRabHxSWZjj5rl"
   attribrel="noopener external"
 >}}
 

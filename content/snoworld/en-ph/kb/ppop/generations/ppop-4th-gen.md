@@ -428,10 +428,10 @@ As of 2022-02-14, embed for the official music video is disabled. If this has be
   - [Spotify](https://open.spotify.com/artist/50E2JPdpIpS4IFMlgaG0Ht)
   - [YouTube Music](https://music.youtube.com/channel/UCOfeAbO1y6G74xuHyIVmEJA)
 - Video streaming:
-  - [YouTube](https://youtube.com/LunaOfficialPH)
+  - [YouTube](https://www.youtube.com/LunaOfficialPH)
 - Social:
-  - [Facebook](https://facebook.com/ofclunaph)
-  - [Instagram](https://instagram.com/ofclunaph)
+  - [Facebook](https://www.facebook.com/ofclunaph)
+  - [Instagram](https://www.instagram.com/ofclunaph)
   - [Twitter](https://twitter.com/ofclunaph)
 
 [^luna-songs-ako-naman]: [LUNA] YouTube: 《[Ako Naman](https://www.youtube.com/watch?v=E4NHugda7R4 "LUNA: Ako Naman")》

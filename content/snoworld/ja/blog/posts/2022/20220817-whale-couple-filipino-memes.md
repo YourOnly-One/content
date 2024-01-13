@@ -88,7 +88,7 @@ type = "article"                                             # article, sitepage
   licensecode="allrightsreserved"
 
   attribto="Jan Earvin Lopez"
-  attriburl="https://facebook.com/NivraeZepol/posts/pfbid02FsYFjNbRH81Cp3pyxcj24ZiSs8a183JYiy5ZsBuXQLVDA8hgtVrisJ2N4ARzn5gel"
+  attriburl="https://www.facebook.com/NivraeZepol/posts/pfbid02FsYFjNbRH81Cp3pyxcj24ZiSs8a183JYiy5ZsBuXQLVDA8hgtVrisJ2N4ARzn5gel"
   attribrel="noopener external"
 >}}
 
@@ -136,7 +136,7 @@ type = "article"                                             # article, sitepage
   licensecode="allrightsreserved"
 
   attribto="Aron John Balbon"
-  attriburl="https://facebook.com/groups/hallyustyle101/posts/1288310531910600/"
+  attriburl="https://www.facebook.com/groups/hallyustyle101/posts/1288310531910600/"
   attribrel="noopener external"
 >}}
 
@@ -172,7 +172,7 @@ type = "article"                                             # article, sitepage
 
 ## ファンOST:Whaleサウンドトラック
 
-[{{% quote type="title" lang="ja" %}}韓流スタイルフィリピン{{% /quote %}}](https://facebook.com/groups/hallyustyle101/) {{% quote type="name" lang="en" %}}Facebook{{% /quote %}}グループの{{% quote type="name" lang="en-PH" %}}Anj Alfieri{{% /quote %}}がセンスのあるOSTリスト{{% quote type="title" lang="ja" %}}クジラサウンドトラック{{% /quote %}}を作成しました。
+[{{% quote type="title" lang="ja" %}}韓流スタイルフィリピン{{% /quote %}}](https://www.facebook.com/groups/hallyustyle101/) {{% quote type="name" lang="en" %}}Facebook{{% /quote %}}グループの{{% quote type="name" lang="en-PH" %}}Anj Alfieri{{% /quote %}}がセンスのあるOSTリスト{{% quote type="title" lang="ja" %}}クジラサウンドトラック{{% /quote %}}を作成しました。
 
 {{< image
   isrepresentativeofpage=false
@@ -192,7 +192,7 @@ type = "article"                                             # article, sitepage
   licensecode="allrightsreserved"
 
   attribto="Anj Alfieri"
-  attriburl="https://facebook.com/groups/hallyustyle101/posts/1289244808483839/"
+  attriburl="https://www.facebook.com/groups/hallyustyle101/posts/1289244808483839/"
   attribrel="noopener external"
 >}}
 
@@ -222,7 +222,7 @@ type = "article"                                             # article, sitepage
   licensecode="allrightsreserved"
 
   attribto="Sunbaenim"
-  attriburl="https://facebook.com/sunbaenim.fb/posts/pfbid0Wwf9AkPhNzhEpvkhKM3B62TpuszsKgje3GNe7pLRNGk6H7tLFeTyRabHxSWZjj5rl"
+  attriburl="https://www.facebook.com/sunbaenim.fb/posts/pfbid0Wwf9AkPhNzhEpvkhKM3B62TpuszsKgje3GNe7pLRNGk6H7tLFeTyRabHxSWZjj5rl"
   attribrel="noopener external"
 >}}
 

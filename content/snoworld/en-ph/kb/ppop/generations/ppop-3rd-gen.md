@@ -507,7 +507,7 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   datepublished="2019-05-11"
   licensecode="allrightsreserved"
   attribto="GT Breakthrough"
-  attriburl="https://youtube.com/GTBreakthrough"
+  attriburl="https://www.youtube.com/GTBreakthrough"
 >}}
 
 - Authority control:
@@ -518,7 +518,7 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   - [Spotify](https://open.spotify.com/artist/05UioGXmDYyqrkpP16jXvJ)
   - [YouTube Music](https://music.youtube.com/channel/UCENGwOu0EozKysoDjMBDY6w) (generic channel for all artists named GT, their song was incorrectly credited to it)
 - Video streaming:
-  - [YouTube](https://youtube.com/GTBreakthrough)
+  - [YouTube](https://www.youtube.com/GTBreakthrough)
 - Social:
   - [Facebook](https://fb.com/GTbreakthrough)
   - [Instagram](https://www.instagram.com/GTbreakthrough)
@@ -881,7 +881,7 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   - [Spotify](https://open.spotify.com/artist/08JgwNI4e9gEhbb5dZotBj)
   - [YouTube Music](https://music.youtube.com/channel/UCuVKQA3KuqvKtUl7Ff9xZOw)
 - Video streaming:
-  - [YouTube](https://youtube.com/TheTNTBoys)
+  - [YouTube](https://www.youtube.com/TheTNTBoys)
 - Social:
   - [Facebook](https://fb.com/TheTNTBoys)
   - [Instagram](https://www.instagram.com/thetntboys)

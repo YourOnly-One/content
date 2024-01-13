@@ -185,7 +185,7 @@ In February, ***VIVIZ*** and ***NMIXX*** strenghtened the girl power theme with 
   attriburl="https://www.youtube.com/channel/UCaO6TYtlC8U5ttz62hTrZgg"
 >}}
 
-- Facebook: [NMIXX](https://facebook.com/NMIXXOfficial/ "NMIXX")
+- Facebook: [NMIXX](https://www.facebook.com/NMIXXOfficial/ "NMIXX")
 - Twitter: [@NMIXX_official](https://twitter.com/NMIXX_official "@NMIXX_official")
 - YouTube: [NMIXX](https://www.youtube.com/c/NMIXXOfficial "NMIXX")
 
@@ -196,16 +196,16 @@ In February, ***VIVIZ*** and ***NMIXX*** strenghtened the girl power theme with 
 - Fandom colour: Shiny Yellow, Purple, and Sea Blue [^le-sserafim-youtube-shorts]
 - Debut: 2022-05
   - Song: tba
-- Facebook: [LE SSERAFIM](https://facebook.com/official.lesserafim/ "LE SSERAFIM")
-- Instagram: [@le_sserafim](https://instagram.com/le_sserafim "@le_sserafim")
-- Instagram: [@lesserafimofficial_](https://instagram.com/lesserafimofficial_"@lesserafimofficial_")
+- Facebook: [LE SSERAFIM](https://www.facebook.com/official.lesserafim/ "LE SSERAFIM")
+- Instagram: [@le_sserafim](https://www.instagram.com/le_sserafim "@le_sserafim")
+- Instagram: [@lesserafimofficial_](https://www.instagram.com/lesserafimofficial_"@lesserafimofficial_")
 - Twitter: [@le_sserafim](https://twitter.com/NMIXX_official "@le_sserafim")
 {{- <!-- markdownlint-disable-next-line --> -}}
 - Twitter: [@LSRFMofficial_](https://twitter.com/LSRFMofficial_ "@LSRFMofficial_")
 - YouTube: [LE SSERAFIM](https://www.youtube.com/channel/UCs-QBT4qkj_YiQw1ZntDO3g "LE SSERAFIM")
 - YouTube: [레세라핌 LESSERAFIM OFFICIAL](https://www.youtube.com/레세라핌LESSERAFIMOFFICIAL "LE SSERAFIM")
 
-[^le-sserafim-youtube-shorts]: [Le Sserafim] [LESSERAFIM (레세라핌) OFFICIAL FANCLUB & OFFICIAL COLOUR'S (공식 팬클럽 & 공식 팬콜럴) 🙌👏👏](https://youtube.com/shorts/JeUg2pmx7uU "LESSERAFIM (레세라핌) OFFICIAL FANCLUB & OFFICIAL COLOUR'S (공식 팬클럽 & 공식 팬콜럴) 🙌👏👏")
+[^le-sserafim-youtube-shorts]: [Le Sserafim] [LESSERAFIM (레세라핌) OFFICIAL FANCLUB & OFFICIAL COLOUR'S (공식 팬클럽 & 공식 팬콜럴) 🙌👏👏](https://www.youtube.com/shorts/JeUg2pmx7uU "LESSERAFIM (레세라핌) OFFICIAL FANCLUB & OFFICIAL COLOUR'S (공식 팬클럽 & 공식 팬콜럴) 🙌👏👏")
 
 ---
 
