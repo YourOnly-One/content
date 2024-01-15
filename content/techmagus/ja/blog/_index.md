@@ -47,7 +47,7 @@ toc = true
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "Yuki (유키 雪矢)"
+  name = "謝雪矢（ゆきや）"
   #name = "techmagus / ハイテク マギ / 테크 마구스"
   url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"

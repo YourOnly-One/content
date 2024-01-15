@@ -47,7 +47,7 @@ toc = true
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "Yuki (유키 雪矢)"
+  name = "謝雪矢（ゆきや）"
   #name = "YOOki Chronicles / YOOkiクロニクル / YOOki 연대기"
   url = "https://im.youronly.one/yuki/"
   avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"

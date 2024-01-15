@@ -39,7 +39,7 @@ images = ["https://img.youronly.one/works/Sunflower_in_the_City-01-Nokia3_macro-
 [[authors]]
 person = "yuki"
 #id = ""
-name = "Yuki (유키 雪矢)"
+name = "謝雪矢（ゆきや）"
 url = "https://im.youronly.one/confidentraveler/"
 avatar = "https://rsc.youronly.one/img/y/Confident_Traveler-logo-01-1500x.webp"
 #rel = "noopener external nofollow"

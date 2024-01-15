@@ -37,7 +37,7 @@ images = ["https://3.bp.blogspot.com/-xqpogUZC3bQ/VsnSNlLlhuI/AAAAAAAAQ-4/eNLFbb
 [[authors]]
 person = "yuki"
 #id = ""
-name = "Yuki (유키 雪矢)"
+name = "謝雪矢（ゆきや）"
 url = "https://im.youronly.one/love/"
 avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 #rel = "noopener external nofollow"
