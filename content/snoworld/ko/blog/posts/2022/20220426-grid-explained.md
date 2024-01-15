@@ -42,7 +42,7 @@ type = "article"                                                             # a
   person = "yuki"
   #id = ""
   #name = "Snoworld / 雪の世界 / 스노우 월드"
-  name = "ᜌᜓᜃᜒ (雪亮 | 스노 | Yuki)"
+  name = "Yuki (유키 雪矢)"
   avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
   #rel = "noopener"
 +++

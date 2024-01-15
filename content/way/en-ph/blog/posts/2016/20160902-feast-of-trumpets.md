@@ -38,7 +38,7 @@ images = ["https://1.bp.blogspot.com/-aSyRL2Y5KKk/XlU-o9j9uBI/AAAAAAAAgA0/ztxSOV
 [[authors]]
 person = "yuki"
 #id = ""
-name = "ᜌᜓᜃᜒ (雪亮 | 스노 | Yuki)"
+name = "Yuki (유키 雪矢)"
 url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 #rel = "noopener external nofollow"

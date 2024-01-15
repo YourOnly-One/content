@@ -41,7 +41,7 @@ draft = true
 #[[authors]]
 #  person = ""
 #  #id = ""
-#  name = "ᜌᜓᜃᜒ (雪亮 | 스노 | Yuki)"
+#  name = "Yuki (유키 雪矢)"
 #  url = ""
 #  avatar = ""
 #  rel = "noopener external nofollow"

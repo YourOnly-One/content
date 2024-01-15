@@ -38,7 +38,7 @@ toc = true
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "ᜌᜓᜃᜒ (雪亮 | 스노 | Yuki)"
+  name = "Yuki (유키 雪矢)"
   url = "https://im.youronly.one/yuki/"
   avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
   #rel = "noopener external nofollow"
@@ -63,7 +63,7 @@ You may view, download, and print pages, files or other content from the WebSite
 ### Non-Software License
 <!-- <small><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><span style="font-size: 170%;"><i class="cc" style="color: red;" title="CC BY-SA">c</i><i class="cc" style="color: green;" title="CC BY-SA">b</i><i class="cc" style="color: blue;" title="CC BY-SA">a</i></span></a></small><br/> -->
 
-Except where otherwise noted, <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">YourOnly.One</span> is Copyrighted © <a xmlns:cc="https://creativecommons.org/ns#" href="https://youronly.one" property="cc:attributionName" rel="cc:attributionURL">Yahuhanan Yukia Sese Cuneta</a>, and is under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br/>Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="https://im.youronly.one/p/legal-notice/" rel="cc:morePermissions">youronly.one/p/legal-notice/</a>.
+Except where otherwise noted, <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">YourOnly.One</span> is Copyrighted © <a xmlns:cc="https://creativecommons.org/ns#" href="https://youronly.one" property="cc:attributionName" rel="cc:attributionURL">Yahuhanan Yukiya Sese Cuneta</a>, and is under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br/>Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="https://im.youronly.one/p/legal-notice/" rel="cc:morePermissions">youronly.one/p/legal-notice/</a>.
 
 All other materials not owned by YourOnly.One, including but not limited to brand names, images, product screenshots, and trademarks, is owned by their respective owners and are subject to their terms of use and license. These items were defined in the [Legal Notice](https://im.youronly.one/p/legal-notice/ "Legal Notice") document and/or at the end of each article/blog post.
 

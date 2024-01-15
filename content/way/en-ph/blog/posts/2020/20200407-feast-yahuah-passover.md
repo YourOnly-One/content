@@ -42,7 +42,7 @@ images = ["https://2.bp.blogspot.com/-eO37wX8kfWg/XouKb2WkvEI/AAAAAAAAg9g/IiqkGA
 [[authors]]
 person = "yuki"
 #id = ""
-name = "ᜌᜓᜃᜒ (雪亮 | 스노 | Yuki)"
+name = "Yuki (유키 雪矢)"
 url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 #rel = "noopener external nofollow"
@@ -77,7 +77,7 @@ Here is a short presentation I made outlining the verses from Exodus and the Boo
   viewmode="slideshow"
   docrel="me noopener external"
 
-  authorname="Yahuhanan Yukia Sese Cuneta"
+  authorname="Yahuhanan Yukiya Sese Cuneta"
   authorid="14631"
   authorrel="me noopener external"
 >}}

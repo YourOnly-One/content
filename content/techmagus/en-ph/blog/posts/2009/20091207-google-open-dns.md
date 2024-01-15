@@ -40,7 +40,7 @@ type = "article"                                                           # art
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "ᜌᜓᜃᜒ (雪亮 | 스노 | Yuki)"
+  name = "Yuki (유키 雪矢)"
   url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
   #rel = "noopener external nofollow"
@@ -62,7 +62,7 @@ Using the script posted on the blog I tried it out myself. Here's my result test
   <div class="separator" style="clear: both; text-align: center;"><a href="https://2.bp.blogspot.com/-My6VQMwrbWw/XrFatMOpyCI/AAAAAAAAhfU/SNcOBNQsm8cqpGfY60VVSYYMrNKXdKHuACPcBGAsYHg/s1600/GoogleDNS-vs-OpenDNS.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" border="0" src="https://2.bp.blogspot.com/-My6VQMwrbWw/XrFatMOpyCI/AAAAAAAAhfU/SNcOBNQsm8cqpGfY60VVSYYMrNKXdKHuACPcBGAsYHg/s1600/GoogleDNS-vs-OpenDNS.png" data-original-width="528" data-original-height="504" /></a></div>
   <figcaption class="attribution_copyright txt_center">
     <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
-      <small>"<a href="https://2.bp.blogspot.com/-My6VQMwrbWw/XrFatMOpyCI/AAAAAAAAhfU/SNcOBNQsm8cqpGfY60VVSYYMrNKXdKHuACPcBGAsYHg/s1600/GoogleDNS-vs-OpenDNS.png" rel="dct:title noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">GoogleDNS-vs-OpenDNS</a>" by <a href="https://iam.youronly.one" rel="dct:creator noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Yahuhanan Yukia Sese Cuneta</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">CC BY-SA 4.0 International</a>.</small>
+      <small>"<a href="https://2.bp.blogspot.com/-My6VQMwrbWw/XrFatMOpyCI/AAAAAAAAhfU/SNcOBNQsm8cqpGfY60VVSYYMrNKXdKHuACPcBGAsYHg/s1600/GoogleDNS-vs-OpenDNS.png" rel="dct:title noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">GoogleDNS-vs-OpenDNS</a>" by <a href="https://iam.youronly.one" rel="dct:creator noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Yahuhanan Yukiya Sese Cuneta</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">CC BY-SA 4.0 International</a>.</small>
   </figcaption>
 </figure>
 

@@ -38,7 +38,7 @@ type = "article"                                                           # art
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "ᜌᜓᜃᜒ (雪亮 | 스노 | Yuki)"
+  name = "Yuki (유키 雪矢)"
   url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
   #rel = "noopener external nofollow"
@@ -81,7 +81,7 @@ After the Globe presentation (good thing there was no Q&amp;A session, I would h
   </div>
   <figcaption class="attribution_copyright txt_center">
     <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
-      <small>"5 Years of Firefox in Manila" by <a href="https://iam.youronly.one" rel="dct:creator noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Yahuhanan Yukia Sese Cuneta</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">CC BY-SA 4.0 International</a>.</small>
+      <small>"5 Years of Firefox in Manila" by <a href="https://iam.youronly.one" rel="dct:creator noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Yahuhanan Yukiya Sese Cuneta</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">CC BY-SA 4.0 International</a>.</small>
 
   </figcaption>
 </figure>

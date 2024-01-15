@@ -38,7 +38,7 @@ type = "article"                                                           # art
 [[authors]]
 person = "yuki"
 #id = ""
-name = "ᜌᜓᜃᜒ (雪亮 | 스노 | Yuki)"
+name = "Yuki (유키 雪矢)"
 url = "https://im.youronly.one/yugenbard/"
 avatar = "https://rsc.youronly.one/img/y/Yūgen_Bard-logo-01-1500x.webp"
 #rel = "noopener external nofollow"

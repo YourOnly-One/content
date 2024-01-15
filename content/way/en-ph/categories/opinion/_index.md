@@ -47,7 +47,7 @@ toc = true
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "ᜌᜓᜃᜒ (雪亮 | 스노 | Yuki)"
+  name = "Yuki (유키 雪矢)"
   #name = "One Way Faith / 一方向の信仰 / 편도 신앙"
   url = "https://im.youronly.one/way/"
   avatar = "https://img.youronly.one/works/FlagMenorah-Proto-(CC0).webp"
