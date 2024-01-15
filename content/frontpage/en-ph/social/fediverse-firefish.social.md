@@ -8,6 +8,9 @@ link = "https://firefish.social/@youronlyone"
 image = "https://rsc.youronly.one/img/logos/firefish-logo-white.png"
 weight = "4100"
 #metarobots = "noindex"
+
+draft = true
+private = true
 +++
 
 [Fediverse: firefish.social](https://firefish.social/@youronlyone "Fediverse: firefish.social")
