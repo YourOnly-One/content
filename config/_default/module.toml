@@ -1,4 +1,6 @@
+# See: https://gohugo.io/hugo-modules/configuration/
+
 [hugoVersion]
   extended = true
   #max = ""
-  min = "0.112.4"
+  min = "0.121.2"
