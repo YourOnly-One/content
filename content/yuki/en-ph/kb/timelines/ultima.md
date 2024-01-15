@@ -50,7 +50,7 @@ type = "article"                                             # article, sitepage
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "Yuki (유키 雪矢)"
+  name = "ᜌᜓᜃᜒ (Yuki)"
   #name = "gameshogun 🎲 / ゲーム将軍 🎲 / 게임장군 🎲"
   url = "https://im.youronly.one"
   avatar = "https://rsc.youronly.one/img/y/gameshogun-joystick-1280x.png"

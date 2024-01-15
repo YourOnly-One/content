@@ -50,7 +50,7 @@ translationby = ""
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "Yuki (유키 雪矢)"
+  name = "ᜌᜓᜃᜒ (Yuki)"
   #name = "YOOki Chronicles 📜 / YOOkiクロニクル 📜 / YOOki 연대기 📜"
   url = "https://im.youronly.one/yuki/"
   avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"

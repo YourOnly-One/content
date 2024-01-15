@@ -47,7 +47,7 @@ images = ["images/h/hugo-markdown-link-render.webp"]
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "Yuki (유키 雪矢)"
+  name = "ᜌᜓᜃᜒ (Yuki)"
   #name = "techmagus / ハイテク マギ / 테크 마구스"
   url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
