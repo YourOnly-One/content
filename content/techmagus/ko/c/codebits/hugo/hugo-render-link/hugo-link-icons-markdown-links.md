@@ -192,20 +192,20 @@ type = "article"                                                             # a
       .icon_books::after        { content: "\1F4D6";                                    /* 📖 */ }
       .icon_document::after     { content: "\1F4C4";                                    /* 📄 */ }
       .icon_text::after         { content: "\1F4DD";                                    /* 📝 */ }
-      .icon_presentation::after { content: url("../fonts/link-icons-presentation.svg"); /* https://openclipart.org/detail/36505/tango-x-office-presentation */ }
-      .icon_spreadsheet::after  { content: url("../fonts/link-icons-spreadsheet.svg");  /* https://openclipart.org/detail/36517/tango-x-office-spreadsheet */ }
+      .icon_presentation::after { content: url("../img/link-icons-presentation.svg");   /* https://openclipart.org/detail/36505/tango-x-office-presentation */ }
+      .icon_spreadsheet::after  { content: url("../img/link-icons-spreadsheet.svg");    /* https://openclipart.org/detail/36517/tango-x-office-spreadsheet */ }
 
       .icon_audio::after        { content: "\1F3B5";                                    /* 🎵 */ }
       .icon_video::after        { content: "\1F4FD\FE0F";                               /* 📽️ */ }
-      .icon_subtitle::after     { content: url("../fonts/link-icons-subtitle.svg");     /* https://openclipart.org/detail/212110/mimetype-subtitle */ }
+      .icon_subtitle::after     { content: url("../img/link-icons-subtitle.svg");       /* https://openclipart.org/detail/212110/mimetype-subtitle */ }
 
-      .icon_executable::after   { content: url("../fonts/link-icons-executable.svg");   /* https://openclipart.org/detail/212161/mimetype-binary */ }
-      .icon_scripts::after      { content: url("../fonts/link-icons-scripts.svg");      /* https://openclipart.org/detail/36175/tango-text-x-script */ }
+      .icon_executable::after   { content: url("../img/link-icons-executable.svg");     /* https://openclipart.org/detail/212161/mimetype-binary */ }
+      .icon_scripts::after      { content: url("../img/link-icons-scripts.svg");        /* https://openclipart.org/detail/36175/tango-text-x-script */ }
 
-      .icon_fonts::after        { content: url("../fonts/link-icons-fonts.svg");        /* https://openclipart.org/detail/35257/tango-preferences-desktop-font */ }
+      .icon_fonts::after        { content: url("../img/link-icons-fonts.svg");          /* https://openclipart.org/detail/35257/tango-preferences-desktop-font */ }
       .icon_compressed::after   { content: "\1F5DC\FE0F";                               /* 🗜️ */ }
       .icon_diskimage::after    { content: "\1F4BD";                                    /* 💽 */ }
-      .icon_imagediting::after  { content: url("../fonts/link-icons-imageediting.svg"); /* https://openclipart.org/detail/231061/artists-brush-and-paint */ }
+      .icon_imagediting::after  { content: url("../img/link-icons-imageediting.svg");   /* https://openclipart.org/detail/231061/artists-brush-and-paint */ }
     /********************
     ** END: Link icons **
     ********************/
@@ -225,7 +225,7 @@ type = "article"                                                             # a
       나열된 소스에서 핫링크할 수 있습니다. 그러나 설정한 경우 정보가 없습니다.
       {.note}
 
-1. `/static/fonts/` 폴더에서 `.svg` 파일의 압축을 풉니다.
+1. `/static/img/` 폴더에서 `.svg` 파일의 압축을 풉니다.
 
 ## 사용하는 방법
 
