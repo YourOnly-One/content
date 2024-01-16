@@ -57,7 +57,7 @@ translationby = ""
   #rel = "noopener"
 +++
 
-Accounts listed on this page are confirmed, official, and verified accounts of <span class="emoji">♾️</span> 스노 (雪亮 Yuki) <span class="emoji">🐬</span> / YourOnlyOne.
+Accounts listed on this page are confirmed, official, and verified accounts of <span lang="tl-Tglg">ᜌᜓᜃᜒ</span> (Yuki | <span lang="ko">사요한</span> | <span lang="ja">謝雪矢（ゆきや）</span>).
 
 <!--more-->
 
