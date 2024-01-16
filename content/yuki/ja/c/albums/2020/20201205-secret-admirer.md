@@ -40,7 +40,7 @@ person = "yuki"
 #id = ""
 name = "謝雪矢（ゆきや）"
 url = "https://im.youronly.one/yugenbard/"
-avatar = "https://rsc.youronly.one/img/y/Yūgen_Bard-logo-01-1500x.webp"
+avatar = "https://rsc.youronly.one/img/y/Yugen_Bard-logo-01-1500x.webp"
 #rel = "noopener external nofollow"
 +++
 

@@ -41,7 +41,7 @@ type = "article"                                                             # a
 [[authors]]
   person = "yuki"
   #id = ""
-  #name = "Snoworld / 雪の世界 / 스노우 월드"
+  #name = "Snoworld ❄️ / スノーワールド ❄️ / 스노우월드 ❄️"
   name = "謝雪矢（ゆきや）"
   avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
   #rel = "noopener"

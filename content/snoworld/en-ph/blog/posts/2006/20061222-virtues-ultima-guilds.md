@@ -43,12 +43,12 @@ type = "article"                                             # article, sitepage
 
 #license = ""                                          # only set if the post license is not the same as the site license
 
-#### AUTHOR: GAMESHOGUN ####
+#### AUTHOR: GAMESHŌGUN ####
 [[authors]]
   person = "yuki"
   #id = ""
   name = "ᜌᜓᜃᜒ (Yuki)"
-  #name = "gameshogun 🎲 / ゲーム将軍 🎲 / 게임장군 🎲"
+  #name = "gameshōgun 🎲 / ゲーム将軍 🎲 / 게임장군 🎲"
   url = "https://im.youronly.one"
   avatar = "https://rsc.youronly.one/img/y/gameshogun-joystick-1280x.png"
   #rel = "noopener"

@@ -1,5 +1,5 @@
 +++
-title = "스노우 월드 ❄️"
+title = "스노우월드 ❄️"
 #description = ""
 
 #lastmod = {{ .Date }}                 # last update; manually adjust to local timezone
@@ -9,7 +9,7 @@ title = "스노우 월드 ❄️"
 
 aliases = ["/ko/channels/스노우-월드-️", "/ko/channels/snoworld"]                                        # "/post"; careful with editing the first value
 #url = ""                                              # "path/post"; override .Permalink
-slug = "스노우-월드"
+slug = "스노우월드"
 translationKey = "channel-snoworld"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
@@ -48,7 +48,7 @@ toc = true
   person = "yuki"
   #id = ""
   name = "사요한"
-  #name = "Snoworld / 雪の世界 / 스노우 월드"
+  #name = "Snoworld ❄️ / スノーワールド ❄️ / 스노우월드 ❄️"
   url = "https://im.youronly.one/snoworld/"
   avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
   #rel = "noopener"

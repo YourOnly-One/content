@@ -47,7 +47,7 @@ draft = true
 #[[authors]]
 #  person = "yuki"
 #  #id = ""
-#  #name = "YOOki Chronicles / YOOkiクロニクル / YOOki 연대기"
+#  #name = "YOOki Chronicles 📜 / YOOkiクロニクルズ 📜 / YOOki 연대기 📜"
 #  url = "https://im.youronly.one/yuki/"
 #  avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
 #  #rel = "noopener external nofollow"
@@ -55,7 +55,7 @@ draft = true
 #[[authors]]
 #  person = "yuki"
 #  #id = ""
-#  #name = "Snoworld / 雪の世界 / 스노우 월드"
+#  #name = "Snoworld ❄️ / スノーワールド ❄️ / 스노우월드 ❄️"
 #  url = "https://im.youronly.one/snoworld/"
 #  avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
 #  #rel = "noopener external nofollow"

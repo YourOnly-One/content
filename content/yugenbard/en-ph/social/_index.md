@@ -48,8 +48,8 @@ toc = true
   person = "yuki"
   #id = ""
   name = "ᜌᜓᜃᜒ (Yuki)"
-  #name = "Yūgen Bard / 幽玄吟遊詩人 / 幽 玄 음유 시인"
+  #name = "Yūgen Bard 🎻 / 幽玄吟遊詩人 🎻 / 음유시인 🎻"
   url = "https://im.youronly.one/yugenbard/"
-  avatar = "https://rsc.youronly.one/img/y/Yūgen_Bard-logo-01-1500x.webp"
+  avatar = "https://rsc.youronly.one/img/y/Yugen_Bard-logo-01-1500x.webp"
   #rel = "noopener"
 +++

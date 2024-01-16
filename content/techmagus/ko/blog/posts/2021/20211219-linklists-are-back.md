@@ -93,10 +93,10 @@ If we actually want these small websites to flourish as a healthy community, we 
 
 : 아니요. 링크 목록이나 블로그 롤에 웹 사이트를 추가하면 웹 사이트를 보증하거나 다른 방식으로 추천하는 것입니다. `rel=nofollow`는 유료 링크, 댓글 및 포럼의 링크, 예, 타사 테마 바닥글 크레딧(해당 링크를 업데이트해야 함)과 같이 보증할 수 없는 링크에만 사용됩니다.
 
-: *테크 마구스*에 대한 링크를 추가하려면:
+: *테크마법사*에 대한 링크를 추가하려면:
 
   ```html
-  <a href="https://im.youronly.one/techmagus/ko/" rel="noopener external">테크 마구스</a>
+  <a href="https://im.youronly.one/techmagus/ko/" rel="noopener external">테크마법사</a>
   ```
 
 : 내 블로그 롤에 연결하려면:

@@ -1,5 +1,5 @@
 +++
-title = "YOOkiクロニクル 📜"
+title = "YOOkiクロニクルズ 📜"
 #description = ""
 
 #lastmod = {{ .Date }}                 # last update; manually adjust to local timezone
@@ -7,9 +7,9 @@ title = "YOOkiクロニクル 📜"
 #date = {{ .Date }}                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
-aliases = ["/ja/channels/yooki-chronicles"]                                        # "/post"
+aliases = ["/ja/channels/yookiクロニクル", "/ja/channels/yooki-chronicles"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-slug = "yookiクロニクル"
+slug = "yookiクロニクルズ"
 translationKey = "channel-yooki-chronicles"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
@@ -48,7 +48,7 @@ toc = true
   person = "yuki"
   #id = ""
   name = "謝雪矢（ゆきや）"
-  #name = "YOOki Chronicles / YOOkiクロニクル / YOOki 연대기"
+  #name = "YOOki Chronicles 📜 / YOOkiクロニクルズ 📜 / YOOki 연대기 📜"
   url = "https://im.youronly.one/yuki/"
   avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
   #rel = "noopener"

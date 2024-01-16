@@ -93,10 +93,10 @@ If we actually want these small websites to flourish as a healthy community, we 
 
 : いいえ。リンクリストまたはブログロールにWebサイトを追加することで、それを承認します。言い換えると、推奨します。 `rel=nofollow`は、有料リンク、コメントやフォーラムのリンク、サードパーティのテーマフッタークレジットなど、承認できないリンクにのみ使用されます（これらのリンクは必ず更新してください）。
 
-: *ハイテク マギ*へのリンクを追加するには：
+: *テク魔法使い*へのリンクを追加するには：
 
   ```html
-  <a href="https://im.youronly.one/techmagus/ja/" rel="noopener external">ハイテク マギ</a>
+  <a href="https://im.youronly.one/techmagus/ja/" rel="noopener external">テク魔法使い</a>
   ```
 
 : 私のブログロールにリンクしたい場合：

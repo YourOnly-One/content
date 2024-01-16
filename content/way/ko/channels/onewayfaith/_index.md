@@ -1,5 +1,5 @@
 +++
-title = "편도 신앙 🛐"
+title = "일방통행신앙 🛐"
 #description = ""
 
 #lastmod = {{ .Date }}                 # last update; manually adjust to local timezone
@@ -7,9 +7,9 @@ title = "편도 신앙 🛐"
 #date = {{ .Date }}                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
-aliases = ["/ko/channels/one-way-faith", "/ko/channels/신자들의-길"]                                        # "/post"
+aliases = ["/ko/channels/편도-신앙", "/ko/channels/one-way-faith", "/ko/channels/신자들의-길"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-slug = "편도 신앙"
+slug = "일방통행신앙"
 translationKey = "channel-onewayfaith"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
@@ -48,7 +48,7 @@ toc = true
   person = "yuki"
   #id = ""
   name = "사요한"
-  #name = "One Way Faith / 一方向の信仰 / 편도 신앙"
+  #name = "One Way Faith 🛐 / 一方通行信仰 🛐 / 일방통행신앙 🛐"
   url = "https://im.youronly.one/way/"
   avatar = "https://img.youronly.one/works/FlagMenorah-Proto-(CC0).webp"
   #rel = "noopener"

@@ -1,5 +1,5 @@
 +++
-title = "사랑과 관계 💞"
+title = "사랑과관계 💞"
 #description = ""
 
 #lastmod = {{ .Date }}                 # last update; manually adjust to local timezone
@@ -7,9 +7,9 @@ title = "사랑과 관계 💞"
 #date = {{ .Date }}                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
-aliases = ["/ko/channels/love-and-relationships"]                                        # "/post"
+aliases = ["ko/channels/사랑과-관계", "/ko/channels/love-and-relationships"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-slug = "사랑과-관계"
+slug = "사랑과관계"
 translationKey = "channel-loverelationships"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
@@ -48,7 +48,7 @@ toc = true
   person = "yuki"
   #id = ""
   name = "사요한"
-  #name = "Love and Relationships / 愛と関係 / 사랑과 관계"
+  #name = "Love and Relationships 💞 / 愛と関係 💞 / 사랑과관계 💞"
   url = "https://im.youronly.one/love/"
   avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
   #rel = "noopener"

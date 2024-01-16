@@ -1,5 +1,5 @@
 +++
-title = "ハイテク マギ 🚀"
+title = "テク魔法使い 🚀"
 #description = ""
 
 #lastmod = {{ .Date }}                 # last update; manually adjust to local timezone
@@ -7,9 +7,9 @@ title = "ハイテク マギ 🚀"
 #date = {{ .Date }}                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
-aliases = ["/ja/channels/techmagus"]                                        # "/post"
+aliases = ["/ja/channels/ハイテク-マギ", "/ja/channels/techmagus"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-slug = "ハイテク-マギ"
+slug = "テク魔法使い"
 translationKey = "channel-techmagus"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
@@ -48,7 +48,7 @@ toc = true
   person = "yuki"
   #id = ""
   name = "謝雪矢（ゆきや）"
-  #name = "techmagus / ハイテク マギ / 테크 마구스"
+  #name = "techmagus 🚀 / テク魔法使い 🚀 / 테크마법사 🚀"
   url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
   #rel = "noopener"

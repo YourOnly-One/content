@@ -1,5 +1,5 @@
 +++
-title = "Yūgen Bard 🎻"
+title = "Yūgen Bard 🎻"
 #description = ""
 
 #lastmod = {{ .Date }}                 # last update; manually adjust to local timezone
@@ -7,10 +7,10 @@ title = "Yūgen Bard 🎻"
 #date = {{ .Date }}                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
-aliases = ["/channels/yugen-bard"]                                        # "/post"
+aliases = ["/channels/yūgen-bard", "/channels/yugen-bard"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-slug = "yūgen-bard"
-translationKey = "channel-yūgen-bard"
+slug = "yūgen-bard"
+translationKey = "channel-yūgen-bard"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
 #disquq_identifier = ""                                # set if date of this content is different from main translation
@@ -48,7 +48,7 @@ toc = true
   person = "yuki"
   #id = ""
   name = "ᜌᜓᜃᜒ (Yuki)"
-  #name = "YOOki Chronicles / YOOkiクロニクル / YOOki 연대기"
+  #name = "YOOki Chronicles 📜 / YOOkiクロニクルズ 📜 / YOOki 연대기 📜"
   url = "https://im.youronly.one/yuki/"
   avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
   #rel = "noopener"

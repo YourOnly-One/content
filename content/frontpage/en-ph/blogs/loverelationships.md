@@ -1,5 +1,5 @@
 +++
-#title = "Love & Relationships 💞"
+#title = "Love and Relationships 💞"
 subtitle = "im.youronly.one/love"
 publishdate = 2020-03-25T06:00:00+00:00
 lastmod = 2020-03-25T06:00:00+00:00
