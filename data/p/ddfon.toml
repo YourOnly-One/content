@@ -1,7 +1,7 @@
 [[row]]
   data = ["Mycelium Network", "Link", "Keybase", "Keyoxide", "Whosum"]
 [[row]]
-  data = ["AT proto", "<a href='https://atp.youronly.one' rel='me'>@atp.youronly.one</a>", "✅", "", ""]
+  data = ["ATproto", "<a href='https://bsky.youronly.one' rel='me'>@youronly.one</a>", "✅", "", ""]
 [[row]]
   data = ["Fediverse", "<a href='https://bookwyrm.social/@youronlyone' rel='me'>@youronlyone@bookwyrm.social</a>", "", "✅", ""]
 [[row]]

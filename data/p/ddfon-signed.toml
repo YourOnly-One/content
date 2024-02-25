@@ -4,7 +4,7 @@
 [[row]]
   data = ["Mycelium Network", "Link", "Keybase", "Keyoxide", "Whosum"]
 [[row]]
-  data = ["AT proto", "<a href='https://atp.youronly.one' rel='me'>@atp.youronly.one</a>", "✅", "", ""]
+  data = ["ATproto", "<a href='https://bsky.youronly.one' rel='me'>@youronly.one</a>", "✅", "", ""]
 [[row]]
   data = ["Fediverse", "<a href='https://bookwyrm.social/@youronlyone' rel='me'>@youronlyone@bookwyrm.social</a>", "", "✅", ""]
 [[row]]
@@ -43,8 +43,8 @@
   data = ["XMPP Movim", "<a href='https://mov.im/?blog/youronlyone' rel='me'>@youronlyone@404.city</a>", "", "✅", ""]
 #-----BEGIN PGP SIGNATURE-----
 #
-#iI4EARYKADYWIQT8KuNEQVQt8pzwXZA2XpOKztuK1QUCZaBhrBgYaGtwczovL2tl
-#eXMub3BlbnBncC5vcmcACgkQNl6Tis7bitUqVwD/bon0C1z1pwhJz4a5+A376imJ
-#PCIEolQ0tDPWB117mr8A+gPTXSZXPxnQl0mfvNBKiq8z7s4jHxn8vxSclnFHOxIF
-#=qor/
+#iI4EARYKADYWIQT8KuNEQVQt8pzwXZA2XpOKztuK1QUCZduoBxgYaGtwczovL2tl
+#eXMub3BlbnBncC5vcmcACgkQNl6Tis7bitXLNgEAj1dWUufQpqYUjA2Hmk8XrvW0
+#DUKo8UIvqiMl0bw0n3EBAKP/EqmywIMti6oQtxMyHHyLtf89ZjCAGcrR+q/+XKEC
+#=y0M3
 #-----END PGP SIGNATURE-----
