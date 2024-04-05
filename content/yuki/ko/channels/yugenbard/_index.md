@@ -1,5 +1,5 @@
 +++
-title = "음유시인 🎻"
+title = "음유시인"
 #description = ""
 
 #lastmod = {{ .Date }}                 # last update; manually adjust to local timezone
@@ -48,7 +48,7 @@ toc = true
   person = "yuki"
   #id = ""
   name = "사요한"
-  #name = "YOOki Chronicles 📜 / YOOkiクロニクルズ 📜 / YOOki 연대기 📜"
+  #name = "YOOki Chronicles / YOOkiクロニクルズ / YOOki 연대기"
   url = "https://im.youronly.one/yuki/"
   avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
   #rel = "noopener"

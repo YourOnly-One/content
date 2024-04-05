@@ -1,5 +1,5 @@
 +++
-#title = "Love and Relationships 💞"
+#title = "Love and Relationships"
 subtitle = "im.youronly.one/love"
 publishdate = 2020-03-25T06:00:00+00:00
 lastmod = 2020-03-25T06:00:00+00:00
@@ -10,4 +10,4 @@ weight = "2300"
 #metarobots = "noindex"
 +++
 
-[YourOnly.One™ Love and Relationships 💞](https://im.youronly.one/love/ "YourOnly.One™ Love and Relationships 💞")
+[YourOnly.One™ Love and Relationships](https://im.youronly.one/love/ "YourOnly.One™ Love and Relationships")

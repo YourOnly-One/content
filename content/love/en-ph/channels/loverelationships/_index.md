@@ -1,5 +1,5 @@
 +++
-title = "Love and Relationships 💞"
+title = "Love and Relationships"
 #description = ""
 
 #lastmod = {{ .Date }}                 # last update; manually adjust to local timezone
@@ -48,7 +48,7 @@ toc = true
   person = "yuki"
   #id = ""
   name = "ᜌᜓᜃᜒ (Yuki)"
-  #name = "Love and Relationships 💞 / 愛と関係 💞 / 사랑과관계 💞"
+  #name = "Love and Relationships / 愛と関係 / 사랑과관계"
   url = "https://im.youronly.one/love/"
   avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
   #rel = "noopener"

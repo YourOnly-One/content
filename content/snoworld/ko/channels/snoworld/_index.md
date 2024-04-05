@@ -1,5 +1,5 @@
 +++
-title = "스노우월드 ❄️"
+title = "스노우월드"
 #description = ""
 
 #lastmod = {{ .Date }}                 # last update; manually adjust to local timezone
@@ -48,7 +48,7 @@ toc = true
   person = "yuki"
   #id = ""
   name = "사요한"
-  #name = "Snoworld ❄️ / スノーワールド ❄️ / 스노우월드 ❄️"
+  #name = "Snoworld / スノーワールド / 스노우월드"
   url = "https://im.youronly.one/snoworld/"
   avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
   #rel = "noopener"

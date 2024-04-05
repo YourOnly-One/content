@@ -1,5 +1,5 @@
 +++
-title = "techmagus 🚀"
+title = "techmagus"
 subtitle = "im.youronly.one/techmagus"
 publishdate = 2020-03-25T06:00:00+00:00
 lastmod = 2020-03-25T06:00:00+00:00
@@ -10,4 +10,4 @@ weight = "2100"
 #metarobots = "noindex"
 +++
 
-[techmagus™ 🚀](https://im.youronly.one/techmagus/ "techmagus™ 🚀")
+[techmagus™](https://im.youronly.one/techmagus/ "techmagus™")

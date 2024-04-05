@@ -47,7 +47,7 @@ draft = true
 #[[authors]]
 #  person = "yuki"
 #  #id = ""
-#  #name = "YOOki Chronicles 📜 / YOOkiクロニクルズ 📜 / YOOki 연대기 📜"
+#  #name = "YOOki Chronicles / YOOkiクロニクルズ / YOOki 연대기"
 #  url = "https://im.youronly.one/yuki/"
 #  avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
 #  #rel = "noopener external nofollow"
@@ -55,7 +55,7 @@ draft = true
 #[[authors]]
 #  person = "yuki"
 #  #id = ""
-#  #name = "Confident Traveler 🧭 / 自信のある旅行者 🧭 / 당당하 여행자 🧭"
+#  #name = "Confident Traveler / 自信のある旅行者 / 당당하 여행자"
 #  url = "https://im.youronly.one/confidentraveler/"
 #  avatar = "https://rsc.youronly.one/img/y/Confident_Traveler-logo-01-1500x.webp"
 #  #rel = "noopener external nofollow"
@@ -63,7 +63,7 @@ draft = true
 #[[authors]]
 #  person = "yuki"
 #  #id = ""
-#  #name = "Faithful Athlete 🎽 / 忠実なアスリート 🎽 / 충실한 운동선수 🎽"
+#  #name = "Faithful Athlete / 忠実なアスリート / 충실한 운동선수"
 #  url = "https://im.youronly.one/faithfulathlete/"
 #  avatar = "https://rsc.youronly.one/img/y/Faithful_Athlete-logo-02-1500x.webp"
 #  #rel = "noopener external nofollow"
@@ -71,7 +71,7 @@ draft = true
 #[[authors]]
 #  person = "yuki"
 #  #id = ""
-#  #name = "Love and Relationships 💞 / 愛と関係 💞 / 사랑과관계 💞"
+#  #name = "Love and Relationships / 愛と関係 / 사랑과관계"
 #  url = "https://im.youronly.one/love/"
 #  avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 #  #rel = "noopener external nofollow"
@@ -79,7 +79,7 @@ draft = true
 #[[authors]]
 #  person = "yuki"
 #  #id = ""
-#  #name = "Snoworld ❄️ / スノーワールド ❄️ / 스노우월드 ❄️"
+#  #name = "Snoworld / スノーワールド / 스노우월드"
 #  url = "https://im.youronly.one/snoworld/"
 #  avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
 #  #rel = "noopener external nofollow"
@@ -87,7 +87,7 @@ draft = true
 #[[authors]]
 #  person = "yuki"
 #  #id = ""
-#  #name = "techmagus 🚀 / テク魔法使い 🚀 / 테크마법사 🚀"
+#  #name = "techmagus / テク魔法使い / 테크마법사"
 #  url = "https://im.youronly.one/techmagus/"
 #  avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
 #  #rel = "noopener external nofollow"
@@ -103,7 +103,7 @@ draft = true
 #[[authors]]
 #  person = "yuki"
 #  #id = ""
-#  #name = "One Way Faith 🛐 / 一方通行信仰 🛐 / 일방통행신앙 🛐
+#  #name = "One Way Faith / 一方通行信仰 / 일방통행신앙
 #  url = "https://im.youronly.one/way/"
 #  avatar = "images/works/FlagMenorah-Proto-(CC0).webp"
 #  #rel = "noopener external nofollow"
@@ -127,7 +127,7 @@ draft = true
 #[[authors]]
 #  person = "yuki"
 #  #id = ""
-#  #name = "Yūgen Bard 🎻 / 幽玄吟遊詩人 🎻 / 음유시인 🎻"
+#  #name = "Yūgen Bard / 幽玄吟遊詩人 / 음유시인"
 #  url = "https://im.youronly.one/yugenbard/"
 #  avatar = "https://rsc.youronly.one/img/y/Yugen_Bard-logo-01-1500x.webp"
 #  #rel = "noopener external nofollow"

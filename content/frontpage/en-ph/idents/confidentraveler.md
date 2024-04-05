@@ -1,5 +1,5 @@
 +++
-#title = "Confident Traveler 🧭"
+#title = "Confident Traveler"
 subtitle = "im.youronly.one/confidentraveler"
 publishdate = 2020-03-25T06:00:00+00:00
 lastmod = 2020-03-25T06:00:00+00:00
@@ -10,4 +10,4 @@ weight = "3200"
 #metarobots = "noindex"
 +++
 
-[Confident Traveler™ 🧭](https://im.youronly.one/confidentraveler/ "Confident Traveler™ 🧭")
+[Confident Traveler™](https://im.youronly.one/confidentraveler/ "Confident Traveler™")

@@ -1,5 +1,5 @@
 +++
-title = "ゲーム将軍 🎲"
+title = "ゲームしょうぐん"
 #description = ""
 
 #lastmod = {{ .Date }}                 # last update; manually adjust to local timezone
@@ -7,9 +7,9 @@ title = "ゲーム将軍 🎲"
 #date = {{ .Date }}                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
-#aliases = [""]                                        # "/post"
+#aliases = ["/ja/channels/ゲーム将軍"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
-slug = "ゲーム将軍"
+slug = "ゲームしょうぐん"
 translationKey = "channel-gameshogun"
 #relCanonical = "https://im.youronly.one/{BLOG-NAME}/{LANG}/{POST-TITLE}-{DATE}/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
@@ -48,7 +48,7 @@ toc = true
   person = "yuki"
   #id = ""
   name = "謝雪矢（ゆきや）"
-  #name = "gameshōgun 🎲 / ゲーム将軍 🎲 / 게임장군 🎲"
+  #name = "gameshōgun / ゲームしょうぐん / 게임쇼군"
   url = "https://im.youronly.one/yuki/channels/gameshogun/"
   avatar = "https://rsc.youronly.one/img/y/gameshogun-joystick-1280x.png"
   #rel = "noopener"

@@ -1,5 +1,5 @@
 +++
-#title = "One Way Faith 🛐"
+#title = "One Way Faith"
 subtitle = "im.youronly.one/way"
 publishdate = 2020-03-25T06:00:00+00:00
 lastmod = 2020-03-25T06:00:00+00:00
@@ -10,4 +10,4 @@ weight = "1200"
 #metarobots = "noindex"
 +++
 
-[One Way Faith™ 🛐](https://im.youronly.one/way/ "One Way Faith™ 🛐")
+[One Way Faith™](https://im.youronly.one/way/ "One Way Faith™")

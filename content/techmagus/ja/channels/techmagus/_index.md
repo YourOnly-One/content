@@ -1,5 +1,5 @@
 +++
-title = "テク魔法使い 🚀"
+title = "テク魔法使い"
 #description = ""
 
 #lastmod = {{ .Date }}                 # last update; manually adjust to local timezone
@@ -48,7 +48,7 @@ toc = true
   person = "yuki"
   #id = ""
   name = "謝雪矢（ゆきや）"
-  #name = "techmagus 🚀 / テク魔法使い 🚀 / 테크마법사 🚀"
+  #name = "techmagus / テク魔法使い / 테크마법사"
   url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
   #rel = "noopener"

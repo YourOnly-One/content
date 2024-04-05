@@ -1,5 +1,5 @@
 +++
-#title = "Yūgen Bard 🎻"
+#title = "Yūgen Bard"
 subtitle = "im.youronly.one/yugenbard"
 publishdate = 2020-03-25T06:00:00+00:00
 lastmod = 2020-03-25T06:00:00+00:00
@@ -10,4 +10,4 @@ weight = "3300"
 #metarobots = "noindex"
 +++
 
-[Yūgen Bard™ 🎻](https://im.youronly.one/yugenbard/ "Yūgen Bard™ 🎻")
+[Yūgen Bard™](https://im.youronly.one/yugenbard/ "Yūgen Bard™")

@@ -1,5 +1,5 @@
 +++
-title = "gameshōgun 🎲"
+title = "gameshōgun"
 #description = ""
 
 #lastmod = {{ .Date }}                 # last update; manually adjust to local timezone
@@ -48,7 +48,7 @@ toc = true
   person = "yuki"
   #id = ""
   name = "ᜌᜓᜃᜒ (Yuki)"
-  #name = "gameshōgun 🎲 / ゲーム将軍 🎲 / 게임장군 🎲"
+  #name = "gameshōgun / ゲームしょうぐん / 게임쇼군"
   url = "https://im.youronly.one/yuki/channels/gameshogun/"
   avatar = "https://rsc.youronly.one/img/y/gameshogun-joystick-1280x.png"
   #rel = "noopener"

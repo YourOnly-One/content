@@ -1,5 +1,5 @@
 +++
-#title = "Faithful Athlete 🎽"
+#title = "Faithful Athlete"
 subtitle = "im.youronly.one/faithfulathlete"
 publishdate = 2020-03-25T06:00:00+00:00
 lastmod = 2020-03-25T06:00:00+00:00
@@ -10,4 +10,4 @@ weight = "3100"
 #metarobots = "noindex"
 +++
 
-[Faithful Athlete™ 🎽](https://im.youronly.one/faithfulathlete/ "Faithful Athlete™ 🎽")
+[Faithful Athlete™](https://im.youronly.one/faithfulathlete/ "Faithful Athlete™")
