@@ -3,7 +3,7 @@ title = "Three days and three nights in the belly of the beast"
 description = "Was Yahushua haMashia (Jesus the Messiah) literally buried 3 nights and 3 days?"
 
 lastmod = 2024-04-06T16:27:00+08:00                 # last update; manually adjust to local timezone
-publishdate = 2024-04-06T17:27:00+08:00             # first publication; manually adjust to local timezone
+publishdate = 2024-04-06T16:27:00+08:00             # first publication; manually adjust to local timezone
 date = 2024-04-06T10:00:00+08:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
