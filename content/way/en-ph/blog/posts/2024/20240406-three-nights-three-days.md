@@ -2,7 +2,7 @@
 title = "Three days and three nights in the belly of the beast"
 description = "Was Yahushua haMashia (Jesus the Messiah) literally buried 3 nights and 3 days?"
 
-lastmod = 2024-04-06T16:27:00+08:00                 # last update; manually adjust to local timezone
+lastmod = 2024-04-06T16:55:00+08:00                 # last update; manually adjust to local timezone
 publishdate = 2024-04-06T16:27:00+08:00             # first publication; manually adjust to local timezone
 date = 2024-04-06T10:00:00+08:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/way/three-nights-three-days-202497/"
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-syndications = [""]
+syndications = ["https://c.im/@youronlyone/112223379111034405", "https://bsky.app/profile/youronly.one/post/3kpha6g7r4y2i", "https://www.threads.net/@youronly.one.ofcl/post/C5aeuBuoOWq", "https://spoutible.com/thread/30051624", "https://www.plurk.com/p/3fntq9m7ld", "https://twitter.com/YourOnlyONEofcl/status/1776530538016158136", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02UsKJaBzxV92fTUUYGE6t5RtCztA3y3JyjFwRkrUXrPWRVPk59JcLUW6Y2irdT8JXl"]
 
 channels = ["onewayfaith"]
 categories = ["discourse"]
