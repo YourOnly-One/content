@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/techmagus/ko/codebits/styling-diacritics
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-syndications = ["https://c.im/@youronlyone/109884874152798444", "https://twitter.com/YourOnlyONEofcl/status/1626864787660369921", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0d2QEydjCJVWW7jHNfJG43gNeUidCTa9okCbKM3Ywmjghj1EYEUz4pY45AQ9H8QMPl"]
+syndication = ["https://c.im/@youronlyone/109884874152798444", "https://twitter.com/YourOnlyONEofcl/status/1626864787660369921", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0d2QEydjCJVWW7jHNfJG43gNeUidCTa9okCbKM3Ywmjghj1EYEUz4pY45AQ9H8QMPl"]
 
 channels = ["techmagus"]
 categories = ["howto", "web"]

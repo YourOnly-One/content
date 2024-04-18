@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/ko/innocent-witness-증인-2019
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-syndications = ["https://mastodon.social/@youronlyone/108832945381799813", "https://diasp.org/posts/11923a30ff9d013abc4128a1592b385a", "https://blog.naver.com/youronlyone-ofcl/222855105387", "https://twitter.com/YourOnlyONEofcl/status/1559546193083961344", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02ALnhZff8yeqiEn6KD472AuWoJhcqQuXvXyvC2s7qNZv4EgVCps1QRE9o7peXrfo9l"]
+syndication = ["https://mastodon.social/@youronlyone/108832945381799813", "https://diasp.org/posts/11923a30ff9d013abc4128a1592b385a", "https://blog.naver.com/youronlyone-ofcl/222855105387", "https://twitter.com/YourOnlyONEofcl/status/1559546193083961344", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02ALnhZff8yeqiEn6KD472AuWoJhcqQuXvXyvC2s7qNZv4EgVCps1QRE9o7peXrfo9l"]
 
 channels = ["snoworld"]
 categories = ["autism", "films"]

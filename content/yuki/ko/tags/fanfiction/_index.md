@@ -18,7 +18,7 @@ translationKey = "tag-fan-fiction"
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndications = [""]
+#syndication = [""]
 
 #channels = [""]
 #categories = [""]

@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/snoworld/ko/ppop-convention-202271/"    
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-syndications = ["https://twitter.com/YourOnlyONEofcl/status/1502519373218549763", "https://twitter.com/YourOnlyONEofcl/status/1506612467828346881", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/615460012956566"]
+syndication = ["https://twitter.com/YourOnlyONEofcl/status/1502519373218549763", "https://twitter.com/YourOnlyONEofcl/status/1506612467828346881", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/615460012956566"]
 
 channels = ["snoworld"]
 categories = ["events"]                                                   # taxonomy

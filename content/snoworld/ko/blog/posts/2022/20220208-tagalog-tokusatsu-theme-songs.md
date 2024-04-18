@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/snoworld/ko/bioman-maskman-shaider-tagal
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-syndications = ["https://twitter.com/YourOnlyONEofcl/status/1491327396892798976", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/595968941572340"]
+syndication = ["https://twitter.com/YourOnlyONEofcl/status/1491327396892798976", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/595968941572340"]
 
 channels = ["snoworld"]
 categories = ["tv"]                                                   # taxonomy

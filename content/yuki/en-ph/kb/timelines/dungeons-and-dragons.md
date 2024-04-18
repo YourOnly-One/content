@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/yuki/kb/timelines/dnd-video-games-releas
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndications = [""]
+#syndication = [""]
 
 channels = ["gameshogun"]
 categories = ["literature"]

@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/way/three-nights-three-days-202497/"
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-syndications = ["https://c.im/@youronlyone/112223379111034405", "https://bsky.app/profile/youronly.one/post/3kpha6g7r4y2i", "https://www.threads.net/@youronly.one.ofcl/post/C5aeuBuoOWq", "https://spoutible.com/thread/30051624", "https://www.plurk.com/p/3fntq9m7ld", "https://twitter.com/YourOnlyONEofcl/status/1776530538016158136", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02UsKJaBzxV92fTUUYGE6t5RtCztA3y3JyjFwRkrUXrPWRVPk59JcLUW6Y2irdT8JXl"]
+syndication = ["https://c.im/@youronlyone/112223379111034405", "https://bsky.app/profile/youronly.one/post/3kpha6g7r4y2i", "https://www.threads.net/@youronly.one.ofcl/post/C5aeuBuoOWq", "https://spoutible.com/thread/30051624", "https://www.plurk.com/p/3fntq9m7ld", "https://twitter.com/YourOnlyONEofcl/status/1776530538016158136", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02UsKJaBzxV92fTUUYGE6t5RtCztA3y3JyjFwRkrUXrPWRVPk59JcLUW6Y2irdT8JXl"]
 
 channels = ["onewayfaith"]
 categories = ["discourse"]

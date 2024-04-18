@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/ja/the-last-of-us-episode-01-20
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-syndications = ["https://blog.naver.com/youronlyone-ofcl/222986340660", "https://c.im/@youronlyone/109698883796768855", "https://youronlyone.medium.com/the-last-of-us-episode-01-review-dbf73bbc20e7", "https://www.reddit.com/user/Laibcoms/comments/10dej4s/the_last_of_us_episode_01_review/", "https://twitter.com/YourOnlyONEofcl/status/1614955845707497474", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0ohpgY45Yv1mr312qtJTMDC6nCDTnvwxjCXv5R81tYdHu5XSMRLoJ5WdEau676FeUl"]
+syndication = ["https://blog.naver.com/youronlyone-ofcl/222986340660", "https://c.im/@youronlyone/109698883796768855", "https://youronlyone.medium.com/the-last-of-us-episode-01-review-dbf73bbc20e7", "https://www.reddit.com/user/Laibcoms/comments/10dej4s/the_last_of_us_episode_01_review/", "https://twitter.com/YourOnlyONEofcl/status/1614955845707497474", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0ohpgY45Yv1mr312qtJTMDC6nCDTnvwxjCXv5R81tYdHu5XSMRLoJ5WdEau676FeUl"]
 
 channels = ["snoworld"]
 categories = ["tv"]

@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/techmagus/linklists-are-back-2021353/"  
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-syndications = ["https://twitter.com/YourOnlyONEofcl/status/1472455861368868865", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/564152718087296"]
+syndication = ["https://twitter.com/YourOnlyONEofcl/status/1472455861368868865", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/564152718087296"]
 
 channels = ["techmagus"]
 categories = ["web"]                                                   # taxonomy

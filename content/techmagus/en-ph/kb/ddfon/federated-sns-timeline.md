@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/techmagus/kb/ddfon/federated-social-netw
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-syndications = ["https://c.im/@youronlyone/109500904548169714", "https://www.reddit.com/r/fediverse/comments/zkk440/the_federated_sns_timeline/", "https://twitter.com/YourOnlyONEofcl/status/1602288699215069185", "https://www.reddit.com/user/Laibcoms/comments/zkjy0c/the_federated_sns_timeline/", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02JfnLCsk1QS7Q39gbsqrHu85kt4yfh8kPhFFLfY2XX997vnTqFjoRUSUAf72JZ66il"]
+syndication = ["https://c.im/@youronlyone/109500904548169714", "https://www.reddit.com/r/fediverse/comments/zkk440/the_federated_sns_timeline/", "https://twitter.com/YourOnlyONEofcl/status/1602288699215069185", "https://www.reddit.com/user/Laibcoms/comments/zkjy0c/the_federated_sns_timeline/", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02JfnLCsk1QS7Q39gbsqrHu85kt4yfh8kPhFFLfY2XX997vnTqFjoRUSUAf72JZ66il"]
 
 channels = ["techmagus"]
 categories = ["web", "internet"]

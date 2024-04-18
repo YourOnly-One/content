@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/snoworld/퐁당퐁당-love-splash-splash
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-syndications = ["https://youronlyone.medium.com/a-story-you-will-never-forget-for-the-rest-of-your-life-f58e964c44b2"]
+syndication = ["https://youronlyone.medium.com/a-story-you-will-never-forget-for-the-rest-of-your-life-f58e964c44b2"]
 
 channels = ["snoworld"]
 categories = ["tv"]														# taxonomy

@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/love/butterflies-in-stomach-might-be-rea
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-#syndications = [""]
+#syndication = [""]
 
 channels = ["loverelationships"]
 categories = ["love"]														# taxonomy

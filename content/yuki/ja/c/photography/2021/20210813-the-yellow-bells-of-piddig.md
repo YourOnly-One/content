@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/yuki/ja/photography/the-yellow-bells-of-
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-syndications = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/480502206452348", "https://pixelfed.social/i/web/post/350853720862551588"]
+syndication = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/480502206452348", "https://pixelfed.social/i/web/post/350853720862551588"]
 
 channels = ["confidentraveler"]
 categories = ["photography"]                            # taxonomy

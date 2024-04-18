@@ -19,7 +19,7 @@ relCanonical = "https://im.youronly.one/snoworld/kb/timelines/marvel-cinematic-u
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndications = [""]
+#syndication = [""]
 
 channels = ["snoworld"]
 categories = ["films", "tv"]

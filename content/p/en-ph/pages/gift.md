@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/p/gift/"
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndications = [""]
+#syndication = [""]
 
 #channels = [""]
 #categories = [""]

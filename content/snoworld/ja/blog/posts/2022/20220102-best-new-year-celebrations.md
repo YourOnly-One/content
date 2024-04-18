@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/snoworld/ja/2022-best-new-year-20221/"  
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-syndications = ["https://twitter.com/YourOnlyONEofcl/status/1477507980811649024", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/572796897222878"]
+syndication = ["https://twitter.com/YourOnlyONEofcl/status/1477507980811649024", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/572796897222878"]
 
 channels = ["snoworld"]
 categories = ["events"]                                                   # taxonomy

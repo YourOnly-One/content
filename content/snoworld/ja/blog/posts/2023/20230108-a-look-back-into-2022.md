@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/ja/a-look-back-into-2022-202313
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-syndications = ["https://youronlyone.medium.com/a-look-back-into-2022-66f0c98b7a40", "https://c.im/@youronlyone/109680058934766860", "https://diasp.org/posts/556487a0754b013b2bc8002590c0bfb8", "https://web.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02ixcNfAgvdcHFoQTQNNaB55RahNCYu6L6v1M7SLGCcJSUBmaGKxdUoVWA5P8oMivul", "https://twitter.com/YourOnlyONEofcl/status/1613757677951422465", "https://www.reddit.com/user/Laibcoms/comments/10alva7/a_look_back_into_2022/"]
+syndication = ["https://youronlyone.medium.com/a-look-back-into-2022-66f0c98b7a40", "https://c.im/@youronlyone/109680058934766860", "https://diasp.org/posts/556487a0754b013b2bc8002590c0bfb8", "https://web.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02ixcNfAgvdcHFoQTQNNaB55RahNCYu6L6v1M7SLGCcJSUBmaGKxdUoVWA5P8oMivul", "https://twitter.com/YourOnlyONEofcl/status/1613757677951422465", "https://www.reddit.com/user/Laibcoms/comments/10alva7/a_look_back_into_2022/"]
 
 channels = ["snoworld"]
 #categories = [""]

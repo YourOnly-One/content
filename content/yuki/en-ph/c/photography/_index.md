@@ -18,7 +18,7 @@ relcanonical = "/cat/photography/"
 redirectto = "/cat/photography/"                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndications = [""]
+#syndication = [""]
 
 #channels = [""]
 #categories = [""]

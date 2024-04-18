@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/techmagus/ja/naver-whale-browser-2022209
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-syndications = ["https://mastodon.social/@youronlyone/108724554246424924",
+syndication = ["https://mastodon.social/@youronlyone/108724554246424924",
 "https://twitter.com/YourOnlyONEofcl/status/1552605214124883969",
 "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02swEFqim8fxyRPjgZcNrjVJtZHTMK4zRUNE3gosrUV9CH7tL9qCeaW7GLhKy87kqXl"]
 

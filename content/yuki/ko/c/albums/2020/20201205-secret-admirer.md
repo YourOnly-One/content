@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/yuki/ko/albums/secret-admirer-2020340/"	
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-syndications = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/357001618802408"]
+syndication = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/357001618802408"]
 
 channels = ["yugenbard"]
 categories = ["music"]																									# taxonomy

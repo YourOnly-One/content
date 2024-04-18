@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/snoworld/당신이-잠든-사이에-whil
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-#syndications = [""]
+#syndication = [""]
 
 channels = ["snoworld"]
 categories = ["tv"]                           # taxonomy

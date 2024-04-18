@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/techmagus/markup-language-poll-results-a
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-syndications = ["https://c.im/@youronlyone/110172719305247151", "https://www.plurk.com/p/p7y1yo", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02APyn3N5mKZ4FiREWXhuXx6dfaYaTdqmKSfTReK5auYypuEms7uagj8tbGuRXUtsYl", "https://www.reddit.com/user/Laibcoms/comments/12h7l36/poll_which_markup_language_do_you_use_and_why/", "https://twitter.com/YourOnlyONEofcl/status/1645285463975161856"]
+syndication = ["https://c.im/@youronlyone/110172719305247151", "https://www.plurk.com/p/p7y1yo", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02APyn3N5mKZ4FiREWXhuXx6dfaYaTdqmKSfTReK5auYypuEms7uagj8tbGuRXUtsYl", "https://www.reddit.com/user/Laibcoms/comments/12h7l36/poll_which_markup_language_do_you_use_and_why/", "https://twitter.com/YourOnlyONEofcl/status/1645285463975161856"]
 
 channels = ["techmagus"]
 categories = ["literature"]

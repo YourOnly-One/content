@@ -12,9 +12,9 @@ relCanonical = "https://im.youronly.one/way/the-feast-of-𐤉𐤄𐤅𐤄-yahuah
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-#syndications = [""]
+#syndication = [""]
 
-syndications = ["https://twitter.com/YourOnlyONEofcl/status/1515154729684242432", "https://twitter.com/YourOnlyONEofcl/status/1515154732540563464", "https://www.facebook.com/youronly.ONE.WAY/posts/1963409427180161", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/637868274049073"]
+syndication = ["https://twitter.com/YourOnlyONEofcl/status/1515154729684242432", "https://twitter.com/YourOnlyONEofcl/status/1515154732540563464", "https://www.facebook.com/youronly.ONE.WAY/posts/1963409427180161", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/637868274049073"]
 
 channels = ["onewayfaith"]
 categories = ["appointedtimes"]                           # taxonomy

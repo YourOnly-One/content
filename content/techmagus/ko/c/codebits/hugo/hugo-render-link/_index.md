@@ -18,7 +18,7 @@ translationKey = "section-hugo-markdown-links"
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-syndications = ["https://mastodon.social/@youronlyone/108303918152249905", "https://diasp.org/posts/21145789", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid036F7UJdHLFXMvcXkuA1ox3iUDUougC3w7WJjCcB8198AtFrwHqAA52fBzgHMj22Upl", "https://twitter.com/YourOnlyONEofcl/status/1525681473948471296"]
+syndication = ["https://mastodon.social/@youronlyone/108303918152249905", "https://diasp.org/posts/21145789", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid036F7UJdHLFXMvcXkuA1ox3iUDUougC3w7WJjCcB8198AtFrwHqAA52fBzgHMj22Upl", "https://twitter.com/YourOnlyONEofcl/status/1525681473948471296"]
 
 #channels = [""]
 #categories = [""]

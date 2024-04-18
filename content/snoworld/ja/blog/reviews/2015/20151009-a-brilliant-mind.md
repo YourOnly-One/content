@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/ja/a-brilliant-young-mind-20152
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndications = [""]
+#syndication = [""]
 
 channels = ["snoworld"]
 categories = ["autism", "films"]

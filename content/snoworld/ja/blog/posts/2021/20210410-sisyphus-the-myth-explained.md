@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/snoworld/ja/시지프스-sisyphus-the-my
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-syndications = ["https://twitter.com/YourOnlyONEofcl/status/1381110550067879937", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/398194108016492"]
+syndication = ["https://twitter.com/YourOnlyONEofcl/status/1381110550067879937", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/398194108016492"]
 
 channels = ["snoworld"]
 categories = ["tv"]                           # taxonomy

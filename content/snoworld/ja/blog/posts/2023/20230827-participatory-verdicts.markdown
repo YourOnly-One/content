@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/ja/revolutionised-justice-parti
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-syndications = ["https://c.im/@youronlyone/110959643798104295", "https://www.plurk.com/p/pda9y4", "https://spoutible.com/thread/15965681", "https://t.youronly.one/post/726778481159110656/revolutionizing-justice-participatory-verdicts-in", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0NvR4boRVpSDFXz98wcTqjtmquGgugT2NPHbgaGciqzbdTRUMXjtxNBXo4QBmNZsdl", "https://twitter.com/YourOnlyONEofcl/status/1695648949682475373"]
+syndication = ["https://c.im/@youronlyone/110959643798104295", "https://www.plurk.com/p/pda9y4", "https://spoutible.com/thread/15965681", "https://t.youronly.one/post/726778481159110656/revolutionizing-justice-participatory-verdicts-in", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0NvR4boRVpSDFXz98wcTqjtmquGgugT2NPHbgaGciqzbdTRUMXjtxNBXo4QBmNZsdl", "https://twitter.com/YourOnlyONEofcl/status/1695648949682475373"]
 
 channels = ["snoworld"]
 categories = ["tv"]

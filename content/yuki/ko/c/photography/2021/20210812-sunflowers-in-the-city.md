@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/yuki/ko/photography/sunflowers-in-the-ci
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-syndications = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/479938233175412", "https://pixelfed.social/i/web/post/350851231654886923"]
+syndication = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/479938233175412", "https://pixelfed.social/i/web/post/350851231654886923"]
 
 channels = ["confidentraveler"]
 categories = ["photography"]														# taxonomy

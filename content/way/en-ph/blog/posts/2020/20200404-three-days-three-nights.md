@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/way/three-days-and-three-nights-in-the-h
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-syndications = ["https://twitter.com/YourOnlyONEofcl/status/1514165727170752515", "https://www.facebook.com/WayOfBelievers/posts/405326731432815", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/635895850912982"]
+syndication = ["https://twitter.com/YourOnlyONEofcl/status/1514165727170752515", "https://www.facebook.com/WayOfBelievers/posts/405326731432815", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/635895850912982"]
 
 channels = ["onewayfaith"]
 categories = ["discourse"]                           # taxonomy

@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/snoworld/최고다-이순신-you-are-the
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-syndications = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/374809143688322"]
+syndication = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/374809143688322"]
 
 channels = ["snoworld"]
 categories = ["tv"]                           # taxonomy

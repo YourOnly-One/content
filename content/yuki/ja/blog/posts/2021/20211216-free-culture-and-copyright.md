@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/yuki/ja/free-culture-anti-copyright-2021
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-syndications = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/562205601615341"]
+syndication = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/562205601615341"]
 
 channels = ["worldbuildingwriting"]
 categories = ["literature"]                                                   # taxonomy

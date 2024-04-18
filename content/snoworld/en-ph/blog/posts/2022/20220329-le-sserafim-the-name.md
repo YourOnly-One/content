@@ -10,9 +10,9 @@ slug = "le-sserafim-the-name"
 translationKey = "le-sserafim-the-name-202288"
 relCanonical = "https://im.youronly.one/snoworld/le-sserafim-the-name-202288/"
 
-#syndications = [""]
+#syndication = [""]
 
-syndications = ["https://twitter.com/YourOnlyONEofcl/status/1508821970913095680", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/626666011835966"]
+syndication = ["https://twitter.com/YourOnlyONEofcl/status/1508821970913095680", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/626666011835966"]
 
 channels = ["snoworld"]
 categories = ["literature"]

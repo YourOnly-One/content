@@ -14,7 +14,7 @@ relCanonical = "https://im.youronly.one/snoworld/ko/아가씨-the-handmaiden-201
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-syndications = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/361505921685311"]
+syndication = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/361505921685311"]
 
 channels = ["snoworld"]
 categories = ["films"]																									# taxonomy

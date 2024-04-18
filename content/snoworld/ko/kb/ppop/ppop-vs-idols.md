@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/snoworld/ko/kb/ppop/ppop-versus-idols-20
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-syndications = ["https://twitter.com/YourOnlyONEofcl/status/1502166914012835846", "https://mastodon.social/@youronlyone/107936458933893005", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/614850043017563", "https://diasp.org/posts/2a904d108331013a8ee228a1592b385a"]
+syndication = ["https://twitter.com/YourOnlyONEofcl/status/1502166914012835846", "https://mastodon.social/@youronlyone/107936458933893005", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/614850043017563", "https://diasp.org/posts/2a904d108331013a8ee228a1592b385a"]
 
 channels = ["snoworld"]
 categories = ["literature"]                                                   # taxonomy

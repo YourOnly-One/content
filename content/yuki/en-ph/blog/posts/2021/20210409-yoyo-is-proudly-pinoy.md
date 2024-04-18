@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/yuki/yoyo-is-proudly-pinoy-202199/"     
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-syndications = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/396735351495701"]
+syndication = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/396735351495701"]
 
 channels = ["yookichronicles"]
 categories = ["literature"]														# taxonomy

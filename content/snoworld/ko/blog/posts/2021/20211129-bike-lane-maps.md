@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/snoworld/ko/bike-lane-maps-2021333/"    
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-syndications = ["https://www.facebook.com/faithful.athlete/posts/456798702823483", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/551308372705064"]
+syndication = ["https://www.facebook.com/faithful.athlete/posts/456798702823483", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/551308372705064"]
 
 channels = ["faithfulathlete"]
 categories = ["geography"]                                                   # taxonomy

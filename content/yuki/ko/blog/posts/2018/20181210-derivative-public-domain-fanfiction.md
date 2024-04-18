@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/yuki/ko/derivative-public-domain-fanfict
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-syndications = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/395530524949517"]
+syndication = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/395530524949517"]
 
 channels = ["worldbuildingwriting"]
 categories = ["literature"]														# taxonomy

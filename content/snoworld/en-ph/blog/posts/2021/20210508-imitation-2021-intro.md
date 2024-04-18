@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/snoworld/이미테이션-imitation-2021-
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-syndications = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/416307999538436"]
+syndication = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/416307999538436"]
 
 channels = ["snoworld"]
 categories = ["tv"]                           # taxonomy

@@ -12,7 +12,7 @@ relCanonical = "https://im.youronly.one/techmagus/philippines-isp-hijack-connect
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-syndications = ["https://www.facebook.com/techmagus/posts/1856761857860076", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/467888601047042"]
+syndication = ["https://www.facebook.com/techmagus/posts/1856761857860076", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/467888601047042"]
 
 channels = ["techmagus"]
 categories = ["internet"]                                                   # taxonomy

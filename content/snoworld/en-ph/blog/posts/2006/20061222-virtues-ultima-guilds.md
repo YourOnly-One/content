@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/yuki/ultima-6-virtues-guild-management-2
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-syndications = ["https://mastodon.social/@youronlyone/108606731308188054", "https://twitter.com/YourOnlyONEofcl/status/1545064676022571008", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/427249976082328"]
+syndication = ["https://mastodon.social/@youronlyone/108606731308188054", "https://twitter.com/YourOnlyONEofcl/status/1545064676022571008", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/427249976082328"]
 
 channels = ["gameshogun"]
 categories = ["literature"]
