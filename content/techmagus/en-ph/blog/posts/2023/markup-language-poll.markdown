@@ -140,10 +140,8 @@ While online polls cannot provide conclusive results, it can still provide a gen
 For {{% quote type="name" lang="en" %}}Fell{{% /quote %}}'s thesis, {{% quote type="name" lang="en" %}}LaTeX{{% /quote %}} is the markup language of choice, but in all other cases, good old plaintext is more than enough because it is compatible with everything.
 
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_brown" attribalign="txt_right" srctitle="Fell" srclink="https://ma.fellr.net/@fell/110129025350721173" srcrel="noopener external" attribto="" attriblink="https://ma.fellr.net/@fell" attribrel="noopener external" %}}
-I'm using [#texlatex](https://ma.fellr.net/tags/texlatex) for my [#thesis](https://ma.fellr.net/tags/thesis) but I try to stick to [#plaintext](https://ma.fellr.net/tags/plaintext) in all other cases, simply because it's compatible with everything. [^test]
+I'm using [#texlatex](https://ma.fellr.net/tags/texlatex) for my [#thesis](https://ma.fellr.net/tags/thesis) but I try to stick to [#plaintext](https://ma.fellr.net/tags/plaintext) in all other cases, simply because it's compatible with everything.
 {{% /quotebox %}}
-
-[^test]: THIS IS A TEST
 
 I agree. Plaintext is plaintext. It is the easiest and fastest way to take down notes. You do not have to worry about converting a particular file from one markup language to another.
 
@@ -158,6 +156,8 @@ I use it for everything, or as much as I can, including knowledge management, wr
 I checked the articles {{% quote type="name" lang="en" %}}Nick{{% /quote %}} shared, and after going through {{% quote type="name" lang="en" %}}Nick{{% /quote %}}'s experience and process, I can imagine how it made {{% quote type="name" lang="en" %}}Nick{{% /quote %}}'s daily workflow faster and easier. This is a good thing, as I have mentioned I have been considering learning {{% quote type="name" lang="en" %}}Org-mode{{% /quote %}} and integrating it into my daily routine.
 
 For {{% quote type="name" lang="en" %}}Evan Keeton{{% /quote %}}, the answers are {{% quote type="name" lang="en" %}}LaTeX{{% /quote %}} and {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} markup languages. {{% quote type="name" lang="en" %}}Evan{{% /quote %}} shared that for anything mathematics related, {{% quote type="name" lang="en" %}}LaTeX{{% /quote %}} is the one to use. This is true, {{% quote type="name" lang="en" %}}LaTeX{{% /quote %}} is the choice in publishing scientific documents [^latex-de-facto]. If you plan to publish a research paper, it is a good idea to master {{% quote type="name" lang="en" %}}LaTeX{{% /quote %}}.
+
+[^latex-de-facto]: [LaTeX](https://www.latex-project.org) (retrieved: 2023-04-10) (archive: [1](https://web.archive.org/web/20230410000143/https://www.latex-project.org/) [2](https://archive.md/lQ8SN))
 
 However, for things like note-taking, {{% quote type="name" lang="en" %}}Evan{{% /quote %}} said that {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} fits perfectly. For {{% quote type="name" lang="en" %}}Evan{{% /quote %}}, {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} is easy to read even without a proper renderer. I can attest to that. As a long-time {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} user, my mind processes a {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} document as if my brain is a {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} renderer. It flows naturally, I do not have to consciously think about the markups in the document.
 
@@ -189,6 +189,9 @@ I have heard good things about {{% quote type="name" lang="en" %}}AsciiDoc{{% /q
 
 Should you try one of these markup languages? Yes, you definitely should. {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} is common in software development, for example, it is the markup language used by web repository services like {{% quote type="name" lang="en" %}}Codeberg{{% /quote %}} [^codeberg]. It is also the default in many static-site generators like {{% quote type="name" lang="en" %}}Hugo{{% /quote %}} [^hugo]. There are also forum software which allow {{% quote type="name" lang="en" %}}Markdown{{% /quote %}} editing other than the old {{% quote type="name" lang="en" %}}BBcode{{% /quote %}} format.
 
+[^codeberg]: [Codeberg](https://codeberg.org)
+[^hugo]: [Hugo](https://gohugo.io)
+
 And as was mentioned, {{% quote type="name" lang="en" %}}LaTeX{{% /quote %}} is the de facto standard in <abbr title="Science, Technology, Engineering, and Mathematics">STEM</abbr> (Science, Technology, Engineering, and Mathematics) publishing. Authors can submit their papers as a {{% quote type="name" lang="en" %}}LaTeX{{% /quote %}} document, and the publishers converts it to their own preferred format without losing any text information, like bold, italics, images, and footnotes. Compare that to submitting PDF, ODF, and DOCX documents, more likely than not the publisher will have to check if the conversion was accurate. Or, the authors of the paper have to spend more time on these things when they can better spend it doing research and experiments.
 
 Of course, plaintext is as good as any. If presentation is not important, like bold and italics, plaintext can fill our everyday needs in documentation and note-taking. Even before the age of computers, that is what we were already doing… writing down in plaintext.
@@ -203,10 +206,6 @@ For more information about the various markup languages mentioned, check these u
 - [AsciiDoctor](https://asciidoctor.org)
 - [AsciiDoc](https://asciidoc-py.github.io)
 - Wikipedia: [List of document markup languages](https://en.wikipedia.org/wiki/List_of_document_markup_languages)
-
-[^latex-de-facto]: [LaTeX](https://www.latex-project.org) (retrieved: 2023-04-10) (archive: [1](https://web.archive.org/web/20230410000143/https://www.latex-project.org/) [2](https://archive.md/lQ8SN))
-[^codeberg]: [Codeberg](https://codeberg.org)
-[^hugo]: [Hugo](https://gohugo.io)
 
 ---
 
