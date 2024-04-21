@@ -1,0 +1,212 @@
++++
+title = "How-To correctly use MDAS, PEMDAS, BEDMAS, BODMAS, BIDMAS, GEMDAS"
+description = "The Order of Operations explained."	# For Schema.org; OpenGraph; Twitter Cards
+
+publishdate = 2021-08-15T09:40:35+08:00
+lastmod = 2021-08-15T09:40:35+08:00
+
+#aliases = [""]
+slug = "How to correctly use MDAS, PEMDAS, BEDMAS, BODMAS, BIDMAS, GEMDAS"
+translationKey = "How to correctly use MDAS, PEMDAS, BEDMAS, BODMAS, BIDMAS, GEMDAS"
+relCanonical = "https://im.youronly.one/yuki/how-to-correctly-use-mdas-pemdas-bedmas-bodmas-bidmas-gemdas-2021227/"                           # only needed when this is not the original post
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+
+syndication = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/481905576312011"]
+
+channels = ["yookichronicles"]
+categories = ["literature"]														# taxonomy
+keywords = ["MDAS", "PEMDAS", "BEDMAS", "BODMAS", "BIDMAS", "GEMDAS", "Order of Operations", "Operator Precedence", "YOOki Chronicles", "YourOnlyOne", "YourOnly.One"]															# meta keywords
+#series = [""]																# subset of series taxonomy
+tags = ["mathematics", "explained"]																	# taxonomy
+
+comments = true
+#weight = ""
+
+#featured = true															# theme specific
+math = true																	# theme specific
+toc = true
+
+type = "article"                                                           # article, sitepage, review
+
+#draft = true
+
+#license = ""
+
+#videos = [""]																# og:video
+#audio = [""]																# og:audio
+images = ["images/m/mathematics-chalkboard-pixabay-license.jpg"]    # og:images
+
+[[authors]]
+person = "yuki"
+#id = ""
+name = "ᜌᜓᜃᜒ (Yuki)"
+url = "https://im.youronly.one/yuki/"
+avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
+#rel = "noopener external nofollow"
++++
+
+Have you ever seen those math questions posted in social media and social networks? Have you seen people giving different answers even though they all claim to have used MDAS, PEMDAS, BEDMAS, BODMAS, BIDMAS, or GEMDAS? In this post, I will explain what these are and why there are different answers.
+
+<!--more-->
+
+## The Order of Operations
+In mathematics, there are a set of rules which serves as a guide on how to evaluate a given mathematical expression, this is called the ***order of operations*** or ***operator precedence***, this same set of rules is used also in science, technology, and by computer programmers. Imagine if company 'A' follows a different set of rules than company 'B', then an airplane company partnered with both to power their latest plane model, what do you think would happen if there are different ways to evaluate a given mathematical expression? This is how important the order of operations or operator precedence is in our time.
+
+### The Mnemonics
+A mnemonic device, or memory device, is any learning technique that aids information retention or retrieval (remembering) in human memory. Mnemonics make use of elaborative encoding, retrieval cues, and imagery, as specific tools to encode information in a way that allows for efficient storage and retrieval. Mnemonics aid original information in becoming associated with something more accessible or meaningful—which, in turn, provides better retention of the information.[^a]
+
+[^a]: Wikipedia: [Mnemonic](https://en.wikipedia.org/wiki/Mnemonic); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
+
+In the case of the order of operations, educators invented mnemonics to help students easily remember the rules. The very basic of these is **MDAS** which stands for "Multiplication/Division and Addition/Subtraction". This was later expanded and different countries use different mnemonics such as:
+
+- **PEMDAS**: Parentheses, Exponents, Multiplication/Division, Addition/Subtraction
+- **BEDMAS**: Brackets, Exponents, Division/Multiplication, Addition/Subtraction
+- **BODMAS**: Brackets, Order, Division/Multiplication, Addition/Subtraction
+- **BIDMAS**: Brackets, Indices, Division/Multiplication, Addition/Subtraction
+- **GEMDAS**: Groups, Exponents, Multiplication/Division, Addition/Subtraction
+
+Do these different mnemonics represent a different set of rules? No. All of these represent the rules in the ***order of operations***. This is very important to remember: MDAS, and all other variations of it, are simply a mnemonic of the ***order of operations*** or ***operator precedence***. Do not let anyone tell you otherwise.
+
+### The Rules
+What are the rules of the MDAS, PEMDAS, BEDMAS, BODMAS, BIDMAS, and GEMDAS? Or more specifically, what are the rules of the order of operations?
+
+1. grouping
+1. exponentiation and Nth root
+1. division and multiplication
+1. addition and subtraction
+1. if of the same precedence or weight, evaluate from left to right
+
+It means that, in a mathematical expression, exponents and the Nth root must be processed first before processing division and multiplication and before processing addition and subtraction; and if there are groupings—parentheses, brackets, and braces—the expression in these must be processed first.
+
+### Example #1: $4^2 - 2^3 ÷ 2 - (7 - 2) 2 + 5$
+
+How to solve it? Here are the steps:
+
+1. Solve the grouped expression $(7 - 2)$ which gives us $(5)$
+
+    $4^2 - 2^3 ÷ 2 - (5) 2 + 5$
+
+1. Next, solve the exponents: $4^2$ and $2^3$ which gives us $16$ and $8$ respectively
+
+    $16 - 8 ÷ 2 - (5) 2 + 5$
+
+1. Then process division and multiplication: $8 ÷ 2$ and $(5) 2$ is $4$ and $10$
+
+    $16 - 4 - 10 + 5$
+
+1. Since addition and subtraction are of the same precedence or weight, we go through it from left to right $16 - 4$ results in $12$
+
+    $12 - 10 + 5$
+
+1. After that we evaluate $12 - 10$ which is $2$
+
+    $2 + 5$
+
+1. Finally, $2 + 5$ gives us the correct answer of $7$
+
+    $= 7$
+
+Let's combine the above steps into a more presentable way:
+$$
+\begin{aligned}
+4^2 - 2^3 ÷ 2 - (7 - 2) 2 + 5 &= \\
+4^2 - 2^3 ÷ 2 - (5) 2 + 5 &= \\
+16 - 8 ÷ 2 - (5) 2 + 5 &= \\
+16 - 4 - 10 + 5 &= \\
+12 - 10 + 5 &= \\
+2 + 5 &= 7 \\
+\end{aligned}
+$$
+
+
+**Q: Objection! You used MDAS/PEMDAS/GEMDAS, incorrectly! It should be addition first before subtraction!**
+
+: No. As was explained, MDAS, PEMDAS, GEMDAS, are simply tools to make it easier to remember the rules of the ***order of operations*** or ***operator precedence***. The rules said if the operators are of the same level of precedence it must be evaluated from left to right.
+
+: Solving $16 - 4 - 10 + 5$ as $16 - 4 - 15$ will give an incorrect answer of $-3$.
+
+: Since the rules state that addition and subtraction have the same level of precedence and thus should be evaluated from left to right, look at the expression this way: $([16 - 4] - 10) + 5$
+
+**Q: Objection! In $(7 - 2) 2 + 5$ the $2 + 5$ must be solved first since there is no operator between $(7 - 2) 2$.**
+
+: Incorrect. $(7 - 2) 2$ means to multiply by $2$ the result of $(7 - 2)$. The absence of an operator between a grouping symbol and a number automatically implies multiplication. $(n) n$ is the same as $(n) × n$ just as $n (a + b)$ is the same as $n × (a + b)$.
+
+**Q: Objection! But this is how we were taught in school, are you saying our teachers/professors were wrong?**
+
+: If you are 100% it was how your teachers and/or professors taught you, then yes, they taught you wrong. However, more often than not, teachers and professors did teach their students correctly, it is the students who have forgotten what they were taught.
+
+### Example #2: $10 ÷ 2 + 5 × 2 - 5$
+If your answer is $10$ then you are correct.
+
+$$
+\begin{aligned}
+10 ÷ 2 + 5 × 2 - 5 &= \\
+5 + 10 - 5 &= \\
+15 - 5 &= 10 \\
+\end{aligned}
+$$
+
+### Example #3: $10 ÷ 2 × 2 - 5 + 2$
+If your answer is $7$ then you got it right!
+
+$$
+\begin{aligned}
+10 ÷ 2 × 2 - 5 + 2 &= \\
+5 × 2 - 5 + 2 &= \\
+10 - 5 + 2 &=  \\
+5 + 2 &= 7 \\
+\end{aligned}
+$$
+
+### Example #4: $10 × 2 ÷ 2 - 5 + 2$
+The correct answer is $7$.
+
+$$
+\begin{aligned}
+10 × 2 ÷ 2 - 5 + 2 &= \\
+20 ÷ 2 - 5 + 2 &= \\
+10 - 5 + 2 &= \\
+5 + 2 &= 7 \\
+\end{aligned}
+$$
+
+### Example #5: $(10 [4 - 2] [2 + 10] ÷ 2) ÷ 6 + 4$
+$$
+\begin{aligned}
+(10 [4 - 2] [2 + 10] ÷ 2) ÷ 6 + 4 &= \\
+(10 × 2 × 12 ÷ 2) ÷ 6 + 4 &= \\
+(20 × 12 ÷ 2) ÷ 6 + 4 &= \\
+(240 ÷ 2) ÷ 6 + 4 &= \\
+120 ÷ 6 + 4 &= \\
+20 + 4 &= 24 \\
+\end{aligned}
+$$
+
+## Is MDAS really helpful?
+MDAS, PEMDAS, BEDMAS, BODMAS, BIDMAS, and GEMDAS, only provides confusion to students and adults because they rely on what-you-see-is-what-you-get. In MDAS, PEMDAS, and GEMDAS, people assume that multiplication must come first before division because "M" came first before "D" in "MD". In BEDMAS, BODMAS, BIDMAS, it is incorrectly assumed that division must be processed first before multiplication because "D" comes before "M" in "DM".
+
+We should teach the order of operations without using mnemonics. It is not hard to remember rules. But if one insists on using mnemonics, then the proper way, at least in my view, is to write it this way: **M/D.A/S** or **D/M.A/S**. Another way to write it is **M|D.A|S** or **D|M.A|S**. If you do not want to use a period then another option is to write it is: **[M/D][A/S]**, **[D/M][A/S]**, **[M|D][A|S]**, or **[D|M][A|S]**.
+
+## Final note
+The examples I provided earlier were very simple and basic. If one is confused with how to correctly use MDAS, PEMDAS, BEDMAS, BODMAS, BIDMAS, and GEMDAS, or simply ***order of operations***, then it is not yet time to move to advance mathematics. We have not even touched the various ambiguities like the use of a forward-slash "/" in mathematical expressions. As with everything in life, master the basics first before moving to next level.
+
+---
+
+{{< image
+  type="imagecoverattrib"
+
+  link=""
+  linkrel="noopener external nofollow"
+
+  title="Mathematics chalkboard"
+  caption=""
+
+  licensecode="pixabay"
+  licenseurl="https://pixabay.com/service/license/"
+  licensename="Pixabay License"
+
+  attribto="ArtsyBee"
+  attriburl="https://pixabay.com/users/artsybee-462611/"
+  attribrel="noopener external nofollow"
+>}}
