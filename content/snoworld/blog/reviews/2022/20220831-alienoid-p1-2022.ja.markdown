@@ -272,6 +272,8 @@ contenttypes = ["CriticReview"]                                                 
   attribrel="noopener external"
 >}}
 
+<div class="floatclear"></div>
+
 もちろん、銃を振り回す武道家、タイムトラベラー、高麗生まれの{{% quote type="name" lang="ja" %}}イアン{{% /quote %}} ({{% quote type="name" lang="ko" %}}이안{{% /quote %}})として{{% quote type="name" lang="ja" %}}キム·テリ{{% /quote %}} ({{% quote type="name" lang="ko" %}}김태리{{% /quote %}})がいる。 彼女の最近のテレビドラマ{{% quote type="name" lang="ja" %}}2521{{% /quote %}} ({{% quote type="name" lang="ko" %}}스물다섯 스물하나{{% /quote %}})は、{{% quote type="name" lang="ja" %}}第58回百想芸術大賞{{% /quote %}} ({{% quote type="name" lang="ko" %}}제58회 백상예술대상{{% /quote %}})で主演女優賞を受賞した。
 
 彼らがこの映画に出演する前に、彼らのキャラクターがこれらの俳優を念頭に置いて書かれていたとしても、私は驚かないでしょう。

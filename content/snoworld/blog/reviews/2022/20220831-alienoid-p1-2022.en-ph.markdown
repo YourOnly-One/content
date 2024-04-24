@@ -272,6 +272,8 @@ There is also {{% quote type="name" lang="ko-Latn" %}}Ryu Joon Yeol{{% /quote %}
   attribrel="noopener external"
 >}}
 
+<div class="floatclear"></div>
+
 Of course, {{% quote type="name" lang="ko-Latn" %}}Kim Tae Ri{{% /quote %}} ({{% quote type="name" lang="ko" %}}김태리{{% /quote %}}) as the gun-wielding martial artist, time traveler, and Goryeo-born {{% quote type="name" lang="ko-Latn" %}}Lee An{{% /quote %}} ({{% quote type="name" lang="ko" %}}이안{{% /quote %}}). Her recent TV drama {{% quote type="name" lang="en" %}}Twenty-Five Twenty-One{{% /quote %}} ({{% quote type="name" lang="ko" %}}스물다섯 스물하나{{% /quote %}}) landed her {{% quote type="title" lang="en" %}}Best Actress{{% /quote %}} ({{% quote type="title" lang="ko" %}}여우주연상{{% /quote %}}) at the {{% quote type="name" lang="en" %}}58<sup>th</sup> Baeksang Arts Awards{{% /quote %}} ({{% quote type="name" lang="ko" %}}제58회 백상예술대상{{% /quote %}}).
 
 I would not be surprised if their characters were written with these actors in mind before they were offered to star in this film.

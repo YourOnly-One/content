@@ -272,6 +272,8 @@ contenttypes = ["CriticReview"]                                                 
   attribrel="noopener external"
 >}}
 
+<div class="floatclear"></div>
+
 물론 총을 휘두르는 무술가, 시간여행가, 고려 태생의 {{% quote type="name" lang="ko" %}}이안{{% /quote %}} 역으로 {{% quote type="name" lang="ko" %}}김태리{{% /quote %}}가 나온다. 그녀의 최근 TV 드라마 {{% quote type="name" lang="ko" %}}스물다섯 스물하나{{% /quote %}}은 {{% quote type="title" lang="ko" %}}여우주연상{{% /quote %}}에서 여우주연상을 수상했다.
 
 만약 그들의 캐릭터가 이 영화에 출연을 제안받기 전에 이 배우들을 염두에 두고 쓰여졌다면 나는 놀라지 않을 것이다.
