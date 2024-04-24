@@ -183,10 +183,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 2021 년 신작 《이미테이션》이라는 제목의이 새로운 드라마는 K-Pop이나 한국 음악의 모든 팬들에게 어필 할 것입니다. K-Pop 아이돌이 업계 데뷔를 꿈꿨을 때 겪은 이야기와 일반인은 거의 보지 못하는 아이돌로서 경험하는 삶을 담고있다. 야심 찬 아이돌 '이마 하'가 10 대 시절을 열심히 훈련하며 한국 음악의 어려운 무대에 선발되기 위해 뽑 히며 1 회에서 정한 톤이었다.
 
 {{< image
+  width="48%"
+  class="obj_floatleft"
   type="image"
-
-  height=""
-  width=""
 
   src="images/i/imitation-(2021)-dream-01.webp"
   link=""
@@ -208,10 +207,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 >}}
 
 {{< image
+  width="48%"
+  class="obj_floatright"
   type="image"
-
-  height=""
-  width=""
 
   src="images/i/imitation-(2021)-dream-02.webp"
   link=""
@@ -232,11 +230,12 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   attribrel="noopener external nofollow"
 >}}
 
-{{< image
-  type="image"
+<div class="floatclear"></div>
 
-  height=""
-  width=""
+{{< image
+  width="48%"
+  class="obj_floatleft"
+  type="image"
 
   src="images/i/imitation-(2021)-lee-ma-ha-01.webp"
   link=""
@@ -258,10 +257,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 >}}
 
 {{< image
+  width="48%"
+  class="obj_floatright"
   type="image"
-
-  height=""
-  width=""
 
   src="images/i/imitation-(2021)-lee-ma-ha-02.webp"
   link=""
@@ -281,6 +279,8 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+
+<div class="floatclear"></div>
 
 {{< image
   type="image"
@@ -339,10 +339,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 그리고 선발 됐다는 것은 첫 번째 에피소드에서 묘사 된 것처럼 연습생이 데뷔한다는 의미가 아니며, 멤버가 스트레스로 인해 그만두고 자살하는 것, 성취되지 않은 꿈, 일부 기관이 제공하는 열악한 환경 등 모든 일이 일어날 수 있습니다.
 
 {{< image
+  width="48%"
+  class="obj_floatleft"
   type="image"
-
-  height=""
-  width=""
 
   src="images/i/imitation-(2021)-quitting-01.webp"
   link=""
@@ -364,10 +363,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 >}}
 
 {{< image
+  width="48%"
+  class="obj_floatright"
   type="image"
-
-  height=""
-  width=""
 
   src="images/i/imitation-(2021)-quitting-02.webp"
   link=""
@@ -387,6 +385,8 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+
+<div class="floatclear"></div>
 
 {{< image
   type="image"
@@ -443,10 +443,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 그게 충분하지 않다면 《이마 하》의 소속사는 그녀를 덜 인기있는 회사에 팔았다.
 
 {{< image
+  width="48%"
+  class="obj_floatleft"
   type="image"
-
-  height=""
-  width=""
 
   src="images/i/imitation-(2021)-sold-to-another-agency-01.webp"
   link=""
@@ -468,10 +467,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 >}}
 
 {{< image
+  width="48%"
+  class="obj_floatright"
   type="image"
-
-  height=""
-  width=""
 
   src="images/i/imitation-(2021)-sold-to-another-agency-02.webp"
   link=""
@@ -492,15 +490,16 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   attribrel="noopener external nofollow"
 >}}
 
+<div class="floatclear"></div>
+
 ### 데뷔도 내부 과정입니다
 
 솔로 활동이든 그룹이든 관계없이 업계 내에서 자신을 마케팅하고 선배들에게 자신을 소개해야합니다. K-Pop 아이돌 세계와 같이 경쟁이 매우 치열한 산업에서 선배들이 당신의 음악, 당신의 연기를 좋아하게하고 그들이 당신이나 당신의 그룹에 대해 긍정적 인 말을하게하면 노출과 잠재적 인 성공에 도움이 될 것입니다. 1 회에서했던 《Omega III》처럼 선배들에게 싱글을 무료로 증정하기도했다.
 
 {{< image
+  width="48%"
+  class="obj_floatleft"
   type="image"
-
-  height=""
-  width=""
 
   src="images/i/imitation-(2021)-omega-iii-01.webp"
   link=""
@@ -522,10 +521,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 >}}
 
 {{< image
+  width="48%"
+  class="obj_floatright"
   type="image"
-
-  height=""
-  width=""
 
   src="images/i/imitation-(2021)-omega-iii-02.webp"
   link=""
@@ -546,11 +544,12 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   attribrel="noopener external nofollow"
 >}}
 
-{{< image
-  type="image"
+<div class="floatclear"></div>
 
-  height=""
-  width=""
+{{< image
+  width="48%"
+  class="obj_floatleft"
+  type="image"
 
   src="images/i/imitation-(2021)-omega-iii-03.webp"
   link=""
@@ -572,10 +571,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 >}}
 
 {{< image
+  width="48%"
+  class="obj_floatright"
   type="image"
-
-  height=""
-  width=""
 
   src="images/i/imitation-(2021)-omega-iii-04.webp"
   link=""
@@ -595,6 +593,8 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+
+<div class="floatclear"></div>
 
 ## 평결
 

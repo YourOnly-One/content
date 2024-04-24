@@ -183,10 +183,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 《イミテーション》と題されたこの新しい2021年の韓国ドラマは、K-Popまたは韓国音楽のすべてのファンにアピールするはずです。 K-POPアイドルが業界でのデビューを夢見ていたときのストーリーと、一般の人にはめったに見られないアイドルとしての生活を物語っています。 これは、彼らがエピソード1で確立したトーンであり、意欲的なアイドルである《リー・マーハ》は、韓国音楽のとらえどころのないステージでデビューするために選ばれるために、10代を懸命にそしてノンストップでトレーニングしました。
 
 {{< image
+  width="48%"
+  class="obj_floatleft"
   type="image"
-
-  height=""
-  width=""
 
   src="images/i/imitation-(2021)-dream-01.webp"
   link=""
@@ -208,10 +207,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 >}}
 
 {{< image
+  width="48%"
+  class="obj_floatright"
   type="image"
-
-  height=""
-  width=""
 
   src="images/i/imitation-(2021)-dream-02.webp"
   link=""
@@ -232,11 +230,12 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   attribrel="noopener external nofollow"
 >}}
 
-{{< image
-  type="image"
+<div class="floatclear"></div>
 
-  height=""
-  width=""
+{{< image
+  width="48%"
+  class="obj_floatleft"
+  type="image"
 
   src="images/i/imitation-(2021)-lee-ma-ha-01.webp"
   link=""
@@ -258,10 +257,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 >}}
 
 {{< image
+  width="48%"
+  class="obj_floatright"
   type="image"
-
-  height=""
-  width=""
 
   src="images/i/imitation-(2021)-lee-ma-ha-02.webp"
   link=""
@@ -281,6 +279,8 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+
+<div class="floatclear"></div>
 
 {{< image
   type="image"
@@ -339,10 +339,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 そして、選ばれたからといって、最初のエピソードで描かれたように研修生がデビューするわけではありません。ストレス、満たされていない夢、一部の機関が提供する過酷な環境のためにメンバーが辞めて自殺するなど、何が起こる可能性もあります。
 
 {{< image
+  width="48%"
+  class="obj_floatleft"
   type="image"
-
-  height=""
-  width=""
 
   src="images/i/imitation-(2021)-quitting-01.webp"
   link=""
@@ -364,10 +363,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 >}}
 
 {{< image
+  width="48%"
+  class="obj_floatright"
   type="image"
-
-  height=""
-  width=""
 
   src="images/i/imitation-(2021)-quitting-02.webp"
   link=""
@@ -387,6 +385,8 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+
+<div class="floatclear"></div>
 
 {{< image
   type="image"
@@ -443,10 +443,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 それでも足りない場合は、《リー・マーハ》の代理店が彼女をあまり人気のない会社に売りました。
 
 {{< image
+  width="48%"
+  class="obj_floatleft"
   type="image"
-
-  height=""
-  width=""
 
   src="images/i/imitation-(2021)-sold-to-another-agency-01.webp"
   link=""
@@ -468,10 +467,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 >}}
 
 {{< image
+  width="48%"
+  class="obj_floatright"
   type="image"
-
-  height=""
-  width=""
 
   src="images/i/imitation-(2021)-sold-to-another-agency-02.webp"
   link=""
@@ -492,15 +490,16 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   attribrel="noopener external nofollow"
 >}}
 
+<div class="floatclear"></div>
+
 ### デビューも社内プロセスです
 
 一人の行為であろうとグループであろうと、彼らは業界内で自分自身を売り込み、彼らの先輩に自己紹介しなければなりません。 K-POPアイドルの世界のような非常に競争の激しい業界では、あなたの先輩にあなたの音楽、あなたの行為、そしてあなたやあなたのグループについて何か前向きなことを言ってもらうことは、露出と潜在的な成功に役立ちます。 《Omega III》がエピソード1でしたように、彼らは彼らのシングルの無料コピーを彼らの先輩にさえ与えました。
 
 {{< image
+  width="48%"
+  class="obj_floatleft"
   type="image"
-
-  height=""
-  width=""
 
   src="images/i/imitation-(2021)-omega-iii-01.webp"
   link=""
@@ -522,10 +521,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 >}}
 
 {{< image
+  width="48%"
+  class="obj_floatright"
   type="image"
-
-  height=""
-  width=""
 
   src="images/i/imitation-(2021)-omega-iii-02.webp"
   link=""
@@ -546,11 +544,12 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   attribrel="noopener external nofollow"
 >}}
 
-{{< image
-  type="image"
+<div class="floatclear"></div>
 
-  height=""
-  width=""
+{{< image
+  width="48%"
+  class="obj_floatleft"
+  type="image"
 
   src="images/i/imitation-(2021)-omega-iii-03.webp"
   link=""
@@ -572,10 +571,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 >}}
 
 {{< image
+  width="48%"
+  class="obj_floatright"
   type="image"
-
-  height=""
-  width=""
 
   src="images/i/imitation-(2021)-omega-iii-04.webp"
   link=""
@@ -595,6 +593,8 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+
+<div class="floatclear"></div>
 
 ## 評決
 
