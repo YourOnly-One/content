@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/yuki/ko/context-is-king-2024131/"
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndication = [""]
+syndication = ["https://www.plurk.com/p/3fsn2ts7pi", "https://spoutible.com/thread/31292850", "https://l.facebook.com/l.php?u=https%3A%2F%2Fim.youronly.one%2Fyuki%2Fcontext-is-king-2024131%2F&h=AT3AcLYRUvqm5Q6TTJOU3hq7mUUdqJKFenMGv7vqmApoClqAclPZUUBhoGhB8NzbB_guRTMEG6nLwtGNfeEPCIiROfNrLgXRoQdulYufc6sTJ3jr8Y0vDg4Xgw&s=1", "https://www.threads.net/@youronly.one.ofcl/post/C6yYN1II5ld", "https://x.com/YourOnlyONEofcl/status/1788903401511661838", "https://bsky.app/profile/youronly.one/post/3ks53jhcac223", "https://c.im/@youronlyone/112416705368917074"]
 
 channels = ["confidentraveler"]
 categories = ["advice"]
