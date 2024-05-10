@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/yuki/context-is-king-2024131/"
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-syndication = ["https://www.plurk.com/p/3fsn2ts7pi", "https://spoutible.com/thread/31292850", "https://l.facebook.com/l.php?u=https%3A%2F%2Fim.youronly.one%2Fyuki%2Fcontext-is-king-2024131%2F&h=AT3AcLYRUvqm5Q6TTJOU3hq7mUUdqJKFenMGv7vqmApoClqAclPZUUBhoGhB8NzbB_guRTMEG6nLwtGNfeEPCIiROfNrLgXRoQdulYufc6sTJ3jr8Y0vDg4Xgw&s=1", "https://www.threads.net/@youronly.one.ofcl/post/C6yVpbOIaM1", "https://x.com/YourOnlyONEofcl/status/1788903357282685246", "https://bsky.app/profile/youronly.one/post/3ks53izy2ls2w", "https://c.im/@youronlyone/112416704594274953"]
+syndication = ["https://www.plurk.com/p/3fsn2ts7pi", "https://spoutible.com/thread/31292850", "https://l.facebook.com/l.php?u=https%3A%2F%2Fim.youronly.one%2Fyuki%2Fcontext-is-king-2024131%2F&h=AT3AcLYRUvqm5Q6TTJOU3hq7mUUdqJKFenMGv7vqmApoClqAclPZUUBhoGhB8NzbB_guRTMEG6nLwtGNfeEPCIiROfNrLgXRoQdulYufc6sTJ3jr8Y0vDg4Xgw&s=1", "https://www.threads.net/@youronly.one.ofcl/post/C6yVpbOIaM1", "https://x.com/YourOnlyONEofcl/status/1788903357282685246", "https://bsky.app/profile/youronly.one/post/3ks53izy2ls2w", "https://c.im/@youronlyone/112416704594274953", "https://t.youronly.one/post/750115439999336448/advice-for-foreign-visitors-to-the-philippines", "https://youronlyoneofcl.wordpress.com/2024/05/11/advice-for-foreign-visitors-to-the-philippines-understanding-context/"]
 
 channels = ["confidentraveler"]
 categories = ["advice"]
