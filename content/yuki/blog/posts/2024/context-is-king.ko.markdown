@@ -81,8 +81,8 @@ type = "article"                                             # article, sitepage
 
 최근 필리핀에서는 나이지리아계와 필리핀계 혼혈인이 영수증에 다음과 같이 기록되어 있어 불쾌감을 느꼈습니다:
 
-{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="interaksyon" srclink="https://interaksyon.philstar.com/trends-spotlights/2024/05/09/275251/chinese-restaurant-under-fire-racist-food-receipt/" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
-  <span lang="fil">SA NAKABLACK NA NAKAUPO SA 14 KULOT ANG BUHOK KAMUKHA NI BLACK JACK.</span>
+{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="interaksyon" srclink="https://archive.ph/Twr0t" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
+  <p lang="fil">SA NAKA<span lang="en-ph">BLACK</span> NA NAKAUPO SA <span lang="en-ph">14</span> KULOT ANG BUHOK KAMUKHA NI <span lang="en-ph">BLACK JACK</span>.</p>
 {{% /quotebox %}}
 
 한국어 번역은 <q lang="ko">검은 옷을 입고, 14번 테이블에 앉아, 곱슬머리를 하고, 블랙디악을 닮은 사람에게</q>이다
@@ -95,10 +95,10 @@ type = "article"                                             # article, sitepage
 
 2019년, 인기 P-pop 그룹 {{% quote type="name" lang="en-ph" %}}SB19{{% /quote %}}이 트윗했습니다
 
-{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="SB19" srclink="https://twitter.com/SB19Official/status/1208376341688549377" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
+{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="SB19" srclink="https://archive.ph/8XXYJ" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   <p lang="en-ph">Hello, Negros!</p>
   <p lang="en-ph">We are now in your zone!</p>
-  <p><span lang="en-ph">Excited</span> <span lang="fil">na kami sa mga mangyayari sa aming</span> <span lang="en-ph">first stop for our nationwide tour</span> 😊</p>
+  <p><span lang="en-ph">Excited</span> <span lang="fil">na kami sa mga mangyayari sa aming</span> <span lang="en-ph">first stop for our nationwide tour</span> <span class="emoji">😊</span></p>
 {{% /quotebox %}}
 
 이는 필리핀의 섬인 네그로스와 두 개의 주, 네그로스 옥시덴탈과 네그로스 오리엔탈을 의미합니다.

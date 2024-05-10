@@ -81,8 +81,8 @@ type = "article"                                             # article, sitepage
 
 最近のフィリピンでは、ナイジェリア人とフィリピン人の混血者が、領収書に次のように記述されているのを見て、侮辱されたと感じました：
 
-{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="interaksyon" srclink="https://interaksyon.philstar.com/trends-spotlights/2024/05/09/275251/chinese-restaurant-under-fire-racist-food-receipt/" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
-  <span lang="fil">SA NAKABLACK NA NAKAUPO SA 14 KULOT ANG BUHOK KAMUKHA NI BLACK JACK.</span>
+{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="interaksyon" srclink="https://archive.ph/Twr0t" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
+  <p lang="fil">SA NAKA<span lang="en-ph">BLACK</span> NA NAKAUPO SA <span lang="en-ph">14</span> KULOT ANG BUHOK KAMUKHA NI <span lang="en-ph">BLACK JACK</span>.</p>
 {{% /quotebox %}}
 
 日本語訳は、<q lang="ja">黒の服を着た人、14番テーブルに座っていて、巻き毛で、ブラックダイクに似ている人へ</q>です
@@ -95,10 +95,10 @@ type = "article"                                             # article, sitepage
 
 2019年、人気のP-popグループ{{% quote type="name" lang="en-ph" %}}SB19{{% /quote %}}が、とツイートしました。
 
-{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="SB19" srclink="https://twitter.com/SB19Official/status/1208376341688549377" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
+{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="SB19" srclink="https://archive.ph/8XXYJ" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   <p lang="en-ph">Hello, Negros!</p>
   <p lang="en-ph">We are now in your zone!</p>
-  <p><span lang="en-ph">Excited</span> <span lang="fil">na kami sa mga mangyayari sa aming</span> <span lang="en-ph">first stop for our nationwide tour</span> 😊</p>
+  <p><span lang="en-ph">Excited</span> <span lang="fil">na kami sa mga mangyayari sa aming</span> <span lang="en-ph">first stop for our nationwide tour</span> <span class="emoji">😊</span></p>
 {{% /quotebox %}}
 
 これはフィリピンの島であるネグロスとその2つの州、ネグロス・オクシデンタルとネグロス・オリエンタルを指していました。

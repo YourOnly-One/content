@@ -81,8 +81,8 @@ While the video has since been removed, it's unclear whether the vlogger apologi
 
 A recent incident in the Philippines involved a half-Nigerian, half-Filipino individual who felt offended by how he was described in a receipt:
 
-{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="interaksyon" srclink="https://interaksyon.philstar.com/trends-spotlights/2024/05/09/275251/chinese-restaurant-under-fire-racist-food-receipt/" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
-  <span lang="fil">SA NAKABLACK NA NAKAUPO SA 14 KULOT ANG BUHOK KAMUKHA NI BLACK JACK.</span>
+{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="interaksyon" srclink="https://archive.ph/Twr0t" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
+  <p lang="fil">SA NAKA<span lang="en-ph">BLACK</span> NA NAKAUPO SA <span lang="en-ph">14</span> KULOT ANG BUHOK KAMUKHA NI <span lang="en-ph">BLACK JACK</span>.</p>
 {{% /quotebox %}}
 
 The English translation is: <q lang="en-ph">To the one in black, sitting at table 14, with curly hair, and resembling Black Jack.</q>
@@ -95,10 +95,10 @@ Despite this, the customer felt discriminated against due to a lack of understan
 
 In 2019, the popular P-pop group {{% quote type="name" lang="en-ph" %}}SB19{{% /quote %}} tweeted,
 
-{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="SB19" srclink="https://twitter.com/SB19Official/status/1208376341688549377" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
+{{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="SB19" srclink="https://archive.ph/8XXYJ" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   <p lang="en-ph">Hello, Negros!</p>
   <p lang="en-ph">We are now in your zone!</p>
-  <p><span lang="en-ph">Excited</span> <span lang="fil">na kami sa mga mangyayari sa aming</span> <span lang="en-ph">first stop for our nationwide tour</span> 😊</p>
+  <p><span lang="en-ph">Excited</span> <span lang="fil">na kami sa mga mangyayari sa aming</span> <span lang="en-ph">first stop for our nationwide tour</span> <span class="emoji">😊</span></p>
 {{% /quotebox %}}
 
 They were referring to {{% quote type="name" lang="en-ph" %}}Negros{{% /quote %}}, an island in the Philippines with two provinces: {{% quote type="name" lang="en-ph" %}}Negros Occidental{{% /quote %}} and {{% quote type="name" lang="en-ph" %}}Negros Oriental{{% /quote %}}.
