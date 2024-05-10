@@ -2,8 +2,8 @@
 title = "フィリピンを訪れる外国人のためのガイド：文脈の理解"
 description = "他国を旅行する際の非常に重要なアドバイスは、常に次のことを覚えておくことです: コンテクストが王様！"
 
-lastmod = 2024-05-10T08:00:01+09:00                 # last update; manually adjust to local timezone
-publishdate = 2024-05-10T08:00:01+09:00             # first publication; manually adjust to local timezone
+lastmod = 2024-05-10T18:27:12+09:00                 # last update; manually adjust to local timezone
+publishdate = 2024-05-10T18:27:12+09:00             # first publication; manually adjust to local timezone
 date = 2024-05-10T08:00:01+09:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
@@ -11,7 +11,7 @@ date = 2024-05-10T08:00:01+09:00                    # first created; manually ad
 #url = ""                                              # "path/post"; override .Permalink
 slug = "context-is-king"
 translationKey = "context-is-king-2024131"
-relCanonical = "https://im.youronly.one/snoworld/ja/context-is-king-2024131/"
+relCanonical = "https://im.youronly.one/yuki/ja/context-is-king-2024131/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
 #disquq_identifier = ""                                # set if date of this content is different from main translation
 

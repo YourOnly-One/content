@@ -2,8 +2,8 @@
 title = "필리핀 방문 외국인을 위한 가이드: 문맥의 이해"
 description = "다른 나라를 여행할 때 매우 중요한 조언은 항상 기억하라는 것이다: 문맥은 왕이다!"
 
-lastmod = 2024-05-10T08:00:01+09:00                 # last update; manually adjust to local timezone
-publishdate = 2024-05-10T08:00:01+09:00             # first publication; manually adjust to local timezone
+lastmod = 2024-05-10T18:27:12+09:00                 # last update; manually adjust to local timezone
+publishdate = 2024-05-10T18:27:12+09:00             # first publication; manually adjust to local timezone
 date = 2024-05-10T08:00:01+09:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
@@ -11,7 +11,7 @@ date = 2024-05-10T08:00:01+09:00                    # first created; manually ad
 #url = ""                                              # "path/post"; override .Permalink
 slug = "context-is-king"
 translationKey = "context-is-king-2024131"
-relCanonical = "https://im.youronly.one/snoworld/ko/context-is-king-2024131/"
+relCanonical = "https://im.youronly.one/yuki/ko/context-is-king-2024131/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
 #disquq_identifier = ""                                # set if date of this content is different from main translation
 
