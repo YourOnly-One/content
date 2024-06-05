@@ -13,7 +13,7 @@ slug = "a-look-back-into-2022"
 translationKey = "a-look-back-into-2022-202313"
 relCanonical = "https://im.youronly.one/snoworld/ko/a-look-back-into-2022-202313/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
-#disquq_identifier = ""                                # set if date of this content is different from main translation
+#disqus_identifier = ""                                # set if date of this content is different from main translation
 
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md

@@ -13,7 +13,7 @@ title = "ポエム"
 translationKey = "section-poems"
 relCanonical = "/ja/tag/poems/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
-#disquq_identifier = ""                                # set if date of this content is different from main translation
+#disqus_identifier = ""                                # set if date of this content is different from main translation
 
 redirectto = "/ja/tag/poems/"                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md

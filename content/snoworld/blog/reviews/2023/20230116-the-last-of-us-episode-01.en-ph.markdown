@@ -13,7 +13,7 @@ slug = "the-last-of-us-episode-01"
 translationKey = "the-last-of-us-episode-01-202316"
 relCanonical = "https://im.youronly.one/snoworld/the-last-of-us-episode-01-202316/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
-#disquq_identifier = ""                                # set if date of this content is different from main translation
+#disqus_identifier = ""                                # set if date of this content is different from main translation
 
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md

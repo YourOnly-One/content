@@ -13,7 +13,7 @@ slug = "difference-ppop-opm"
 translationKey = "difference-ppop-opm"
 relCanonical = "https://im.youronly.one/snoworld/kb/ppop/difference-ppop-opm/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
-disquq_identifier = "difference-ppop-opm-202258"                                # set if date of this content is different from main translation
+disqus_identifier = "difference-ppop-opm-202258"                                # set if date of this content is different from main translation
 
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md

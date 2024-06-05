@@ -13,7 +13,7 @@ slug = "taxi-driver-season-02-review"
 translationKey = "taxi-driver-sesason-02-review-2023106"
 relCanonical = "https://im.youronly.one/snoworld/ko/taxi-driver-season-02-review-2023106/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
-#disquq_identifier = ""                                # set if date of this content is different from main translation
+#disqus_identifier = ""                                # set if date of this content is different from main translation
 
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md

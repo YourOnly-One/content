@@ -13,7 +13,7 @@ slug = "dnd-video-games-release-timeline"
 translationKey = "dnd-video-games-release-timeline"
 relCanonical = "https://im.youronly.one/yuki/kb/timelines/dnd-video-games-release-timeline/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
-disquq_identifier = "dnd-video-games-release-timeline-202323"                                # set if date of this content is different from main translation
+disqus_identifier = "dnd-video-games-release-timeline-202323"                                # set if date of this content is different from main translation
 
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md

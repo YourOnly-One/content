@@ -13,7 +13,7 @@ slug = "markup-language-poll-results-analysis"
 translationKey = "markup-language-poll-results-analysis-2023100"
 relCanonical = "https://im.youronly.one/techmagus/ja/markup-language-poll-results-analysis-2023100/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
-#disquq_identifier = ""                                # set if date of this content is different from main translation
+#disqus_identifier = ""                                # set if date of this content is different from main translation
 
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md

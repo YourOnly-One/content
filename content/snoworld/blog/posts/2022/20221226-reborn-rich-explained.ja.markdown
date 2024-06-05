@@ -13,7 +13,7 @@ slug = "reborn-rich-2022-explained"
 translationKey = "reborn-rich-2022-explained-2022361"
 relCanonical = "https://im.youronly.one/snoworld/ja/reborn-rich-2022-explained-2022361/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
-#disquq_identifier = ""                                # set if date of this content is different from main translation
+#disqus_identifier = ""                                # set if date of this content is different from main translation
 
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md

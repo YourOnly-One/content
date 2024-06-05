@@ -13,7 +13,7 @@ slug = "alchemy-of-souls-환혼-2022-season-01"
 translationKey = "alchemy-of-souls-환혼-2022-season-01-2022242"
 relCanonical = "https://im.youronly.one/snoworld/ko/alchemy-of-souls-환혼-2022-season-01-2022242/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
-#disquq_identifier = ""                                # set if date of this content is different from main translation
+#disqus_identifier = ""                                # set if date of this content is different from main translation
 
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md

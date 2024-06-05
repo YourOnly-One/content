@@ -13,7 +13,7 @@ slug = "ultima-6-virtues-guild-management"
 translationKey = "ultima-6-virtues-guild-management-2006356"
 relCanonical = "https://im.youronly.one/yuki/ja/ultima-6-virtues-guild-management-2024134/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
-disquq_identifier = "ultima-6-virtues-guild-management-2006356"                                # set if date of this content is different from main translation
+disqus_identifier = "ultima-6-virtues-guild-management-2006356"                                # set if date of this content is different from main translation
 
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md

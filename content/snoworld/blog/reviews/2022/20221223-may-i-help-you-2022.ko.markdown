@@ -13,7 +13,7 @@ slug = "may-i-help-you-일당백집사-2022-review"
 translationKey = "may-i-help-you-일당백집사-2022-review-2022357"
 relCanonical = "https://im.youronly.one/snoworld/ko/may-i-help-you-일당백집사-2022-review-2022357/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
-#disquq_identifier = ""                                # set if date of this content is different from main translation
+#disqus_identifier = ""                                # set if date of this content is different from main translation
 
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md

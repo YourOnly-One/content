@@ -13,7 +13,7 @@ slug = "styling-diacritics"
 translationKey = "styling-diacritics"
 relCanonical = "https://im.youronly.one/techmagus/ko/codebits/styling-diacritics/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
-disquq_identifier = "styling-diacritics-202349"                                # set if date of this content is different from main translation
+disqus_identifier = "styling-diacritics-202349"                                # set if date of this content is different from main translation
 
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md

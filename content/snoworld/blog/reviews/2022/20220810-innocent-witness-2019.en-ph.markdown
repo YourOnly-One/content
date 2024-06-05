@@ -13,7 +13,7 @@ slug = "innocent-witness-증인-2019"
 translationKey = "innocent-witness-증인-2019-2022228"
 relCanonical = "https://im.youronly.one/snoworld/innocent-witness-증인-2019-2022228/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
-#disquq_identifier = ""                                # set if date of this content is different from main translation
+#disqus_identifier = ""                                # set if date of this content is different from main translation
 
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md

@@ -14,7 +14,7 @@ translationKey = "marvel-cinematic-universe-timeline"
 relCanonical = "https://im.youronly.one/snoworld/kb/timelines/marvel-cinematic-universe-timeline/"
 
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
-disquq_identifier = "marvel-cinematic-universe-timeline-202310"                                # set if date of this content is different from main translation
+disqus_identifier = "marvel-cinematic-universe-timeline-202310"                                # set if date of this content is different from main translation
 
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md

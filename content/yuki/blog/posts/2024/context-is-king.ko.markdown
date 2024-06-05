@@ -13,7 +13,7 @@ slug = "context-is-king"
 translationKey = "context-is-king-2024131"
 relCanonical = "https://im.youronly.one/yuki/ko/context-is-king-2024131/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
-#disquq_identifier = ""                                # set if date of this content is different from main translation
+#disqus_identifier = ""                                # set if date of this content is different from main translation
 
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md

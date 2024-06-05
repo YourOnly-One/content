@@ -13,7 +13,7 @@ title = "写真撮影"
 translationKey = "section-photography"
 relcanonical = "/ja/cat/photography/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
-#disquq_identifier = ""                                # set if date of this content is different from main translation
+#disqus_identifier = ""                                # set if date of this content is different from main translation
 
 redirectto = "/ja/cat/photography/"                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md

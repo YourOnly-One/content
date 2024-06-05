@@ -13,7 +13,7 @@ slug = "start-up-philippines-premiere-week"
 translationKey = "start-up-philippines-premiere-week-2022275"
 relCanonical = "https://im.youronly.one/snoworld/start-up-philippines-premiere-week-2022275/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
-#disquq_identifier = ""                                # set if date of this content is different from main translation
+#disqus_identifier = ""                                # set if date of this content is different from main translation
 
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
