@@ -37,7 +37,7 @@ draft = true
 #[[authors]]
 #  person = ""
 #  #id = ""
-#  name = "ᜌᜓᜃᜒ (Yuki | 사요한 | 謝雪矢（ゆきや）)"
+#  name = "Yohan Yuki Xie"
 #  url = ""
 #  avatar = ""
 #  rel = "noopener external nofollow"

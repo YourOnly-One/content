@@ -45,7 +45,7 @@ videos = ["https://www.youtube.com/watch?v=H1WYnJF1Pwo"]                        
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "ᜌᜓᜃᜒ (Yuki)"
+  name = "Yohan Yuki Xie"
   url = "https://im.youronly.one/snoworld/"
   avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
   #rel = "noopener external nofollow"

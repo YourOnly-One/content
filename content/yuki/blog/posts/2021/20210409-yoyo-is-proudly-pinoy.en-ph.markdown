@@ -39,7 +39,7 @@ images = ["https://img.youronly.one/works/Yo-yo-Trivia.webp"]    # og:images
 [[authors]]
 person = "yuki"
 #id = ""
-name = "ᜌᜓᜃᜒ (Yuki)"
+name = "Yohan Yuki Xie"
 url = "https://im.youronly.one/yuki/"
 avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
 #rel = "noopener external nofollow"

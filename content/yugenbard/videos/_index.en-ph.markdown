@@ -48,7 +48,7 @@ private = true
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "ᜌᜓᜃᜒ (Yuki)"
+  name = "Yohan Yuki Xie"
   #name = "Yūgen Bard / 幽玄吟遊詩人 / 음유시인"
   url = "https://im.youronly.one/yugenbard/"
   avatar = "https://rsc.youronly.one/img/y/Yugen_Bard-logo-01-1500x.webp"

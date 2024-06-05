@@ -47,7 +47,7 @@ toc = true
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "ᜌᜓᜃᜒ (Yuki)"
+  name = "Yohan Yuki Xie"
   #name = "Confident Traveler / 自信のある旅行者 / 당당하 여행자"
   url = "https://im.youronly.one/confidentraveler/"
   avatar = "https://rsc.youronly.one/img/y/Confident_Traveler-logo-01-1500x.webp"

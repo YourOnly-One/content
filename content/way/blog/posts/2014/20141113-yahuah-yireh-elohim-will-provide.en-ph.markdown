@@ -38,7 +38,7 @@ images = ["https://img.youronly.one/works/FlagMenorah-Proto-(CC0).webp"]    # og
 [[authors]]
 person = "yuki"
 #id = ""
-name = "ᜌᜓᜃᜒ (Yuki)"
+name = "Yohan Yuki Xie"
 url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 #rel = "noopener external nofollow"

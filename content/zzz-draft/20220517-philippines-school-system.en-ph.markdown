@@ -47,7 +47,7 @@ draft = true
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "ᜌᜓᜃᜒ (Yuki)"
+  name = "Yohan Yuki Xie"
   #name = "Snoworld / スノーワールド / 스노우월드"
   url = "https://im.youronly.one/snoworld/"
   avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"

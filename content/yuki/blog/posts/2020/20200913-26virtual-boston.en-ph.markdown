@@ -36,7 +36,7 @@ type = "article"                                                           # art
 [[authors]]
 person = "yuki"
 #id = ""
-name = "ᜌᜓᜃᜒ (Yuki)"
+name = "Yohan Yuki Xie"
 url = "https://im.youronly.one/faithfulathlete/"
 avatar = "https://rsc.youronly.one/img/y/Faithful_Athlete-logo-02-1500x.webp"
 #rel = "noopener external nofollow"

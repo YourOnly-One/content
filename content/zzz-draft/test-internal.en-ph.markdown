@@ -39,7 +39,7 @@ draft = true
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "ᜌᜓᜃᜒ (Yuki)"
+  name = "Yohan Yuki Xie"
   url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
   #rel = "noopener external nofollow"
