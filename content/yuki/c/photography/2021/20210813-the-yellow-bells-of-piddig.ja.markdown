@@ -5,12 +5,12 @@ description = "イロコスノルテ州ピディグの美しいイエローベ�
 publishdate = 2021-08-13T08:17:25+09:00
 lastmod = 2021-08-13T08:17:25+09:00
 
-aliases = ["/ja/c/photography/the-yellow-bells-of-piddig-2021225"]       # Permanent, old share links
-slug = "The Yellow Bells of Piddig"
-translationKey = "The Yellow Bells of Piddig"
-relCanonical = "https://im.youronly.one/yuki/ja/photography/the-yellow-bells-of-piddig-2021225/"                           # only needed when this is not the original post
+aliases = ["/ja/photography/the-yellow-bells-of-piddig-2021225", "/ja/c/photography/the-yellow-bells-of-piddig-2021225"]       # Permanent, old share links
+slug = "the-yellow-bells-of-piddig"
+translationKey = "the-yellow-bells-of-piddig"
+relCanonical = "https://im.youronly.one/yuki/ja/photography/the-yellow-bells-of-piddig/"                           # only needed when this is not the original post
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "the-yellow-bells-of-piddig-2021225"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 syndication = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/480502206452348", "https://pixelfed.social/i/web/post/350853720862551588"]
 

@@ -5,12 +5,12 @@ description = "The official page of the Paleo-Hebrew / Phoenician Unicode Keyboa
 publishdate = 2015-07-19T21:48:00+08:00                                        # manually adjust to local timezone
 lastmod = 2016-09-11T10:04:05+08:00                                     # manually adjust to local timezone
 
-aliases = ["/p/paleo-hebrew-phoenician-keyboard-layout.html", "/projects/keyboard/paleo-hebrew-phoenician-unicode-keyboard-2015200"]
+aliases = ["/projects/keyboards/paleo-hebrew-phoenician-unicode-keyboard-2015200", "/p/paleo-hebrew-phoenician-keyboard-layout.html", "/projects/keyboard/paleo-hebrew-phoenician-unicode-keyboard-2015200"]
 slug = "paleo-hebrew-phoenician-unicode-keyboard"
-translationKey = "paleo-hebrew-phoenician-unicode-keyboard-2015200"
-relCanonical = "https://im.youronly.one/techmagus/projects/keyboards/paleo-hebrew-phoenician-unicode-keyboard-2015200/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "paleo-hebrew-phoenician-unicode-keyboard"
+relCanonical = "https://im.youronly.one/techmagus/projects/keyboards/paleo-hebrew-phoenician-unicode-keyboard/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "paleo-hebrew-phoenician-unicode-keyboard-2015200"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["techmagus"]
 categories = ["unicode"]                                                   # taxonomy

@@ -5,10 +5,10 @@ description = "밴드, 그룹 및 솔로 활동을 위한 한국 대중 음악 �
 publishdate = 2022-02-08T19:40:00+09:00                                        # manually adjust to local timezone
 lastmod = 2022-05-14T17:32:55+09:00                                     # manually adjust to local timezone
 
-aliases = ["kpop-generations-202218"]
+aliases = ["/ko/kb/kpop/kpop-generations-202239", "kpop-generations-202218"]
 slug = "kpop-generations"
-translationKey = "kpop-generations-202218"
-relCanonical = "https://im.youronly.one/snoworld/ko/kb/kpop/kpop-generations-202239/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "kpop-generations"
+relCanonical = "https://im.youronly.one/snoworld/ko/kb/kpop/kpop-generations/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 disqus_identifier = "kpop-generations-202218"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 

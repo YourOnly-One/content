@@ -5,12 +5,12 @@ description = "How to add cross reference support for Markdown links in Hugo"
 publishdate = 2022-05-20T19:24:27+08:00                                          # manually adjust to local timezone
 lastmod = 2022-06-17T14:07:00+08:00                                       # manually adjust to local timezone
 
-aliases = ["/codebits/how-to-add-cross-reference-hugo-markdown-links-2022140", "/codebits/hugo-render-link/how-to-add-cross-reference-hugo-markdown-links-2022140"]
+aliases = ["/codebits/hugo/hugo-render-link/how-to-add-cross-reference-hugo-markdown-links-2022140", "/codebits/how-to-add-cross-reference-hugo-markdown-links-2022140", "/codebits/hugo-render-link/how-to-add-cross-reference-hugo-markdown-links-2022140"]
 slug = "how-to-add-cross-reference-hugo-markdown-links"
-translationKey = "how-to-add-cross-reference-hugo-markdown-links-2022140"
-relCanonical = "https://im.youronly.one/techmagus/codebits/hugo/hugo-render-link/how-to-add-cross-reference-hugo-markdown-links-2022140/"
+translationKey = "how-to-add-cross-reference-hugo-markdown-links"
+relCanonical = "https://im.youronly.one/techmagus/codebits/hugo/hugo-render-link/how-to-add-cross-reference-hugo-markdown-links/"
 #disqus_url = ""                                                    # no use case in sites by Yelosan Publishing (YourOnly.One)
-#disqus_identifier = ""                                             # set if slug date of this content is different from main translation (en-PH)
+disqus_identifier = "how-to-add-cross-reference-hugo-markdown-links-2022140"                                             # set if slug date of this content is different from main translation (en-PH)
 
 syndication = ["https://mastodon.social/@youronlyone/108375677574797367", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02ZfsK99Hp9oNthMJdSgEMyGS3EiVKH8tqrHf5yKCAPdsPakvzvByUAJRyttNzyz4dl", "https://twitter.com/YourOnlyONEofcl/status/1530277663293595649"]
 

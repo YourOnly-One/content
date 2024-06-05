@@ -7,13 +7,13 @@ description = "Philippines Unicode Keyboard Layout for Microsoft® Windows™ us
 publishdate = 2010-10-25T21:10:37+08:00                                        # manually adjust to local timezone
 lastmod = 2022-11-16T17:16:37+08:00                                     # manually adjust to local timezone
 
-aliases = ["/p/philippines-unicode-keyboard-windows.html", "/projects/keyboard/philippines-baybayin-windows-2010298"]
-url = "/projects/keyboards/philippines-keyboard-unicode-baybayin-windows-2010298"
+aliases = ["/projects/keyboards/philippines-keyboard-unicode-baybayin-windows-2010298", "/p/philippines-unicode-keyboard-windows.html", "/projects/keyboard/philippines-baybayin-windows-2010298"]
+#url = ""
 slug = "philippines-keyboard-unicode-baybayin-windows"
-translationKey = "philippines-keyboard-unicode-baybayin-windows-2010298"
-relCanonical = "https://im.youronly.one/techmagus/projects/keyboards/philippines-keyboard-unicode-baybayin-windows-2010298/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "philippines-keyboard-unicode-baybayin-windows"
+relCanonical = "https://im.youronly.one/techmagus/projects/keyboards/philippines-keyboard-unicode-baybayin-windows/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "philippines-keyboard-unicode-baybayin-windows-2010298"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["techmagus"]
 categories = ["unicode", "windows"]                                                   # taxonomy

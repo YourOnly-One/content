@@ -5,12 +5,12 @@ description = "P-POP IDOL業界が始まった日付を特定します。"
 publishdate = 2022-03-21T16:07:24+09:00                                          # manually adjust to local timezone
 lastmod = 2022-05-14T17:32:55+09:00                                     # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/ja/kb/ppop/ppop-idol-year-202280"]
 slug = "ppop-idol-year"
-translationKey = "ppop-idol-year-202280"
-relCanonical = "https://im.youronly.one/snoworld/ja/kb/ppop/ppop-idol-year-202280/"
+translationKey = "ppop-idol-year"
+relCanonical = "https://im.youronly.one/snoworld/ja/kb/ppop/ppop-idol-year/"
 #disqus_url = ""
-#disqus_identifier = ""
+disqus_identifier = "ppop-idol-year-202280"
 
 syndication = ["https://twitter.com/YourOnlyONEofcl/status/1505862030850347008", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/621410209028213"]
 

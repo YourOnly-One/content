@@ -5,12 +5,12 @@ description = "The bidirectional test case."                                    
 publishdate = 2015-07-29T09:09:57+08:00                                        # manually adjust to local timezone
 lastmod = 2017-02-25T17:53:01+08:00                                     # manually adjust to local timezone
 
-aliases = ["/p/bidirectional-test-case.html"]
+aliases = ["/testcases/bidirectional-test-case-2015210", "/p/bidirectional-test-case.html"]
 slug = "bidirectional-test-case"
-translationKey = "bidirectional-test-case-2015210"
-relCanonical = "https://im.youronly.one/techmagus/testcases/bidirectional-test-case-2015210/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "bidirectional-test-case"
+relCanonical = "https://im.youronly.one/techmagus/testcases/bidirectional-test-case/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "bidirectional-test-case-2015210"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["techmagus"]
 categories = ["web"]                                                   # taxonomy

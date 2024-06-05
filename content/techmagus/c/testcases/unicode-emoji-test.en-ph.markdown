@@ -5,12 +5,12 @@ description = "A Unicode and Emoji test page. You can use this to test if your b
 publishdate = 2015-08-12T10:23:28+08:00                                        # manually adjust to local timezone
 lastmod = 2023-02-23T19:56:21+08:00                                        # manually adjust to local timezone
 
-aliases = ["/p/unicode-emoji-test.html"]
+aliases = ["/testcases/unicode-emoji-test-2015224", "/p/unicode-emoji-test.html"]
 slug = "unicode-emoji-test"
-translationKey = "unicode-emoji-test-2015224"
-relCanonical = "https://im.youronly.one/techmagus/testcases/unicode-emoji-test-2015224/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "unicode-emoji-test"
+relCanonical = "https://im.youronly.one/techmagus/testcases/unicode-emoji-test/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "unicode-emoji-test-2015224"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 syndication = ["https://twitter.com/YourOnlyONEofcl/status/1511929501382369283"]
 

@@ -7,12 +7,12 @@ description = "Philippine Typhoon Signals and the American Hurricane Categories 
 publishdate = 2009-10-02T00:03:23+08:00                                        # manually adjust to local timezone
 lastmod = 2009-10-02T00:03:23+08:00                                        # manually adjust to local timezone
 
-aliases = ["/2009/10/comparison-typhoon-signals-hurricane-category.html"]
+aliases = ["/kb/meteorology/comparison-typhoon-signals-hurricane-categories-2009275", "/2009/10/comparison-typhoon-signals-hurricane-category.html"]
 slug = "comparison-typhoon-signals-hurricane-categories"
-translationKey = "comparison-typhoon-signals-hurricane-categories-2009275"
-relCanonical = "https://im.youronly.one/techmagus/kb/meteorology/comparison-typhoon-signals-hurricane-categories-2009275/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "comparison-typhoon-signals-hurricane-categories"
+relCanonical = "https://im.youronly.one/techmagus/kb/meteorology/comparison-typhoon-signals-hurricane-categories/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "comparison-typhoon-signals-hurricane-categories-2009275"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["techmagus"]
 categories = ["Meteorology"]                                                   # taxonomy

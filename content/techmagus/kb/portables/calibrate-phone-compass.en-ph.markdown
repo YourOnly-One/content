@@ -5,12 +5,12 @@ description = "One of the first thing you should do after buying a mobile phone 
 publishdate = 2011-12-29T15:51:38+08:00                                        # manually adjust to local timezone
 lastmod = 2011-12-29T15:51:38+08:00                                        # manually adjust to local timezone
 
-aliases = ["/2011/12/calibrate-your-samsung-galaxy-y-s5360.html"]
+aliases = ["/kb/portables/calibrate-phone-compass-2011363" "/2011/12/calibrate-your-samsung-galaxy-y-s5360.html"]
 slug = "calibrate-phone-compass"
-translationKey = "calibrate-phone-compass-2011363"
-relCanonical = "https://im.youronly.one/techmagus/kb/portables/calibrate-phone-compass-2011363/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "calibrate-phone-compass"
+relCanonical = "https://im.youronly.one/techmagus/kb/portables/calibrate-phone-compass/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "calibrate-phone-compass-2011363"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["techmagus"]
 categories = ["howto"]                                                   # taxonomy

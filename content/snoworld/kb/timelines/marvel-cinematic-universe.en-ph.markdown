@@ -7,14 +7,14 @@ publishdate = 2023-01-10T05:14:35+08:00             # first publication; manuall
 date = 2023-01-10T03:30:00+08:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
-#aliases = [""]                                        # "/post"
+aliases = ["/kb/timelines/marvel-cinematic-universe-timeline-202310"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
 slug = "marvel-cinematic-universe-timeline"
-translationKey = "marvel-cinematic-universe-timeline-{DATE}"
-relCanonical = "https://im.youronly.one/snoworld/kb/timelines/marvel-cinematic-universe-timeline-202310/"
+translationKey = "marvel-cinematic-universe-timeline"
+relCanonical = "https://im.youronly.one/snoworld/kb/timelines/marvel-cinematic-universe-timeline/"
 
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
-#disquq_identifier = ""                                # set if date of this content is different from main translation
+disquq_identifier = "marvel-cinematic-universe-timeline-202310"                                # set if date of this content is different from main translation
 
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md

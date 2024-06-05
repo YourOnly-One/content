@@ -7,13 +7,13 @@ publishdate = 2023-01-23T09:00:01+08:00             # first publication; manuall
 date = 2023-01-20T08:00:00+08:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
-#aliases = [""]                                        # "/post"
+aliases = ["/kb/timelines/dnd-video-games-release-timeline-202323"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
 slug = "dnd-video-games-release-timeline"
-translationKey = "dnd-video-games-release-timeline-202323"
-relCanonical = "https://im.youronly.one/yuki/kb/timelines/dnd-video-games-release-timeline-202323/"
+translationKey = "dnd-video-games-release-timeline"
+relCanonical = "https://im.youronly.one/yuki/kb/timelines/dnd-video-games-release-timeline/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
-#disquq_identifier = ""                                # set if date of this content is different from main translation
+disquq_identifier = "dnd-video-games-release-timeline-202323"                                # set if date of this content is different from main translation
 
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md

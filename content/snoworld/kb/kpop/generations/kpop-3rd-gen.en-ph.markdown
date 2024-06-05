@@ -5,12 +5,12 @@ description = "A list of Third Generation Korean Popular music acts with debut d
 publishdate = 2022-01-14T08:00:03+08:00                                        # manually adjust to local timezone
 lastmod = 2022-05-14T16:32:55+08:00                                     # manually adjust to local timezone
 
-aliases = ["kpop-3rd-geneneration-202214"]
+aliases = ["/kb/kpop/kpop-3rd-generation-202214", "kpop-3rd-geneneration-202214"]
 slug = "kpop-3rd-generation"
-translationKey = "kpop-3rd-generation-202214"
-relCanonical = "https://im.youronly.one/snoworld/kb/kpop/kpop-3rd-generation-202214/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "kpop-3rd-generation"
+relCanonical = "https://im.youronly.one/snoworld/kb/kpop/kpop-3rd-generation/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "kpop-3rd-generation-202214"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 syndication = ["https://twitter.com/YourOnlyONEofcl/status/1485432165697572866", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/586103602558874", "https://pixelfed.social/i/web/post/391577208879477096"]
 channels = ["snoworld"]

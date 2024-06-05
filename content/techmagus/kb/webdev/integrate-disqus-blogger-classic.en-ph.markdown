@@ -5,12 +5,12 @@ description = "A short guide on how to integrate Disqus on Google Blogger / Blog
 publishdate = 2008-05-25T02:45:39+08:00                                        # manually adjust to local timezone
 lastmod = 2008-05-25T02:45:39+08:00                                        # manually adjust to local timezone
 
-aliases = ["/2008/05/how-to-integrate-disqus-on-blogger-blogs.html"]
+aliases = ["/kb/webdev/integrate-disqus-blogger-blogspot-classic-2008146", "/2008/05/how-to-integrate-disqus-on-blogger-blogs.html"]
 slug = "integrate-disqus-blogger-blogspot-classic"
-translationKey = "integrate-disqus-blogger-blogspot-classic-2008146"
-relCanonical = "https://im.youronly.one/techmagus/kb/webdev/integrate-disqus-blogger-blogspot-classic-2008146/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "integrate-disqus-blogger-blogspot-classic"
+relCanonical = "https://im.youronly.one/techmagus/kb/webdev/integrate-disqus-blogger-blogspot-classic/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "integrate-disqus-blogger-blogspot-classic-2008146"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["techmagus"]
 categories = ["howto"]                                                   # taxonomy

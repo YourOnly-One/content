@@ -7,12 +7,12 @@ description = "IPv6 or Internet Protocol version 6 is the answer to our IPv4 pro
 publishdate = 2009-12-03T10:36:58+08:00                                        # manually adjust to local timezone
 lastmod = 2010-03-29T17:53:01+08:00                                     # manually adjust to local timezone
 
-aliases = ["/2011/09/how-to-ipv6-is-not-scary-connect-now.html"]
+aliases = ["/kb/internet/ipv6-connect-today-2009262", "/2011/09/how-to-ipv6-is-not-scary-connect-now.html"]
 slug = "ipv6-connect-today"
-translationKey = "ipv6-connect-today-2009262"
-relCanonical = "https://im.youronly.one/techmagus/kb/internet/ipv6-connect-today-2009262/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "ipv6-connect-today"
+relCanonical = "https://im.youronly.one/techmagus/kb/internet/ipv6-connect-today/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "ipv6-connect-today-2009262"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["techmagus"]
 categories = ["howto", "linux"]                                                   # taxonomy

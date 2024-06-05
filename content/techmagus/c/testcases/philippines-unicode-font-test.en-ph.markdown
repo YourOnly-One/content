@@ -5,12 +5,12 @@ description = "Unicode and font test page for Philippines related scripts. Test 
 publishdate = 2018-03-03T00:17:36+08:00                                        # manually adjust to local timezone
 lastmod = 2023-02-23T22:15:17+08:00                                        # manually adjust to local timezone
 
-aliases = ["/p/philippines-unicode-font-test.html"]
+aliases = ["/testcases/the-philippines-unicode-font-test-with-barabara-font-201862", "/p/philippines-unicode-font-test.html"]
 slug = "the-philippines-unicode-font-test-with-barabara-font"
-translationKey = "the-philippines-unicode-font-test-with-barabara-font-201862"
-relCanonical = "https://im.youronly.one/techmagus/testcases/the-philippines-unicode-font-test-with-barabara-font-201862/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "the-philippines-unicode-font-test-with-barabara-font"
+relCanonical = "https://im.youronly.one/techmagus/testcases/the-philippines-unicode-font-test-with-barabara-font/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "the-philippines-unicode-font-test-with-barabara-font-201862"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["techmagus"]
 categories = ["unicode"]                                                   # taxonomy

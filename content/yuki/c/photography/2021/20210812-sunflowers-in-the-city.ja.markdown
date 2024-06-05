@@ -5,12 +5,12 @@ description = "フィリピンのマカティでひまわりを撮った写真" 
 publishdate = 2021-08-12T09:21:02+09:00
 lastmod = 2021-08-12T09:21:02+09:00
 
-aliases = ["/ja/c/photography/sunflowers-in-the-city-2021224"]       # Permanent, old share links
-slug = "Sunflowers in the City"
-translationKey = "Sunflowers in the City"
-relCanonical = "https://im.youronly.one/yuki/ja/photography/sunflowers-in-the-city-2021224/"                           # only needed when this is not the original post
+aliases = ["/ja/photography/sunflowers-in-the-city-2021224", "/ja/c/photography/sunflowers-in-the-city-2021224"]       # Permanent, old share links
+slug = "sunflowers-in-the-city"
+translationKey = "sunflowers-in-the-city"
+relCanonical = "https://im.youronly.one/yuki/ja/photography/sunflowers-in-the-city/"                           # only needed when this is not the original post
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "sunflowers-in-the-city-2021224"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 syndication = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/479938233175412", "https://pixelfed.social/i/web/post/350851231654886923"]
 

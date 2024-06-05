@@ -5,12 +5,12 @@ description = "LANG 속성은 웹사이트를 디자인할 때 강력한 코드 
 publishdate = 2009-06-21T01:20:37+09:00                                        # manually adjust to local timezone
 lastmod = 2009-06-21T01:20:37+09:00                                        # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/ko/kb/webdev/lang-attribute-2009172"]
 slug = "lang-attribute"
-translationKey = "lang-attribute-2009172"
-relCanonical = "https://im.youronly.one/techmagus/ko/kb/webdev/lang-attribute-2009172/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "lang-attribute"
+relCanonical = "https://im.youronly.one/techmagus/ko/kb/webdev/lang-attribute/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "lang-attribute-2009172"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["techmagus"]
 categories = ["howto"]                                                   # taxonomy

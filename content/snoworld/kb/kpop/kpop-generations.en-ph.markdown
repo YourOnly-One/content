@@ -5,12 +5,12 @@ description = "An objective approach to Korean Popular Music Generations for ban
 publishdate = 2022-01-18T07:00:00+08:00                                        # manually adjust to local timezone
 lastmod = 2022-05-14T16:32:55+08:00                                     # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/kb/kpop/kpop-generations-202218"]
 slug = "kpop-generations"
-translationKey = "kpop-generations-202218"
-relCanonical = "https://im.youronly.one/snoworld/kb/kpop/kpop-generations-202218/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "kpop-generations"
+relCanonical = "https://im.youronly.one/snoworld/kb/kpop/kpop-generations/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "kpop-generations-202218"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 syndication = ["https://twitter.com/YourOnlyONEofcl/status/1486917198086119429", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/588547655647802", "https://pixelfed.social/i/web/post/393935717720373632"]
 

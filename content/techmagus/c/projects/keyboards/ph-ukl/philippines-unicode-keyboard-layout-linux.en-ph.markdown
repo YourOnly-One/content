@@ -7,13 +7,13 @@ description = "Filipino Linux users around the world can now download and use th
 publishdate = 2010-10-23T19:40:10+08:00                                        # manually adjust to local timezone
 lastmod = 2022-11-16T17:17:00+08:00                                        # manually adjust to local timezone
 
-aliases = ["/p/philippines-unicode-keyboard-linux.html", "/projects/keyboard/philippines-baybayin-unicode-linux-2010296"]
-url = "/projects/keyboards/philippines-keyboard-unicode-baybayin-linux-2010296"
+aliases = ["/projects/keyboards/philippines-keyboard-unicode-baybayin-linux-2010296", "/p/philippines-unicode-keyboard-linux.html", "/projects/keyboard/philippines-baybayin-unicode-linux-2010296"]
+url = ""
 slug = "philippines-keyboard-unicode-baybayin-linux"
-translationKey = "philippines-keyboard-unicode-baybayin-linux-2010296"
-relCanonical = "https://im.youronly.one/techmagus/projects/keyboards/philippines-keyboard-unicode-baybayin-linux-2010296/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "philippines-keyboard-unicode-baybayin-linux"
+relCanonical = "https://im.youronly.one/techmagus/projects/keyboards/philippines-keyboard-unicode-baybayin-linux/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "philippines-keyboard-unicode-baybayin-linux-2010296"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["techmagus"]
 categories = ["unicode", "linux"]                                                   # taxonomy

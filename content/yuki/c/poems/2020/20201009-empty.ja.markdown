@@ -10,13 +10,13 @@ images = ["https://1.bp.blogspot.com/-8tfhID5wKAo/X3_pgZ7KhjI/AAAAAAAAnEA/8omxGm
 publishdate = 2020-10-09T13:51:10+09:00
 lastmod = 2020-10-09T13:51:10+09:00
 
-aliases = ["/ja/poem-empty-2020283", "/ja/c/poems/empty-2020283"]  # Permanent (old FB posts)
+aliases = ["/ja/poems/empty-2020283", "/ja/poem-empty-2020283", "/ja/c/poems/empty-2020283"]  # Permanent (old FB posts)
 slug = "Empty"
 translationKey = "[Poem] Empty"
 #url = ""                                                           # the full path to the content from the web root. It makes no assumptions about the path of the content file. It also ignores any language prefixes of the multilingual feature.
 relCanonical = "https://im.youronly.one/yuki/ja/poems/empty-2020283/"                                                 # only needed when this is not the original post
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "empty-2020283"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 syndication = ["https://www.facebook.com/YourOnly.ONE.ofcl/posts/354782012357702"]
 

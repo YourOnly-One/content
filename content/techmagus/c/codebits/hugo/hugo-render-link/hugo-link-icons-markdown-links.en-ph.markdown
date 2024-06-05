@@ -5,12 +5,12 @@ description = "How to add link icons for Markdown links in Hugo"
 publishdate = 2022-05-20T19:24:30+08:00                                          # manually adjust to local timezone
 lastmod = 2022-06-17T14:07:01+08:00                                       # manually adjust to local timezone
 
-aliases = ["/codebits/how-to-add-link-icons-hugo-markdown-links-2022140", "/codebits/hugo-render-link/how-to-add-link-icons-hugo-markdown-links-2022140"]
+aliases = ["/codebits/hugo/hugo-render-link/how-to-add-link-icons-hugo-markdown-links-2022140", "/codebits/how-to-add-link-icons-hugo-markdown-links-2022140", "/codebits/hugo-render-link/how-to-add-link-icons-hugo-markdown-links-2022140"]
 slug = "how-to-add-link-icons-hugo-markdown-links"
-translationKey = "how-to-add-link-icons-hugo-markdown-links-2022140"
-relCanonical = "https://im.youronly.one/techmagus/codebits/hugo/hugo-render-link/how-to-add-link-icons-hugo-markdown-links-2022140/"
+translationKey = "how-to-add-link-icons-hugo-markdown-links"
+relCanonical = "https://im.youronly.one/techmagus/codebits/hugo/hugo-render-link/how-to-add-link-icons-hugo-markdown-links/"
 #disqus_url = ""                                                    # no use case in sites by Yelosan Publishing (YourOnly.One)
-#disqus_identifier = ""                                             # set if slug date of this content is different from main translation (en-PH)
+disqus_identifier = "how-to-add-link-icons-hugo-markdown-links-2022140"                                             # set if slug date of this content is different from main translation (en-PH)
 
 syndication = ["https://mastodon.social/@youronlyone/108390777306425065", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02m3H8WrP1eW6MqiEPGBhbJGGzdcrXAzBEx2tsbNUA8mmebsyTgktKNhM9sKQDrjibl", "https://twitter.com/YourOnlyONEofcl/status/1531244042117341184"]
 

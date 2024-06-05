@@ -7,12 +7,12 @@ description = "IPv6 is here but how do we access Google services via IPv6 anyway
 publishdate = 2009-12-03T21:31:19+08:00                                        # manually adjust to local timezone
 lastmod = 2010-09-20T17:53:01+08:00                                     # manually adjust to local timezone
 
-aliases = ["/2009/12/how-to-access-google-sites-and-services.html"]
+aliases = ["/kb/internet/access-google-ipv6-2009337", "/2009/12/how-to-access-google-sites-and-services.html"]
 slug = "access-google-ipv6"
-translationKey = "access-google-ipv6-2009337"
-relCanonical = "https://im.youronly.one/techmagus/kb/internet/access-google-ipv6-2009337/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "access-google-ipv6"
+relCanonical = "https://im.youronly.one/techmagus/kb/internet/access-google-ipv6/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "access-google-ipv6-2009337"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["techmagus"]
 categories = ["howto", "linux"]                                                   # taxonomy

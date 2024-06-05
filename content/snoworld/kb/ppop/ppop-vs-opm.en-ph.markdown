@@ -7,13 +7,13 @@ publishdate = 2022-02-27T18:35:00+08:00             # first publication; manuall
 date = 2022-02-27T18:35:00+08:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
-#aliases = [""]                                        # "/post"
+aliases = ["/kb/ppop/difference-ppop-opm-202258"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
 slug = "difference-ppop-opm"
-translationKey = "difference-ppop-opm-202258"
-relCanonical = "https://im.youronly.one/snoworld/kb/ppop/difference-ppop-opm-202258/"
+translationKey = "difference-ppop-opm"
+relCanonical = "https://im.youronly.one/snoworld/kb/ppop/difference-ppop-opm/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
-#disquq_identifier = ""                                # set if date of this content is different from main translation
+disquq_identifier = "difference-ppop-opm-202258"                                # set if date of this content is different from main translation
 
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md

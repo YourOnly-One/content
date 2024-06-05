@@ -5,12 +5,12 @@ description = "P-POPとOPMが同じではないことをご存知ですか？"  
 publishdate = 2022-02-27T19:35:00+09:00                                        # manually adjust to local timezone
 lastmod = 2022-05-14T17:32:55+09:00                                     # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/ja/kb/ppop/difference-ppop-opm-202258"]
 slug = "difference-ppop-opm"
-translationKey = "difference-ppop-opm-202258"
-relCanonical = "https://im.youronly.one/snoworld/ja/kb/ppop/difference-ppop-opm-202258/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "difference-ppop-opm"
+relCanonical = "https://im.youronly.one/snoworld/ja/kb/ppop/difference-ppop-opm/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "difference-ppop-opm-202258"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 syndication = ["https://twitter.com/YourOnlyONEofcl/status/1500858756560687107", "https://twitter.com/YourOnlyONEofcl/status/1497888146876354567", "https://mastodon.social/@youronlyone/107869598318458866", "https://diasp.org/posts/2157592079ea013ae32d28a1592b385a", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/607362613766306", "https://pixelfed.social/i/web/post/412275401774900848"]
 

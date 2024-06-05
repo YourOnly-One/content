@@ -5,12 +5,12 @@ description = "A list of Fourth Generation Korean Popular music acts with debut 
 publishdate = 2022-01-17T08:00:04+08:00                                        # manually adjust to local timezone
 lastmod = 2022-05-14T16:32:55+08:00                                     # manually adjust to local timezone
 
-aliases = ["kpop-4th-geneneration-202217"]
+aliases = ["/kb/kpop/kpop-4th-generation-202217", "kpop-4th-geneneration-202217"]
 slug = "kpop-4th-generation"
-translationKey = "kpop-4th-generation-202217"
-relCanonical = "https://im.youronly.one/snoworld/kb/kpop/kpop-4th-generation-202217/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "kpop-4th-generation"
+relCanonical = "https://im.youronly.one/snoworld/kb/kpop/kpop-4th-generation/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "kpop-4th-generation-202217"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 syndication = ["https://twitter.com/YourOnlyONEofcl/status/1486081448360628225", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/587172542451980", "https://pixelfed.social/i/web/post/392324088302587570"]
 

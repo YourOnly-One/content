@@ -5,12 +5,12 @@ description = "P-POPとidolsまたはP-idolという用語を解きほぐしま�
 publishdate = 2022-03-10T12:24:30+09:00                                        # manually adjust to local timezone
 lastmod = 2022-05-14T17:32:55+09:00                                     # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/ja/kb/ppop/ppop-versus-idols-202269"]
 slug = "ppop-versus-idols"
-translationKey = "ppop-versus-idols-202269"
-relCanonical = "https://im.youronly.one/snoworld/ja/kb/ppop/ppop-versus-idols-202269/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "ppop-versus-idols"
+relCanonical = "https://im.youronly.one/snoworld/ja/kb/ppop/ppop-versus-idols/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "ppop-versus-idols-202269"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 syndication = ["https://twitter.com/YourOnlyONEofcl/status/1502166916424556551", "https://mastodon.social/@youronlyone/107936460327632807", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/614849933017574", "https://diasp.org/posts/2a904d108331013a8ee228a1592b385a"]
 

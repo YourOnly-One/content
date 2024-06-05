@@ -7,12 +7,12 @@ description = "Does your browser support CSS2 @font-face rule? You can test it h
 publishdate = 2010-01-22T15:37:00+08:00                                        # manually adjust to local timezone
 lastmod = 2023-02-23T19:29:30+08:00                                        # manually adjust to local timezone
 
-aliases = ["/p/font-face-test-page.html"]
+aliases = ["/testcases/font-face-browser-test-201022", "/p/font-face-test-page.html"]
 slug = "font-face-browser-test"
-translationKey = "font-face-browser-test-201022"
-relCanonical = "https://im.youronly.one/techmagus/testcases/font-face-browser-test-201022/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "font-face-browser-test"
+relCanonical = "https://im.youronly.one/techmagus/testcases/font-face-browser-test/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "font-face-browser-test-201022"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["techmagus"]
 #categories = [""]                                                   # taxonomy

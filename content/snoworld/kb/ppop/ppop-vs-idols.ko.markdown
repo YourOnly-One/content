@@ -5,12 +5,12 @@ description = "피이팝과 아이돌 또는 P-idol이라는 용어를 분리합
 publishdate = 2022-03-10T14:25:55+09:00                                        # manually adjust to local timezone
 lastmod = 2022-05-14T17:32:55+09:00                                     # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/ko/kb/ppop/ppop-versus-idols-202269"]
 slug = "ppop-versus-idols"
-translationKey = "ppop-versus-idols-202269"
-relCanonical = "https://im.youronly.one/snoworld/ko/kb/ppop/ppop-versus-idols-202269/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "ppop-versus-idols"
+relCanonical = "https://im.youronly.one/snoworld/ko/kb/ppop/ppop-versus-idols/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "ppop-versus-idols-202269"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 syndication = ["https://twitter.com/YourOnlyONEofcl/status/1502166914012835846", "https://mastodon.social/@youronlyone/107936458933893005", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/614850043017563", "https://diasp.org/posts/2a904d108331013a8ee228a1592b385a"]
 

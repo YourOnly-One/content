@@ -5,12 +5,12 @@ description = "A list of First Generation Korean Popular music acts with debut d
 publishdate = 2022-01-12T08:00:01+08:00                                        # manually adjust to local timezone
 lastmod = 2022-05-14T16:32:55+08:00                                     # manually adjust to local timezone
 
-aliases = ["kpop-1st-geneneration-202212"]
+aliases = ["/kb/kpop/kpop-1st-generation-202212", "kpop-1st-geneneration-202212"]
 slug = "kpop-1st-generation"
-translationKey = "kpop-1st-generation-202212"
-relCanonical = "https://im.youronly.one/snoworld/kb/kpop/kpop-1st-generation-202212/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "kpop-1st-generation"
+relCanonical = "https://im.youronly.one/snoworld/kb/kpop/kpop-1st-generation/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "kpop-1st-generation-202212"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 syndication = ["https://twitter.com/YourOnlyONEofcl/status/1483296079668203522", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/582501079585793", "https://www.instagram.com/p/CY57RjZBiE5/", "https://pixelfed.social/i/web/post/389334334718039512"]
 channels = ["snoworld"]

@@ -7,13 +7,13 @@ publishdate = 2022-07-28T17:01:17+08:00             # first publication; manuall
 date = 2022-07-18T20:21:14+08:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
-#aliases = [""]                                        # "/post"
+aliases = ["/naver-whale-browser-2022209"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
 slug = "naver-whale-browser"
-translationKey = "naver-whale-browser-2022209"
-relCanonical = "https://im.youronly.one/techmagus/naver-whale-browser-2022209/"
+translationKey = "naver-whale-browser"
+relCanonical = "https://im.youronly.one/techmagus/naver-whale-browser/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
-#disquq_identifier = ""                                # set if date of this content is different from main translation
+disqus_identifier = "naver-whale-browser-2022209"                                # set if date of this content is different from main translation
 
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md

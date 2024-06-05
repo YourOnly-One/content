@@ -1,22 +1,22 @@
 +++
-title = "Torrent terminologies and acronyms"
-description = "There are many abbreviations, acronyms, and terminologies being used in the Torrent world. Here are some and what it means."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
+title = "Torrent terminologies and acronyms explained"
+description = "There are many abbreviations, acronyms, and terminologies used in the torrent world. Here are some and what it means."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 publishdate = 2011-01-24T15:01:48+08:00                                        # manually adjust to local timezone
 lastmod = 2011-01-24T15:01:48+08:00                                        # manually adjust to local timezone
 
-aliases = ["/2011/01/torrent-terminologies-and-acronyms.html"]
+aliases = ["/kb/internet/torrent-terms-acronyms-201124", "/2011/01/torrent-terminologies-and-acronyms.html"]
 slug = "torrent-terms-acronyms"
-translationKey = "torrent-terms-acronyms-201124"
-relCanonical = "https://im.youronly.one/techmagus/kb/internet/torrent-terms-acronyms-201124/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "torrent-terms-acronyms"
+relCanonical = "https://im.youronly.one/techmagus/kb/internet/torrent-terms-acronyms/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "torrent-terms-acronyms-201124"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["techmagus"]
 categories = ["internet"]                                                   # taxonomy
 keywords = ["internet", "torrent", "bittorrent", "acronyms", "terminologies", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
 #series = [""]                                                       # subset of series taxonomy
-tags = ["torrent"]                                                         # taxonomy
+tags = ["torrent", "explained"]                                                         # taxonomy
 
 comments = true
 #weight = ""                                                        # post weight, if we want granular control of post order

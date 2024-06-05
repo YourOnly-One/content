@@ -7,13 +7,13 @@ publishdate = 2022-12-12T20:22:21+08:00             # first publication; manuall
 date = 2022-11-22T11:22:20+08:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
-aliases = ["/federated-social-network-timeline-2022326", "/federated-social-network-timeline-2022346"]                                        # "/post"; DO NOT REMOVE
+aliases = ["/kb/ddfon/federated-social-network-timeline-2022346", "/federated-social-network-timeline-2022326", "/federated-social-network-timeline-2022346"]                                        # "/post"; DO NOT REMOVE
 #url = ""                                              # "path/post"; override .Permalink
 slug = "federated-social-network-timeline"
-translationKey = "federated-social-network-timeline-2022346"
-relCanonical = "https://im.youronly.one/techmagus/kb/ddfon/federated-social-network-timeline-2022346/"
+translationKey = "federated-social-network-timeline"
+relCanonical = "https://im.youronly.one/techmagus/kb/ddfon/federated-social-network-timeline/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
-#disquq_identifier = ""                                # set if date of this content is different from main translation
+disquq_identifier = "federated-social-network-timeline-2022346"                                # set if date of this content is different from main translation
 
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md

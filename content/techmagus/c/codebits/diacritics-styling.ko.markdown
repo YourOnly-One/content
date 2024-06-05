@@ -7,13 +7,13 @@ publishdate = 2023-02-18T13:50:27+09:00             # first publication; manuall
 date = 2023-02-18T08:07:07+09:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
-#aliases = [""]                                        # "/post"
+aliases = ["/ko/codebits/styling-diacritics-202349"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
 slug = "styling-diacritics"
-translationKey = "styling-diacritics-202349"
-relCanonical = "https://im.youronly.one/techmagus/ko/codebits/styling-diacritics-202349/"
+translationKey = "styling-diacritics"
+relCanonical = "https://im.youronly.one/techmagus/ko/codebits/styling-diacritics/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
-#disquq_identifier = ""                                # set if date of this content is different from main translation
+disquq_identifier = "styling-diacritics-202349"                                # set if date of this content is different from main translation
 
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md

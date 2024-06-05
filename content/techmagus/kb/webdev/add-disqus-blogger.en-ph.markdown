@@ -5,12 +5,12 @@ description = "A guide on how to add DISQUS comments in your Blogger Blogspot bl
 publishdate = 2008-05-23T12:12:48+08:00                                        # manually adjust to local timezone
 lastmod = 2008-05-23T12:12:48+08:00                                        # manually adjust to local timezone
 
-aliases = ["/2008/05/how-to-add-disqus-manually-on-blogger.html"]
+aliases = ["/kb/webdev/add-disqus-blogger-blogspot-2008144", "/2008/05/how-to-add-disqus-manually-on-blogger.html"]
 slug = "add-disqus-blogger-blogspot"
-translationKey = "add-disqus-blogger-blogspot-2008144"
-relCanonical = "https://im.youronly.one/techmagus/kb/webdev/add-disqus-blogger-blogspot-2008144/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "add-disqus-blogger-blogspot"
+relCanonical = "https://im.youronly.one/techmagus/kb/webdev/add-disqus-blogger-blogspot/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "add-disqus-blogger-blogspot-2008144"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["techmagus"]
 categories = ["howto"]                                                   # taxonomy

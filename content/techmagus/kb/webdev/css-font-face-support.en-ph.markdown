@@ -2,17 +2,15 @@
 title = "How-To implement cross-browser @font-face support"
 description = "Do you want to make your site's font to show up the same across browsers and platforms? Use @font-face! Let me show you how."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-# DATE checked and correct
-
 publishdate = 2010-01-22T14:55:48+08:00                                        # manually adjust to local timezone
 lastmod = 2010-01-22T14:55:48+08:00                                        # manually adjust to local timezone
 
-aliases = ["/2010/01/how-to-implement-cross-browser-font.html"]
+aliases = ["/kb/webdev/css-font-face-support-201022", "/2010/01/how-to-implement-cross-browser-font.html"]
 slug = "css-font-face-support"
-translationKey = "css-font-face-support-201022"
-relCanonical = "https://im.youronly.one/techmagus/kb/webdev/css-font-face-support-201022/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "css-font-face-support"
+relCanonical = "https://im.youronly.one/techmagus/kb/webdev/css-font-face-support/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "css-font-face-support-201022"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["techmagus"]
 categories = ["howto"]                                                   # taxonomy
