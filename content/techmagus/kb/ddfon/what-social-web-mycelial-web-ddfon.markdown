@@ -106,7 +106,7 @@ Well… rejoice! Today is the day we will clarify all of these terminologies.
   <dd id="def-nostr-01">
     <p>“Nostr” is a protocol used in the mycelium network of the same name.</p>
   </dd>
-  <dd id="def-nostr-01">
+  <dd id="def-nostr-02">
     <p>“Nostr” is the name of the mycelium network running on the Nostr protocol.</p>
   </dd>
 
@@ -128,16 +128,16 @@ Well… rejoice! Today is the day we will clarify all of these terminologies.
   </dd>
 
   <dt id="def-social-web">[Open] Social Web</dt>
-  <dd>
+  <dd id="def-social-web-01">
     <p>“Social Web”, sometimes called “Open Social Web”, is about bringing back the social aspect of the web. It is about the interoperability of the web and the interaction of the people through it. Instead of continually building “walled-gardens” or “silos”, we build an open social web where different platforms interoperate through federation and bridges, while making sure the content is resilient through decentralization and distribution.</p>
     <p>It is also called “Web3” or “Web3.0” since 2007 [^web3-jesse-stay] [^web3-loic-le-meur-01] [^web3-loic-le-meur-02] [^web3-loic-le-meur-03], which has become a constant conflict with blockchain enthusiasts as the latter was only coined five years later.</p>
   </dd>
 
-  <dt>Threadiverse</dt>
-  <dd>
+  <dt id="def-threadiverse">Threadiverse</dt>
+  <dd id="def-threadiverse-01">
     <p>The first definition of “Threadiverse” refers to the Reddit-like and Stackexchange-like fediverse software, namely: Lemmy, Kbin, and Mbin, due to its threaded nature.</p>
   </dd>
-  <dd>
+  <dd id="def-threadiverse-02">
     <p>The second definition of “Threadiverse” is Meta's Threads platform. This definition is the only definition of the term in Korea [^threadiverse-02-korea].</p>
   </dd>
 
