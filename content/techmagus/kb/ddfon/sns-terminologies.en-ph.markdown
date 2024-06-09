@@ -37,7 +37,7 @@ translation = false
 translationby = ""
 
 #audio = [""]
-images = ["images/f/fediverse-high-tech.jpg"]
+images = ["images/m/mycelial-web-01.png"]
 #videos = ["https://www.youtube.com/watch?v="]
 
 type = "article"                                             # article, sitepage, review
@@ -50,7 +50,7 @@ draft = true
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "Yohan Yuki Xieㆍ사요한・謝雪矢"
+  name = "Yohan Yuki Xie"
   #name = "techmagus / テク魔法使い / 테크마법사"
   url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
@@ -111,7 +111,7 @@ Have you come across terms like “Social Web”, “Mycelial Web”, “Fediver
 
   {{< dt id="dfn-mastodon" >}}Mastodon®{{< /dt >}}
   {{< dd id="dfn-mastodon-01" >}}
-    A [fediverse](#dfn-fediverse) software using the [ActivityPub](#dfn-activitypub) protocol, sometimes mistakenly used to refer to the entire fediverse [mycelium network](#dfn-mycelium-network). It is a registered trademark.
+    A [fediverse](#dfn-fediverse) software using the [ActivityPub](#dfn-activitypub) protocol, sometimes mistakenly used to refer to the entire fediverse [mycelium network](#dfn-mycelium-network). It is a registered trademark that should only be used within the context of the Mastodon® software.
   {{< /dd >}}
 
   {{< dt id="dfn-matrix" >}}Matrix{{< /dt >}}
@@ -226,34 +226,24 @@ Have you come across terms like “Social Web”, “Mycelial Web”, “Fediver
 
   isrepresentativeofpage=true
 
-  link="images/{LETTER}/{FILENAME}.png"
+  link="images/m/mycelial-web-01.png"
   linkrel="noopener"
-  thumbnailurl=""
 
-  title=""
-  caption=""
+  title="Mycelial Web in action"
+  caption="Bring down the walls! Build bridges!"
   alt=""
   embeddedtextcaption=""
-  inlanguage=""
+  inlanguage="en"
 
-  licensecode=""
+  licensecode="cc0"
   licenseurl=""
   licensename=""
-
-  acquirelicensepage=""
-  copyrightnotice=""
-  credittext=""
 
   attribto="I'M YourOnly.One"
   attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
-  cc0country=""
-  cc0countrycode=""
-  cc0countryurl=""
+  cc0country="Philippines"
+  cc0countrycode="PH"
+  cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
 >}}
-
----
-
-注意:ネイバーPapago神経翻訳
-주의사항 : 네이버 파파고 신경번역
