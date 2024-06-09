@@ -2,7 +2,7 @@
 title = "SNS, social media terminologies explained"
 description = "Explaining each and every social network terms."
 
-lastmod = 2024-06-10T01:48:00+08:00                 # last update; manually adjust to local timezone
+lastmod = 2024-06-10T03:02:23+08:00                 # last update; manually adjust to local timezone
 publishdate = 2024-06-10T00:25:00+08:00             # first publication; manually adjust to local timezone
 date = 2024-06-05T08:28:38+08:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
@@ -22,7 +22,7 @@ syndication = ["https://c.im/@youronlyone/112587723711174717", "https://www.plur
 
 channels = ["techmagus"]
 categories = ["internet", "web"]
-keywords = ["ddfon", "mycelial", "sns", "social", "web", "mycelium", "socialweb", "mycelialweb", "myceliumnetwork", "decentralized", "decentralization", "distributed", "distribution", "federation", "federation", "open", "network", "internet", "fediverse", "threadiverse", "terminologies", "nostr", "atproto", "activitypub", "bluesky", "atprotocol", "nostr protocol"]
+keywords = ["ddfon", "mycelial", "sns", "social", "web", "mycelium", "socialweb", "mycelialweb", "myceliumnetwork", "decentralized", "decentralization", "distributed", "distribution", "federation", "federation", "open", "network", "internet", "fediverse", "ATmosphere", "threadiverse", "terminologies", "nostr", "atproto", "activitypub", "bluesky", "atprotocol", "nostr protocol"]
 #series = [""]
 tags = ["decentralization", "federation", "explained"]
 
@@ -126,12 +126,12 @@ Have you come across terms like “Social Web”, “Mycelial Web”, “Fediver
 
   {{< dt id="dfn-mycelium-network" >}}Mycelium [Network]{{< /dt >}}
   {{< dd id="dfn-mycelium-network-01" >}}
-    A network of fungal threads in nature, applied to tech networks like the fediverse and [ATproto](#dfn-atproto) [mycelium network](#dfn-mycelium-network)s. Originally suggested to replace the term [fediverse](#dfn-fediverse) but redefined in 2022.
+    A network of fungal threads in nature, applied to tech networks like the fediverse, [ATmosphere](#dfn-atmosphere), and [Nostr](#dfn-nostr) [mycelium network](#dfn-mycelium-network)s. Originally suggested to replace the term [fediverse](#dfn-fediverse) but redefined in 2022.
   {{< /dd >}}
 
   {{< dt id="dfn-mycelial-web" >}}Mycelial Web{{< /dt >}}
   {{< dd id="dfn-mycelial-web-01" >}}
-    Multiple networks of fungal threads (mycelium) is called mycelia or mycelial. In tech, mycelial is the umbrella term for mycelium networks like [XMPP](#dfn-xmpp), [fediverse](#dfn-fediverse), [Matrix](#dfn-matrix), [Nostr](#dfn-nostr), and [ATproto](#dfn-atproto); a friendly name for [DDFON](#dfn-ddfon).
+    Multiple networks of fungal threads (mycelium) is called mycelia or mycelial. In tech, mycelial is the umbrella term for mycelium networks like [XMPP](#dfn-xmpp), [fediverse](#dfn-fediverse), [Matrix](#dfn-matrix), [Nostr](#dfn-nostr), and [ATmosphere](#dfn-atmosphere); a friendly name for [DDFON](#dfn-ddfon).
   {{< /dd >}}
 
   {{< dt id="dfn-nostr" >}}Nostr{{< /dt >}}
