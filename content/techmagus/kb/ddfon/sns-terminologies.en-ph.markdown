@@ -2,7 +2,7 @@
 title = "SNS, social media terminologies explained"
 description = "Explaining each and every social network terms."
 
-lastmod = 2024-06-10T00:25:00+08:00                 # last update; manually adjust to local timezone
+lastmod = 2024-06-10T01:48:00+08:00                 # last update; manually adjust to local timezone
 publishdate = 2024-06-10T00:25:00+08:00             # first publication; manually adjust to local timezone
 date = 2024-06-05T08:28:38+08:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/techmagus/kb/ddfon/sns-social-media-term
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-syndication = ["https://c.im/@youronlyone/112587723711174717", "https://www.plurk.com/p/3fwwn1sr3u", "https://bsky.app/profile/youronly.one/post/3kuizt5uyyk2k", "https://spoutible.com/thread/32303362", "https://www.threads.net/@youronly.one.ofcl/post/C8AKrgsqe_S", "https://x.com/YourOnlyONEofcl/status/1799848595077706192", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0YtJHYh7xVZuW3ffhKpFdGS2bU3srR696iTnrDVPDbHzyYBo57FzB3h399FMs92Kwl"]
+syndication = ["https://c.im/@youronlyone/112587723711174717", "https://www.plurk.com/p/3fwwn1sr3u", "https://bsky.app/profile/youronly.one/post/3kuizt5uyyk2k", "https://spoutible.com/thread/32303362", "https://njump.me/nevent1qqsp65w7ccrff5wggam5jjs38gkmccnvf5uccf3fvcm84paqf9hr6vqzyqhld4twdv3dgvj2zp9xj6xeqdn3qcuu9uac7snc2yruy3n3nt4h723zkxc", "https://www.threads.net/@youronly.one.ofcl/post/C8AKrgsqe_S", "https://x.com/YourOnlyONEofcl/status/1799848595077706192", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0YtJHYh7xVZuW3ffhKpFdGS2bU3srR696iTnrDVPDbHzyYBo57FzB3h399FMs92Kwl"]
 
 channels = ["techmagus"]
 categories = ["internet", "web"]
