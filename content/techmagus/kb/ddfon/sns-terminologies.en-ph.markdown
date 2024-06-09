@@ -2,8 +2,8 @@
 title = "SNS, social media terminologies explained"
 description = "Explaining each and every social network terms."
 
-lastmod = 2024-06-05T08:28:38+08:00                 # last update; manually adjust to local timezone
-publishdate = 2024-06-05T08:28:38+08:00             # first publication; manually adjust to local timezone
+lastmod = 2024-06-10T00:25:00+08:00                 # last update; manually adjust to local timezone
+publishdate = 2024-06-10T00:25:00+08:00             # first publication; manually adjust to local timezone
 date = 2024-06-05T08:28:38+08:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
@@ -11,7 +11,7 @@ date = 2024-06-05T08:28:38+08:00                    # first created; manually ad
 #url = ""                                              # "path/post"; override .Permalink
 slug = "sns-social-media-terminologies-explained"
 translationKey = "sns-social-media-terminologies-explained"
-relCanonical = "https://im.youronly.one/techmagus/{LANG}/kb/social-web/sns-social-media-terminologies-explained/"
+relCanonical = "https://im.youronly.one/techmagus/kb/ddfon/sns-social-media-terminologies-explained/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
 #disqus_identifier = ""                                # set if date of this content is different from main translation
 
@@ -42,7 +42,7 @@ images = ["images/m/mycelial-web-01.png"]
 
 type = "article"                                             # article, sitepage, review
 
-draft = true
+#draft = true
 
 #license = ""                                          # only set if the post license is not the same as the site license
 
