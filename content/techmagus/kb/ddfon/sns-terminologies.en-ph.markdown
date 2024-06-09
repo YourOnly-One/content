@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/techmagus/kb/ddfon/sns-social-media-term
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndication = [""]
+syndication = ["https://c.im/@youronlyone/112587723711174717", "https://www.plurk.com/p/3fwwn1sr3u", "https://bsky.app/profile/youronly.one/post/3kuizt5uyyk2k", "https://spoutible.com/thread/32303362", "https://www.threads.net/@youronly.one.ofcl/post/C8AKrgsqe_S", "https://x.com/YourOnlyONEofcl/status/1799848595077706192", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0YtJHYh7xVZuW3ffhKpFdGS2bU3srR696iTnrDVPDbHzyYBo57FzB3h399FMs92Kwl"]
 
 channels = ["techmagus"]
 categories = ["internet", "web"]
@@ -69,9 +69,14 @@ Have you come across terms like “Social Web”, “Mycelial Web”, “Fediver
     The protocol behind the [fediverse](#dfn-fediverse) [mycelium network](#dfn-mycelium-network), recommended by the World Wide Web Consortium (W3C) since 2018–01–13
   {{< /dd >}}
 
+  {{< dt id="dfn-atmosphere" >}}ATmosphere{{< /dt >}}
+  {{< dd id="dfn-atmosphere-01" >}}
+    A friendly name for the whole [mycelium network](#dfn-mycelium-network) built on top of [ATproto](#dfn-atproto). [^atproto-atmosphere] [^atproto-atmosphere-paul-frazee]
+  {{< /dd >}}
+
   {{< dt id="dfn-atproto" >}}ATproto{{< /dt >}}
   {{< dd id="dfn-atproto-01" >}}
-    Both a protocol and a [mycelium network](#dfn-mycelium-network), often mistakenly referred to as [Bluesky](#dfn-bluesky).
+    The protocol that powers the [ATmosphere](#dfn-atmosphere) [mycelium network](#dfn-mycelium-network), often mistakenly referred to as [Bluesky](#dfn-bluesky).
   {{< /dd >}}
 
   {{< dt id="dfn-blockchain" >}}Blockchain{{< /dt >}}
@@ -81,7 +86,7 @@ Have you come across terms like “Social Web”, “Mycelial Web”, “Fediver
 
   {{< dt id="dfn-bluesky" >}}Bluesky{{< /dt >}}
   {{< dd id="dfn-bluesky-01" >}}
-    The first public server using the [ATproto](#dfn-atproto) protocol, commonly but inaccurately used to refer to the entire ATproto [mycelium network](#dfn-mycelium-network). Bluesky is only one of many ATproto servers.
+    The first public server using the [ATproto](#dfn-atproto) protocol, commonly but inaccurately used to refer to the entire ATproto [mycelium network](#dfn-mycelium-network). Bluesky is only one of many ATproto servers. (Also see [ATmosphere](#dfn-atmosphere).)
   {{< /dd >}}
 
   {{< dt id="dfn-ddfon" >}}DDFON{{< /dt >}}
@@ -199,6 +204,8 @@ Have you come across terms like “Social Web”, “Mycelial Web”, “Fediver
   {{< /dd >}}
 {{% /dl %}}
 
+[^atproto-atmosphere]: Kuba Suder: [There’s also the unofficial name “Atmosphere” or “ATmosphere” that some people use for the whole network built on top of ATProto](https://bsky.app/profile/mackuba.eu/post/3kuj2gilvmz26) (published: 2024-06-10) (archived 2024-06-10: [1](https://web.archive.org/web/20240609172210/https://bsky.app/profile/mackuba.eu/post/3kuj2gilvmz26) [2](https://archive.ph/vbTO2))
+[^atproto-atmosphere-paul-frazee]: Paul “Frazee”: [from:pfrazee.com atmosphere](https://bsky.app/search?q=from%3Apfrazee.com+atmosphere) (archived 2024-06-10: [1](https://web.archive.org/web/20240609172726/https://bsky.app/search?q=from%3Apfrazee.com+atmosphere) [2](https://archive.ph/KmQEm))
 
 [^ddfon-yohan-yukiya-01]: Yahuhanan Yukiya Sese Cuneta: [Maybe this map can be useful to the #DDFON community?  Initial target market perhaps?](https://twitter.com/yahananxie/status/125139991214034944) (published: 2011–10–15) (archived 2024–06–09: [1](https://web.archive.org/web/20240608190704/https://x.com/yahananxie/status/125139991214034944) [2](https://archive.ph/qyKCj))
 [^ddfon-yohan-yukiya-02]: Yahuhanan Yukiya Sese Cuneta: [And good night Decentralized, Distributed, Federated, Open, Network!](https://twitter.com/yahananxie/status/134645906854260737) (published: 2011–11–10) (archived 2024–06–09: [1](https://web.archive.org/web/20240608191620/https://x.com/yahananxie/status/134645906854260737) [2](https://archive.ph/XLFHM))
