@@ -4,8 +4,6 @@
 [[row]]
   data = ["Service", "Link"]
 [[row]]
-  data = ["Diaspora", "<a href='https://diasp.org/u/jcsesecuneta' rel='me'>jcsesecuneta@diasp.org</a>"]
-[[row]]
   data = ["Discord", "YourOnly.One"]
 [[row]]
   data = ["Facebook", "<a href='https://www.facebook.com/YourOnly.ONE.ofcl' rel='me'>YourOnly.ONE.ofcl</a>"]
@@ -13,12 +11,10 @@
   data = ["Instagram", "<a href='https://www.instagram.com/@youronly.one.ofcl' rel='me'>youronly.one.ofcl</a>"]
 [[row]]
   data = ["Last.fm", "<a href='https://www.last.fm/user/YourOnlyONEofcl' rel='me'>YourOnlyONEofcl</a>"]
-[[row]]
-  data = ["Threads", "<a href='https://www.threads.net/@youronly.one.ofcl' rel='me'>@youronly.one.ofcl@threads.net</a>"]
 #-----BEGIN PGP SIGNATURE-----
 #
-#iI4EARYKADYWIQT8KuNEQVQt8pzwXZA2XpOKztuK1QUCZdun8RgYaGtwczovL2tl
-#eXMub3BlbnBncC5vcmcACgkQNl6Tis7bitURVgD/bkZmPwUX64FehFKPyPXgmur9
-#YnOKO6cTVZAU09um0NUBAMAa8D5xMumTuMyJcUfDVwT30QE4bLJO+3hRw4bp3TMN
-#=fT9G
+#iI4EARYKADYWIQT8KuNEQVQt8pzwXZA2XpOKztuK1QUCZmxnNxgYaGtwczovL2tl
+#eXMub3BlbnBncC5vcmcACgkQNl6Tis7bitWHCAD/Z6/cbglbj67OlwaL25Bcy5Yc
+#DRRhlVRXJl+qiv4BvTEBAKe4+lhWlYe7z4MDisOcLsJ4SoGdzEf6/DGIq0vkXkcG
+#=/i5G
 #-----END PGP SIGNATURE-----
