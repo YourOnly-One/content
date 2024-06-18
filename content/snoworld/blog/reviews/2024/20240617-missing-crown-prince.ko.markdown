@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/ko/not-missing-crown-prince-202
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-syndication = ["https://c.im/@youronlyone/112635089092120754", "https://bsky.app/profile/youronly.one/post/3kv62lrkthi22", "https://njump.me/note1t9rxfe2ymml5hvhye8zzmfqsl28vfa4p98h8ajs2jtxwdqwjxsvqe3z3a0", "https://spoutible.com/thread/32558430", "https://www.plurk.com/p/3fy32w32jj", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0aAnSyGFG3BZkHBpPacwyWP2n3a5ArbRJQ712HzAkjXq5zfgWDqD1svKWnukMxD82l", "https://x.com/YourOnlyONEofcl/status/1802875552426275095"]
+syndication = ["https://c.im/@youronlyone/112635089092120754", "https://bsky.app/profile/youronly.one/post/3kv62lrkthi22", "https://njump.me/note1t9rxfe2ymml5hvhye8zzmfqsl28vfa4p98h8ajs2jtxwdqwjxsvqe3z3a0", "https://spoutible.com/thread/32558430", "https://www.plurk.com/p/3fy32w32jj", "https://www.threads.net/@youronly.one.ofcl/post/C8V0WRUvBLO", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0aAnSyGFG3BZkHBpPacwyWP2n3a5ArbRJQ712HzAkjXq5zfgWDqD1svKWnukMxD82l", "https://x.com/YourOnlyONEofcl/status/1802875552426275095"]
 
 channels = ["snoworld"]
 categories = ["tv"]
