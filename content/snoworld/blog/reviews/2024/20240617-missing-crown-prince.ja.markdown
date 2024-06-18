@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/ja/not-missing-crown-prince-202
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndication = [""]
+syndication = ["https://c.im/@youronlyone/112635089092120754", "https://bsky.app/profile/youronly.one/post/3kv62kzkgjh2x", "https://njump.me/note1r7d46jck2eax7vjlxhkytzrf6a3zrzuclwa0nj3pt40yaq2k6vmqxfj8vx", "https://spoutible.com/thread/32558430", "https://www.plurk.com/p/3fy32w32jj", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid0DxCHoDf68kEyNo7TU3K845yn3YMGkDnD7awCLXP88NDy2fjaEfK6WcNj5ph6xu2xl", "https://x.com/YourOnlyONEofcl/status/1802875550383718879"]
 
 channels = ["snoworld"]
 categories = ["tv"]
