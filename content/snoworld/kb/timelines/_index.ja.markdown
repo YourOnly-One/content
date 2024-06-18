@@ -7,7 +7,7 @@ title = "Timelines"
 #date = {{ .Date }}                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
-aliases = ["/kb/timelines"]                                        # "/post"
+aliases = ["/ja/kb/timelines"]                                        # "/post"
 #url = ""                                              # "path/post"; override .Permalink
 #slug = ""
 translationKey = "section-timelines"
