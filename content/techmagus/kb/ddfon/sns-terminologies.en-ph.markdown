@@ -66,141 +66,141 @@ Have you come across terms like “Social Web”, “Mycelial Web”, “Fediver
 {{% dl id="mycelial-web-definition-list" dfn=true %}}
   {{< dt id="dfn-activitypub" >}}ActivityPub (AP){{< /dt >}}
   {{< dd id="dfn-activitypub-01" >}}
-    The protocol behind the [fediverse](#dfn-fediverse) [mycelium network](#dfn-mycelium-network), recommended by the World Wide Web Consortium (W3C) since 2018–01–13
+  The protocol behind the [fediverse](#dfn-fediverse) [mycelium network](#dfn-mycelium-network), recommended by the World Wide Web Consortium (W3C) since 2018–01–13
   {{< /dd >}}
 
   {{< dt id="dfn-atmosphere" >}}ATmosphere{{< /dt >}}
   {{< dd id="dfn-atmosphere-01" >}}
-    A friendly name for the whole [mycelium network](#dfn-mycelium-network) built on top of [ATproto](#dfn-atproto). [^atproto-atmosphere] [^atproto-atmosphere-paul-frazee]
+  A friendly name for the whole [mycelium network](#dfn-mycelium-network) built on top of [ATproto](#dfn-atproto). [^atproto-atmosphere] [^atproto-atmosphere-paul-frazee]
   {{< /dd >}}
 
   {{< dt id="dfn-atproto" >}}ATproto{{< /dt >}}
   {{< dd id="dfn-atproto-01" >}}
-    The protocol that powers the [ATmosphere](#dfn-atmosphere) [mycelium network](#dfn-mycelium-network), often mistakenly referred to as [Bluesky](#dfn-bluesky).
+  The protocol that powers the [ATmosphere](#dfn-atmosphere) [mycelium network](#dfn-mycelium-network), often mistakenly referred to as [Bluesky](#dfn-bluesky).
   {{< /dd >}}
 
   {{< dt id="dfn-blockchain" >}}Blockchain{{< /dt >}}
   {{< dd id="dfn-blockchain-01" >}}
-    A cryptographic ledger, popularised by cryptocurrencies, and also used in [DDFON](#dfn-ddfon) [SNS](#dfn-sns) like Audius (music), Hive (content), and Verasity (video).
+  A cryptographic ledger, popularised by cryptocurrencies, and also used in [DDFON](#dfn-ddfon) [SNS](#dfn-sns) like Audius (music), Hive (content), and Verasity (video).
   {{< /dd >}}
 
   {{< dt id="dfn-bluesky" >}}Bluesky{{< /dt >}}
   {{< dd id="dfn-bluesky-01" >}}
-    The first public server using the [ATproto](#dfn-atproto) protocol, commonly but inaccurately used to refer to the entire ATproto [mycelium network](#dfn-mycelium-network). Bluesky is only one of many ATproto servers. (Also see [ATmosphere](#dfn-atmosphere).)
+  The first public server using the [ATproto](#dfn-atproto) protocol, commonly but inaccurately used to refer to the entire ATproto [mycelium network](#dfn-mycelium-network). Bluesky is only one of many ATproto servers. (Also see [ATmosphere](#dfn-atmosphere).)
   {{< /dd >}}
 
   {{< dt id="dfn-ddfon" >}}DDFON{{< /dt >}}
   {{< dd id="dfn-ddfon-01" >}}
-    Stands for "Decentralized, Distributed, Federated, Open Network" ﹘ a term I coined in 2011, [^ddfon-yohan-yukiya-01][^ddfon-yohan-yukiya-02] also known as [mycelial web](#dfn-mycelial-web).
+  Stands for "Decentralized, Distributed, Federated, Open Network" ﹘ a term I coined in 2011, [^ddfon-yohan-yukiya-01][^ddfon-yohan-yukiya-02] also known as [mycelial web](#dfn-mycelial-web).
   {{< /dd >}}
 
   {{< dt id="dfn-diaspora" >}}Diaspora*{{< /dt >}}
   {{< dd id="dfn-diaspora-01" >}}
-    Also known as The Federation, is a [mycelium network](#dfn-mycelium-network) built on the diaspora* protocol.
+  Also known as The Federation, is a [mycelium network](#dfn-mycelium-network) built on the diaspora* protocol.
   {{< /dd >}}
 
   {{< dt id="dfn-fediverse" >}}Fediverse{{< /dt >}}
   {{< dd id="dfn-fediverse-01" >}}
-    The friendly name for the [mycelium network](#dfn-mycelium-network) using the [ActivityPub](#dfn-activitypub) protocol and its predecessors ([OStatus](#dfn-ostatus) (2010–2020), [OpenMicroBlogging](#dfn-openmicroblogging) (2008–2010)). Coined by Mark Eckenwiler in 2012-05-25 and by Marjolein Katsma in 2013-01-24. [^coined-fediverse-mark-eckenwiler][^coined-fediverse-marjolein-katsma][^coined-fediverse-twitter]
+  The friendly name for the [mycelium network](#dfn-mycelium-network) using the [ActivityPub](#dfn-activitypub) protocol and its predecessors ([OStatus](#dfn-ostatus) (2010–2020), [OpenMicroBlogging](#dfn-openmicroblogging) (2008–2010)). Coined by Mark Eckenwiler in 2012-05-25 and by Marjolein Katsma in 2013-01-24. [^coined-fediverse-mark-eckenwiler][^coined-fediverse-marjolein-katsma][^coined-fediverse-twitter]
   {{< /dd >}}
 
   {{< dt id="dfn-identiverse" >}}Identiverse{{< /dt >}}
   {{< dd id="dfn-identiverse-01" >}}
-    The original name for the [fediverse](#dfn-fediverse) [mycelium network](#dfn-mycelium-network), coined by Luke Slater in 2010-03-14. [^coined-identiverse-luke-slater][^coined-identiverse-identica]
+  The original name for the [fediverse](#dfn-fediverse) [mycelium network](#dfn-mycelium-network), coined by Luke Slater in 2010-03-14. [^coined-identiverse-luke-slater][^coined-identiverse-identica]
   {{< /dd >}}
 
   {{< dt id="dfn-jabber" >}}Jabber{{< /dt >}}
   {{< dd id="dfn-jabber-01" >}}
-    A federated instant messaging [mycelium network](#dfn-mycelium-network), the first [DDFON](#dfn-ddfon). The name was dropped in favour of the term [XMPP](#dfn-xmpp).
+  A federated instant messaging [mycelium network](#dfn-mycelium-network), the first [DDFON](#dfn-ddfon). The name was dropped in favour of the term [XMPP](#dfn-xmpp).
   {{< /dd >}}
 
   {{< dt id="dfn-mastodon" >}}Mastodon®{{< /dt >}}
   {{< dd id="dfn-mastodon-01" >}}
-    A [fediverse](#dfn-fediverse) software using the [ActivityPub](#dfn-activitypub) protocol, sometimes mistakenly used to refer to the entire fediverse [mycelium network](#dfn-mycelium-network). It is a registered trademark that should only be used within the context of the Mastodon® software.
+  A [fediverse](#dfn-fediverse) software using the [ActivityPub](#dfn-activitypub) protocol, sometimes mistakenly used to refer to the entire fediverse [mycelium network](#dfn-mycelium-network). It is a registered trademark that should only be used within the context of the Mastodon® software.
   {{< /dd >}}
 
   {{< dt id="dfn-matrix" >}}Matrix{{< /dt >}}
   {{< dd id="dfn-matrix-01" >}}
-    An <abbr title="Internet Relay Chat">IRC</abbr>-like federated messaging platform similar to [XMPP](#dfn-xmpp), serving as both the protocol and the [mycelium network](#dfn-mycelium-network) name.
+  An <abbr title="Internet Relay Chat">IRC</abbr>-like federated messaging platform similar to [XMPP](#dfn-xmpp), serving as both the protocol and the [mycelium network](#dfn-mycelium-network) name.
   {{< /dd >}}
 
   {{< dt id="dfn-mycelium-network" >}}Mycelium [Network]{{< /dt >}}
   {{< dd id="dfn-mycelium-network-01" >}}
-    A network of fungal threads in nature, applied to tech networks like the fediverse, [ATmosphere](#dfn-atmosphere), and [Nostr](#dfn-nostr) [mycelium network](#dfn-mycelium-network)s. Originally suggested to replace the term [fediverse](#dfn-fediverse) but redefined in 2022.
+  A network of fungal threads in nature, applied to tech networks like the fediverse, [ATmosphere](#dfn-atmosphere), and [Nostr](#dfn-nostr) [mycelium network](#dfn-mycelium-network)s. Originally suggested to replace the term [fediverse](#dfn-fediverse) but redefined in 2022.
   {{< /dd >}}
 
   {{< dt id="dfn-mycelial-web" >}}Mycelial Web{{< /dt >}}
   {{< dd id="dfn-mycelial-web-01" >}}
-    Multiple networks of fungal threads (mycelium) is called mycelia or mycelial. In tech, mycelial is the umbrella term for mycelium networks like [XMPP](#dfn-xmpp), [fediverse](#dfn-fediverse), [Matrix](#dfn-matrix), [Nostr](#dfn-nostr), and [ATmosphere](#dfn-atmosphere); a friendly name for [DDFON](#dfn-ddfon).
+  Multiple networks of fungal threads (mycelium) is called mycelia or mycelial. In tech, mycelial is the umbrella term for mycelium networks like [XMPP](#dfn-xmpp), [fediverse](#dfn-fediverse), [Matrix](#dfn-matrix), [Nostr](#dfn-nostr), and [ATmosphere](#dfn-atmosphere); a friendly name for [DDFON](#dfn-ddfon).
   {{< /dd >}}
 
   {{< dt id="dfn-nostr" >}}Nostr{{< /dt >}}
   {{< dd id="dfn-nostr-01" >}}
-    Both the protocol and the name of the [mycelium network](#dfn-mycelium-network) it supports.
+  Both the protocol and the name of the [mycelium network](#dfn-mycelium-network) it supports.
   {{< /dd >}}
 
   {{< dt id="dfn-openmicroblogging" >}}OpenMicroBlogging{{< /dt >}}
   {{< dd id="dfn-openmicrobloging-01" >}}
-    The first protocol of the [fediverse](#dfn-fediverse) from 2008–2010.
+  The first protocol of the [fediverse](#dfn-fediverse) from 2008–2010.
   {{< /dd >}}
 
   {{< dt id="dfn-ostatus" >}}OStatus{{< /dt >}}
   {{< dd id="dfn-ostatus-01" >}}
-    The [fediverse](#dfn-fediverse) protocol, active from 2010–2020. [^pleroma-federation-ostatus-dropped]
+  The [fediverse](#dfn-fediverse) protocol, active from 2010–2020. [^pleroma-federation-ostatus-dropped]
   {{< /dd >}}
 
   {{< dt id="dfn-secure-scuttlebutt" >}}Secure Scuttlebutt (SSB){{< /dt >}}
   {{< dd id="dfn-secure-scuttlebutt-01" >}}
-    A cryptographic [mycelium network](#dfn-mycelium-network) where content is shared only with followers.
+  A cryptographic [mycelium network](#dfn-mycelium-network) where content is shared only with followers.
   {{< /dd >}}
 
   {{< dt id="dfn-semantic-web" >}}Semantic Web{{< /dt >}}
   {{< dd id="dfn-semantic-web01" >}}
-    One of the original meanings of [Web3.0](#dfn-web3-point-O), where the web becomes {{% quote type="work" lang="en" %}}capable of analyzing all the data on the Web—the content, links, and transactions between people and computers{{% /quote %}} through W3C standards.
+  One of the original meanings of [Web3.0](#dfn-web3-point-O), where the web becomes {{% quote type="work" lang="en" %}}capable of analyzing all the data on the Web—the content, links, and transactions between people and computers{{% /quote %}} through W3C standards.
   {{< /dd >}}
 
   {{< dt id="dfn-sns" >}}SNS (Social Networking Service){{< /dt >}}
   {{< dd id="dfn-sns-01" >}}
-    The original term for [social media](#dfn-social-media), still commonly used in Korea and the Asia-Pacific region.
+  The original term for [social media](#dfn-social-media), still commonly used in Korea and the Asia-Pacific region.
   {{< /dd >}}
 
   {{< dt id="dfn-social-media" >}}Social Media{{< /dt >}}
   {{< dd id="dfn-social-media-01" >}}
-    The term for [SNS](#dfn-sns) in English-speaking countries.
+  The term for [SNS](#dfn-sns) in English-speaking countries.
   {{< /dd >}}
 
   {{< dt id="dfn-social-web" >}}Social Web{{< /dt >}}
   {{< dd id="dfn-social-web-01" >}}
-    Also known as [Web3](#dfn-web3) or [Web3.0](#dfn-web3-point-O), it promotes an open, interoperable web instead of closed silos. It is about building platforms that interoperate through federation and bridges, while ensuring resiliency through distribution and decentralization. [^web3-jesse-stay][^web3-loic-le-meur-01][^web3-loic-le-meur-02][^web3-loic-le-meur-03]
+  Also known as [Web3](#dfn-web3) or [Web3.0](#dfn-web3-point-O), it promotes an open, interoperable web instead of closed silos. It is about building platforms that interoperate through federation and bridges, while ensuring resiliency through distribution and decentralization. [^web3-jesse-stay][^web3-loic-le-meur-01][^web3-loic-le-meur-02][^web3-loic-le-meur-03]
   {{< /dd >}}
 
   {{< dt id="dfn-threadiverse" >}}Threadiverse{{< /dt >}}
   {{< dd id="dfn-threadiverse-01" >}}
-    Refers to threaded [fediverse](#dfn-fediverse) platforms like Lemmy, Kbin, and Mbin.
+  Refers to threaded [fediverse](#dfn-fediverse) platforms like Lemmy, Kbin, and Mbin.
   {{< /dd >}}
   {{< dd id="dfn-threadiverse-02" >}}
-    In Korea, it refers specifically to Meta's Threads platform with [fediverse](#dfn-fediverse) integration. [^threadiverse-02-korea]
+  In Korea, it refers specifically to Meta's Threads platform with [fediverse](#dfn-fediverse) integration. [^threadiverse-02-korea]
   {{< /dd >}}
 
   {{< dt id="dfn-web3-point-O" >}}Web3.0{{< /dt >}}
   {{< dd id="dfn-web3-point-O-01" >}}
-    Refers to [Semantic Web](#dfn-semantic-web) as coined by Sir Timothy John Berners-Lee in 2006. [^web3-point-O]
+  Refers to [Semantic Web](#dfn-semantic-web) as coined by Sir Timothy John Berners-Lee in 2006. [^web3-point-O]
   {{< /dd >}}
   {{< dd id="dfn-web3-point-0-02" >}}
-    Also refers to the [social web](#dfn-social-web) “Le Web3” conference in France in 2007 and earlier. [^web3-loic-le-meur-01][^web3-loic-le-meur-02][^web3-loic-le-meur-03]
+  Also refers to the [social web](#dfn-social-web) “Le Web3” conference in France in 2007 and earlier. [^web3-loic-le-meur-01][^web3-loic-le-meur-02][^web3-loic-le-meur-03]
   {{< /dd >}}
   {{< dd id="dfn-web3-point-0-03" >}}
-    Can also refer to [blockchain](#dfn-blockchain) technology as defined by Gavin Wood in 2014. [^web3-blockchain-wikipedia]
+  Can also refer to [blockchain](#dfn-blockchain) technology as defined by Gavin Wood in 2014. [^web3-blockchain-wikipedia]
   {{< /dd >}}
 
   {{< dt id="dfn-web3" >}}Web3{{< /dt >}}
   {{< dd id="dfn-web3-01" >}}
-    Initially coined for the [social web](#dfn-social-web) conference in 2007 by Loic Le Meur, [^web3-loic-le-meur-01][^web3-loic-le-meur-02][^web3-loic-le-meur-03] it later included blockchain tech definitions by Gavin Wood in 2014. [^web3-blockchain-wikipedia]
+  Initially coined for the [social web](#dfn-social-web) conference in 2007 by Loic Le Meur, [^web3-loic-le-meur-01][^web3-loic-le-meur-02][^web3-loic-le-meur-03] it later included blockchain tech definitions by Gavin Wood in 2014. [^web3-blockchain-wikipedia]
   {{< /dd >}}
 
   {{< dt id="dfn-xmpp" >}}XMPP (eXtensible Messaging and Presence Protocol){{< /dt >}}
   {{< dd id="dfn-xmpp-01" >}}
-    The first federated instant messaging platform, originally named [Jabber](#dfn-jabber).
+  The first federated instant messaging platform, originally named [Jabber](#dfn-jabber).
   {{< /dd >}}
 {{% /dl %}}
 
