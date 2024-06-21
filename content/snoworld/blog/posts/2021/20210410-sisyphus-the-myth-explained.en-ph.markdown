@@ -2,8 +2,10 @@
 title = "(Updated) «Sisyphus: The Myth» explained logically"
 description = "Confused about the ending of «Sisyphus: The Myth»?"	# For Schema.org; OpenGraph; Twitter Cards
 
-publishdate = 2021-04-10T21:12:21+08:00
-lastmod = 2022-05-03T13:07:19+08:00                                     # manually adjust to local timezone
+lastmod = 2024-06-21T13:48:10+08:00                 # last update; manually adjust to local timezone
+publishdate = 2021-04-10T21:12:21+08:00             # first publication; manually adjust to local timezone
+date = 2021-04-10T21:12:21+08:00                    # first created; manually adjust to local timezone
+#expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
 
 #aliases = [""]
 slug = "시지프스 Sisyphus The Myth (2021) Explained Logically"
@@ -185,7 +187,7 @@ Yes. This was revealed in episode 15 when 2035-Seohae and her father arrived at 
 
 Short answer: because for all intents and purposes, they are a copy of the person in the past.
 
-Long answer: They are not supposed to be in the past where their younger versions exist. Since their younger versions are in their proper time period, then they practically became a "copy". However, it does not mean that they are literally a "copy" and there is an "original" left in 2035. Episode 15 established whenever they use the Uploader, the original from 2035 literally time traveled to the past.
+Long answer: They are not supposed to be in the past where their younger versions exist. Since their younger versions are in their proper time period, then they practically became a <q>copy</q>. However, it does not mean that they are literally a <q>copy</q> and there is an <q>original</q> left in 2035. Episode 15 established whenever they use the Uploader, the original from 2035 literally time traveled to the past.
 {{% /accordion %}}
 
 {{% accordion summary="Is there really only one timestream and no branches?" status="closed" border="style01" class="faq" id="" %}}
@@ -199,9 +201,9 @@ There is another proof of this which we will touch on in another question.
 
 The Uploader was still developed. 2020-Taesul did leave the code to finish the Uploader in the laptop Eddie Kim gave him. However, Taesul no doubt time-locked it (will only unlock sometime in the future) and added other conditions--possibly it will only work with Seohae.
 
-There is also the Uploader blueprints Taesul's brother, Tae San, hid from everyone. When he woke up, he found out his brother killed himself to save the world. He did say that he will do everything to save and ensure Taesul lives.
+There is also the Uploader blueprints Taesul's brother, Taesan, hid from everyone. When he woke up, he found out his brother killed himself to save the world. He did say that he will do everything to save and ensure Taesul lives.
 
-Even if Taesul did not leave the code, Tae San still have a copy himself. However, I do believe Taesul did leave the code, we will come back to this later.
+Even if Taesul did not leave the code, Taesan still have a copy himself. However, I do believe Taesul did leave the code, we will come back to this later.
 
 {{< image
   type="image"
@@ -214,7 +216,7 @@ Even if Taesul did not leave the code, Tae San still have a copy himself. Howeve
   linkrel="noopener external nofollow"
 
   title="Sisyphus: The Myth"
-  caption="«Park Shin Hye» as «Kang Seohae»"
+  caption="Park Shinhye as «Kang Seohae"
   alt="Sisyphus: The Myth"
 
   attribalign=""
@@ -242,7 +244,7 @@ What happened was the *time bubble* was popped when Taesul died. The result of p
 
 {{% accordion summary="Is 2020-Sigma reformed? Or is he still going down the path of being a time traveling psychopath?" status="closed" border="style01" class="faq" id="" %}}
 
-I think he's reformed. Kang Dong Gi's (Seohae's father) wise intervention clearly made a mark in 2020-Sigma, it was shown all over his face! It was also the whole story behind why 2035-Sigma/2001-Sigma turned into a psychopath … no one cared for him, he was invisible, he was treated less than an animal. When Dong Gi showed his fatherly nature, which reflected in his eyes, face, and action, 2020-Sigma noticed it all and it changed him from the inside. It was proof for him that his assumption that no one cares about him is false.
+I think he's reformed. Kang Donggi's (Seohae's father) wise intervention clearly made a mark in 2020-Sigma, it was shown all over his face! It was also the whole story behind why 2035-Sigma/2001-Sigma turned into a psychopath … no one cared for him, he was invisible, he was treated less than an animal. When Donggi showed his fatherly nature, which reflected in his eyes, face, and action, 2020-Sigma noticed it all and it changed him from the inside. It was proof for him that his assumption that no one cares about him is false.
 
 This was later proven when he was shown freely doing artwork for strangers in a public park. He was no longer suicidal. His dark view of the world diminished or perhaps gone. He probably hates Taesul still but he's dead anyway. It would explain why he tried to copy Taesul in front of his mirror … he has new plans, and there is the information from the notebook.
 
@@ -251,14 +253,14 @@ Which brings us to the next question.
 
 {{% accordion summary="Whose notebook was it?" status="closed" border="style01" class="faq" id="" %}}
 
-I have no doubt it was Dong Gi's notebook where he scribbled his thoughts to understand the connections of everyone … because he needs to stop his daughter from going back in time or meeting Han Taesul. Noticed how Dong Gi trained Seohae and tried everything to keep the knowledge of the uploader from her? He investigated and kept notes. Let's go back to episode 15. Remember what 2035-Sigma said to Dong Gi in the Uploader room? Paraphrasing, "you know she made it to the past, safe and sound".
+I have no doubt it was Donggi's notebook where he scribbled his thoughts to understand the connections of everyone … because he needs to stop his daughter from going back in time or meeting Han Taesul. Noticed how Donggi trained Seohae and tried everything to keep the knowledge of the uploader from her? He investigated and kept notes. Let's go back to episode 15. Remember what 2035-Sigma said to Donggi in the Uploader room? Paraphrasing, "you know she made it to the past, safe and sound".
 {{% /accordion %}}
 
 {{% accordion summary="But how did 2020-Sigma acquire the notebook?" status="closed" border="style01" class="faq" id="" %}}
 
-Remember that scene in episode 16 when Dong Gi removed two items from his jacket before giving it to 2020-Sigma? He forgot something else … his notebook.
+Remember that scene in episode 16 when Donggi removed two items from his jacket before giving it to 2020-Sigma? He forgot something else … his notebook.
 
-What did I say at the beginning of this post about creative writing? **Show, don't tell** and **if a scene won't move the story forward, delete it**. There was no need to focus on Dong Gi removing the items from the pockets of his jacket. There were even two scenes, one scene was in front of him and the other scene was a back shot. It was a clear sign that there is something the writers want to ***show*** us in those two scenes. It was not about the jacket. It was not about those two items he removed. It was about what he had forgotten … his notebook.
+What did I say at the beginning of this post about creative writing? **Show, don't tell** and **if a scene won't move the story forward, delete it**. There was no need to focus on Donggi removing the items from the pockets of his jacket. There were even two scenes, one scene was in front of him and the other scene was a back shot. It was a clear sign that there is something the writers want to ***show*** us in those two scenes. It was not about the jacket. It was not about those two items he removed. It was about what he had forgotten … his notebook.
 
 {{< image
   type="image"
@@ -271,7 +273,7 @@ What did I say at the beginning of this post about creative writing? **Show, don
   linkrel="noopener external nofollow"
 
   title="Sisyphus: The Myth"
-  caption="«Kim Byungchul» as «Seo Wonju / Sigma»"
+  caption="Kim Byungchul as Seo Wonju / Sigma"
   alt="Sisyphus: The Myth"
 
   attribalign=""
@@ -307,7 +309,7 @@ This is the other reason why, as I mentioned earlier, that Taesul did leave the 
 
 He was so sure about everything. He was not afraid to shoot himself. Because he calculated, he knew, that eventually the Uploader will be developed and the next Seohae will travel back in time again.
 
-Let's not forget the new diary. Maybe Taesul left notes there as well and planned for the next Seohae to receive it. And of course his brother Tae San and the blueprints he hid.
+Let's not forget the new diary. Maybe Taesul left notes there as well and planned for the next Seohae to receive it. And of course his brother Taesan and the blueprints he hid.
 {{% /accordion %}}
 
 {{% accordion summary="What about the bullet vest?" status="closed" border="style01" class="faq" id="" %}}
@@ -316,7 +318,7 @@ He planned perfectly. He told Sun to park so he can meet him before he hunted do
 
 If no one told him Sun is dead, he would probably never bring a vest and Sun would actually be dead. His original plan was only to meet Sun so he can give him additional instructions--which I believe to be the location of the bunker and to meet him at Asia Mart later that night.
 
-Remember also what Taesul said, *the future is already here, you just do not know it*. Since everything in the time bubble is happening simultaenously and is constantly changing, the future that was yet to happen already arrived. If there was no time bubble and instead there is a timestream branch, then the future will never arrive. Yes, this is yet another proof that there is only one timestream in the {{% quote type="title" lang="en" %}}Sisyphus{{% /quote %}} universe.
+Remember also what Taesul said, *the future is already here, you just do not know it*. Since everything in the time bubble is happening simultaneously and is constantly changing, the future that was yet to happen already arrived. If there was no time bubble and instead there is a timestream branch, then the future will never arrive. Yes, this is yet another proof that there is only one timestream in the {{% quote type="title" lang="en" %}}Sisyphus{{% /quote %}} universe.
 {{% /accordion %}}
 
 {{% accordion summary="But wait, how did he know Eddie Kim will show up in the church?" status="closed" border="style01" class="faq" id="" %}}
@@ -343,7 +345,7 @@ And we are back to that airplane scene. The new Seohae arrived. Han Taesul saw a
   linkrel="noopener external nofollow"
 
   title="Sisyphus: The Myth"
-  caption="«Kim Byungchul» as «Seo Wonju / Sigma»"
+  caption="Kim Byungchul as Seo Wonju / Sigma"
   alt="Sisyphus: The Myth"
 
   attribalign=""
@@ -365,7 +367,7 @@ Thank you for reading! Shalom!
 
 ## Bonus: The "Pocket Universe" theory
 
-> In episode 11, Taesul goes into Seohae’s past to try and save her. To do this, both Taesul and Seohae’s bodies are left in the present while their consciousness visits various pockets of time. In one such time pocket, Taesul finds his brother Tae San. Tae San tells Taesul that this is where he has been hiding all this time so Sigma and the Control Bureau can never find him. He also tells Taesul that when Taesul goes back to the present, physical world, they will most likely not see each other again. We see Tae San’s body in a vegetative state in the present. If their physical bodies die, their consciousness can never go back, having no vessel to return to. This is why after getting shot with the serum, Seohae goes back and wakes up but finds that Taesul is dead to the world.[^c]
+> In episode 11, Taesul goes into Seohae’s past to try and save her. To do this, both Taesul and Seohae’s bodies are left in the present while their consciousness visits various pockets of time. In one such time pocket, Taesul finds his brother Taesan. Taesan tells Taesul that this is where he has been hiding all this time so Sigma and the Control Bureau can never find him. He also tells Taesul that when Taesul goes back to the present, physical world, they will most likely not see each other again. We see Taesan’s body in a vegetative state in the present. If their physical bodies die, their consciousness can never go back, having no vessel to return to. This is why after getting shot with the serum, Seohae goes back and wakes up but finds that Taesul is dead to the world. [^c]
 
 Animetric presented an excellent explanation on the show's ending, I highly recommend reading her theory over on [Animetric's World](https://j.mp/2RrPfeq).
 
@@ -377,25 +379,14 @@ Animetric presented an excellent explanation on the show's ending, I highly reco
   isloop=false
 
   id="734PeGfxICM"
-  starttime=""
-  endtime=""
 
   link="https://www.youtube.com/watch?v=734PeGfxICM"
   linkrel="noopener external nofollow"
 
-  title="[티저] ＂이번엔 끝장을 보자＂ 조승우x박신혜 ＜시지프스 : the myth＞ 2021년 2월 첫 방송"
+  title="[티저] 이번엔 끝장을 보자 조승우x박신혜 시지프스 : the myth 2021년 2월 첫 방송"
   caption="«Sisyphus: The Myth» trailer"
 
-  datecreated=""
   datepublished="2020-12-23"
-
-  director=""
-  musicby=""
-
-  vidframesize=""
-  vidquality=""
-  vidheight=""
-  vidwidth=""
 
   licensecode="allrightsreserved"
   licenseurl=""
@@ -406,20 +397,7 @@ Animetric presented an excellent explanation on the show's ending, I highly reco
   attribrel="noopener external nofollow"
   attribalign=""
 
-  cc0country=""
-  cc0countrycode=""
-  cc0countryurl=""
-
-  acquirelicensepage=""
-  copyrightnotice=""
-  credittext=""
-
   inlanguage="ko"
-
-  contentloc=""
-  contentlocurl=""
-  contentlocrel="noopener external"
-  contentreferencetime=""
 >}}
 
 ## OST
