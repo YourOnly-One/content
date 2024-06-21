@@ -80,9 +80,9 @@ type = "article"                                                             # a
 <ol>
 <li>
 
-**{{% quote type="title" lang="ko" %}}정적 시공간 이론{{% /quote %}}** {{% quote type="work" lang="en" %}}Time is like space, and there is no such thing as the passage of time{{% /quote %}} [^paper-time] 또는 {{% quote type="title" lang="ko" %}}그리드{{% /quote %}}에서 설명한 바와 같이 {{% quote type="work" lang="ko" %}}시간은 흐르지 않는다{{% /quote %}}. 모든 시간 속의 모든 가능성은 동시에 존재한다.
+{{% quote type="title" lang="ko" %}}**정적 시공간 이론**{{% /quote %}} {{% quote type="work" lang="en" %}}Time is like space, and there is no such thing as the passage of time{{% /quote %}} [^paper-time] 또는 {{% quote type="title" lang="ko" %}}그리드{{% /quote %}}에서 설명한 바와 같이 {{% quote type="work" lang="ko" %}}시간은 흐르지 않는다{{% /quote %}}. 모든 시간 속의 모든 가능성은 동시에 존재한다.
 
-- **성장하는 블록 우주론.** 과거와 현재의 모든 가능성은 동시에 존재하며, 미래는 아직 존재하지 않습니다. 과거와 현재는 단순하게 <strong>지금</strong>합니다. 우리가 과거라고 인식하는 것은 우리가 현재라고 부르는 것과 같습니다. <strong>지금</strong>과 아직 존재하지 않는 미래만이 있을 뿐입니다.
+- {{% quote type="title" lang="ko" %}}**성장하는 블록 우주론**{{% /quote %}}. 과거와 현재의 모든 가능성은 동시에 존재하며, 미래는 아직 존재하지 않습니다. 과거와 현재는 단순하게 <strong>지금</strong>합니다. 우리가 과거라고 인식하는 것은 우리가 현재라고 부르는 것과 같습니다. <strong>지금</strong>과 아직 존재하지 않는 미래만이 있을 뿐입니다.
 
     원래 블록 우주 이론을 선택한 이유는 유령이 존재하고 그녀가 미래에서 왔기 때문인데, 미래가 아직 존재하지 않는 성장하는 블록 우주 이론의 관점에서는 이해가 되지 않습니다. 그러나 MyDramaList의 [@jenss](https://mydramalist.com/690687-zero#comment-9419421)가 새하가 자신의 출발점을 넘어서는 시간으로 갈 수 없다고 말한 것을 지적한 후, 갑자기 모든 것이 잘 맞아 떨어졌습니다. 여기에 아인슈타인의 {{% quote type="title" lang="ko" %}}특수 상대성 이론{{% /quote %}}과 완벽한 적합성, 즉 아직 존재하지 않는 미래는 시간 여행자의 출발점 시간에 상대적입니다.
     {.note}

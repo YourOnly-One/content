@@ -80,9 +80,9 @@ type = "article"                                                             # a
 <ol>
 <li>
 
-**{{% quote type="title" lang="ja" %}}時空の静的理論。{{% /quote %}}** {{% quote type="work" lang="en" %}}Time is like space, and there is no such thing as the passage of time{{% /quote %}} [^paper-time]、または{{% quote type="work" lang="ja" %}}グリッド{{% /quote %}}で説明されているように、{{% quote type="work" lang="ja" %}}時間は流れていない{{% /quote %}}。 あらゆる時代のあらゆる可能性が同時に存在する。
+{{% quote type="title" lang="ja" %}}**時空の静的理論**{{% /quote %}}。 {{% quote type="work" lang="en" %}}Time is like space, and there is no such thing as the passage of time{{% /quote %}} [^paper-time]、または{{% quote type="work" lang="ja" %}}グリッド{{% /quote %}}で説明されているように、{{% quote type="work" lang="ja" %}}時間は流れていない{{% /quote %}}。 あらゆる時代のあらゆる可能性が同時に存在する。
 
-- **成長するブロック宇宙理論。** 過去と現在のすべての可能性は同時に存在し、未来はまだ存在していない。 過去も現在も単純に <strong>は</strong> です。 私たちが過去として認識しているものは、私たちが現在と呼ぶものと同じです。 <strong>は</strong> と未来だけが存在します。これはまだ存在していません。
+- {{% quote type="title" lang="ja" %}}**成長するブロック宇宙理論**{{% /quote %}}。 過去と現在のすべての可能性は同時に存在し、未来はまだ存在していない。 過去も現在も単純に <strong>は</strong> です。 私たちが過去として認識しているものは、私たちが現在と呼ぶものと同じです。 <strong>は</strong> と未来だけが存在します。これはまだ存在していません。
 
     私がもともとブロック宇宙理論を選んだのは、幽霊が存在し、彼女は未来から来たので、未来がまだない成長ブロック宇宙理論の観点からは意味がありませんでした。 しかし、[@jenss](https://mydramalist.com/690687-zero#comment-9419421)の後、MyDramaListから、セハが原点を超える時間には行けないと指摘され、突然すべてが合わさったのです。 アインシュタインの{{% quote type="title" lang="ja" %}}特殊相対性理論{{% /quote %}}と「完璧なヴォイラ」を加えてください - まだ存在していない未来は、タイムトラベラーの起源時間に相対的です。
     {.note}
