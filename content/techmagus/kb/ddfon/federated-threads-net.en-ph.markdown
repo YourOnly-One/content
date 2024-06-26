@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/techmagus/kb/ddfon/fediverse-threads-rea
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndication = [""]
+syndication = ["https://c.im/@youronlyone/112682179961432209", "https://www.plurk.com/p/3fz9e1fb7z", "https://www.threads.net/@youronly.one.ofcl/post/C8rHTtPvpLq", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02CVnCeA2M9PvxyJsiSrHZMHhGz1HtfEaP55dceNCyWh4NR1ncxiucLkmbLas93smCl", "https://x.com/YourOnlyONEofcl/status/1805893794740466136"]
 
 channels = ["techmagus"]
 categories = ["howto", "web"]
@@ -50,14 +50,14 @@ type = "article"                                             # article, sitepage
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "Yohan Yuki Xieㆍ사요한・謝雪矢"
+  name = "Yohan Yuki Xie"
   #name = "techmagus / テク魔法使い / 테크마법사"
   url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
   #rel = "noopener"
 +++
 
-Earlier today, {{% quote type="name" lang="en" %}}Meta{{% /quote %}}’s {{% quote type="name" lang="en" %}}Threads{{% /quote %}}.net microblogging social network rolled out its much-anticipated {{% quote type="name" lang="en" %}}[Fediverse](sns-terminologies.markdown#dfn-fediverse){{% /quote %}} feature to over 100 countries, including many in the Asia-Pacific region. If you’re keen on expanding your audience as a content creator, or as a content consumer you want to follow content creators without creating yet another account, activating this feature is highly recommended.
+Earlier today, {{% quote type="name" lang="en" %}}Meta{{% /quote %}}’s {{% quote type="name" lang="en" %}}Threads{{% /quote %}}.net microblogging social network rolled out its much-anticipated {{% quote type="name" lang="en" %}}[Fediverse](sns-terminologies.markdown#dfn-fediverse){{% /quote %}} feature to over 100 countries (except for European Union members), including many in the Asia-Pacific region. If you’re keen on expanding your audience as a content creator, or as a content consumer you want to follow content creators without creating yet another account, activating this feature is highly recommended.
 
 <!--more-->
 
