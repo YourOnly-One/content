@@ -15,7 +15,7 @@ disqus_identifier = "difference-ppop-opm-202258"                                
 syndication = ["https://twitter.com/YourOnlyONEofcl/status/1500858756560687107", "https://twitter.com/YourOnlyONEofcl/status/1497888146876354567", "https://mastodon.social/@youronlyone/107869598318458866", "https://diasp.org/posts/2157592079ea013ae32d28a1592b385a", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/607362613766306", "https://pixelfed.social/i/web/post/412275401774900848"]
 
 channels = ["snoworld"]
-categories = ["literature"]                                                   # taxonomy
+categories = ["music"]
 keywords = ["ppop", "p-pop", "opm", "philippine music", "pinoy pop", "pinoy popular music", "philippine pop", "philippine popular music", "pilipino pop", "pilipino popular music", "music"]                                                     # meta keywords
 series = ["ppopandidols"]                                                       # subset of series taxonomy
 tags = ["ppop"]                                                         # taxonomy
@@ -209,7 +209,6 @@ type = "article"                                                           # art
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   すべての<bdi lang="fil">OPM</bdi>は<bdi lang="fil">P-POP</bdi>ですが、すべての<bdi lang="fil">P-POP</bdi>が<bdi lang="fil">OPM</bdi>であるとは限りません。
 {{% /quotebox %}}
-
 
 ## 閉会の辞
 

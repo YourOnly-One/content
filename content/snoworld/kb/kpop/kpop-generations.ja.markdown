@@ -15,7 +15,7 @@ disqus_identifier = "kpop-generations-202218"                                   
 syndication = ["https://twitter.com/YourOnlyONEofcl/status/1486917198086119429", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/588547655647802", "https://pixelfed.social/i/web/post/393935717720373632"]
 
 channels = ["snoworld"]
-categories = ["literature"]                                                   # taxonomy
+categories = ["music"]
 keywords = ["kpop", "k-pop", "generations", "music"]                                                     # meta keywords
 series = ["kpopandidols"]                                                       # subset of series taxonomy
 tags = ["kpop"]                                                         # taxonomy
@@ -123,19 +123,19 @@ K-POP世代を10 *暦年*に設定するのは正しいことですか？ おそ
 すべての世代は、実質的にボーイグループによって率いられていました。
 
 - 第1世代：
-  - Seo Taiji & Boys (1992-04-11)
-  - Deux (1993-04-23)
-  - Solid (1993-12-15)
+  + Seo Taiji & Boys (1992-04-11)
+  + Deux (1993-04-23)
+  + Solid (1993-12-15)
 
 - 第2世代：
-  - TVXQ! (2004-01-14)
-  - SS501 (2005-06-22)
-  - Super Junior (2005-09-11)
+  + TVXQ! (2004-01-14)
+  + SS501 (2005-06-22)
+  + Super Junior (2005-09-11)
 
 - 第3世代：
-  - EXO (2012-04-08)
-  - BTS (2013-06-12)
-  - GOT7 (2014-01-16)
+  + EXO (2012-04-08)
+  + BTS (2013-06-12)
+  + GOT7 (2014-01-16)
 
 しかし、2022年1月1日までに第4世代のK-pop音楽[行為]が始まったとき、大きな変化が起こりました。 それは*ビートを手に入れた*女性のスーパーグループによって開かれました：
 

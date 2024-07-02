@@ -13,7 +13,7 @@ relCanonical = "https://im.youronly.one/snoworld/ppop-convention-202271/"       
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["snoworld"]
-categories = ["events"]                                                   # taxonomy
+categories = ["events", "music"]                                                   # taxonomy
 keywords = ["ppopcon", "ppop convention", "ppop con", "p-popcon", "p-pop con", "p-pop convention", "pinoy pop convention", "pilipino pop convention", "philippine pop convention", "filipino pop convention"]                                                     # meta keywords
 #series = [""]                                                       # subset of series taxonomy
 tags = ["ppop"]                                                         # taxonomy
@@ -77,7 +77,7 @@ The first venue is at the New Frontier Theater located at Gen. Emilio Aguinaldo 
 
 - When: April 9, 2022 from 10:00 PHT to 20:00 PHT; and April 10, 2022 from 10:00 PHT to 21:00 PHT
 - What:
-  - Performances, confirmed as of 2022-03-23 20:20:20 PHT:
+  + Performances, confirmed as of 2022-03-23 20:20:20 PHT:
     - <bdi lang="en-PH">Calista</bdi>
     - <bdi lang="en-PH">Daydream</bdi>
     - <bdi lang="en-PH">Dione</bdi>
@@ -88,8 +88,8 @@ The first venue is at the New Frontier Theater located at Gen. Emilio Aguinaldo 
     - <bdi lang="en-PH">Ver5us</bdi> — update: will no longer be able to join due to schedule conflict [^ver5us-ppopcon-conflict]
     - <bdi lang="en-PH">Vxon</bdi>
     - <bdi lang="en-PH">Yara</bdi> (<bdi lang="tl-Tglg">ᜌᜇ</bdi>) — update: will no longer be able to participate due to conflict in schedule [^yara-ppopcon-conflict]
-  - Merchandise
-  - Fan booths
+  + Merchandise
+  + Fan booths
     - <bdi lang="fil">A'tin</bdi> (<bdi lang="tl-Tglg">ᜀ᜵ᜆᜒᜈ᜔</bdi>)
     - <bdi lang="en-PH">Aces</bdi>
     - <bdi lang="en-PH">Allies</bdi>
@@ -103,8 +103,8 @@ The first venue is at the New Frontier Theater located at Gen. Emilio Aguinaldo 
     - <bdi lang="en-PH">MNLoves</bdi> (<bdi lang="tl-Tglg">ᜋ᜔ᜈ᜔</bdi><bdi lang="en-PH">Loves</bdi>)
     - <bdi lang="en-PH">Pearls</bdi>
     - <bdi lang="en-PH">Vixies</bdi>
-  - Games
-  - and more surprises
+  + Games
+  + and more surprises
 
 *Artist performances will be held on the first day only, April 9th.*
 {.notecounter}
@@ -120,17 +120,17 @@ The second venue is Araneta Coliseum for the concert on the second day. It is lo
 
 - When: April 10, 2022 from 15:00 PHT to 19:00 PHT
 - What: Concerts
-  - <bdi lang="en-PH">1st.One</bdi>
-  - <bdi lang="en-PH">4th Impact</bdi>
-  - <bdi lang="fil">Alamat</bdi> / <bdi lang="tl-Tglg">ᜀᜎᜋᜆ᜔</bdi>
-  - <bdi lang="en-PH">BGYO</bdi> (<bdi lang="tl-Tglg">ᜊ᜔ᜄ᜔ᜌ᜔ᜂ</bdi>)
-  - <bdi lang="fil">Bini</bdi> (<bdi lang="tl-Tglg">ᜊᜒᜈᜒ</bdi>)
-  - <bdi lang="en-PH">MNL48</bdi> (<bdi lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</bdi>)
-  - <bdi lang="en-PH">Press Hit Play</bdi> (<bdi lang="en-PH">PHP</bdi> / <bdi lang="tl-Tglg">ᜉ᜔ᜑ᜔ᜉ᜔</bdi>)
-  - <bdi lang="en-PH">SB19</bdi> (<bdi lang="tl-Tglg">ᜐ᜔ᜊ᜔19</bdi>)
+  + <bdi lang="en-PH">1st.One</bdi>
+  + <bdi lang="en-PH">4th Impact</bdi>
+  + <bdi lang="fil">Alamat</bdi> / <bdi lang="tl-Tglg">ᜀᜎᜋᜆ᜔</bdi>
+  + <bdi lang="en-PH">BGYO</bdi> (<bdi lang="tl-Tglg">ᜊ᜔ᜄ᜔ᜌ᜔ᜂ</bdi>)
+  + <bdi lang="fil">Bini</bdi> (<bdi lang="tl-Tglg">ᜊᜒᜈᜒ</bdi>)
+  + <bdi lang="en-PH">MNL48</bdi> (<bdi lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</bdi>)
+  + <bdi lang="en-PH">Press Hit Play</bdi> (<bdi lang="en-PH">PHP</bdi> / <bdi lang="tl-Tglg">ᜉ᜔ᜑ᜔ᜉ᜔</bdi>)
+  + <bdi lang="en-PH">SB19</bdi> (<bdi lang="tl-Tglg">ᜐ᜔ᜊ᜔19</bdi>)
 - Bonus: Opening performances from
-  - <bdi lang="en-PH">Kaia</bdi> (<bdi lang="til-Tglg">ᜃᜌ</bdi>)
-  - <bdi lang="en-PH">Vxon</bdi>
+  + <bdi lang="en-PH">Kaia</bdi> (<bdi lang="til-Tglg">ᜃᜌ</bdi>)
+  + <bdi lang="en-PH">Vxon</bdi>
 - Extra: fan activities
 
 {{< video
@@ -156,11 +156,11 @@ The second venue is Araneta Coliseum for the concert on the second day. It is lo
 Here are the details for the convention tickets:
 
 - ₱1,000.00 (U$19.09)
-  - 2-day pass
-  - fast lane
-  - lounge access
+  + 2-day pass
+  + fast lane
+  + lounge access
 - ₱650.00 (U$12.41)
-  - 2-day pass
+  + 2-day pass
 
 Ticket for the convention is now available via Ticketnet Online: [2022 PPOPCON Convention Ticket Sales](https://ticketnet.com.ph/Events/detail/2022-PPOPCON "2022 PPOPCON Convention Ticket Sales").
 
@@ -170,9 +170,9 @@ Ticket for the convention is now available via Ticketnet Online: [2022 PPOPCON C
 **NEW**: 1-day Convention Tickets
 
 - ₱500 (U$9.70)
-  - April 9, 2022 only
+  + April 9, 2022 only
 - ₱250 (U$4.85)
-  - April 10, 2022 only
+  + April 10, 2022 only
 
 Limited tickets only!
 
@@ -204,25 +204,25 @@ Tickets can also be bought online via Ticketnet Online: [2022 PPOPCON Concert Ti
 
 - Online (regular): ₱900.00 (U$17.18)
 - Online (special/VIP): ₱1,500.00 (U$28.63)
-  - Live soundcheck access
+  + Live soundcheck access
 - General admission: ₱1,000.00 (U$19.09)
-  - Free seating
+  + Free seating
 - Upper box: ₱2,000.00 (U$38.18)
-  - Automatically assigned best available seat
+  + Automatically assigned best available seat
 - Lower box: ₱3,000.00 (U$57.27)
-  - Automatically assigned best available seat
+  + Automatically assigned best available seat
 - Patron B: ₱4,000.00 (U$76.36)
-  - Automatically assigned best available seat
-  - PPOP merch: Sponge fan light
+  + Automatically assigned best available seat
+  + PPOP merch: Sponge fan light
 - Patron A: ₱4,500.00 (U$85.90)
-  - Automatically assigned best available seat
-  - PPOP merch: Sponge fan light
-  - Raffle Ticket: for a chance to join the VIPs for the live soundcheck portion of the concert
+  + Automatically assigned best available seat
+  + PPOP merch: Sponge fan light
+  + Raffle Ticket: for a chance to join the VIPs for the live soundcheck portion of the concert
 - VIP: ₱5,500.00 (U$104.99)
-  - Automatically assigned best available seat
-  - PPOP merch: Sponge fan light
-  - Live soundcheck access
-  - VIP ID pass / VIP fast lane
+  + Automatically assigned best available seat
+  + PPOP merch: Sponge fan light
+  + Live soundcheck access
+  + VIP ID pass / VIP fast lane
 
 *Prices are exclusive of ticketing service charge.*
 {.notecounter}

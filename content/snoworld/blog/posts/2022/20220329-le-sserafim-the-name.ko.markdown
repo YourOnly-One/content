@@ -13,7 +13,7 @@ relCanonical = "https://im.youronly.one/snoworld/ko/le-sserafim-the-name-202288/
 syndication = ["https://twitter.com/YourOnlyONEofcl/status/1508821978915872768", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/626666011835966"]
 
 channels = ["snoworld"]
-categories = ["literature"]
+categories = ["music"]
 keywords = ["Le Sserafim", "The Seraphim", "르세라핌", "ル セラフィム", "Les Sérafim", "שרפים", "레세라핌"]
 #series = [""]
 tags = ["kpop", "explained"]
@@ -125,17 +125,17 @@ HYBE와 쏘스뮤직은 2022년 3월 25일 <q lang="en-PH">IM Fearless</q>라는
 - 한 명의 세라핌, 여섯 개의 날개. 여섯 멤버, 하나의 유닛: 르세라핌 (<bdi lang="en-PH">The Seraphim</bdi>)
 - 불로 정화된 멤버들
   - 미야와키 사쿠라 (<bdi lang="ja">宮脇咲良</bdi> / <bdi lang="ja">みやわきさくら</bdi>)
-    - HKT48(팀 KIV 부주장) 및 IZ*ONE의 전 멤버
-    - 가수, 작곡가, 배우, 모델
-    - <cite>프로듀스48</cite> 전 참가자
+    + HKT48(팀 KIV 부주장) 및 IZ*ONE의 전 멤버
+    + 가수, 작곡가, 배우, 모델
+    + <cite>프로듀스48</cite> 전 참가자
   - 김채원
-    - IZ*ONE의 전 멤버
-    - 싱어송라이터이자 댄서
-    - <cite>프로듀스48</cite> 전 참가자
+    + IZ*ONE의 전 멤버
+    + 싱어송라이터이자 댄서
+    + <cite>프로듀스48</cite> 전 참가자
   - 허윤진
-    - 숙련된 오페라 가수
-    - 영어를 말할 수있다
-    - <cite>프로듀스48</cite> 전 참가자
+    + 숙련된 오페라 가수
+    + 영어를 말할 수있다
+    + <cite>프로듀스48</cite> 전 참가자
 <!-- - 공식 색상은 <span class="text-red">빨간색</span>일 수 있습니다. -->
 
 그룹의 테마는 르세라핌이라는 이름과 <q lang="en-PH">IM Fearless</q>를 모토로 합니다. 세라핌은 천사의 존재 중 최고 등급인 만큼, 이 천사의 숙녀들은 세계 최고 걸그룹임을 증명할 것이다. 르세라핌은 지금까지 아시아 아이돌 걸그룹이 도달하지 못한 높이, 높이 날 것이다.

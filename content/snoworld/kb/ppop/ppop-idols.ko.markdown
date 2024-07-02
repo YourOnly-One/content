@@ -15,7 +15,7 @@ disqus_identifier = "ppop-idol-year-202280"
 syndication = ["https://twitter.com/YourOnlyONEofcl/status/1505862534187917313", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/621411555694745"]
 
 channels = ["snoworld"]
-categories = ["literature"]
+categories = ["music"]
 keywords = ["idols", "ppop", "p-pop", "pop stars", "idol groups"]
 series = ["ppopandidols"]
 tags = ["ppop"]
@@ -108,22 +108,22 @@ type = "article"                                                           # art
 
 - 외모: 아름답고 잘생김
 - 성격:
-  - 건전한 이미지
-  - 개인의 삶과 의견을 비공개로 유지
-  - 순수하고 순수한
-  - 귀엽거나 멋있다
-  - 다가가기 쉬운 사람 과 친한
-  - 영감
-  - 롤 모델
+  + 건전한 이미지
+  + 개인의 삶과 의견을 비공개로 유지
+  + 순수하고 순수한
+  + 귀엽거나 멋있다
+  + 다가가기 쉬운 사람 과 친한
+  + 영감
+  + 롤 모델
 - 다재다능한 예능인이자 연기자
-  - 가수
-  - 댄서
-  - 행동할 수 있다
-  - 호스트 할 수 있습니다
-  - 코미디 [^npr-smap-upped-ante]
+  + 가수
+  + 댄서
+  + 행동할 수 있다
+  + 호스트 할 수 있습니다
+  + 코미디 [^npr-smap-upped-ante]
 - 댄스 루틴
-  - 형성 변경
-  - 포인트 안무
+  + 형성 변경
+  + 포인트 안무
 - 국가와 문화, 목표 시장에 대해 최고로 긍정적인 사람을 나타냅니다.
 
 [^npr-smap-upped-ante]: NPR: [Why The Blueprint For K-Pop Actually Came From Japan](https://www.npr.org/2019/01/08/683339743/why-the-blueprint-for-k-pop-actually-came-from-japan "NPR: Why The Blueprint For K-Pop Actually Came From Japan")
@@ -155,20 +155,20 @@ type = "article"                                                           # art
 
 - 멤버들 각자의 개성과 개성이
 - 구성원은 일반적으로 그룹에서 수행할 역할이 있습니다.
-  - 지도자
-  - 센터
-  - 강렬한 비주얼과 귀여움/쿨
-  - 리드 보컬
-  - 메인 보컬
-  - 서브보컬
-  - 리드 댄서
-  - 메인 댄서
+  + 지도자
+  + 센터
+  + 강렬한 비주얼과 귀여움/쿨
+  + 리드 보컬
+  + 메인 보컬
+  + 서브보컬
+  + 리드 댄서
+  + 메인 댄서
 - 전문성을 갖춘 회원들이 자신의 재능을 뽐내고 있습니다.
-  - 발성
-  - 힙합 / 랩
-  - 브레이크 댄스
-  - 호스팅
-  - 연기
+  + 발성
+  + 힙합 / 랩
+  + 브레이크 댄스
+  + 호스팅
+  + 연기
 - 멤버들은 보통 한 곡에 솔로나 듀오 파트를 가지고 있다.
 
 이 형식은 모닝구무스메 (<bdi lang="ja">モーニング娘</bdi> / <bdi lang="ja-Latn">Mōningu Musume</bdi> / <bdi lang="en">Morning</bdi> <bdi lang="ja-Latn">Musume</bdi>) [^morning-musume-songs-i-wish] [^morning-musume-songs-the-peace] 및 오냥코 클럽 (<bdi lang="ja">おニャン子クラブ</bdi> / <bdi lang="ja-Latn">Onyanko Kurabu</bdi>) [^onyanko-club-songs-sailor-fuku-o-nugasanai-de] 과 같은 일본 아이돌 그룹에서 볼 수 있습니다. 2NE1과 [^2ne1-songs-fire] [^2ne1-songs-i-dont-care] 소녀시대와 [^snsd-songs-gee] [^snsd-songs-genie] 같은 한국 아이돌 그룹에서; 전설 (<bdi lang="tl">Alamat</bdi> (<bdi lang="tl-Tglg">ᜀᜎᜋᜆ᜔</bdi>)) [^alamat-songs-kbye], 비니 (<bdi lang="tl">Bini</bdi> (<bdi lang="tl-Tglg">ᜊᜒᜈᜒ</bdi>)) [^bini-songs-born-to-win], MNL48 (<bdi lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</bdi>) [^mnl48-songs-pag-ibig-fortune-cookie] 및 UGG (<bdi lang="tl-Tglg">ᜂᜄ᜔ᜄ᜔</bdi> / U Go Girls) [^ugg-songs-kalimot] 와 같은 필리핀 아이돌 그룹에서.

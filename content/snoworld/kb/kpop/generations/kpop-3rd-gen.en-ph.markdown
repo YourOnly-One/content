@@ -14,7 +14,7 @@ disqus_identifier = "kpop-3rd-generation-202214"                                
 
 syndication = ["https://twitter.com/YourOnlyONEofcl/status/1485432165697572866", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/586103602558874", "https://pixelfed.social/i/web/post/391577208879477096"]
 channels = ["snoworld"]
-categories = ["literature"]                                                   # taxonomy
+categories = ["music"]
 keywords = ["kpop", "k-pop", "generations", "music"]                                                     # meta keywords
 series = ["kpopgenerations"]                                                       # subset of series taxonomy
 tags = ["kpop", "videos"]                                                         # taxonomy
@@ -65,7 +65,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hangul: 크레용팝
 - Fandom name: Sketchbook
 - Debut: 2012-01-11 as Hurricane Pop
-  - Song: Bing Bing
+  + Song: Bing Bing
 
 {{< video
   id="VTV7N44iqOI"
@@ -80,7 +80,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 - Debut: 2012-07-17 as Crayon Pop
-  - Song: Saturday Night
+  + Song: Saturday Night
 
 {{< video
   id="g3wnue2ivNg"
@@ -95,12 +95,12 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 - Sample songs:
-  - Dancing Queen 2.0 [^crayon-pop-songs-dancing-queen-2]
-  - Bar Bar Bar [^crayon-pop-songs-bar-bar-bar]
-  - 히어로 (HERO) [^crayon-pop-songs-hero]
-  - 어이 (Uh-ee) [^crayon-pop-songs-uh-ee]
-  - Dancing All Night (댄싱 올 나잇) [^crayon-pop-songs-dancing-all-night]
-  - FM [^crayon-pop-songs-fm]
+  + Dancing Queen 2.0 [^crayon-pop-songs-dancing-queen-2]
+  + Bar Bar Bar [^crayon-pop-songs-bar-bar-bar]
+  + 히어로 (HERO) [^crayon-pop-songs-hero]
+  + 어이 (Uh-ee) [^crayon-pop-songs-uh-ee]
+  + Dancing All Night (댄싱 올 나잇) [^crayon-pop-songs-dancing-all-night]
+  + FM [^crayon-pop-songs-fm]
 - Bonus videos:
 
 {{< video
@@ -142,7 +142,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hangul: 딸기우유
 - a subgroup of ***[Crayon Pop](kpop-3rd-gen.md#crayon-pop "Crayon Pop")***
 - Debut: 2014-10-15 as Strawberry Milk
-  - Song: OK
+  + Song: OK
 
 {{< video
   id="1VQ-OJ3vCn0"
@@ -157,7 +157,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 - Debut: 2019-09-05 as Choa & Way
-  - Song: My Universe
+  + Song: My Universe
 
 {{< video
   id="gfjf1I8mk94"
@@ -187,7 +187,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Also known as: (이예진) Amy Lee; A.Leean (North America)
 - Fandom name: Aileeans
 - Debut: 2012-02-08
-  - Song: Heaven
+  + Song: Heaven
 
 {{< video
   id="L9ro1KjkJMg"
@@ -202,9 +202,9 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 - Sample songs:
-  - 첫눈처럼 너에게 가겠다 (I Will Go to You Like the First Snow) [^ailee-songs-i-will-go-to-you-like-the-first-snow] OST for *Guardian: The Lonely and Great God*
-  - Sweater (original English) [^ailee-songs-sweater-english]
-  - Blue Bird [^ailee-songs-blue-bird] OST for *[Start-Up](20201225-start-up-2020.md)*
+  + 첫눈처럼 너에게 가겠다 (I Will Go to You Like the First Snow) [^ailee-songs-i-will-go-to-you-like-the-first-snow] OST for *Guardian: The Lonely and Great God*
+  + Sweater (original English) [^ailee-songs-sweater-english]
+  + Blue Bird [^ailee-songs-blue-bird] OST for *[Start-Up](20201225-start-up-2020.md)*
 - Wikipedia: [Ailee](https://en.wikipedia.org/wiki/Ailee "Ailee")
 
 [^ailee-songs-i-will-go-to-you-like-the-first-snow]: [Ailee] YouTube: [[도깨비 OST Part 9] 에일리 (Ailee) - 첫눈처럼 너에게 가겠다 (I will go to you like the first snow) (Official Audio)](https://www.youtube.com/watch?v=6rS7OUGXUik "[도깨비 OST Part 9] 에일리 (Ailee) - 첫눈처럼 너에게 가겠다 (I will go to you like the first snow) (Official Audio)")
@@ -217,7 +217,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Also known as: New Establish Style Tempo
 - Fandom name: ㄴㅇㅅㅌ; L.O.Λ.E.
 - Debut: 2012-03-15
-  - Song: 페이스 (Face)
+  + Song: 페이스 (Face)
 
 {{< video
   id="gyXy0m-4bvE"
@@ -232,9 +232,9 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 - Did you know?
-  - ***NU'EST*** was originally part of ***Pledis Boys***. It was split into two groups with the other named *Tempest* (*템페스트*)[^soompi-8-things-you-need-to-know-about-nuest] [^kprofiles-tempest-profile-and-facts] (not to be confused with **Yuehua Entertainment**'s ***[TEMPEST](kpop-4th-gen.md#tempest "TEMPEST")***).
+  + ***NU'EST*** was originally part of ***Pledis Boys***. It was split into two groups with the other named *Tempest* (*템페스트*)[^soompi-8-things-you-need-to-know-about-nuest] [^kprofiles-tempest-profile-and-facts] (not to be confused with **Yuehua Entertainment**'s ***[TEMPEST](kpop-4th-gen.md#tempest "TEMPEST")***).
     - *Tempest* disbanded before their debut due to the popularity of *NU'EST* [^kprofiles-tempest-profile-and-facts].
-  - As *Pledis Boys*, they were dubbed as After School Boys.
+  + As *Pledis Boys*, they were dubbed as After School Boys.
 - Wikipedia: [NU'EST](https://en.wikipedia.org/wiki/NU%27EST "NU'EST")
 
 [^soompi-8-things-you-need-to-know-about-nuest]: Soompi: [8 Things You Need To Know About NU'EST](https://www.soompi.com/article/1000181wpp/8-important-things-need-know-nuest "8 Things You Need To Know About NU'EST")
@@ -246,7 +246,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Subgroups: EXO-K (Korean); EXO-M (Mandarin)
 - Fandom name: EXO-L (Love)
 - Debut: 2012-04-08
-  - Song: Mama
+  + Song: Mama
 
 {{< video
   id="KH6ZwnqZ7Wo"
@@ -272,8 +272,8 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 - Did you know?
-  - They were dubbed as the Kings of K-Pop.
-  - Also known as the biggest boyband in the world.
+  + They were dubbed as the Kings of K-Pop.
+  + Also known as the biggest boyband in the world.
 - Wikipedia: [Exo](https://en.wikipedia.org/wiki/Exo "Exo")
 
 ### AOA
@@ -282,7 +282,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Also known as: Ace of Angels
 - Fandom name: Elvis
 - Debut: 2012-07-30
-  - Song: Elvis
+  + Song: Elvis
 
 {{< video
   id="e5KOIrBcwj8"
@@ -297,7 +297,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 {{< video
   id="Q9Cq5m_uu0M"
-  title="[MV] AOA _ ELVIS (Band Ver.)"
+  title="[MV] AOA_ ELVIS (Band Ver.)"
   caption="AOA's 1st single album [Angels' Story] is, like the title suggests, an album filled with stories of angels who fell from the sky. AOA angels sing of different moments of love they experiences for the first time away from the sky. The album is full of new emotions they pick up, like the sweetness of love, the bitterness of betrayal, and more, as well as ones they feel from meeting to people on Earth."
   inlanguage=""
   datecreated=""
@@ -313,7 +313,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 
 - Hangul: 스카프
 - Debut: 2012-08-13
-  - Song: Oh! Dance
+  + Song: Oh! Dance
 
 {{< video
   id="EbSEw7kul5A"
@@ -328,13 +328,13 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 - Sample songs:
-  - Luv Virus [^skarf-songs-luv-virus]
-  - Bye Bye Bye [^skarf-songs-bye-bye-bye]
-  - Anymore [^skarf-songs-anymore]
-  - My Turn [^skarf-songs-my-turn]
-  - Sunny Day [^skarf-songs-sunny-day]
+  + Luv Virus [^skarf-songs-luv-virus]
+  + Bye Bye Bye [^skarf-songs-bye-bye-bye]
+  + Anymore [^skarf-songs-anymore]
+  + My Turn [^skarf-songs-my-turn]
+  + Sunny Day [^skarf-songs-sunny-day]
 - Did you know?
-  - ***SKarf*** was the first girl group to debut composed of Koreans and Singaporeans; and in 2013 with a Japanese member.
+  + ***SKarf*** was the first girl group to debut composed of Koreans and Singaporeans; and in 2013 with a Japanese member.
 - Wikipedia: [Skarf](https://en.wikipedia.org/wiki/Skarf "Skarf")
 
 [^skarf-songs-luv-virus]: [SKarf] YouTube: [SKARF - Luv Virus (2013.06.22) [Music Bank w/ Eng Lyrics]](https://www.youtube.com/watch?v=C-_nbpn-D7k "SKARF - Luv Virus (2013.06.22) [Music Bank w/ Eng Lyrics]")
@@ -351,7 +351,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Also known as: Bangtan Boys
 - Fandom name: A.R.M.Y. (Adorable Representative MC for Youth)
 - Debut: 2013-06-12
-  - Song: No More Dream
+  + Song: No More Dream
 
 {{< video
   id="rBG5L7UsUxA"
@@ -374,7 +374,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hangul: 갓세븐
 - Fandom name: IGOT7
 - Debut: 2014-01-16
-  - Song: Girls Girls Girls
+  + Song: Girls Girls Girls
 
 {{< video
   id="GZ_LCa6X5LM"
@@ -395,7 +395,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hangul: 스칼렛
 - Fandom name:
 - Debut: 2014-03-06
-  - Song: Do Better
+  + Song: Do Better
 
 {{< video
   id="fjAEmDRaxT4"
@@ -414,7 +414,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hangul: 마마무
 - Fandom name: Moomoo
 - Debut: 2014-06-18
-  - Song: Mr.애매모호 (Mr. Ambiguous)
+  + Song: Mr.애매모호 (Mr. Ambiguous)
 
 {{< video
   id="D15-XYRubsc"
@@ -434,7 +434,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 
 - Hangul: 럭키제이
 - Debut: 2014-07-17
-  - Song: Can You Hear Me?
+  + Song: Can You Hear Me?
 
 {{< video
   id="S7hOmBSCtIA"
@@ -455,7 +455,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hangul: 레드벨벳
 - Fandom name: ReVeluv
 - Debut: 2014-08-01
-  - Song: Happiness
+  + Song: Happiness
 
 {{< video
   id="-xaVqMCS_KM"
@@ -477,7 +477,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Fandom name: InnerCircle
 - Debut: 2014-03-01 first public performance
 - Debut: 2014-08-12
-  - Song: Empty; and 컬러링 (Color Ring)
+  + Song: Empty; and 컬러링 (Color Ring)
 
 {{< video
   id="gEqlF5N8UMs"
@@ -509,7 +509,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hangul: 러블리즈
 - Fandom name: Lovelinus
 - Debut: 2014-11-05
-  - Song: 어제처럼 굿나잇 (Good Night Like Yesterday)
+  + Song: 어제처럼 굿나잇 (Good Night Like Yesterday)
 
 {{< video
   id="YXGVpjqIopE"
@@ -532,7 +532,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hangul: 여자친구
 - Fandom name: Buddy
 - Debut: 2015-01-12
-  - Song: Glass Bead
+  + Song: Glass Bead
 
 {{< video
   id="GU7icQFVzHo"
@@ -554,7 +554,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Also known as: CrystaL Clear
 - Fandom name: Cheshire
 - Debut: 2015-03-19
-  - Song: Pepe
+  + Song: Pepe
 
 {{< video
   id="3qmsJbJasfo"
@@ -575,7 +575,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hangul: 몬스타엑스
 - Fandom name: Monbebe
 - Debut: 2015-05-14
-  - Song: 무단침입 (Trespass)
+  + Song: 무단침입 (Trespass)
 
 {{< video
   id="WLeFYKDtw1I"
@@ -597,7 +597,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Also known as: SVT
 - Fandom name: Carat
 - Debut: 2015-05-26
-  - Song: 아낀다 (Adore U)
+  + Song: 아낀다 (Adore U)
 
 {{< video
   id="9rUFQJrCT7M"
@@ -612,10 +612,10 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 - Did you know?
-  - They are known as self-producing.
-  - Called the Performance Kings.
-  - Also dubbed as the Theater Kids of K-pop.
-  - And as the K-pop Performance Powerhouse.
+  + They are known as self-producing.
+  + Called the Performance Kings.
+  + Also dubbed as the Theater Kids of K-pop.
+  + And as the K-pop Performance Powerhouse.
 - Wikipedia: [Seventeen (South Korean band)](https://en.wikipedia.org/wiki/Seventeen_(South_Korean_band) "Seventeen (South Korean band)")
 
 ### iKON
@@ -623,7 +623,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hangul: 아이콘
 - Fandom name: iKONIC
 - Debut: 2015-09-15
-  - Song: My Type
+  + Song: My Type
 
 {{< video
   id="ZS6vfv4sszg"
@@ -645,7 +645,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Kana: トゥワイス
 - Fandom name: Once
 - Debut: 2015-10-20
-  - Song: Like Ooh-Ahh
+  + Song: Like Ooh-Ahh
 
 {{< video
   id="vYkGpOeqp4g"
@@ -671,7 +671,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Subgroups: Wonder Unit; Joy Unit; Sweet Unit; Natural Unit
 - Fandom name: Ujung
 - Debut: 2016-02-25
-  - Song: Mo Mo Mo; Catch Me
+  + Song: Mo Mo Mo; Catch Me
 
 {{< video
   id="QRcrEidaSGQ"
@@ -697,7 +697,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 
 - a subgroup of ***[NCT](kpop-3rd-gen.md#nct "NCT")***
 - Debut: 2016-04-09
-  - Song: 일곱 번째 감각 (The 7th Sense); 위드아웃 유 (Without You)
+  + Song: 일곱 번째 감각 (The 7th Sense); 위드아웃 유 (Without You)
 
 {{< video
   id="NCVwGm6In5o"
@@ -726,7 +726,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 
 - a subgroup of ***[NCT](kpop-3rd-gen.md#nct "NCT")***
 - Debut: 2016-07-07
-  - Song: Fire Truck; Once Again
+  + Song: Fire Truck; Once Again
 
 {{< video
   id="uOYrKOz88Uc"
@@ -755,7 +755,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 
 - a subgroup of ***[NCT](kpop-3rd-gen.md#nct "NCT")***
 - Debut: 2016-08-24
-  - Song: Chewing Gum
+  + Song: Chewing Gum
 
 {{< video
   id="tu-8AJBqUm8"
@@ -775,7 +775,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - a subgroup of ***[NCT](kpop-3rd-gen.md#nct "NCT")***
 - Fandom name: WayZenNi
 - Debut: 2019-01-17
-  - Song: 梦想发射计划 (Dream Launch)
+  + Song: 梦想发射计划 (Dream Launch)
 
 {{< video
   id="jxKIOhAwrik"
@@ -796,7 +796,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hangul: 아이오아이
 - Also known as: Ideal of Idol
 - Debut: 2016-05-04
-  - Song: Dream Girls
+  + Song: Dream Girls
 
 {{< video
   id="Zv1K-ZtPQfs"
@@ -817,7 +817,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hangul: 하이틴
 - Also known as: HighTeen
 - Debut: 2016-05-25
-  - Song: Grow Up
+  + Song: Grow Up
 
 {{< video
   id="byKQcJ-7DMA"
@@ -832,7 +832,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 - Did you know?
-  - Famous YouTuber *Jessica Lee* (*Lee Seul*; *이슬*) was a member of ***HIGHTEEN*** and performed for their single "Grow Up" before she decided to go back home in the Philippines. [^highteen-jessica-lee]
+  + Famous YouTuber *Jessica Lee* (*Lee Seul*; *이슬*) was a member of ***HIGHTEEN*** and performed for their single "Grow Up" before she decided to go back home in the Philippines. [^highteen-jessica-lee]
 
 [^highteen-jessica-lee]: [HIGHTEEN] YouTube: [Jessica Lee](https://www.youtube.com/channel/UCLPLXSPgySkBypwpi6BrMwg "Jessica Lee")
 
@@ -841,7 +841,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hangul: 청하
 - Debut: 2016-05-04 as a member of ***[I.O.I](kpop-3rd-gen.md#i-o-i "I.O.I")***
 - Debut: 2017-06-17 as a solo act
-  - Song: Why Don't You Know
+  + Song: Why Don't You Know
 
 {{< video
   id="EHgeGRU3wDI"
@@ -864,7 +864,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Subgroups: SeMiNa; 5959
 - Fandom name: Dan-jjakn
 - Debut: 2016-06-28
-  - Song: Wonderland
+  + Song: Wonderland
 
 {{< video
   id="8n7qIFevh94"
@@ -887,7 +887,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Debut: 2016-05-04 as a member of ***[I.O.I](kpop-3rd-gen.md#i-o-i "I.O.I")***
 - Debut: 2016-06-28 as a member of ***[gu9udan](kpop-3rd-gen.md#gu9udan "gu9udan")***
 - Debut: 2016-11-23 as a solo act
-  - Song: Flower Way
+  + Song: Flower Way
 
 {{< video
   id="2xxo9ZtS0Bc"
@@ -902,12 +902,12 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 - Sample songs:
-  - Baby I Love U [^kim-se-jeong-songs-baby-i-love-u]
-  - Warning [^kim-se-jeong-songs-warning]
-  - SKYLINE [^kim-se-jeong-songs-skyline]
-  - Whale [^kim-se-jeong-songs-whale]
-  - 화분 (Plant) [^kim-se-jeong-songs-plant]
-  - Tunnel [^kim-se-jeong-songs-tunnel]
+  + Baby I Love U [^kim-se-jeong-songs-baby-i-love-u]
+  + Warning [^kim-se-jeong-songs-warning]
+  + SKYLINE [^kim-se-jeong-songs-skyline]
+  + Whale [^kim-se-jeong-songs-whale]
+  + 화분 (Plant) [^kim-se-jeong-songs-plant]
+  + Tunnel [^kim-se-jeong-songs-tunnel]
 - Bonus videos:
 
 {{< video
@@ -923,15 +923,15 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 - Did you know?
-  - She is called by fans as God Sejeong.
-  - She is also known as Queen Sejeong.
+  + She is called by fans as God Sejeong.
+  + She is also known as Queen Sejeong.
 - Wikipedia: [Kim Se-jeong](https://en.wikipedia.org/wiki/Kim_Se-jeong "Kim Se-jeong")
 
-[^kim-se-jeong-songs-baby-i-love-u]: [Kim Se Jeong] YouTube: [[MV] KIM SEJEONG(김세정) _ Baby I Love U](https://www.youtube.com/watch?v=y9pB01pxgBY "[MV] KIM SEJEONG(김세정) _Baby I Love U")
-[^kim-se-jeong-songs-warning]: [Kim Se Jeong] YouTube: [[MV] KIMSEJEONG(김세정) _ Warning (Feat. lIlBOI)](https://www.youtube.com/watch?v=JwaROOrBGfk "[MV] KIMSEJEONG(김세정)_ Warning (Feat. lIlBOI)")
+[^kim-se-jeong-songs-baby-i-love-u]: [Kim Se Jeong] YouTube: [[MV] KIM SEJEONG(김세정) _Baby I Love U](https://www.youtube.com/watch?v=y9pB01pxgBY "[MV] KIM SEJEONG(김세정)_Baby I Love U")
+[^kim-se-jeong-songs-warning]: [Kim Se Jeong] YouTube: [[MV] KIMSEJEONG(김세정) *Warning (Feat. lIlBOI)](https://www.youtube.com/watch?v=JwaROOrBGfk "[MV] KIMSEJEONG(김세정)* Warning (Feat. lIlBOI)")
 [^kim-se-jeong-songs-skyline]: [Kim Se Jeong] YouTube: [🎬Like a scene from a movie, singing in front of the skyline🏙✨ SEJEONG - SKYLINE LIVE 4K | dingomusic](https://www.youtube.com/watch?v=KtC-YoxpPrU "🎬Like a scene from a movie, singing in front of the skyline🏙✨ SEJEONG - SKYLINE LIVE 4K | dingomusic")
 [^kim-se-jeong-songs-whale]: [Kim Se Jeong] YouTube: [세정(SEJEONG) - 'Whale' LIVE CLIP](https://www.youtube.com/watch?v=qmV2yjyEJxA "세정(SEJEONG) - 'Whale' LIVE CLIP")
-[^kim-se-jeong-songs-plant]: [Kim Se Jeong] YouTube: [[MV] SEJEONG(세정) _ Plant(화분)](https://www.youtube.com/watch?v=vDdQv-safCs "[MV] SEJEONG(세정) _ Plant(화분)")
+[^kim-se-jeong-songs-plant]: [Kim Se Jeong] YouTube: [[MV] SEJEONG(세정) *Plant(화분)](https://www.youtube.com/watch?v=vDdQv-safCs "[MV] SEJEONG(세정)* Plant(화분)")
 [^kim-se-jeong-songs-tunnel]: [Kim Se Jeong] YouTube: [[ENG SUB] 세정 (SEJEONG) '터널 (Tunnel)' Lyric Videoㅣ리릭비디오 | 4Kㅣ딩고뮤직ㅣDingo Music](https://www.youtube.com/watch?v=Ddk6OkuVzFE "[ENG SUB] 세정 (SEJEONG) '터널 (Tunnel)' Lyric Videoㅣ리릭비디오 | 4Kㅣ딩고뮤직ㅣDingo Music")
 
 ### BLΛƆKPIИK
@@ -939,7 +939,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hangul: 블랙핑크
 - Fandom name: Blink
 - Debut: 2016-08-08
-  - Song: 붐바야 (Boombayah)
+  + Song: 붐바야 (Boombayah)
 
 {{< video
   id="LpSH8MrYCfg"
@@ -954,7 +954,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 - Sample songs:
-  - How You Like That [^blackpink-songs-how-you-like-that]
+  + How You Like That [^blackpink-songs-how-you-like-that]
 - Wikipedia: [Blackpink](https://en.wikipedia.org/wiki/Blackpink "Blackpink")
 
 [^blackpink-songs-how-you-like-that]: [BLΛƆKPIИK] YouTube: [BLACKPINK(블랙핑크) - How You Like That @인기가요 inkigayo 20200719](https://www.youtube.com/watch?v=IZnUWDugxnQ "BLACKPINK(블랙핑크) - How You Like That @인기가요 inkigayo 20200719")
@@ -966,7 +966,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hanzi: 牛头犬
 - Fandom name:
 - Debut: 2016-10-20
-  - Song: Why Not
+  + Song: Why Not
 
 {{< video
   id="dOnK_GOR3W8"
@@ -986,11 +986,11 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Also known as: Voice to New World
 - Fandom name: ALICE (Always We Love the VoICE)
 - Debut: 2016-11-07
-  - Song: I'm Fine; What Time Is It Now?
+  + Song: I'm Fine; What Time Is It Now?
 
 {{< video
   id="HHJB_Zbn-lQ"
-  title="[MV] VICTON(빅톤) _I'm fine(아무렇지 않은 척)"
+  title="[MV] VICTON(빅톤)_I'm fine(아무렇지 않은 척)"
   caption=""
   inlanguage=""
   datecreated=""
@@ -1020,7 +1020,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hangul: 더보이즈
 - Fandom name: The B (더비)
 - Debut: 2017-10-12 first song release
-  - Song: I'm Your Boy
+  + Song: I'm Your Boy
 
 {{< video
   id="m8EUx9Itrd4"
@@ -1035,7 +1035,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 - Debut: 2017-12-06 first album release
-  - Song: Boy
+  + Song: Boy
 
 {{< video
   id="5xBNro6otb0"
@@ -1050,7 +1050,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 - Did you Know?
-  - They were formerly known as *Cre.kerz*.
+  + They were formerly known as *Cre.kerz*.
 - Wikipedia: [The Boyz (South Korean band)](https://en.wikipedia.org/wiki/The_Boyz_(South_Korean_band))
 
 ### fromis_9
@@ -1058,7 +1058,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hangul: 프로미스 9; 프로미스나인
 - Fandom name: Flover
 - Debut: 2017-11-29
-  - Song: Glass Shoes
+  + Song: Glass Shoes
 
 {{< video
   id="yuPVSvtrUfk"
@@ -1082,7 +1082,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Also known as: SKZ
 - Fandom name: Stay
 - Debut: 2018-01-08
-  - Song: Hellevator
+  + Song: Hellevator
 
 {{< video
   id="oDhUiQBI_xw"
@@ -1103,7 +1103,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hangul: (여자)아이들
 - Fandom name: Neverland
 - Debut: 2018-05-02
-  - Song: Latata
+  + Song: Latata
 
 {{< video
   id="eZRmP-l3Nz0"
@@ -1126,7 +1126,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Formerly known as: KQ Fellaz
 - Fandom name: ATINY (ATEEZ DESTINY)
 - Debut: 2018-05-18 as KQ Fellaz
-  - Dancing to: *Pick It Up* by **Famous Dex**
+  + Dancing to: *Pick It Up* by **Famous Dex**
 
 {{< video
   id="5A9EMLrURS8"
@@ -1141,7 +1141,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 - Debut: 2018-10-24
-  - Song: 해적왕 (Pirate King)
+  + Song: 해적왕 (Pirate King)
 
 {{< video
   id="KAXWhITwJp8"
@@ -1163,7 +1163,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Kana: 今月の少女
 - Fandom name: Orbit
 - Debut: 2018-08-20
-  - Song: favOriTe; Hi High
+  + Song: favOriTe; Hi High
 
 {{< video
   id="qDmO3SwMx4Y"
@@ -1196,7 +1196,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Also known as: WeGirls
 - Fandom name:
 - Debut: 2018-08-31
-  - Song: On Air
+  + Song: On Air
 
 {{< video
   id="gKKiqy6U8Xk"
@@ -1216,7 +1216,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Also known as: VRVR
 - Fandom name: VERRER
 - Debut: 2018-09-21
-  - Song: Super Special
+  + Song: Super Special
 
 {{< video
   id="D1hWFlHRRas"
@@ -1238,7 +1238,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Kana: アイズワン
 - Fandom name: WIZ*ONE
 - Debut: 2018-10-29
-  - Song: La Vie en Rose
+  + Song: La Vie en Rose
 
 {{< video
   id="aV87Og9XQnM"
@@ -1261,7 +1261,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hangul: 체리블렛
 - Fandom name: Lullet (Love, Unique, Light, Laugh, Everlasting, Treasure)
 - Debut: 2019-01-21
-  - Song: Q&A; Violet
+  + Song: Q&A; Violet
 
 {{< video
   id="DBKESlZxl9M"
@@ -1287,8 +1287,8 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 - Sample songs:
-  - Really Really [^cherry-bullet-songs-really-really]
-  - Aloha Oe [^cherry-bullet-songs-aloha-oe]
+  + Really Really [^cherry-bullet-songs-really-really]
+  + Aloha Oe [^cherry-bullet-songs-aloha-oe]
 - Wikipedia: [Cherry Bullet](https://en.wikipedia.org/wiki/Cherry_Bullet "Cherry Bullet")
 
 [^cherry-bullet-songs-really-really]: [Cherry Bullet] YouTube: [[Cherry Bullet - Really Really] Comeback Stage | M COUNTDOWN 190523 EP.620](https://www.youtube.com/watch?v=A2LvKjSUyUQ "[Cherry Bullet - Really Really] Comeback Stage | M COUNTDOWN 190523 EP.620")
@@ -1299,7 +1299,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hangul: 있지
 - Fandom name: MIDZY
 - Debut: 2019-02-12
-  - Song: Dalla Dalla
+  + Song: Dalla Dalla
 
 {{< video
   id="2xU2PyI-sEI"
@@ -1322,7 +1322,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Also known as: TXT
 - Fandom name: M.O.A. (Moment Of Alwaysness)
 - Debut: 2019-03-04
-  - Song: Crown
+  + Song: Crown
 
 {{< video
   id="JtQlgdN-onM"
@@ -1342,7 +1342,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 
 - Hangul: 슈퍼엠
 - Debut: 2019-10-04
-  - Song: Jopping
+  + Song: Jopping
 
 {{< video
   id="pAnK1y7qjuE"
@@ -1357,7 +1357,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 - Did you know?
-  - They are called as The Avengers of K-pop.
+  + They are called as The Avengers of K-pop.
 - Wikipedia: [SuperM](https://en.wikipedia.org/wiki/SuperM "SuperM")
 
 ## 2020
@@ -1367,7 +1367,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hangul: 위클리
 - Fandom name: Daileee
 - Debut: 2020-06-30
-  - Song: Tag Me (@Me)
+  + Song: Tag Me (@Me)
 
 {{< video
   id="yc0cBe6Kq9g"
@@ -1382,14 +1382,14 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 - Did you know?
-  - Their temporary name was *FAVE GIRLS*, then *PlayM Girls*. It wasn't until 2020-05-11 they finally settled on ***Weeekly***.
+  + Their temporary name was *FAVE GIRLS*, then *PlayM Girls*. It wasn't until 2020-05-11 they finally settled on ***Weeekly***.
 - Wikipedia: [Weeekly](https://en.wikipedia.org/wiki/Weeekly)
 
 ### SSAK3
 
 - Hangul: 싹쓰리
 - Debut: 2020-07-25
-  - Song: Beach Again
+  + Song: Beach Again
 
 {{< video
   id="ESKfHHtiSjs"
@@ -1410,7 +1410,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hangul: 트레저
 - Fandom name: Treasure Maker
 - Debut: 2020-08-07
-  - Song: Boy
+  + Song: Boy
 
 {{< video
   id="JSAfPh1A25E"
@@ -1431,7 +1431,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hangul: 위아이
 - Fandom name: RUi (루아이)
 - Debut: 2020-10-05
-  - Song: Twilight
+  + Song: Twilight
 
 {{< video
   id="2S2KnnPKDjQ"
@@ -1446,14 +1446,14 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 - Did you know?
-  - Their project name was *OUIBOYS*.
+  + Their project name was *OUIBOYS*.
 - Wikipedia: [WEi](https://en.wikipedia.org/wiki/WEi)
 
 ### Refund Sisters
 
 - Hangul: 환불원정대
 - Debut: 2020-10-10
-  - Song: Don't Touch Me
+  + Song: Don't Touch Me
 
 {{< video
   id="PXE2Ykf8fXQ"
@@ -1474,7 +1474,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hangul: 피원하모니
 - Also known as: P1H
 - Debut: 2020-10-28
-  - Song: Siren
+  + Song: Siren
 
 {{< video
   id="eKp5CAsKzmg"
@@ -1496,7 +1496,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Also known as: STAr to a Young Culture
 - Fandom name: SWITH
 - Debut: 2020-11-12
-  - Song: So Bad
+  + Song: So Bad
 
 {{< video
   id="gMe1c4UegBY"
@@ -1511,10 +1511,10 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 - Sample songs:
-  - ASAP [^stayc-songs-asap]
-  - STEREOTYPE [^stayc-songs-stereotype]
+  + ASAP [^stayc-songs-asap]
+  + STEREOTYPE [^stayc-songs-stereotype]
 - Did you know?
-  - They were originally known as *High Up Girls*.
+  + They were originally known as *High Up Girls*.
 - Wikipedia: [STAYC](https://en.wikipedia.org/wiki/STAYC "STAYC")
 
 [^stayc-songs-asap]: [STAYC] YouTube: [STAYC(스테이씨) 'ASAP' MV](https://www.youtube.com/watch?v=NsY-9MCOIAQ "STAYC(스테이씨) 'ASAP' MV")
@@ -1525,7 +1525,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hangul: 에스
 - Fandom name: MY
 - Debut: 2020-11-17
-  - Song: Black Mamba
+  + Song: Black Mamba
 
 {{< video
   id="Ky5RT5oGg0w"
@@ -1540,7 +1540,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 - Sample songs:
-  - Dreams Come True [^aespa-songs-dreams-come-true], a remake of ***[S.E.S.](kpop-1st-gen.md#ses "S.E.S.")***'s cover of *Rakastuin mä looseriin* [^nylon-beat-songs-like-a-fool] by Finnish girl group ***Nylon Beat*** [^nylon-beat-wikipedia].
+  + Dreams Come True [^aespa-songs-dreams-come-true], a remake of ***[S.E.S.](kpop-1st-gen.md#ses "S.E.S.")***'s cover of *Rakastuin mä looseriin* [^nylon-beat-songs-like-a-fool] by Finnish girl group ***Nylon Beat*** [^nylon-beat-wikipedia].
 - Wikipedia: [Aespa](https://en.wikipedia.org/wiki/Aespa "Aespa")
 
 [^aespa-songs-dreams-come-true]: [æspa] YouTube: [(ENG sub) [쇼! 음악중심] 에스파 - 드림스 컴 트루 (aespa - Dreams Come True), MBC 220108 방송](https://www.youtube.com/watch?v=bNTKqRwh2XM "(ENG sub) [쇼! 음악중심] 에스파 - 드림스 컴 트루 (aespa - Dreams Come True), MBC 220108 방송")
@@ -1553,7 +1553,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Kana: ンハイプン (Enhaipun)
 - Fandom name: ENGENE
 - Debut: 2020-11-30
-  - Song: Given-Taken
+  + Song: Given-Taken
 
 {{< video
   id="nQ6wLuYvGd4"
@@ -1578,7 +1578,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Also known as: Eight Apex
 - Fandom name: ZENITH
 - Debut: 2021-06-08
-  - Song: Lock Down
+  + Song: Lock Down
 
 {{< video
   id="MPvVZNYt0k0"
@@ -1599,7 +1599,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 - Hangul: 아이브
 - Fandom name: DIVE
 - Debut: 2021-12-01
-  - Song: Eleven
+  + Song: Eleven
 
 {{< video
   id="--FmExEAsM8"

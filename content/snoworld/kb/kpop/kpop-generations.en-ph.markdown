@@ -15,7 +15,7 @@ disqus_identifier = "kpop-generations-202218"                                   
 syndication = ["https://twitter.com/YourOnlyONEofcl/status/1486917198086119429", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/588547655647802", "https://pixelfed.social/i/web/post/393935717720373632"]
 
 channels = ["snoworld"]
-categories = ["literature"]                                                   # taxonomy
+categories = ["music"]
 keywords = ["kpop", "k-pop", "generations", "music"]                                                     # meta keywords
 series = ["kpopandidols"]                                                       # subset of series taxonomy
 tags = ["kpop"]                                                         # taxonomy
@@ -123,19 +123,19 @@ Is setting the K-pop Generations on 10 *calendar years* the right thing to do? I
 Every generation was practically led by a boy group:
 
 - 1st Generation:
-  - Seo Taiji & Boys (1992-04-11)
-  - Deux (1993-04-23)
-  - Solid (1993-12-15)
+  + Seo Taiji & Boys (1992-04-11)
+  + Deux (1993-04-23)
+  + Solid (1993-12-15)
 
 - 2nd Generation:
-  - TVXQ! (2004-01-14)
-  - SS501 (2005-06-22)
-  - Super Junior (2005-09-11)
+  + TVXQ! (2004-01-14)
+  + SS501 (2005-06-22)
+  + Super Junior (2005-09-11)
 
 - 3rd Generation:
-  - EXO (2012-04-08)
-  - BTS (2013-06-12)
-  - GOT7 (2014-01-16)
+  + EXO (2012-04-08)
+  + BTS (2013-06-12)
+  + GOT7 (2014-01-16)
 
 But by January 1, 2022, when the 4th Generation of K-pop music [acts] started, a major change happened. It was opened by a supergroup of women who *GOT the beat*:
 

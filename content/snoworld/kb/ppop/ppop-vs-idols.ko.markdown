@@ -15,7 +15,7 @@ disqus_identifier = "ppop-versus-idols-202269"                                  
 syndication = ["https://twitter.com/YourOnlyONEofcl/status/1502166914012835846", "https://mastodon.social/@youronlyone/107936458933893005", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/614850043017563", "https://diasp.org/posts/2a904d108331013a8ee228a1592b385a"]
 
 channels = ["snoworld"]
-categories = ["literature"]                                                   # taxonomy
+categories = ["music"]
 keywords = ["ppop", "p-pop", "idols", "idol industry", "pinoy idol", "pilipino idol", "philippine idol", "idol culture", "idol music", "idol acts", "solo idol", "idol groups", "opm", "philippine music", "pinoy pop", "pinoy popular music", "philippine pop", "philippine popular music", "pilipino pop", "pilipino popular music", "music"]                                                     # meta keywords
 series = ["ppopandidols"]                                                       # subset of series taxonomy
 tags = ["ppop"]                                                         # taxonomy

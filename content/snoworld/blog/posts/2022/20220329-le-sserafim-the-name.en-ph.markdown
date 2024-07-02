@@ -15,7 +15,7 @@ relCanonical = "https://im.youronly.one/snoworld/le-sserafim-the-name-202288/"
 syndication = ["https://twitter.com/YourOnlyONEofcl/status/1508821970913095680", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/626666011835966"]
 
 channels = ["snoworld"]
-categories = ["literature"]
+categories = ["music"]
 keywords = ["Le Sserafim", "The Seraphim", "르세라핌", "ル セラフィム", "Les Sérafim", "שרפים", "레세라핌"]
 #series = [""]
 tags = ["kpop", "explained"]
@@ -125,17 +125,17 @@ Because:
 - One seraphim, six wings. Six members, one unit: <bdi lang="ko-Latn">Le Sserafim</bdi> (<bdi lang="en">The Seraphim</bdi>)
 - The members were purified by fire
   - <bdi lang="ja-Latn">Miyawaki Sakura</bdi> (<bdi lang="ja">宮脇咲良</bdi> / <bdi lang="ja">みやわきさくら</bdi>; <bdi lang="ko">미야와키 사쿠라</bdi>)
-    - Former member of HKT48 (vice captain of Team KIV) and IZ*ONE
-    - Singer, songwriter, actress, and model
-    - Former contestant in <cite><bdi lang="en-PH">Produce 48</bdi></cite>
+    + Former member of HKT48 (vice captain of Team KIV) and IZ*ONE
+    + Singer, songwriter, actress, and model
+    + Former contestant in <cite><bdi lang="en-PH">Produce 48</bdi></cite>
   - <bdi lang="ko-Latn">Kim Chae Won</bdi> (<bdi lang="ko">김채원</bdi>)
-    - Former member of IZ*ONE
-    - Singer, songwriter, and dancer
-    - Former contestant in <cite><bdi lang="en-PH">Produce 48</bdi></cite>
+    + Former member of IZ*ONE
+    + Singer, songwriter, and dancer
+    + Former contestant in <cite><bdi lang="en-PH">Produce 48</bdi></cite>
   - <bdi lang="ko-Latn">Heo Yun Jin</bdi> (<bdi lang="ko">허윤진</bdi>)
-    - Trained opera singer
-    - Can speak English
-    - Former contestant in <cite><bdi lang="en-PH">Produce 48</bdi></cite>
+    + Trained opera singer
+    + Can speak English
+    + Former contestant in <cite><bdi lang="en-PH">Produce 48</bdi></cite>
 <!-- - Their official colour may be <span class="text-red">red</span> -->
 
 The group's theme will revolve around their name <bdi lang="ko-Latn">Le Sserafim</bdi> and their motto <q>IM Fearless</q>. As the seraphim is the highest order of angelic beings, these angelic ladies will prove they are the highest ranking girl group globally. Le Sserafim will fly high and reach heights where no other Asian idol girl group ever reached.

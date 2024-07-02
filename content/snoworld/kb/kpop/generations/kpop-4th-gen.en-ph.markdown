@@ -15,7 +15,7 @@ disqus_identifier = "kpop-4th-generation-202217"                                
 syndication = ["https://twitter.com/YourOnlyONEofcl/status/1486081448360628225", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/587172542451980", "https://pixelfed.social/i/web/post/392324088302587570"]
 
 channels = ["snoworld"]
-categories = ["literature"]                                                   # taxonomy
+categories = ["music"]
 keywords = ["kpop", "k-pop", "generations", "music"]                                                     # meta keywords
 series = ["kpopgenerations"]                                                       # subset of series taxonomy
 tags = ["kpop", "videos"]                                                         # taxonomy
@@ -70,7 +70,7 @@ In February, ***VIVIZ*** and ***NMIXX*** strenghtened the girl power theme with 
 - Hangul: 갓더비트
 - a subgroup of supergroup ***[Girls On Top](kpop-4th-gen.md#girls-on-top "Girls On Top")***
 - Debut: 2022-01-01
-  - Song: Step Back
+  + Song: Step Back
 
 {{< video
   id="uBY1AoiF5Vo"
@@ -91,7 +91,7 @@ In February, ***VIVIZ*** and ***NMIXX*** strenghtened the girl power theme with 
 - Hangul: 케플러
 - Fandom name: Kep1ian
 - Debut: 2022-01-03
-  - Song: Wa Da Da
+  + Song: Wa Da Da
 
 {{< video
   id="Zzl9eAcI1lk"
@@ -113,7 +113,7 @@ In February, ***VIVIZ*** and ***NMIXX*** strenghtened the girl power theme with 
 - Also known as: TPST
 - Fandom name: TBA (maybe STORM or W1ND)
 - Debut: 2022-01-05 (1st dance video)
-  - Song: Kick It by ***[NCT 127](kpop-3rd-gen.md#nct-127 "NCT 127")***
+  + Song: Kick It by ***[NCT 127](kpop-3rd-gen.md#nct-127 "NCT 127")***
 
 {{< video
   id="yhCb3nEqxrQ"
@@ -128,13 +128,13 @@ In February, ***VIVIZ*** and ***NMIXX*** strenghtened the girl power theme with 
 >}}
 
 - Debut: 2022-03-02
-  - Song: TBA
+  + Song: TBA
 - Sample covers:
-  - *HIT* [^tempest-cover-hit-seventeen] by ***[SEVENTEEN](kpop-3rd-gen.md#seventeen "SEVENTEEN")***
+  + *HIT* [^tempest-cover-hit-seventeen] by ***[SEVENTEEN](kpop-3rd-gen.md#seventeen "SEVENTEEN")***
 - Did you know?
-  - ***TEMPEST*** (***템페스트***) from **Yuehua Entertainment** shares the same name as the *Tempest* (*템페스트*) from **Pledis Entertainment**.
+  + ***TEMPEST*** (***템페스트***) from **Yuehua Entertainment** shares the same name as the *Tempest* (*템페스트*) from **Pledis Entertainment**.
     - *Tempest* from **Pledis Entertainment** disbanded before their debut due to the popularity of their other half ***[NU'EST](kpop-3rd-gen.md#nu-est "NU'EST")***. [^soompi-8-things-you-need-to-know-about-nuest] [^kprofiles-tempest-profile-and-facts]
-  - **Yuehua Entertainment** trademarked the names *TEMPEST*, *TPST*, and *템페스트* on 2021-06-08. [^naver-news-tempest-tpst-trademarked]
+  + **Yuehua Entertainment** trademarked the names *TEMPEST*, *TPST*, and *템페스트* on 2021-06-08. [^naver-news-tempest-tpst-trademarked]
 - YouTube: [TEMPEST](https://www.youtube.com/channel/UCCViKQ1A1tXhIVKAVEazcaA "TEMPEST")
 
 [^tempest-cover-hit-seventeen]: [TEMPEST] YouTube: [Covered by TPST｜SEVENTEEN - HIT](https://www.youtube.com/watch?v=G7VsjectIzo "Covered by TPST｜SEVENTEEN - HIT")
@@ -148,11 +148,11 @@ In February, ***VIVIZ*** and ***NMIXX*** strenghtened the girl power theme with 
 - Also known as: VIVId dayZ
 - Fandom name: NAV
 - Debut: 2022-02-09
-  - Song: BOP BOP!
+  + Song: BOP BOP!
 
 {{< video
   id="KLF85_qHujQ"
-  title="[MV] VIVIZ _ BOP BOP!"
+  title="[MV] VIVIZ_ BOP BOP!"
   caption=""
   inlanguage=""
   datecreated=""
@@ -163,7 +163,7 @@ In February, ***VIVIZ*** and ***NMIXX*** strenghtened the girl power theme with 
 >}}
 
 - Did you know?
-  - The members of *VIVIZ*—Eunha, SinB, and Umji—are former members of ***[GFRIEND](kpop-3rd-gen.md#gfriend "GFRIEND")***.
+  + The members of *VIVIZ*—Eunha, SinB, and Umji—are former members of ***[GFRIEND](kpop-3rd-gen.md#gfriend "GFRIEND")***.
 - Instagram: [viviz_official](https://www.instagram.com/viviz_official/ "viviz_official")
 - Twitter: [@VIVIZ](https://twitter.com/viviz_official "@VIVIZ")
 - YouTube: [VIVIZ](https://www.youtube.com/c/VIVIZofficial/ "VIVIZ")
@@ -171,7 +171,7 @@ In February, ***VIVIZ*** and ***NMIXX*** strenghtened the girl power theme with 
 ### NMIXX
 
 - Debut: 2022-02-22
-  - Song: O.O
+  + Song: O.O
 
 {{< video
   id="3GWscde8rM8"
@@ -195,7 +195,7 @@ In February, ***VIVIZ*** and ***NMIXX*** strenghtened the girl power theme with 
 - Fandom name: Wingx [^le-sserafim-youtube-shorts]
 - Fandom colour: Shiny Yellow, Purple, and Sea Blue [^le-sserafim-youtube-shorts]
 - Debut: 2022-05
-  - Song: tba
+  + Song: tba
 - Facebook: [LE SSERAFIM](https://www.facebook.com/official.lesserafim/ "LE SSERAFIM")
 - Instagram: [@le_sserafim](https://www.instagram.com/le_sserafim "@le_sserafim")
 - Instagram: [@lesserafimofficial_](https://www.instagram.com/lesserafimofficial_"@lesserafimofficial_")

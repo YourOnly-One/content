@@ -15,7 +15,7 @@ disqus_identifier = "ppop-idol-year-202280"
 syndication = ["https://twitter.com/YourOnlyONEofcl/status/1505862030850347008", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/621410209028213"]
 
 channels = ["snoworld"]
-categories = ["literature"]
+categories = ["music"]
 keywords = ["idols", "ppop", "p-pop", "pop stars", "idol groups"]
 series = ["ppopandidols"]
 tags = ["ppop"]
@@ -108,22 +108,22 @@ P-POPアイドル業界がいつ始まったかを知るには、まずアイド
 
 - 外観：美しくハンサム
 - キャラクター：
-  - 健康的な画像
-  - 個人的な生活や意見を非公開に保つ
-  - 無実で純粋
-  - かわいいまたはかっこいい
-  - 親しみやすい人 及び 人懐っこい
-  - インスピレーション
-  - ロールモデル
+  + 健康的な画像
+  + 個人的な生活や意見を非公開に保つ
+  + 無実で純粋
+  + かわいいまたはかっこいい
+  + 親しみやすい人 及び 人懐っこい
+  + インスピレーション
+  + ロールモデル
 - 多才なエンターテイナー兼パフォーマー
-  - 歌手
-  - ダンサー
-  - 行動することができます
-  - ホストできます
-  - コメディ [^npr-smap-upped-ante]
+  + 歌手
+  + ダンサー
+  + 行動することができます
+  + ホストできます
+  + コメディ [^npr-smap-upped-ante]
 - ダンスルーチン
-  - 形成の変化
-  - ポイント振り付け
+  + 形成の変化
+  + ポイント振り付け
 - 彼らの国と文化、そして彼らのターゲット市場について最高で前向きなことを表します
 
 [^npr-smap-upped-ante]: NPR: [Why The Blueprint For K-Pop Actually Came From Japan](https://www.npr.org/2019/01/08/683339743/why-the-blueprint-for-k-pop-actually-came-from-japan "NPR: Why The Blueprint For K-Pop Actually Came From Japan")
@@ -155,20 +155,20 @@ P-POPアイドル業界がいつ始まったかを知るには、まずアイド
 
 - 各メンバーには独特の性格と個性があります
 - メンバーは通常、グループで果たす役割があります
-  - 盟主
-  - 中心
-  - 力強いビジュアルとかわいらしさ・かっこよさ
-  - リードボーカル
-  - メインボーカル
-  - サブボーカル
-  - リードダンサー
-  - メインダンサー
+  + 盟主
+  + 中心
+  + 力強いビジュアルとかわいらしさ・かっこよさ
+  + リードボーカル
+  + メインボーカル
+  + サブボーカル
+  + リードダンサー
+  + メインダンサー
 - 専門分野のメンバーが才能を披露
-  - 発声
-  - ヒップホップ / ラップ
-  - ブレイクダンス
-  - ホスティング
-  - 演技
+  + 発声
+  + ヒップホップ / ラップ
+  + ブレイクダンス
+  + ホスティング
+  + 演技
 - メンバーは通常、曲の中でソロまたはデュオのパートを持っています
 
 このフォーマットは、モーニング娘 [^morning-musume-songs-i-wish] [^morning-musume-songs-the-peace]。やおニャン子クラブ [^onyanko-club-songs-sailor-fuku-o-nugasanai-de] などの日本のアイドルグループで見られます。 トゥアニーワン（<bdi lang="ko">투애니원</bdi> / <bdi lang="en">2NE1</bdi>） [^2ne1-songs-fire] [^2ne1-songs-i-dont-care] や少女時代（<bdi lang="ko">소녀시대</bdi> / <bdi lang="en">Girls' Generation</bdi> / <bdi lang="ko-Latn">So Nyeo Shi Dae</bdi>（<bdi lang="ko-Latn">SNSD</bdi>）） [^snsd-songs-gee] [^snsd-songs-genie] のような韓国のアイドルグループで。 伝説（<bdi lang="tl">Alamat</bdi>（<bdi lang="tl-Tglg">ᜀᜎᜋᜆ᜔</bdi>）） [^alamat-songs-kbye]、ビニ（<bdi lang="tl">Bini</bdi>（<bdi lang="tl-Tglg">ᜊᜒᜈᜒ</bdi>）） [^bini-songs-born-to-win]、<bdi lang="en-PH">MNL48</bdi>（<bdi lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</bdi>） [^mnl48-songs-pag-ibig-fortune-cookie]、<bdi lang="en-PH">UGG</bdi>（<bdi lang="tl-Tglg">ᜂᜄ᜔ᜄ᜔</bdi> / U Go Girls） [^ugg-songs-kalimot] などのフィリピンのアイドルグループで。

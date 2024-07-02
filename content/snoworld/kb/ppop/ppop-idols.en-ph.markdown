@@ -15,7 +15,7 @@ disqus_identifier = "ppop-idol-year-202280"
 syndication = ["https://twitter.com/YourOnlyONEofcl/status/1505863037361786880", "https://twitter.com/YourOnlyONEofcl/status/1516244391932809217", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/621413485694552"]
 
 channels = ["snoworld"]
-categories = ["literature"]
+categories = ["music"]
 keywords = ["idols", "ppop", "p-pop", "pop stars", "idol groups"]
 series = ["ppopandidols"]
 tags = ["ppop"]
@@ -108,22 +108,22 @@ With these in mind, an idol—solo or group—should have these characteristics:
 
 - Appearance: beautiful and handsome
 - Character:
-  - wholesome image
-  - keeps their personal lives and opinions private
-  - innocent and pure
-  - cute or cool
-  - approachable and friendly person
-  - an inspiration
-  - a role model
+  + wholesome image
+  + keeps their personal lives and opinions private
+  + innocent and pure
+  + cute or cool
+  + approachable and friendly person
+  + an inspiration
+  + a role model
 - Multitalented entertainer and performer
-  - a singer
-  - a dancer
-  - can act
-  - can host
-  - comedic [^npr-smap-upped-ante]
+  + a singer
+  + a dancer
+  + can act
+  + can host
+  + comedic [^npr-smap-upped-ante]
 - Dance routines
-  - formation changes
-  - point choreography
+  + formation changes
+  + point choreography
 - Represents the best and positive about their nation and culture, and their target market
 
 [^npr-smap-upped-ante]: NPR: [Why The Blueprint For K-Pop Actually Came From Japan](https://www.npr.org/2019/01/08/683339743/why-the-blueprint-for-k-pop-actually-came-from-japan "NPR: Why The Blueprint For K-Pop Actually Came From Japan")
@@ -155,20 +155,20 @@ There are additional characteristics for groups to be considered an idol. These 
 
 - Each member have a unique character and personality
 - Members usually have a role to play in the group
-  - leader
-  - center
-  - strong visuals and cuteness/coolness
-  - lead vocals
-  - main vocals
-  - sub-vocals
-  - lead dancer
-  - main dancer
+  + leader
+  + center
+  + strong visuals and cuteness/coolness
+  + lead vocals
+  + main vocals
+  + sub-vocals
+  + lead dancer
+  + main dancer
 - Members with specializations showcase their talents
-  - vocalizations
-  - hip hop / rapping
-  - breakdancing
-  - hosting
-  - acting
+  + vocalizations
+  + hip hop / rapping
+  + breakdancing
+  + hosting
+  + acting
 - Members usually have a solo or duo part in a song
 
 This format is seen in Japanese idol groups like Morning Musume (<bdi lang="ja">モーニング娘</bdi> / <bdi lang="ja-Latn">Mōningu Musume</bdi>) [^morning-musume-songs-i-wish] [^morning-musume-songs-the-peace] and Onyanko Club (<bdi lang="ja">おニャン子クラブ</bdi> / <bdi lang="ja-Latn">Onyanko Kurabu</bdi>) [^onyanko-club-songs-sailor-fuku-o-nugasanai-de]; in Korean idol groups like 2NE1 (<bdi lang="ko">투애니원</bdi>) [^2ne1-songs-fire] [^2ne1-songs-i-dont-care] and Girls' Generation (<bdi lang="ko">소녀시대</bdi> / <bdi lang="ko-Latn">So Nyeo Shi Dae</bdi> (<bdi lang="ko-Latn">SNSD</bdi>)) [^snsd-songs-gee] [^snsd-songs-genie]; and in Pinoy idol groups like Alamat (<bdi lang="tl-Tglg">ᜀᜎᜋᜆ᜔</bdi>) [^alamat-songs-kbye], Bini (<bdi lang="tl-Tglg">ᜊᜒᜈᜒ</bdi>) [^bini-songs-born-to-win], MNL48 (<bdi lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</bdi>) [^mnl48-songs-pag-ibig-fortune-cookie], and UGG (<bdi lang="tl-Tglg">ᜂᜄ᜔ᜄ᜔</bdi> / U Go Girls) [^ugg-songs-kalimot].

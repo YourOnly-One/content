@@ -15,7 +15,7 @@ disqus_identifier = "kpop-generations-202218"                                   
 syndication = ["https://twitter.com/YourOnlyONEofcl/status/1486917198086119429", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/588547655647802", "https://pixelfed.social/i/web/post/393935717720373632"]
 
 channels = ["snoworld"]
-categories = ["literature"]                                                   # taxonomy
+categories = ["music"]
 keywords = ["kpop", "k-pop", "generations", "music"]                                                     # meta keywords
 series = ["kpopandidols"]                                                       # subset of series taxonomy
 tags = ["kpop"]                                                         # taxonomy
@@ -123,19 +123,19 @@ K-pop Generations를 10 *calendar year*로 설정하는 것이 옳은 일입니�
 모든 세대는 실질적으로 보이 그룹에 의해 주도되었습니다.
 
 - 1세대:
-  - Seo Taiji & Boys (1992-04-11)
-  - Deux (1993-04-23)
-  - Solid (1993-12-15)
+  + Seo Taiji & Boys (1992-04-11)
+  + Deux (1993-04-23)
+  + Solid (1993-12-15)
 
 - 2세대:
-  - TVXQ! (2004-01-14)
-  - SS501 (2005-06-22)
-  - Super Junior (2005-09-11)
+  + TVXQ! (2004-01-14)
+  + SS501 (2005-06-22)
+  + Super Junior (2005-09-11)
 
 - 3세대:
-  - EXO (2012-04-08)
-  - BTS (2013-06-12)
-  - GOT7 (2014-01-16)
+  + EXO (2012-04-08)
+  + BTS (2013-06-12)
+  + GOT7 (2014-01-16)
 
 하지만 4세대 K팝 음악이 시작된 2022년 1월 1일, 큰 변화가 일어났다. *GOT 비트*를 가진 슈퍼그룹 여성이 열었습니다.
 

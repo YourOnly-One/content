@@ -15,7 +15,7 @@ relCanonical = "https://im.youronly.one/snoworld/ko/bioman-maskman-shaider-tagal
 syndication = ["https://twitter.com/YourOnlyONEofcl/status/1491327396892798976", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/595968941572340"]
 
 channels = ["snoworld"]
-categories = ["tv"]                                                   # taxonomy
+categories = ["tv", "music"]                                                   # taxonomy
 keywords = ["Choudenshi Bioman", "Hikari Sentai Maskman", "Space Sheriff Shaider", "tokusatsu", "特撮"]                                                     # meta keywords
 #series = [""]                                                       # subset of series taxonomy
 tags = ["jpop", "tokusatsu", "ppop"]                                                         # taxonomy

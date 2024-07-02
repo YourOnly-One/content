@@ -15,7 +15,7 @@ relCanonical = "https://im.youronly.one/snoworld/ja/ppop-convention-202271/"    
 syndication = ["https://twitter.com/YourOnlyONEofcl/status/1502519376330715142", "https://twitter.com/YourOnlyONEofcl/status/1506612459313934341", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/615459866289914"]
 
 channels = ["snoworld"]
-categories = ["events"]                                                   # taxonomy
+categories = ["events", "music"]                                                   # taxonomy
 keywords = ["ppopcon", "ppop convention", "ppop con", "p-popcon", "p-pop con", "p-pop convention", "pinoy pop convention", "pilipino pop convention", "philippine pop convention", "filipino pop convention"]                                                     # meta keywords
 #series = [""]                                                       # subset of series taxonomy
 tags = ["ppop"]                                                         # taxonomy
@@ -77,7 +77,7 @@ type = "article"                                                           # art
 
 - いつ：2022年4月9日11:00PHTから21:00JST; および2022年4月10日11:00PHTから22:00JST
 - 何：
-  - 2022-03-23 21:20:20 JSTの時点で確認されたパフォーマンス：
+  + 2022-03-23 21:20:20 JSTの時点で確認されたパフォーマンス：
     - <bdi lang="en-PH">Calista</bdi>
     - <bdi lang="en-PH">Daydream</bdi>
     - <bdi lang="en-PH">Dione</bdi>
@@ -88,8 +88,8 @@ type = "article"                                                           # art
     - <bdi lang="en-PH">Ver5us</bdi> — 更新：スケジュールの競合により参加できなくなります [^ver5us-ppopcon-conflict]
     - <bdi lang="en-PH">Vxon</bdi>
     - <bdi lang="en-PH">Yara</bdi> (<bdi lang="tl-Tglg">ᜌᜇ</bdi>) — 更新：スケジュールの競合により参加できなくなります [^yara-ppopcon-conflict]
-  - 商品
-  - ファンブース
+  + 商品
+  + ファンブース
     - <bdi lang="fil">A'tin</bdi> (<bdi lang="tl-Tglg">ᜀ᜵ᜆᜒᜈ᜔</bdi>)
     - <bdi lang="en-PH">Aces</bdi>
     - <bdi lang="en-PH">Allies</bdi>
@@ -103,8 +103,8 @@ type = "article"                                                           # art
     - <bdi lang="en-PH">MNLoves</bdi> (<bdi lang="tl-Tglg">ᜋ᜔ᜈ᜔</bdi><bdi lang="en-PH">Loves</bdi>)
     - <bdi lang="en-PH">Pearls</bdi>
     - <bdi lang="en-PH">Vixies</bdi>
-  - ゲーム
-  - とより多くの驚き
+  + ゲーム
+  + とより多くの驚き
 
 *アーティスト公演は初日4月9日のみ開催されます。*
 {.notecounter}
@@ -120,17 +120,17 @@ type = "article"                                                           # art
 
 - いつ：2022年4月10日16:00JSTから20:00JST
 - 内容：コンサート
-  - <bdi lang="en-PH">1st.One</bdi>
-  - <bdi lang="en-PH">4th Impact</bdi>
-  - <bdi lang="fil">Alamat</bdi> / <bdi lang="tl-Tglg">ᜀᜎᜋᜆ᜔</bdi>
-  - <bdi lang="en-PH">BGYO</bdi> (<bdi lang="tl-Tglg">ᜊ᜔ᜄ᜔ᜌ᜔ᜂ</bdi>)
-  - <bdi lang="fil">Bini</bdi> (<bdi lang="tl-Tglg">ᜊᜒᜈᜒ</bdi>)
-  - <bdi lang="en-PH">MNL48</bdi> (<bdi lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</bdi>)
-  - <bdi lang="en-PH">Press Hit Play</bdi> (<bdi lang="en-PH">PHP</bdi> / <bdi lang="tl-Tglg">ᜉ᜔ᜑ᜔ᜉ᜔</bdi>)
-  - <bdi lang="en-PH">SB19</bdi> (<bdi lang="tl-Tglg">ᜐ᜔ᜊ᜔19</bdi>)
+  + <bdi lang="en-PH">1st.One</bdi>
+  + <bdi lang="en-PH">4th Impact</bdi>
+  + <bdi lang="fil">Alamat</bdi> / <bdi lang="tl-Tglg">ᜀᜎᜋᜆ᜔</bdi>
+  + <bdi lang="en-PH">BGYO</bdi> (<bdi lang="tl-Tglg">ᜊ᜔ᜄ᜔ᜌ᜔ᜂ</bdi>)
+  + <bdi lang="fil">Bini</bdi> (<bdi lang="tl-Tglg">ᜊᜒᜈᜒ</bdi>)
+  + <bdi lang="en-PH">MNL48</bdi> (<bdi lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</bdi>)
+  + <bdi lang="en-PH">Press Hit Play</bdi> (<bdi lang="en-PH">PHP</bdi> / <bdi lang="tl-Tglg">ᜉ᜔ᜑ᜔ᜉ᜔</bdi>)
+  + <bdi lang="en-PH">SB19</bdi> (<bdi lang="tl-Tglg">ᜐ᜔ᜊ᜔19</bdi>)
 - ボーナス：オープニングパフォーマンス
-  - <bdi lang="en-PH">Kaia</bdi> (<bdi lang="til-Tglg">ᜃᜌ</bdi>)
-  - <bdi lang="en-PH">Vxon</bdi>
+  + <bdi lang="en-PH">Kaia</bdi> (<bdi lang="til-Tglg">ᜃᜌ</bdi>)
+  + <bdi lang="en-PH">Vxon</bdi>
 - 追加：ファンの活動
 
 {{< video
@@ -156,11 +156,11 @@ type = "article"                                                           # art
 コンベンションチケットの詳細は次のとおりです。
 
 - ₱1,000.00（¥2,239.56）
-  - 2日パス
-  - 追い越し車線
-  - ラウンジへのアクセス
+  + 2日パス
+  + 追い越し車線
+  + ラウンジへのアクセス
 - ₱650.00（¥1,455.71）
-  - 2日パス
+  + 2日パス
 
 コンベンションのチケットは、Ticketnet Online：[2022PPOPCONコンベンションチケット販売](https://ticketnet.com.ph/Events/detail/2022-PPOPCON "2022PPOPCONコンベンションチケット販売")で入手できます。
 
@@ -170,9 +170,9 @@ type = "article"                                                           # art
 新：1日コンベンションチケット
 
 - ₱500 (¥1,188.70)
-  - 2022年4月9日のみ
+  + 2022年4月9日のみ
 - ₱250 (¥594.35)
-  - 2022年4月10日のみ
+  + 2022年4月10日のみ
 
 限定チケットのみ！
 
@@ -204,25 +204,25 @@ type = "article"                                                           # art
 
 - オンライン（通常）：₱900.00（¥2,015.60）
 - オンライン（スペシャル/ VIP）：₱1,500.00（¥3,359.34）
-  - ライブサウンドチェックアクセス
+  + ライブサウンドチェックアクセス
 - 一般入場料：₱1,000.00（¥2,239.56）
-  - 無料席
+  + 無料席
 - アッパーボックス：₱2,000.00（¥4,479.11）
-  - 自動的に割り当てられた最適な座席
+  + 自動的に割り当てられた最適な座席
 - 下の箱：₱3,000.00（¥6,718.67）
-  - 自動的に割り当てられた最適な座席
+  + 自動的に割り当てられた最適な座席
 - パトロンB：₱4,000.00（¥8,958.23）
-  - 自動的に割り当てられた最適な座席
-  - PPOPグッズ：スポンジファンライト
+  + 自動的に割り当てられた最適な座席
+  + PPOPグッズ：スポンジファンライト
 - パトロンA：₱4,500.00（¥10,078.01）
-  - 自動的に割り当てられた最適な座席
-  - <bdi lang="en-PH">PPOP</bdi>グッズ：スポンジファンライト
-  - ラッフルチケット：コンサートのライブサウンドチェック部分の<bdi lang="en-PH">VIP</bdi>に参加するチャンス
+  + 自動的に割り当てられた最適な座席
+  + <bdi lang="en-PH">PPOP</bdi>グッズ：スポンジファンライト
+  + ラッフルチケット：コンサートのライブサウンドチェック部分の<bdi lang="en-PH">VIP</bdi>に参加するチャンス
 - <bdi lang="en-PH">VIP</bdi>：₱5,500.00（¥12,317.57）
-  - 自動的に割り当てられた最適な座席
-  - <bdi lang="en-PH">PPOP</bdi>グッズ：スポンジファンライト
-  - ライブサウンドチェックアクセス
-  - <bdi lang="en-PH">VIP ID</bdi>パス/<bdi lang="en-PH">VIP</bdi>ファストレーン
+  + 自動的に割り当てられた最適な座席
+  + <bdi lang="en-PH">PPOP</bdi>グッズ：スポンジファンライト
+  + ライブサウンドチェックアクセス
+  + <bdi lang="en-PH">VIP ID</bdi>パス/<bdi lang="en-PH">VIP</bdi>ファストレーン
 
 *料金には発券サービス料は含まれていません。*
 {.notecounter}

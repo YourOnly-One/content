@@ -13,7 +13,7 @@ relCanonical = "https://im.youronly.one/snoworld/ja/le-sserafim-the-name-202288/
 syndicaations = ["https://twitter.com/YourOnlyONEofcl/status/1508821975426236423", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/626666011835966"]
 
 channels = ["snoworld"]
-categories = ["literature"]
+categories = ["music"]
 keywords = ["Le Sserafim", "The Seraphim", "르세라핌", "ル セラフィム", "Les Sérafim", "שרפים", "레세라핌"]
 #series = [""]
 tags = ["kpop", "explained"]
@@ -123,17 +123,17 @@ HYBEとSourceMusicは、2022年3月25日に<q>IM Fearless</q>をモットーに�
 - 1つのセラフィム、6つの翼。 6人のメンバー、1つのユニット： ル セラフィム（ <bdi lang="en-PH">The Seraphim</bdi>）
 - メンバーは火事で浄化されました
   - 宮脇咲良 / みやわきさくら （<bdi lang="ko">미야와키 사쿠라</bdi>）
-    - HKT48（チームKIV副キャプテン）とIZ*ONEの元メンバー
-    - シンガーソングライター、女優、モデル
-    - <cite>プロデュース48</cite>の元出場者
+    + HKT48（チームKIV副キャプテン）とIZ*ONEの元メンバー
+    + シンガーソングライター、女優、モデル
+    + <cite>プロデュース48</cite>の元出場者
   - キム・チェウォン （<bdi lang="ko-Latn">Kim Chae Won</bdi>; <bdi lang="ko">김채원</bdi>）
-    - IZ*ONEの元メンバー
-    - シンガーソングライター、ダンサー
-    - <cite>プロデュース48</cite>の元出場者
+    + IZ*ONEの元メンバー
+    + シンガーソングライター、ダンサー
+    + <cite>プロデュース48</cite>の元出場者
   - ホ・ユンジン （<bdi lang="ko-Latn">Heo Yun Jin</bdi>; <bdi lang="ko">허윤진</bdi>）
-    - 訓練を受けたオペラ歌手
-    - 英語を話すことができます
-    - <cite>プロデュース48</cite>の元出場者
+    + 訓練を受けたオペラ歌手
+    + 英語を話すことができます
+    + <cite>プロデュース48</cite>の元出場者
 <!-- - 公式色は<span class="text-red">赤</span>かもしれません -->
 
 グループのテーマは、名前ル セラフィムとモットー<q>IM Fearless</q>を中心に展開します。 セラフィムは天使の存在の最高位であるため、これらの天使の女性は、彼らが世界で最高ランクのガールグループであることを証明します。 Le Sserafimは高く飛んで、他のアジアのアイドルガールグループがこれまで到達したことのない高さに到達します。
