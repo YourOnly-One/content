@@ -18,7 +18,7 @@ relCanonical = "https://im.youronly.one/snoworld/ja/lisa-rockstar-thai-pop-tpop-
 #redirectto = ""                                       # Yelosan Publishing: used in _index.md
 #metarobots = "noindex"                                # Yelosan Publishing: used in _index.md
 
-#syndication = [""]
+syndication = ["https://c.im/@youronlyone/112719485997361353", "https://www.plurk.com/p/3g06ullqjh", "https://spoutible.com/thread/33058559", "https://bsky.app/profile/youronly.one/post/3kwdlaaedkz2n", "https://www.threads.net/@youronly.one.ofcl/post/C88Q37KPsD5", "https://x.com/YourOnlyONEofcl/status/1808285690393669815", "https://www.facebook.com/YourOnly.ONE.ofcl/posts/pfbid02FLUNptvPgiuFoBuCzCRPEcjJXtd71dLdNytcRAG8hrAf4bBgavyayu21rAxsBJREl"]
 
 channels = ["snoworld"]
 categories = ["music"]
