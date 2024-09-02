@@ -4,13 +4,9 @@
 [[row]]
   data = ["Mycelium Network", "Link", "Chained<br>rel=me", "Keybase", "Keyoxide", "Whosum"]
 [[row]]
-  data = ["ATmosphere", "<a href='https://bsky.youronly.one' rel='me'>@youronly.one</a>", "✅", "✅", "", ""]
-[[row]]
-  data = ["Diaspora", "<a href='https://diasp.org/u/jcsesecuneta' rel='me'>jcsesecuneta@diasp.org</a>", "✅", "", "", ""]
-[[row]]
   data = ["Fediverse", "<a href='https://bookwyrm.social/@youronlyone' rel='me'>@youronlyone@bookwyrm.social</a>", "✅", "", "✅", ""]
 [[row]]
-  data = ["Fediverse", "<a href='https://c.im/@youronlyone' rel='me'>@youronlyone@c.im</a>", "✅", "", "✅", "✅"]
+  data = ["Fediverse", "<a href='https://fediverse.youronly.one' rel='me'>@youronlyone@c.im</a>", "✅", "✅", "✅", "✅"]
 [[row]]
   data = ["Fediverse", "<a href='https://c.wtf/@youronlyone' rel='me'>@youronlyone@c.wtf</a>", "✅", "", "✅", ""]
 [[row]]
@@ -19,16 +15,12 @@
   data = ["Fediverse", "<a href='https://fedia.io/u/youronlyone' rel='me'>@youronlyone@fedia.io</a>", "✅", "", "✅", ""]
 [[row]]
   data = ["Fediverse", "<a href='https://fedia.social/@youronlyone' rel='me'>@youronlyone@fedia.social</a>", "✅", "", "✅", ""]
-#[[row]]
-#  data = ["Fediverse", "<a href='https://firefish.social/@youronlyone' rel='me'>@youronlyone@firefish.social</a>", "✅", "", "✅", ""]
 [[row]]
   data = ["Fediverse", "<a href='https://mozilla.social/@youronlyone' rel='me'>@youronlyone@mozilla.social</a>", "✅", "", "✅", ""]
 [[row]]
   data = ["Fediverse", "<a href='https://p.lu/a/YourOnly.One' rel='me'>@youronlyone@p.lu</a>", "✅", "", "✅", ""]
 [[row]]
   data = ["Fediverse", "<a href='https://p.lu/c/YourOnly.One' rel='me'>@YourOnly.One@p.lu</a>", "✅", "", "✅", ""]
-#[[row]]
-#  data = ["Fediverse", "<a href='https://pebble.social/@youronlyone' rel='me'>@youronlyone@pebble.social</a>", "✅", "", "✅", ""]
 [[row]]
   data = ["Fediverse", "<a href='https://pixelfed.social/i/web/profile/youronlyone' rel='me'>@youronlyone@pixelfed.social</a>", "✅", "", "✅", ""]
 [[row]]
@@ -43,14 +35,18 @@
   data = ["Fediverse", "<a href='https://www.threads.net/@youronly.one.ofcl' rel='me'>@youronly.one.ofcl@threads.net</a>", "✅", "", "", ""]
 [[row]]
   data = ["Matrix", "<a href='https://matrix.to/#/@youronlyone:matrix.org' rel='me'>@youronlyone:matrix.org</a>", "✅", "", "✅", ""]
-[[row]]
-  data = ["Nostr", "<a href='https://mov.im/?blog/youronlyone' rel='me'>_@youronly.one</a>", "✅", "", "✅", ""]
 #[[row]]
 #  data = ["XMPP Movim", "<a href='https://mov.im/?blog/youronlyone' rel='me'>@youronlyone@404.city</a>", "✅", "", "✅", ""]
+[[row]]
+  data = ["NOSTRich", "<a href='https://nostrich.youronly.one' rel='me'>_@im.youronly.one</a>", "✅", "✅", "✅", ""]
+[[row]]
+  data = ["The ATmosphere", "<a href='https://atmosphere.youronly.one' rel='me'>@youronly.one</a>", "✅", "✅", "", ""]
+[[row]]
+  data = ["The Federation", "<a href='https://diasp.org/u/jcsesecuneta' rel='me'>@jcsesecuneta@diasp.org</a>", "✅", "", "", ""]
 #-----BEGIN PGP SIGNATURE-----
 #
-#iI4EARYKADYWIQT8KuNEQVQt8pzwXZA2XpOKztuK1QUCZmxnhBgYaGtwczovL2tl
-#eXMub3BlbnBncC5vcmcACgkQNl6Tis7bitXLhgD+OOnZ2gASbHTnBDEOfPfLneXD
-#z580Jg7ZuntUFuFN4xwBAIawJALT581ePwYsJ52YpAUStVB2M5YXVso+EccZEOsO
-#=2zu6
+#iI0EARYKADYWIQT8KuNEQVQt8pzwXZA2XpOKztuK1QUCZtXtmhgYaGtwczovL2tl
+#eXMub3BlbnBncC5vcmcACgkQNl6Tis7bitUHiQD1FsgdAPan7hgco/jHWKROE9n5
+#uAhXqA2CRd+DVMhwyQD+O7WxuSDH555ky6j8hIzdsjypD53FontssLjy+2N66wY=
+#=YM8c
 #-----END PGP SIGNATURE-----
