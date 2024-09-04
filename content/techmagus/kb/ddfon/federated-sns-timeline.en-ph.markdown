@@ -2,7 +2,7 @@
 title = "The federated SNS timeline (a fediverse history)"
 description = "Key events in the history of the Fediverse."
 
-lastmod = 2023-09-04T07:42:00+08:00                 # last update; manually adjust to local timezone
+lastmod = 2024-09-05T03:08:00+08:00                 # last update; manually adjust to local timezone
 publishdate = 2022-12-12T20:22:21+08:00             # first publication; manually adjust to local timezone
 date = 2022-11-22T11:22:20+08:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
@@ -65,6 +65,12 @@ It proved this when I started this project. There were countless information whi
 
 My desire to change that resulted in the creation of {{% quote type="work" lang="en" %}}The Federated SNS Timeline{{% /quote %}}. A list of the  {{% quote type="name" lang="en" %}}Federated Social Network{{% /quote %}} history, gathered on this page, with links to sources scattered everywhere.
 
+---
+
+UPDATE 2024-09-05: The most up-to-date version is located at the [DDFON, Open Social Web, Fediverse, Mycelial Web SNS Historical Timeline](https://codeberg.org/ddfon/federated-sns) repository.
+
+---
+
 ## The Fediverse Historical Timeline
 
 The {{% quote type="name" lang="en" %}}Federated SNS{{% /quote %}} (social network service/system) timeline is a simple list of its history. To put it another way, it is a record of how the {{% quote type="name" lang="en" %}}Fediverse{{% /quote %}} came to be. This is only one part of the larger {{% quote type="name" lang="en" %}}Federated Social Web{{% /quote %}}. For this list, we defined SNS as services meant for posting updates (microblogging, macro-blogging, blogging), uploading images, leaving comments, re-sharing, and liking; or simply, the {{% quote type="name" lang="en" %}}Fediverse{{% /quote %}}.
@@ -90,7 +96,7 @@ As long as the conditions of CC-BY-SA 4.0 International License are met.
 
 ---
 
-[Repository](https://codeberg.org/ddfon/federated-sns) is now available.
+UPDATE 2024-09-05: The most up-to-date version is located at the [DDFON, Open Social Web, Fediverse, Mycelial Web SNS Historical Timeline](https://codeberg.org/ddfon/federated-sns) repository.
 
 ---
 
@@ -101,280 +107,280 @@ Without further ado, here is the timeline for the {{% quote type="name" lang="en
 ### 2008
 
 - 2008-05-18
-  - First post in the Fediverse was made by Evan Prodromou: “This is my first post.” [^fediverse-first-post-evan-laconica] [^fediverse-first-post-evan-pumpio]
+  + First post in the Fediverse was made by Evan Prodromou: “This is my first post.” [^fediverse-first-post-evan-laconica] [^fediverse-first-post-evan-pumpio]
 
 - 2008-07-02
-  - Protocol: OpenMicroBlogging [^openmicroblogging-wikipedia] [^danyl-strype]
+  + Protocol: OpenMicroBlogging [^openmicroblogging-wikipedia] [^danyl-strype]
 
-  - Software: *Laconica* was released by Evan Prodromou [^identica-ross-mayfield] [^identica-wikipedia] [^identica-louisgray]
+  + Software: *Laconica* was released by Evan Prodromou [^identica-ross-mayfield] [^identica-wikipedia] [^identica-louisgray]
     - Protocol (first release): OpenMicroBlogging
 
-  - Instance: *Identi.ca* [^identica-ross-mayfield] [^identica-wikipedia] [^identica-louisgray]
+  + Instance: *Identi.ca* [^identica-ross-mayfield] [^identica-wikipedia] [^identica-louisgray]
     - Software: *Laconica*
 
 - 2008 sometime
-  - Instance: *The TWiT Army Canteen*
+  + Instance: *The TWiT Army Canteen*
     - Software: *Laconica*
 
-  - Software: *OpenMicroBlogger* was released [^openmicroblogging-w3c]
+  + Software: *OpenMicroBlogger* was released [^openmicroblogging-w3c]
     - Protocol (first release): OpenMicroBlogging
 
-  - Instance: *OpenMicroBlogger.com*
+  + Instance: *OpenMicroBlogger.com*
     - Software: *OpenMicroBlogger*
 
 ### 2009
 
 - 2009-08-28
-  - *Laconica* software was renamed to *StatusNet* [^gnusocial-rename-laconica-statusnet]
+  + *Laconica* software was renamed to *StatusNet* [^gnusocial-rename-laconica-statusnet]
 
 ### 2010
 
 - 2010-02-22
-  - Instance: *Mozilla* was launched [^mozilla-social-statusnet]
+  + Instance: *Mozilla* was launched [^mozilla-social-statusnet]
     - Software: *StatusNet*
 
 - 2010-03-04
-  - OStatus protocol replaced the OpenMicroBlogging protocol [^ostatus-ostatusorg] [^ostatus-statusnet] [^danyl-strype]
-  - *StatusNet* 0.9.0 switched to OStatus protocol [^gnusocial-statusnet-switched-ostatus]
+  + OStatus protocol replaced the OpenMicroBlogging protocol [^ostatus-ostatusorg] [^ostatus-statusnet] [^danyl-strype]
+  + *StatusNet* 0.9.0 switched to OStatus protocol [^gnusocial-statusnet-switched-ostatus]
 
 - 2010-03-09
-  - StatusNet Cloud Service was released in beta. The first managed instance service. [^statusnet-cloud]
+  + StatusNet Cloud Service was released in beta. The first managed instance service. [^statusnet-cloud]
 
 - 2010-03-14
-  - “identiverse” first coined by Luke Slater [^coined-identiverse-luke-slater] [^coined-identiverse-identica]
+  + “identiverse” first coined by Luke Slater [^coined-identiverse-luke-slater] [^coined-identiverse-identica]
 
 - 2010-07-02
-  - Protocol: DFRN (Distributed Friends and Relations Network) [^mike-macgirvin] [^friendica-mistpark-released]
+  + Protocol: DFRN (Distributed Friends and Relations Network) [^mike-macgirvin] [^friendica-mistpark-released]
 
-  - Software: *Mistpark* was released by Mike Macgirvin [^mike-macgirvin] [^friendica-mistpark-released]
+  + Software: *Mistpark* was released by Mike Macgirvin [^mike-macgirvin] [^friendica-mistpark-released]
     - Protocol (first release): DFRN
 
 - 2010-08-17
-  - *Mistpark* added DFRN protocol federation [^mike-macgirvin] [^friendica-federation-dfrn]
+  + *Mistpark* added DFRN protocol federation [^mike-macgirvin] [^friendica-federation-dfrn]
 
 - 2010-09-09
-  - *Mistpark* added OpenMicroBlogging protocol federation [^mike-macgirvin] [^friendica-federation-openmicroblogging]
+  + *Mistpark* added OpenMicroBlogging protocol federation [^mike-macgirvin] [^friendica-federation-openmicroblogging]
 
 - 2010-10-13
-  - *Mistpark* added OStatus protocol federation [^friendica-federation-ostatus] [^sean-tilley-free-network]
+  + *Mistpark* added OStatus protocol federation [^friendica-federation-ostatus] [^sean-tilley-free-network]
 
 - 2010-11-03
-  - *Mistpark* was renamed to *Friendika* [^friendica-rename-mistpark-friendika]
+  + *Mistpark* was renamed to *Friendika* [^friendica-rename-mistpark-friendika]
 
 - 2010-11-23
-  - Protocol: Diaspora Federation
+  + Protocol: Diaspora Federation
     - Network name: The Federation
 
-  - Software: *diaspora\** was released by Dan Grippi, Ilya Zhitomirskiy, Raphael Sofaer, and Maxwell Salzberg [^diaspora-released]
+  + Software: *diaspora\** was released by Dan Grippi, Ilya Zhitomirskiy, Raphael Sofaer, and Maxwell Salzberg [^diaspora-released]
     - Protocol (first release): Diaspora Federation
 
-  - Instance: *joindiaspora.com*
+  + Instance: *joindiaspora.com*
     - Software: *diaspora\**
 
 ### 2011
 
 - 2011-03-19
-  - *Friendika* added Diaspora Federation protocol support [^friendica-federation-diaspora] [^friendica-federation-diaspora-02] [^sean-tilley-free-network]
+  + *Friendika* added Diaspora Federation protocol support [^friendica-federation-diaspora] [^friendica-federation-diaspora-02] [^sean-tilley-free-network]
 
 - 2011-05-01
-  - *Mozilla* instance was renamed to *Social@Mozilla* [^mozilla-social-statusnet]
+  + *Mozilla* instance was renamed to *Social@Mozilla* [^mozilla-social-statusnet]
 
 - 2011-11-12
-  - *Friendika* was renamed to *Friendica* [^friendica-rename-friendika]
+  + *Friendika* was renamed to *Friendica* [^friendica-rename-friendika]
 
 ### 2012
 
 - 2012-05-25
-  - “fediverse” was first coined by Mark Eckenwiler [^coined-fediverse-mark-eckenwiler] [^coined-fediverse-twitter]
+  + “fediverse” was first coined by Mark Eckenwiler [^coined-fediverse-mark-eckenwiler] [^coined-fediverse-twitter]
 
 - 2012-07
-  - Protocol: Zot [^mike-macgirvin]
+  + Protocol: Zot [^mike-macgirvin]
     - First decentralised and identity-aware (Nomadic identity) protocol [^mike-macgirvin]
 
-  - Software: *red* | *Redmatrix* was released by Mike Macgirvin [^mike-macgirvin]
+  + Software: *red* | *Redmatrix* was released by Mike Macgirvin [^mike-macgirvin]
     - Protocol (first release): Zot, Diaspora Federation [^sean-tilley-free-network]
 
 - 2012-08-27
-  - *diaspora\** becomes a community-managed project [^diaspora-fla-developer-01]
+  + *diaspora\** becomes a community-managed project [^diaspora-fla-developer-01]
 
 - 2012-10-04
-  - Protocol: ActivityPump [^pumpio-released-repo] [^danyl-strype]
+  + Protocol: ActivityPump [^pumpio-released-repo] [^danyl-strype]
 
-  - Software: *pump.io* was released by Evan Prodromou [^pumpio-released-site]
+  + Software: *pump.io* was released by Evan Prodromou [^pumpio-released-site]
     - Protocol (first release): ActivityPump
 
 ### 2013
 
 - 2013-01-24
-  - “fediverse” second (archived) usage by Marjolein Katsma [^coined-fediverse-marjolein-katsma] [^coined-fediverse-twitter]
+  + “fediverse” second (archived) usage by Marjolein Katsma [^coined-fediverse-marjolein-katsma] [^coined-fediverse-twitter]
     - no other archived copies found before 2013-01-24 other than 2012-05-25 (see above)
 
 - 2013-06-08
-  - *StatusNet* and *Free Social* were merged with *GNU Social* [^gnusocial-statusnet-freesocial] [^sean-tilley-free-network] [^danyl-strype]
+  + *StatusNet* and *Free Social* were merged with *GNU Social* [^gnusocial-statusnet-freesocial] [^sean-tilley-free-network] [^danyl-strype]
     - *GNU Social* is the surviving software name.
 
 - 2013-07-12
-  - *Identi.ca* switched from *StatusNet* to *pump.io* software. [^identica-wikipedia] [^danyl-strype]
+  + *Identi.ca* switched from *StatusNet* to *pump.io* software. [^identica-wikipedia] [^danyl-strype]
 
 - 2013-11-20
-  - *Social@Mozilla* instance was shutdown [^mozilla-social-statusnet]
+  + *Social@Mozilla* instance was shutdown [^mozilla-social-statusnet]
 
 ### 2014
 
 - 2014-09-06
-  - W3C work on ActivityPub started [^activitypub-w3c-started]
+  + W3C work on ActivityPub started [^activitypub-w3c-started]
     - Based on the ActivityPump protocol.
 
 ### 2015
 
 - 2015 early
-  - *Redmatrix* was renamed *Hubzilla* [^mike-macgirvin]
+  + *Redmatrix* was renamed *Hubzilla* [^mike-macgirvin]
     - Protocol (first release): Zot, Diaspora Federation
 
 ### 2016
 
 - 2016-03-16
-  - Software: *Mastodon* was released by Eugen Rochko [^mastodon-released]
+  + Software: *Mastodon* was released by Eugen Rochko [^mastodon-released]
     - Protocol (first release): OStatus [^sean-tilley-free-network]
 
 - 2016-08-16
-  - Diaspora Federation protocol becomes available as a Ruby library [^diaspora-fla-developer-01] [^diaspora-federation-protocol-ruby]
+  + Diaspora Federation protocol becomes available as a Ruby library [^diaspora-fla-developer-01] [^diaspora-federation-protocol-ruby]
 
 - 2016-10-26
-  - Software: *Pleroma* was released by Lain [^pleroma-released-repo] [^pleroma-released]
+  + Software: *Pleroma* was released by Lain [^pleroma-released-repo] [^pleroma-released]
     - Protocol (first release): OStatus
 
 ### 2017
 
 - 2017-07-18
-  - *Hubzilla* added ActivityPub protocol federation [^hubzilla-federation-activitypub-repo] [^hubzilla-federation-activitypub-hackernews]
+  + *Hubzilla* added ActivityPub protocol federation [^hubzilla-federation-activitypub-repo] [^hubzilla-federation-activitypub-hackernews]
 
 - 2017-07-27
-  - Software: *Socialhome* was released by Jason Robinson [^socialhome-released]
+  + Software: *Socialhome* was released by Jason Robinson [^socialhome-released]
     - Protocol (first release): Diaspora Federation [^sean-tilley-free-network]
 
 - 2017-09-03
-  - *Mastodon* added ActivityPub protocol federation [^mastodon-federation-activitypub] [^sean-tilley-free-network]
+  + *Mastodon* added ActivityPub protocol federation [^mastodon-federation-activitypub] [^sean-tilley-free-network]
 
 ### 2018
 
 - 2018-01-23
-  - ActivityPub became an official W3C Recommendation (web standard) [^activitypub-w3c-standard]
+  + ActivityPub became an official W3C Recommendation (web standard) [^activitypub-w3c-standard]
 
 - 2018-03-20
-  - Software: *PeerTube* was released by Chocobozzz [^peertube-released]
+  + Software: *PeerTube* was released by Chocobozzz [^peertube-released]
     - Protocol (first release): ActivityPub
 
 - 2018-04-19
-  - Software: *Misskey* was released by Syuilo [^misskey-released]
+  + Software: *Misskey* was released by Syuilo [^misskey-released]
     - Protocol (first release): ActivityPub
 
 - 2018-08-17
-  - Protocol: Zot6 [^zap-repo-commit] [^zap-repo-commit-boot]
+  + Protocol: Zot6 [^zap-repo-commit] [^zap-repo-commit-boot]
 
-  - Software: *Zap* was released by Mike Macgirvin [^zap-repo-commit] [^zap-repo-commit-boot]
+  + Software: *Zap* was released by Mike Macgirvin [^zap-repo-commit] [^zap-repo-commit-boot]
     - Protocol (first release): Zot6
 
 - 2018-08-23
-  - Software: *Osada* was released by Mike Macgirvin [^osada-repo-commit] [^osada-repo-commit-boot]
+  + Software: *Osada* was released by Mike Macgirvin [^osada-repo-commit] [^osada-repo-commit-boot]
     - Protocol (first release): Zot6, ActivityPub
 
 - 2018-11-03
-  - Software: *PixelFed* was released by Daniel Supernault [^pixelfed-released]
+  + Software: *PixelFed* was released by Daniel Supernault [^pixelfed-released]
     - Protocol (first release): ActivityPub
 
 - 2018-11-10
-  - Software: *WriteFreely* was released by Matt Baer [^writefreely-released]
+  + Software: *WriteFreely* was released by Matt Baer [^writefreely-released]
     - Protocol (first release): ActivityPub
 
 - 2018-11-18
-  - *Friendica* added ActivityPub protocol federation [^friendica-federation-activitypub] [^sean-tilley-free-network]
+  + *Friendica* added ActivityPub protocol federation [^friendica-federation-activitypub] [^sean-tilley-free-network]
 
 ### 2019
 
 - 2019-02-20
-  - *Hubzilla* upgraded Zot to Zot6 protocol [^hubzilla-federation-zot-6]
+  + *Hubzilla* upgraded Zot to Zot6 protocol [^hubzilla-federation-zot-6]
 
 - 2019-05-06
-  - Software: *Lemmy* was released [^lemmy-released]
+  + Software: *Lemmy* was released [^lemmy-released]
     - Protocol (first release): ActivityPub
 
 - 2019-08-20
-  - Software: *Hometown* was released by Darius Kazemi [^hometown-released]
+  + Software: *Hometown* was released by Darius Kazemi [^hometown-released]
     - Protocol (first release): ActivityPub
 
 - 2019-09-22
-  - *Osada* was discontinued [^osada-discontinued]
+  + *Osada* was discontinued [^osada-discontinued]
 
 - 2019-09-22
-  - *Zap* added ActivityPub protocol federation [^zap-federation-activitypub]
+  + *Zap* added ActivityPub protocol federation [^zap-federation-activitypub]
 
 - 2019-10-04
-  - *Mastodon* dropped OStatus protocol federation [^mastodon-federation-ostatus-dropped]
+  + *Mastodon* dropped OStatus protocol federation [^mastodon-federation-ostatus-dropped]
 
 - 2019-10-06
-  - *Socialhome* added ActivityPub protocol federation [^socialhome-federation-activitypub]
+  + *Socialhome* added ActivityPub protocol federation [^socialhome-federation-activitypub]
 
 ### 2020
 
 - 2020-03-08
-  - *Pleroma* dropped OStatus protocol federation [^pleroma-federation-ostatus-dropped]
+  + *Pleroma* dropped OStatus protocol federation [^pleroma-federation-ostatus-dropped]
 
 - 2020-12-31
-  - Software: *BookWyrm* was released by Mouse Reeve [^bookwyrm-released]
+  + Software: *BookWyrm* was released by Mouse Reeve [^bookwyrm-released]
     - Protocol (first release): ActivityPub
 
 ### 2021
 
 - 2021-05-11
-  - Software: *Rebased* was released by Alex Gleason [^rebased-released]
+  + Software: *Rebased* was released by Alex Gleason [^rebased-released]
     - Protocol (first release): ActivityPub
 
 - 2021-07-18
-  - *GNU Social* added ActivityPub protocol federation [^gnusocial-federation-activitypub]
+  + *GNU Social* added ActivityPub protocol federation [^gnusocial-federation-activitypub]
 
 - 2021-11-07
-  - Software: *Guppe Groups* was released Will Murphy [^guppe-groups-released]
+  + Software: *Guppe Groups* was released Will Murphy [^guppe-groups-released]
     - Protocol (first release): ActivityPub
 
 ### 2022
 
 - 2022-01-29
-  - Software: *Akkoma* was released by floatingghost [^akkoma-released]
+  + Software: *Akkoma* was released by floatingghost [^akkoma-released]
     - Protocol (first release): ActivityPub
 
 - 2022-07-19
-  - Software: *Firefish* (f. *Calckey*) was released by Kainoa Kanter [^firefish-released]
+  + Software: *Firefish* (f. *Calckey*) was released by Kainoa Kanter [^firefish-released]
     - Protocol (first release): ActivityPub
 
 - 2022-08-05
-  - Software: *Foundkey* was released by Norm [^foundkey-released]
+  + Software: *Foundkey* was released by Norm [^foundkey-released]
     - Protocol (first release): ActivityPub
 
 - 2022-10-30
-  - Software: *Kbin* initial release by Ernest Wiśniewski [^kbin-released-01] [^kbin-released-02]
+  + Software: *Kbin* initial release by Ernest Wiśniewski [^kbin-released-01] [^kbin-released-02]
     - Protocol (first release): ActivityPub
 
 - 2022-11-13
-  - Instance: *Vivaldi Social* was launched [^vivaldi-social-launched]
+  + Instance: *Vivaldi Social* was launched [^vivaldi-social-launched]
     - Software: *Mastodon*
 
 - 2022-11-21
-  - Software: *AP Groups* was released by Michael Puckett [^apgroups-released]
+  + Software: *AP Groups* was released by Michael Puckett [^apgroups-released]
     - Protocol (first release): ActivityPub
 
 - 2022-11-24
-  - Software: *Takahē* was released Andrew Godwin [^takahe-released]
+  + Software: *Takahē* was released Andrew Godwin [^takahe-released]
     - Protocol (first release): ActivityPub
 
 - 2022-12-03
-  - Software: *Streams* was released by Mike Macgirvin [^streams-released]
+  + Software: *Streams* was released by Mike Macgirvin [^streams-released]
     - Protocol (first release): Nomad Communications, ActivityPub [^streams-repo]
 
 ### 2023
 
 - 2023-05-04
-  - Instance: *Mozilla.social* entered private beta [^mozilla-social-private-beta-01] [^mozilla-social-private-beta-02]
+  + Instance: *Mozilla.social* entered private beta [^mozilla-social-private-beta-01] [^mozilla-social-private-beta-02]
     - Software: *Mastodon*
 
 ## On updates
@@ -384,6 +390,12 @@ This is a living project. I will update it depending on the new information and 
 Corrections would have to be clarified. Like, how is the correction more accurate than the currently sourced information? Or, how can we reconcile the correction with the currently sourced information? Of course, if you are the developer, and I can verify your identity, your information holds more weight (e.g. you prefer your software's release date to be later than the current information).
 
 Submit your information in the [issues](https://codeberg.org/ddfon/federated-sns/issues) section.
+
+---
+
+UPDATE 2024-09-05: The most up-to-date version is located at the [DDFON, Open Social Web, Fediverse, Mycelial Web SNS Historical Timeline](https://codeberg.org/ddfon/federated-sns) repository.
+
+---
 
 <!-- generic -->
 [^coined-fediverse-mark-eckenwiler]: Mark Eckenwiler: [Fully accessible from my part of the fediverse](https://twitter.com/20002ist/status/205736841578676224) (published: 2012-05-25) (archived: [1](https://web.archive.org/web/20221210090041/https://twitter.com/20002ist/status/205736841578676224) [2](https://archive.ph/AEF4N))
