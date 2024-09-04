@@ -2,7 +2,7 @@
 title = "SNS, social media terminologies explained"
 description = "Explaining each and every social network terms."
 
-lastmod = 2024-06-10T03:02:23+08:00                 # last update; manually adjust to local timezone
+lastmod = 2024-09-05T03:10:17+08:00                 # last update; manually adjust to local timezone
 publishdate = 2024-06-10T00:25:00+08:00             # first publication; manually adjust to local timezone
 date = 2024-06-05T08:28:38+08:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
@@ -171,7 +171,7 @@ Have you come across terms like “Social Web”, “Mycelial Web”, “Fediver
 
   {{< dt id="dfn-social-web" >}}Social Web{{< /dt >}}
   {{< dd id="dfn-social-web-01" >}}
-  Also known as [Web3](#dfn-web3) or [Web3.0](#dfn-web3-point-O), it promotes an open, interoperable web instead of closed silos. It is about building platforms that interoperate through federation and bridges, while ensuring resiliency through distribution and decentralization. [^web3-jesse-stay][^web3-loic-le-meur-01][^web3-loic-le-meur-02][^web3-loic-le-meur-03]
+  Also known as [Web3](#dfn-web3) or [Web3.0](#dfn-web3-point-O), it promotes an open, interoperable web instead of closed silos. It is about building platforms that interoperate through federation and bridges, while ensuring resiliency through distribution and decentralization. [^web3-jesse-stay][^web3-loic-le-meur-01][^web3-loic-le-meur-02][^web3-loic-le-meur-03] It is the same as “Open Social Web” and “Open Social”, and is a very broad term that goes beyond [DDFON](#dfn-ddfon) / [Mycelial Web](#dfn-mycelial-web). [^socialweb-wikipedeia] [^socialweb-w3c-01] [^socialweb-w3c-02] [^socialweb-w3c-03]
   {{< /dd >}}
 
   {{< dt id="dfn-threadiverse" >}}Threadiverse{{< /dt >}}
@@ -217,6 +217,12 @@ Have you come across terms like “Social Web”, “Mycelial Web”, “Fediver
 [^coined-identiverse-identica]: identi.ca: Notices tagged with identiverse (archived: [1](https://web.archive.org/web/20100523080641/identi.ca/tag/identiverse))
 
 [^pleroma-federation-ostatus-dropped]: Pleroma: [Releasing Pleroma 2.0.0](https://pleroma.social/blog/2020/03/08/releasing-pleroma-2-0-0/) (published: 2020-03-08) (archived: [1](https://web.archive.org/web/20200308173159/https://pleroma.social/blog/2020/03/08/releasing-pleroma-2-0-0/) [2](https://archive.ph/o7IRa))
+
+[^socialweb-wikipedeia]: Wikipedia: [OpenSocial](https://en.wikipedia.org/wiki/OpenSocial)
+[^socialweb-w3c-01]: W3C: [OpenSocial Foundation Moves Standards Work to W3C Social Web Activity](https://www.w3.org/blog/2014/opensocial-foundation-moves-standards-work-to-w3c-social-web-activity/)
+[^socialweb-w3c-02]: W3C: [W3C Launches Push for Social Web Application Interoperability](https://www.w3.org/press-releases/2014/social/)
+[^socialweb-w3c-03]: W3C: [Social Web Working Group](https://www.w3.org/Social/WG)
+
 [^threadiverse-02-korea]: 앱타쿠: [The word 'Threadiverse' I think korean users in fediverse use this word very popular. What you talked to me like Kbin, lemmy, mbin etc are very unpopular in korea( cause we already have too many major bulletin board websites) and that's why 'Threads + Fediverse = Threadiverse' is popular in korea](https://www.threads.net/@alternative00__/post/C7yslZkyp35) (published: 2024–06–05) (archived 2024–06–07: [1](https://web.archive.org/web/20240607071835/https://www.threads.net/@alternative00__/post/C7yslZkyp35) [2](https://archive.ph/MpLcJ))
 
 [^web3-jesse-stay]: Jesse Stay: [Just finished blogging about "the Social Web" (aka Web 3.0): http://tinyurl.com/yv7qs5](https://twitter.com/Jesse/status/84983022) (published: 2007–05–31) (archived 2024–06–07: [1](https://web.archive.org/web/20240607062216/https://x.com/Jesse/status/84983022) [2](https://archive.ph/fit4p))
