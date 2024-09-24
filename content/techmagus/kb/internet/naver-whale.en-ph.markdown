@@ -66,7 +66,7 @@ type = "review"                                             # article, sitepage,
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "Yohan Yuki Xie"
+  name = "Yohan Yukiya Sese-Cuneta"
   #name = "techmagus / テク魔法使い / 테크마법사"
   url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"

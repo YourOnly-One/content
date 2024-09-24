@@ -41,7 +41,7 @@ type = "article"                                                             # a
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "Yohan Yuki Xie"
+  name = "Yohan Yukiya Sese-Cuneta"
   url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
   #rel = "noopener"

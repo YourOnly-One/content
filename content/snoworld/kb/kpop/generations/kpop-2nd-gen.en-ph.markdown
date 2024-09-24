@@ -40,7 +40,7 @@ type = "sitepage"                                                           # ar
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "Yohan Yuki Xie"
+  name = "Yohan Yukiya Sese-Cuneta"
   url = "https://im.youronly.one/snoworld/"
   avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
   #rel = "noopener external nofollow"

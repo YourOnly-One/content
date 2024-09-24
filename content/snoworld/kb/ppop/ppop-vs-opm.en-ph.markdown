@@ -50,7 +50,7 @@ type = "article"                                                           # art
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "Yohan Yuki Xie"
+  name = "Yohan Yukiya Sese-Cuneta"
   #name = "Snoworld / スノーワールド / 스노우월드"
   url = "https://im.youronly.one/snoworld/"
   avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"

@@ -48,7 +48,7 @@ private = true
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "Yohan Yuki Xie"
+  name = "Yohan Yukiya Sese-Cuneta"
   #name = "Faithful Athlete / 忠実なアスリート / 충실한 운동선수"
   url = "https://im.youronly.one/faithfulathlete/"
   avatar = "https://rsc.youronly.one/img/y/Faithful_Athlete-logo-02-1500x.webp"

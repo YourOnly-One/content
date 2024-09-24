@@ -47,7 +47,7 @@ toc = true
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "Yohan Yuki Xie"
+  name = "Yohan Yukiya Sese-Cuneta"
   #name = "One Way Faith / 一方通行信仰 / 일방통행신앙"
   url = "https://im.youronly.one/way/"
   avatar = "https://img.youronly.one/works/FlagMenorah-Proto-(CC0).webp"

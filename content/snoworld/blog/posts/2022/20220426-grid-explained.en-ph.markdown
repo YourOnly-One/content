@@ -44,7 +44,7 @@ type = "article"                                                             # a
   person = "yuki"
   #id = ""
   #name = "Snoworld / スノーワールド / 스노우월드"
-  name = "Yohan Yuki Xie"
+  name = "Yohan Yukiya Sese-Cuneta"
   avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
   #rel = "noopener"
 +++

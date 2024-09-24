@@ -39,7 +39,7 @@ images = ["https://img.youronly.one/p/Timeless_Books-1280w.jpg"]    # og:images
 [[authors]]
 person = "yuki"
 #id = ""
-name = "Yohan Yuki Xie"
+name = "Yohan Yukiya Sese-Cuneta"
 url = "https://verses.space"
 avatar = "https://rsc.youronly.one/img/y/KWWP-logo-01-1280wh-transparent.webp"
 rel = "noopener external"

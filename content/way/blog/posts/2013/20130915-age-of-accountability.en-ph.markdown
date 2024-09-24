@@ -38,7 +38,7 @@ images = ["https://4.bp.blogspot.com/-VEzYztXu6Qw/Xk_Omm3aNQI/AAAAAAAAf_E/ltNsBT
 [[authors]]
 person = "yuki"
 #id = ""
-name = "Yohan Yuki Xie"
+name = "Yohan Yukiya Sese-Cuneta"
 url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 #rel = "noopener external nofollow"

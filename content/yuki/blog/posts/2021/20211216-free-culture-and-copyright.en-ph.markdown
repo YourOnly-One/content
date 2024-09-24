@@ -41,7 +41,7 @@ type = "article"                                                           # art
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "Yohan Yuki Xie"
+  name = "Yohan Yukiya Sese-Cuneta"
   url = "https://im.youronly.one/yuki/"
   avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
   #rel = "noopener external nofollow"

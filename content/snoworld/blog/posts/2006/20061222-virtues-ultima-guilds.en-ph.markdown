@@ -47,7 +47,7 @@ type = "article"                                             # article, sitepage
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "Yohan Yuki Xie"
+  name = "Yohan Yukiya Sese-Cuneta"
   #name = "gameshōgun / ゲームしょうぐん / 게임쇼군"
   url = "https://im.youronly.one"
   avatar = "https://rsc.youronly.one/img/y/gameshogun-joystick-1280x.png"
