@@ -2,7 +2,7 @@
 title = "SNS, social media terminologies explained"
 description = "Explaining each and every social network terms."
 
-lastmod = 2024-09-05T03:10:17+08:00                 # last update; manually adjust to local timezone
+lastmod = 2024-10-11T20:12:24+08:00                 # last update; manually adjust to local timezone
 publishdate = 2024-06-10T00:25:00+08:00             # first publication; manually adjust to local timezone
 date = 2024-06-05T08:28:38+08:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
@@ -76,17 +76,17 @@ Have you come across terms like “Social Web”, “Mycelial Web”, “Fediver
 
   {{< dt id="dfn-atproto" >}}ATproto{{< /dt >}}
   {{< dd id="dfn-atproto-01" >}}
-  The protocol that powers the [ATmosphere](#dfn-atmosphere) [mycelium network](#dfn-mycelium-network), often mistakenly referred to as [Bluesky](#dfn-bluesky).
+  The protocol that powers the [ATmosphere](#dfn-atmosphere) [mycelium network](#dfn-mycelium-network), often incorrectly referred to as [Bluesky](#dfn-bluesky).
   {{< /dd >}}
 
   {{< dt id="dfn-blockchain" >}}Blockchain{{< /dt >}}
   {{< dd id="dfn-blockchain-01" >}}
-  A cryptographic ledger, popularised by cryptocurrencies, and also used in [DDFON](#dfn-ddfon) [SNS](#dfn-sns) like Audius (music), Hive (content), and Verasity (video).
+  A cryptographic ledger, popularized by cryptocurrencies, and also used in [DDFON](#dfn-ddfon) [SNS](#dfn-sns) like Audius (music), Hive (content), and Verasity (video).
   {{< /dd >}}
 
   {{< dt id="dfn-bluesky" >}}Bluesky{{< /dt >}}
   {{< dd id="dfn-bluesky-01" >}}
-  The first public server using the [ATproto](#dfn-atproto) protocol, commonly but inaccurately used to refer to the entire ATproto [mycelium network](#dfn-mycelium-network). Bluesky is only one of many ATproto servers. (Also see [ATmosphere](#dfn-atmosphere).)
+  The first public server powered by the [ATproto](#dfn-atproto) protocol, commonly but inaccurately used to refer to the entire ATproto [mycelium network](#dfn-mycelium-network). Bluesky is only one of many ATproto servers. (also see [ATmosphere](#dfn-atmosphere))
   {{< /dd >}}
 
   {{< dt id="dfn-ddfon" >}}DDFON{{< /dt >}}
@@ -94,9 +94,9 @@ Have you come across terms like “Social Web”, “Mycelial Web”, “Fediver
   Stands for "Decentralized, Distributed, Federated, Open Network" ﹘ a term I coined in 2011, [^ddfon-yohan-yukiya-01][^ddfon-yohan-yukiya-02] also known as [mycelial web](#dfn-mycelial-web).
   {{< /dd >}}
 
-  {{< dt id="dfn-diaspora" >}}Diaspora*{{< /dt >}}
+  {{< dt id="dfn-diaspora" >}}diaspora*{{< /dt >}}
   {{< dd id="dfn-diaspora-01" >}}
-  Also known as The Federation, is a [mycelium network](#dfn-mycelium-network) built on the diaspora* protocol.
+  The name of the protocol that powers [The Federation](#dfn-the-federation) [mycelium network](#dfn-mycelium-network).
   {{< /dd >}}
 
   {{< dt id="dfn-fediverse" >}}Fediverse{{< /dt >}}
@@ -116,7 +116,7 @@ Have you come across terms like “Social Web”, “Mycelial Web”, “Fediver
 
   {{< dt id="dfn-mastodon" >}}Mastodon®{{< /dt >}}
   {{< dd id="dfn-mastodon-01" >}}
-  A [fediverse](#dfn-fediverse) software using the [ActivityPub](#dfn-activitypub) protocol, sometimes mistakenly used to refer to the entire fediverse [mycelium network](#dfn-mycelium-network). It is a registered trademark that should only be used within the context of the Mastodon® software.
+  A [fediverse](#dfn-fediverse) software using the [ActivityPub](#dfn-activitypub) protocol, incorrectly used to refer to the entire fediverse [mycelium network](#dfn-mycelium-network). It is a registered trademark that should only be used within the context of the Mastodon® software.
   {{< /dd >}}
 
   {{< dt id="dfn-matrix" >}}Matrix{{< /dt >}}
@@ -136,7 +136,15 @@ Have you come across terms like “Social Web”, “Mycelial Web”, “Fediver
 
   {{< dt id="dfn-nostr" >}}Nostr{{< /dt >}}
   {{< dd id="dfn-nostr-01" >}}
-  Both the protocol and the name of the [mycelium network](#dfn-mycelium-network) it supports.
+  It is a protocol that powers the [NOSTRich](#dfn-nostrich) [mycelium network](#dfn-mycelium-network).
+  {{< /dd >}}
+  {{< dd id="dfn-nostr-02" >}}
+  The name stands for <q>Notes and Other Stuff Transmitted by Relays</q>.
+  {{< /dd >}}
+
+  {{< dt id="dfn-nostrich" >}}NOSTRich{{< /dt >}}
+  {{< dd id="dfn-nostrich-01" >}}
+  The friendly name of the [mycelium network](#dfn-mycelium-network) powered by the [Nostr](#dfn-nostr) protocol.
   {{< /dd >}}
 
   {{< dt id="dfn-openmicroblogging" >}}OpenMicroBlogging{{< /dt >}}
@@ -174,6 +182,11 @@ Have you come across terms like “Social Web”, “Mycelial Web”, “Fediver
   Also known as [Web3](#dfn-web3) or [Web3.0](#dfn-web3-point-O), it promotes an open, interoperable web instead of closed silos. It is about building platforms that interoperate through federation and bridges, while ensuring resiliency through distribution and decentralization. [^web3-jesse-stay][^web3-loic-le-meur-01][^web3-loic-le-meur-02][^web3-loic-le-meur-03] It is the same as “Open Social Web” and “Open Social”, and is a very broad term that goes beyond [DDFON](#dfn-ddfon) / [Mycelial Web](#dfn-mycelial-web). [^socialweb-wikipedeia] [^socialweb-w3c-01] [^socialweb-w3c-02] [^socialweb-w3c-03]
   {{< /dd >}}
 
+  {{< dt id="dfn-the-federation" >}}The Federation{{< /dt >}}
+  {{< dd id="dfn-the-federation-01" >}}
+  The name of the network running on the [diaspora*](#dfn-diaspora) protocol.
+  {{< /dd >}}
+
   {{< dt id="dfn-threadiverse" >}}Threadiverse{{< /dt >}}
   {{< dd id="dfn-threadiverse-01" >}}
   Refers to threaded [fediverse](#dfn-fediverse) platforms like Lemmy, Kbin, and Mbin.
@@ -190,12 +203,15 @@ Have you come across terms like “Social Web”, “Mycelial Web”, “Fediver
   Also refers to the [social web](#dfn-social-web) “Le Web3” conference in France in 2007 and earlier. [^web3-loic-le-meur-01][^web3-loic-le-meur-02][^web3-loic-le-meur-03]
   {{< /dd >}}
   {{< dd id="dfn-web3-point-0-03" >}}
-  Can also refer to [blockchain](#dfn-blockchain) technology as defined by Gavin Wood in 2014. [^web3-blockchain-wikipedia]
+  Unfortunately also used to refer to [blockchain](#dfn-blockchain) technology [^web3-tim-berners-lee-w3c] as defined by Gavin Wood in 2014. [^web3-blockchain-wikipedia]
   {{< /dd >}}
 
   {{< dt id="dfn-web3" >}}Web3{{< /dt >}}
   {{< dd id="dfn-web3-01" >}}
-  Initially coined for the [social web](#dfn-social-web) conference in 2007 by Loic Le Meur, [^web3-loic-le-meur-01][^web3-loic-le-meur-02][^web3-loic-le-meur-03] it later included blockchain tech definitions by Gavin Wood in 2014. [^web3-blockchain-wikipedia]
+  Initially coined for the [social web](#dfn-social-web) conference in 2007 by Loic Le Meur. [^web3-loic-le-meur-01][^web3-loic-le-meur-02][^web3-loic-le-meur-03]
+  {{< /dd >}}
+  {{< dd id="dfn-web3-01" >}}
+  It is also unfortunately being used for [blockchain](#dfn-blockchain) technology [^web3-tim-berners-lee-w3c] as defined by Gavin Wood in 2014. [^web3-blockchain-wikipedia]
   {{< /dd >}}
 
   {{< dt id="dfn-xmpp" >}}XMPP (eXtensible Messaging and Presence Protocol){{< /dt >}}
@@ -229,6 +245,7 @@ Have you come across terms like “Social Web”, “Mycelial Web”, “Fediver
 [^web3-loic-le-meur-01]: Loic Le Meur: [merci pour le post sur les tarifs du Web3... faudra que je fasse un podcast la dessus un de ces 4](https://twitter.com/loic/status/280887522) (published: 2007–09–20) (archived 2024–06–07: [1](https://web.archive.org/web/20240607092358/https://x.com/loic/status/280887522) [2](https://archive.ph/VaRYQ))
 [^web3-loic-le-meur-02]: Loic Le Meur: [going to bed with my 400 000 euros budget proposal for Le Web3 wifi proposal from one of a top wifi netwoks... can't believe it](https://twitter.com/loic/status/364794132) (published: 2007–10–26) (archived 2024–06–07: [1](https://web.archive.org/web/20240607092750/https://x.com/loic/status/364794132) [2](https://archive.ph/CFVnC))
 [^web3-loic-le-meur-03]: Loic Le Meur: [made Le Web3 wiki up at http://leweb3events.pbwiki.com/](https://twitter.com/loic/status/484783372) (published: 2007–12–10) (archived 2024–06–07: [1](https://web.archive.org/web/20240607093030/https://x.com/loic/status/484783372) [2](https://archive.ph/G55mA))
+[^web3-tim-berners-lee-w3c]: W3C: [Design Issues](https://www.w3.org/DesignIssues/) (published: 2017-10-31) (archived 2024-09-27: [1](https://archive.md/mI3xn))
 [^web3-point-O]: New York Times: [A 'more revolutionary' Web](https://www.nytimes.com/2006/05/23/technology/23iht-web.html) (published: 2006–05–23) (archived 2024–06–07: [1](https://web.archive.org/web/20240607073437/https://www.nytimes.com/2006/05/23/technology/23iht-web.html) [2](https://archive.ph/Ij31o))
 [^web3-blockchain-wikipedia]: Wikipedia: [Web3](https://en.wikipedia.org/wiki/Web3) (published: 2024–05–25) (archived 2024–06–07: [1](https://web.archive.org/web/20240607074253/https://en.wikipedia.org/wiki/Web3) [2](https://archive.ph/GWUtf))
 
