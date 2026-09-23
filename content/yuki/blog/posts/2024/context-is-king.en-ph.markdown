@@ -12,7 +12,7 @@ date = 2024-05-10T07:00:01+08:00                    # first created; manually ad
 slug = "context-is-king"
 translationKey = "context-is-king-2024131"
 #relCanonical = "https://im.youronly.one/yuki/context-is-king-2024131/"
-relCanonical = "https://austronesian.youronly.one/understand-culture-context"
+relCanonical = "https://austronesian.youronly.one/understand-culture-context/"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
 #disqus_identifier = ""                                # set if date of this content is different from main translation
 
