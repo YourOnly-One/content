@@ -15,7 +15,7 @@ slug = "empty"
 translationKey = "[Poem] Empty"
 #url = ""																														# the full path to the content from the web root. It makes no assumptions about the path of the content file. It also ignores any language prefixes of the multilingual feature.
 #relCanonical = "https://im.youronly.one/yuki/poems/empty/"
-relCanonical = "https://poems.youronly.one/empty/"  # only needed when this is not the original post
+relCanonical = "https://poems.youronly.one/empty"  # only needed when this is not the original post
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 disqus_identifier = "empty-2020283"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
@@ -48,7 +48,7 @@ avatar = "https://rsc.youronly.one/img/y/Yugen_Bard-logo-01-1500x.webp"
 A poem about a world without our loved ones.
 
 > [!alert] MOVED!\
-> This article moved to 《[The Power of Words](https://poems.youronly.one/empty/)》.
+> This article moved to 《[The Power of Words](https://poems.youronly.one/empty)》.
 
 <!--more-->
 
