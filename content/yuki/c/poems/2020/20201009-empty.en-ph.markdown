@@ -14,7 +14,8 @@ aliases = ["/poems/empty-2020283", "/poem-empty-2020283", "/c/poems/empty-202028
 slug = "empty"
 translationKey = "[Poem] Empty"
 #url = ""																														# the full path to the content from the web root. It makes no assumptions about the path of the content file. It also ignores any language prefixes of the multilingual feature.
-relCanonical = "https://im.youronly.one/yuki/poems/empty/"																									# only needed when this is not the original post
+#relCanonical = "https://im.youronly.one/yuki/poems/empty/"
+relCanonical = "https://poems.youronly.one/empty/"  # only needed when this is not the original post
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 disqus_identifier = "empty-2020283"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
@@ -75,9 +76,9 @@ A poem about a world without our loved ones.
   </blockquote>
   <figcaption class="attribution_copyright txt_center">
     <p><small>
-      "<b>Empty</b>" Copyright © 2020 "<a href="https://im.youronly.one/yugenbard/" rel="dct:creator noopener" referrerpolicy="strict-origin-when-cross-origin">The Yūgen Bard</a>" (<a href="https://youronly.one" rel="dct:creator noopener" referrerpolicy="strict-origin-when-cross-origin">Yahuhanan Yukiya Sese Cuneta</a>)<br/>
+      "<b>Empty</b>" Copyright © 2020 "<a href="https://im.youronly.one/yugenbard/" rel="dct:creator noopener" referrerpolicy="strict-origin-when-cross-origin">The Yūgen Bard</a>" (<a href="https://youronly.one" rel="dct:creator noopener" referrerpolicy="strict-origin-when-cross-origin">Yohan Yukiya Sese Cuneta</a>)<br/>
       License: <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Creative Commons Attribution-ShareAlike (CC BY-SA) 4.0 International</a><br/>
-      First publication: 2020-10-01
+      First publication: 2020-10-07
     </small></p>
   </figcaption>
 </figure>
