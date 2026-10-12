@@ -11,7 +11,7 @@ date = 2022-08-10T11:55:57+08:00                    # first created; manually ad
 #url = ""                                              # "path/post"; override .Permalink
 slug = "innocent-witness-증인-2019"
 translationKey = "innocent-witness-증인-2019-2022228"
-relCanonical = "https://im.youronly.one/snoworld/innocent-witness-증인-2019-2022228/"
+relCanonical = "https://reviews.youronly.one/innocent-witness-review"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
 #disqus_identifier = ""                                # set if date of this content is different from main translation
 
@@ -130,6 +130,9 @@ It is rare to see a movie or a TV series with a proper portrayal of autism. More
 
 <!--more-->
 
+> [!tip] MOVED!\
+> ➡️ **MOVED!** This article moved to 《[The Quirky Comment](https://reviews.youronly.one/innocent-witness-review)》.
+> 
 ## Synopsis
 
 {{% quote type="name" lang="ko-Latn" %}}Im Ji Woo{{% /quote %}} ({{% quote type="name" lang="ko" %}}임지우{{% /quote %}}) (played by {{% quote type="name" lang="ko-Latn" %}}Kim Hyang Gi{{% /quote %}} ({{% quote type="name" lang="ko" %}}김향기{{% /quote %}})) is an autistic middle school (Grades 7-9) girl. One night after her school, she witnessed a crime across the street from her room.
