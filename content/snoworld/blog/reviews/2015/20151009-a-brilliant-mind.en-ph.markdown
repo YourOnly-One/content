@@ -11,7 +11,7 @@ date = 2015-10-09T14:09:20+00:00                    # first created; manually ad
 #url = ""                                              # "path/post"; override .Permalink
 slug = "a-brilliant-young-mind"
 translationKey = "a-brilliant-young-mind-2015282"
-relCanonical = "https://im.youronly.one/snoworld/a-brilliant-young-mind-2015282/"
+relCanonical = "https://reviews.youronly.one/a-brilliant-young-mind-review"
 #disqus_url = ""                                       # not used in sites by Yelosan Publishing
 #disqus_identifier = ""                                # set if date of this content is different from main translation
 
@@ -129,6 +129,9 @@ contenttypes = ["CriticReview"]                                                 
 Autism spectrum films that truly connect and show our thought process and world are rare. The movie {{% quote type="title" lang="en" %}}X+Y{{% /quote %}} or {{% quote type="title" lang="en" %}}A Brilliant Young Mind{{% /quote %}} was one of it, a British film which first premiered in the 2014 {{% quote type="name" lang="en" %}}Toronto International Film Festival{{% /quote %}}. It was inspired by the story of {{% quote type="name" lang="en" %}}Daniel{{% /quote %}}, a boy in the autism spectrum and a math genius.
 
 <!--more-->
+
+> [!tip] MOVED!\
+> ➡️ **MOVED!** This article moved to 《[The Quirky Comment](https://reviews.youronly.one/a-brilliant-young-mind-review)》.
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_red" attribalign="txt_right" srctitle="" srclink="" srcrel="me noopener" attribto="" attriblink="" attribrel="me noopener" %}}
 ***From this point: SPOILER warning***
