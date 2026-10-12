@@ -2,7 +2,7 @@
 title = "Gifts, invites, referral codes, wishlists"
 description = ""
 
-lastmod = 2023-04-14T00:47:00+08:00                 # last update; manually adjust to local timezone
+lastmod = 2026-10-13T02:50:00+08:00                 # last update; manually adjust to local timezone
 publishdate = 2020-03-25T06:07:00+00:00             # first publication; manually adjust to local timezone
 date = 2020-03-25T06:07:00+00:00                    # first created; manually adjust to local timezone
 #expirydate = 2022-04-07T17:53:01+08:00              # expiry; manually adjust to local timezone
@@ -50,7 +50,7 @@ translationby = ""
 [[authors]]
   person = "yuki"
   #id = ""
-  name = "Yohan Yukiya Sese-Cuneta"
+  name = "Yohan Yukiya Sese Cuneta"
   #name = "YOOki Chronicles / YOOkiクロニクルズ / YOOki 연대기"
   url = "https://im.youronly.one/yuki/"
   avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
@@ -67,6 +67,7 @@ translationby = ""
   - Active community
   - powered by Mastodon
 
+<!--
 ## Send a gift!
 
 Did you like my work and want to send a gift as a token of appreciation? Here are the different ways to *buy me a coffee*.
@@ -86,3 +87,8 @@ Did you like my work and want to send a gift as a token of appreciation? Here ar
 {{< gift type="cryptocurrency" message="<small><p>— Did you know? An XLM address can receive any type of asset (USD, EURO, CNY, PHP, XBT/BTC, ETH, gold, stocks, and other tokens of value). See <a href='https://developers.stellar.org/docs/glossary/assets/' rel='noopener external'>Stellar docs: Assets</a>.</p><p>(in preference order)</p></small>" >}}
 
 Thank you with a thousand bows!
+-->
+
+I am no longer accepting any tips, donations, sponsorships, or gifts, that has to do with my free work. I provide my works free of charge and yet the Philippine governments is imposing far too many mandatory requirements that only adds unnecessary stress. As an autistic person, these unnecessary requirements for a <strong><strong><strong>HOBBY</strong></strong></strong> is causing far too much load on me. It is very unfortunate and sad that the Philippine government is anti-hobbyist, anti-poor, and anti-neurodivergent, to mention a few.
+
+Yes, there is a need to introduce and enforce mandatory rules and regulations. However, the broad implementation they have done is anti-Filipino. Let us not even begin talking about the current data privacy violation where our private home address are exposed. They do not care if the regular people are suffering as long as they know where every centavo are, or if you received any.
