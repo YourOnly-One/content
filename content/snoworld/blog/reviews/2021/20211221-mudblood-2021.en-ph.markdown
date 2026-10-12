@@ -8,7 +8,7 @@ lastmod = 2022-05-03T13:07:19+08:00                                     # manual
 #aliases = [""]
 slug = "harry-potter-mudblood-review-2021"
 translationKey = "harry-potter-mudblood-review-2021-2021355"
-relCanonical = "https://im.youronly.one/snoworld/harry-potter-mudblood-review-2021-2021355/"                                                   # the actual URL of the post; also used for disqus ID and url
+relCanonical = "https://reviews.youronly.one/harry-potter-mudblood-review"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
@@ -159,6 +159,9 @@ Update 2022-02-06: Corrected an image caption for the character "Kendra Boardman
 The canon and original ***Harry Potter*** novel series centered on *Hogwarts School of Witchcraft and Wizardry* in the United Kingdom of Great Britain and Northern Ireland. Fans have always wondered since the original run of the books how other magical communities fit in the timeline. In ***Mudblood*** we get to see an adventure distant yet so near to the events after the *Order of the Phoenix* and how it could have had changed the course of history.
 
 <!--more-->
+
+> [!tip] MOVED!\
+> ➡️ **MOVED!** This article moved to 《[The Quirky Comment](https://reviews.youronly.one/harry-potter-mudblood-review)》.
 
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_orange" attribalign="txt_right" srctitle="" srclink="" srcrel="me noopener" attribto="" attriblink="" attribrel="me noopener" %}}
 Whether you are a *Harry Potter* fan or not, whether you have watched fanfilms before or have never done so in your life, *Mudblood* is a highly recommended film to watch.
