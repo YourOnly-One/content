@@ -88,7 +88,3 @@ Did you like my work and want to send a gift as a token of appreciation? Here ar
 
 Thank you with a thousand bows!
 -->
-
-I am no longer accepting any tips, donations, sponsorships, or gifts, that has to do with my free work. I provide my works free of charge and yet the Philippine governments is imposing far too many mandatory requirements that only adds unnecessary stress. As an autistic person, these unnecessary requirements for a <strong><strong><strong>HOBBY</strong></strong></strong> is causing far too much load on me. It is very unfortunate and sad that the Philippine government is anti-hobbyist, anti-poor, and anti-neurodivergent, to mention a few.
-
-Yes, there is a need to introduce and enforce mandatory rules and regulations. However, the broad implementation they have done is anti-Filipino. Let us not even begin talking about the current data privacy violation where our private home address are exposed. They do not care if the regular people are suffering as long as they know where every centavo are, or if you received any.
